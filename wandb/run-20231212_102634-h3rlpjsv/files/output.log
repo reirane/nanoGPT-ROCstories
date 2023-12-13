@@ -1,0 +1,40 @@
+Traceback (most recent call last):
+  File "train.py", line 261, in <module>
+    losses = estimate_loss()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "train.py", line 221, in estimate_loss
+    logits, loss = model(X, Y)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/brunojeronimo/nanoGPT-ROCstories-master/model.py", line 173, in forward
+    assert t <= self.config.block_size, f"Cannot forward sequence of length {t}, block size is only {self.config.block_size}"
+AssertionError: Cannot forward sequence of length 2048, block size is only 1024
+Traceback (most recent call last):
+  File "train.py", line 261, in <module>
+    losses = estimate_loss()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "train.py", line 221, in estimate_loss
+    logits, loss = model(X, Y)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/brunojeronimo/nanoGPT-ROCstories-master/model.py", line 173, in forward
+    assert t <= self.config.block_size, f"Cannot forward sequence of length {t}, block size is only {self.config.block_size}"
+AssertionError: Cannot forward sequence of length 2048, block size is only 1024

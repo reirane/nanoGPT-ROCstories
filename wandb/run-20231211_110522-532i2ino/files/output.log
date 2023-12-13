@@ -1,0 +1,55 @@
+
+step 0: train loss 2.9082, val loss 2.1178
+iter 0: loss 2.9196, time 217347.39ms, mfu -100.00%
+iter 1: loss 2.7757, time 126809.40ms, mfu -100.00%
+iter 2: loss 3.1903, time 83031.94ms, mfu -100.00%
+iter 3: loss 3.0066, time 83106.13ms, mfu -100.00%
+iter 4: loss 2.6058, time 82686.12ms, mfu -100.00%
+step 5: train loss 2.7682, val loss 2.0973
+saving checkpoint to out-commonsense-finetune-lrdecay
+iter 5: loss 2.8482, time 88725.37ms, mfu 1.21%
+iter 6: loss 2.6937, time 83319.64ms, mfu 1.22%
+iter 7: loss 2.6851, time 82846.86ms, mfu 1.23%
+iter 8: loss 2.9200, time 83106.35ms, mfu 1.24%
+iter 9: loss 2.8390, time 85836.96ms, mfu 1.24%
+step 10: train loss 2.7136, val loss 2.0822
+saving checkpoint to out-commonsense-finetune-lrdecay
+iter 10: loss 3.3224, time 90223.19ms, mfu 1.23%
+iter 11: loss 2.8721, time 82567.77ms, mfu 1.24%
+iter 12: loss 3.3051, time 82586.50ms, mfu 1.25%
+iter 13: loss 3.0699, time 83128.30ms, mfu 1.25%
+iter 14: loss 2.9871, time 83454.67ms, mfu 1.26%
+step 15: train loss 2.8804, val loss 2.0735
+saving checkpoint to out-commonsense-finetune-lrdecay
+iter 15: loss 3.0832, time 90994.38ms, mfu 1.25%
+iter 16: loss 3.1015, time 82763.09ms, mfu 1.25%
+iter 17: loss 2.8100, time 83994.56ms, mfu 1.26%
+iter 18: loss 3.2379, time 83636.82ms, mfu 1.26%
+iter 19: loss 2.9713, time 82649.22ms, mfu 1.26%
+step 20: train loss 2.8140, val loss 2.0688
+saving checkpoint to out-commonsense-finetune-lrdecay
+iter 20: loss 3.2041, time 88612.90ms, mfu 1.26%
+iter 21: loss 2.6098, time 82683.67ms, mfu 1.26%
+iter 22: loss 2.4063, time 82731.41ms, mfu 1.27%
+iter 23: loss 2.6968, time 82642.52ms, mfu 1.27%
+iter 24: loss 2.3802, time 82607.36ms, mfu 1.28%
+step 25: train loss 2.7296, val loss 2.0508
+saving checkpoint to out-commonsense-finetune-lrdecay
+iter 25: loss 2.5808, time 88640.43ms, mfu 1.27%
+iter 26: loss 2.6395, time 82550.19ms, mfu 1.27%
+iter 27: loss 2.5293, time 82603.97ms, mfu 1.28%
+iter 28: loss 2.6819, time 82687.95ms, mfu 1.28%
+iter 29: loss 2.5906, time 82619.22ms, mfu 1.28%
+step 30: train loss 2.7010, val loss 2.0432
+saving checkpoint to out-commonsense-finetune-lrdecay
+iter 30: loss 2.7132, time 88514.40ms, mfu 1.27%
+iter 31: loss 3.0261, time 82687.22ms, mfu 1.28%
+iter 32: loss 2.5307, time 82533.34ms, mfu 1.28%
+iter 33: loss 2.6531, time 82617.00ms, mfu 1.28%
+iter 34: loss 2.4637, time 82658.10ms, mfu 1.29%
+step 35: train loss 2.6428, val loss 2.0355
+saving checkpoint to out-commonsense-finetune-lrdecay
+iter 35: loss 2.8671, time 88537.19ms, mfu 1.28%
+iter 36: loss 2.3246, time 82704.35ms, mfu 1.28%
+iter 37: loss 3.2424, time 82555.98ms, mfu 1.28%
+iter 38: loss 2.8583, time 82686.80ms, mfu 1.29%

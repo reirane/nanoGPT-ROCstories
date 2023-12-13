@@ -1,0 +1,6 @@
+
+step 35: train loss 2.2398, val loss 1.5459
+iter 35: loss 1.9277, time 124968.06ms, mfu -100.00%
+iter 36: loss 2.3274, time 118796.28ms, mfu -100.00%
+iter 37: loss 2.2804, time 185170.12ms, mfu -100.00%
+iter 38: loss 1.9492, time 188558.14ms, mfu -100.00%

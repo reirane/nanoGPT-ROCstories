@@ -1,0 +1,41 @@
+
+step 0: train loss 2.9293, val loss 2.1123
+iter 0: loss 3.0934, time 120733.56ms, mfu -100.00%
+iter 1: loss 2.9599, time 231979.25ms, mfu -100.00%
+iter 2: loss 2.8579, time 246110.69ms, mfu -100.00%
+iter 3: loss 2.6609, time 246133.30ms, mfu -100.00%
+iter 4: loss 2.5380, time 245721.36ms, mfu -100.00%
+step 5: train loss 2.7799, val loss 2.0740
+saving checkpoint to out-commonsense-finetune-lrdecay-gradient16-batch16-3e-4
+iter 5: loss 2.2001, time 266068.51ms, mfu 0.27%
+iter 6: loss 2.4309, time 245516.66ms, mfu 0.27%
+iter 7: loss 2.8944, time 245453.77ms, mfu 0.27%
+iter 8: loss 2.8316, time 245366.03ms, mfu 0.28%
+iter 9: loss 2.4049, time 245416.83ms, mfu 0.28%
+step 10: train loss 2.7443, val loss 2.0393
+saving checkpoint to out-commonsense-finetune-lrdecay-gradient16-batch16-3e-4
+iter 10: loss 2.7077, time 265734.41ms, mfu 0.28%
+iter 11: loss 3.0598, time 246277.25ms, mfu 0.28%
+iter 12: loss 2.4635, time 246657.94ms, mfu 0.28%
+iter 13: loss 3.1428, time 245480.41ms, mfu 0.28%
+iter 14: loss 2.8292, time 245306.67ms, mfu 0.28%
+step 15: train loss 2.7390, val loss 2.0105
+saving checkpoint to out-commonsense-finetune-lrdecay-gradient16-batch16-3e-4
+iter 15: loss 2.7194, time 265904.96ms, mfu 0.28%
+iter 16: loss 2.5851, time 245488.86ms, mfu 0.28%
+iter 17: loss 2.7391, time 245474.73ms, mfu 0.28%
+iter 18: loss 2.7438, time 245429.15ms, mfu 0.28%
+iter 19: loss 2.3404, time 245391.40ms, mfu 0.29%
+step 20: train loss 2.6756, val loss 1.9713
+saving checkpoint to out-commonsense-finetune-lrdecay-gradient16-batch16-3e-4
+iter 20: loss 2.7770, time 265782.37ms, mfu 0.28%
+iter 21: loss 3.0597, time 246888.15ms, mfu 0.28%
+iter 22: loss 2.8714, time 245314.88ms, mfu 0.29%
+iter 23: loss 2.7661, time 245352.22ms, mfu 0.29%
+iter 24: loss 2.7398, time 245360.16ms, mfu 0.29%
+step 25: train loss 2.6794, val loss 1.9452
+saving checkpoint to out-commonsense-finetune-lrdecay-gradient16-batch16-3e-4
+iter 25: loss 2.7968, time 268509.60ms, mfu 0.28%
+iter 26: loss 2.8515, time 248963.67ms, mfu 0.29%
+iter 27: loss 2.6132, time 251274.86ms, mfu 0.29%
+iter 28: loss 2.6815, time 246518.77ms, mfu 0.29%

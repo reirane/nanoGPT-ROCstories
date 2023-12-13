@@ -1,0 +1,210 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-12-10T23:56:17.276155",
+    "startedAt": "2023-12-10T23:56:16.548564",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "config/finetune_commonsense-learning_rate-6.py"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": null,
+        "commit": "aae5ae947be48baefe489d0b721f5560f55fef5e"
+    },
+    "email": "jeronimo.bs@gmail.com",
+    "root": "/home/brunojeronimo/nanoGPT-ROCstories-master",
+    "host": "ALIEN1",
+    "username": "brunojeronimo",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2995.2010000000005,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 37.530914306640625
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4070 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4070 Ti",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 15.480339050292969
+    }
+}

@@ -1,0 +1,215 @@
+
+step 0: train loss 2.9082, val loss 2.1176
+iter 0: loss 3.4787, time 47142.79ms, mfu -100.00%
+iter 1: loss 2.9219, time 41792.39ms, mfu -100.00%
+iter 2: loss 2.8104, time 27376.74ms, mfu -100.00%
+iter 3: loss 3.1052, time 49393.79ms, mfu -100.00%
+iter 4: loss 3.1148, time 51842.80ms, mfu -100.00%
+step 5: train loss 2.5925, val loss 1.9441
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 5: loss 3.1150, time 70193.87ms, mfu 0.38%
+iter 6: loss 2.7178, time 49928.14ms, mfu 0.40%
+iter 7: loss 2.7416, time 50067.15ms, mfu 0.41%
+iter 8: loss 2.4118, time 49996.35ms, mfu 0.43%
+iter 9: loss 2.5016, time 50065.54ms, mfu 0.44%
+step 10: train loss 2.5156, val loss 1.8441
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 10: loss 2.6630, time 69875.82ms, mfu 0.43%
+iter 11: loss 2.6988, time 50014.92ms, mfu 0.44%
+iter 12: loss 2.3969, time 50005.30ms, mfu 0.45%
+iter 13: loss 2.6679, time 49994.60ms, mfu 0.46%
+iter 14: loss 2.5673, time 49987.40ms, mfu 0.47%
+step 15: train loss 2.4808, val loss 1.7793
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 15: loss 2.7596, time 69937.32ms, mfu 0.46%
+iter 16: loss 2.3525, time 50009.34ms, mfu 0.47%
+iter 17: loss 2.1209, time 50034.80ms, mfu 0.48%
+iter 18: loss 2.1366, time 49963.13ms, mfu 0.48%
+iter 19: loss 2.6336, time 49988.30ms, mfu 0.49%
+step 20: train loss 2.3523, val loss 1.7221
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 20: loss 2.5445, time 69840.00ms, mfu 0.48%
+iter 21: loss 2.8674, time 49977.87ms, mfu 0.48%
+iter 22: loss 2.4054, time 50007.55ms, mfu 0.49%
+iter 23: loss 3.0242, time 49984.56ms, mfu 0.49%
+iter 24: loss 2.4548, time 49963.50ms, mfu 0.50%
+step 25: train loss 2.3951, val loss 1.6797
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 25: loss 2.7895, time 69882.62ms, mfu 0.49%
+iter 26: loss 2.4108, time 50028.21ms, mfu 0.49%
+iter 27: loss 3.1616, time 49947.28ms, mfu 0.50%
+iter 28: loss 2.0190, time 50008.03ms, mfu 0.50%
+iter 29: loss 2.6414, time 49976.03ms, mfu 0.51%
+step 30: train loss 2.4356, val loss 1.6493
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 30: loss 2.6530, time 70298.54ms, mfu 0.49%
+iter 31: loss 2.6226, time 51175.07ms, mfu 0.50%
+iter 32: loss 2.5831, time 50397.15ms, mfu 0.50%
+iter 33: loss 2.7299, time 50329.93ms, mfu 0.50%
+iter 34: loss 2.2544, time 50284.52ms, mfu 0.51%
+step 35: train loss 2.2403, val loss 1.6150
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 35: loss 2.8431, time 70435.30ms, mfu 0.49%
+iter 36: loss 2.3373, time 50552.85ms, mfu 0.50%
+iter 37: loss 2.1548, time 50027.34ms, mfu 0.50%
+iter 38: loss 2.2674, time 50145.24ms, mfu 0.51%
+iter 39: loss 2.5812, time 50437.87ms, mfu 0.51%
+step 40: train loss 2.3083, val loss 1.5931
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 40: loss 2.2277, time 69914.58ms, mfu 0.50%
+iter 41: loss 1.9304, time 50008.86ms, mfu 0.50%
+iter 42: loss 2.3278, time 49989.30ms, mfu 0.50%
+iter 43: loss 2.7550, time 50025.59ms, mfu 0.51%
+iter 44: loss 2.4356, time 50055.67ms, mfu 0.51%
+step 45: train loss 2.2487, val loss 1.5648
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 45: loss 2.2798, time 70053.05ms, mfu 0.50%
+iter 46: loss 2.2745, time 49988.39ms, mfu 0.50%
+iter 47: loss 2.7082, time 49993.38ms, mfu 0.51%
+iter 48: loss 2.2515, time 50041.33ms, mfu 0.51%
+iter 49: loss 1.9142, time 49970.01ms, mfu 0.51%
+step 50: train loss 2.1869, val loss 1.5455
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 50: loss 2.5481, time 69990.78ms, mfu 0.50%
+iter 51: loss 2.0793, time 49993.30ms, mfu 0.50%
+iter 52: loss 2.0360, time 50022.89ms, mfu 0.51%
+iter 53: loss 2.0935, time 50034.39ms, mfu 0.51%
+iter 54: loss 2.4047, time 50009.88ms, mfu 0.51%
+step 55: train loss 2.1997, val loss 1.5339
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 55: loss 2.2054, time 69850.54ms, mfu 0.50%
+iter 56: loss 2.0843, time 50004.10ms, mfu 0.50%
+iter 57: loss 2.4747, time 50021.49ms, mfu 0.51%
+iter 58: loss 2.4168, time 50036.41ms, mfu 0.51%
+iter 59: loss 2.0681, time 49981.75ms, mfu 0.51%
+step 60: train loss 2.1352, val loss 1.5193
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 60: loss 2.0584, time 69924.48ms, mfu 0.50%
+iter 61: loss 2.0516, time 49987.50ms, mfu 0.50%
+iter 62: loss 2.8545, time 50136.47ms, mfu 0.51%
+iter 63: loss 2.2020, time 50342.34ms, mfu 0.51%
+iter 64: loss 2.1256, time 50316.59ms, mfu 0.51%
+step 65: train loss 2.2213, val loss 1.5080
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 65: loss 2.1455, time 70573.07ms, mfu 0.50%
+iter 66: loss 2.5849, time 50392.17ms, mfu 0.50%
+iter 67: loss 2.1859, time 50276.58ms, mfu 0.51%
+iter 68: loss 2.0246, time 50287.94ms, mfu 0.51%
+iter 69: loss 1.9573, time 50016.19ms, mfu 0.51%
+step 70: train loss 2.0631, val loss 1.4976
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 70: loss 1.9771, time 69910.85ms, mfu 0.50%
+iter 71: loss 1.8058, time 50011.62ms, mfu 0.50%
+iter 72: loss 2.2876, time 49985.61ms, mfu 0.51%
+iter 73: loss 2.3498, time 49972.65ms, mfu 0.51%
+iter 74: loss 2.5383, time 49958.61ms, mfu 0.51%
+step 75: train loss 2.0997, val loss 1.4910
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 75: loss 2.3137, time 69830.41ms, mfu 0.50%
+iter 76: loss 1.7532, time 49952.63ms, mfu 0.50%
+iter 77: loss 2.1611, time 49909.88ms, mfu 0.51%
+iter 78: loss 2.3607, time 49938.88ms, mfu 0.51%
+iter 79: loss 2.3523, time 49990.35ms, mfu 0.51%
+step 80: train loss 2.2109, val loss 1.4778
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 80: loss 2.1363, time 69793.78ms, mfu 0.50%
+iter 81: loss 2.0926, time 49942.71ms, mfu 0.50%
+iter 82: loss 1.8232, time 49923.26ms, mfu 0.51%
+iter 83: loss 2.3063, time 49924.19ms, mfu 0.51%
+iter 84: loss 2.5333, time 49958.65ms, mfu 0.51%
+step 85: train loss 2.1070, val loss 1.4728
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 85: loss 2.2509, time 69786.98ms, mfu 0.50%
+iter 86: loss 2.1273, time 49946.69ms, mfu 0.51%
+iter 87: loss 2.2627, time 49912.17ms, mfu 0.51%
+iter 88: loss 2.3718, time 49883.14ms, mfu 0.51%
+iter 89: loss 1.9400, time 49974.10ms, mfu 0.51%
+step 90: train loss 2.0969, val loss 1.4629
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 90: loss 2.3017, time 69798.93ms, mfu 0.50%
+iter 91: loss 1.8656, time 49944.46ms, mfu 0.51%
+iter 92: loss 2.1552, time 49935.03ms, mfu 0.51%
+iter 93: loss 2.3490, time 49927.62ms, mfu 0.51%
+iter 94: loss 2.3109, time 49907.85ms, mfu 0.51%
+step 95: train loss 2.1194, val loss 1.4558
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 95: loss 1.6742, time 69782.57ms, mfu 0.50%
+iter 96: loss 2.1105, time 49912.10ms, mfu 0.51%
+iter 97: loss 2.2893, time 49939.14ms, mfu 0.51%
+iter 98: loss 1.9079, time 49916.60ms, mfu 0.51%
+iter 99: loss 2.1063, time 49945.38ms, mfu 0.51%
+step 100: train loss 2.0770, val loss 1.4520
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 100: loss 2.0896, time 69883.21ms, mfu 0.50%
+iter 101: loss 2.1232, time 49924.19ms, mfu 0.51%
+iter 102: loss 2.5549, time 49935.74ms, mfu 0.51%
+iter 103: loss 2.0088, time 49957.12ms, mfu 0.51%
+iter 104: loss 1.9075, time 49916.43ms, mfu 0.51%
+step 105: train loss 2.0379, val loss 1.4410
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 105: loss 2.6958, time 69808.77ms, mfu 0.50%
+iter 106: loss 2.2480, time 49926.66ms, mfu 0.51%
+iter 107: loss 2.2295, time 49926.48ms, mfu 0.51%
+iter 108: loss 2.1173, time 49912.10ms, mfu 0.51%
+iter 109: loss 2.1869, time 49924.90ms, mfu 0.51%
+step 110: train loss 2.0922, val loss 1.4372
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 110: loss 1.7091, time 69737.23ms, mfu 0.50%
+iter 111: loss 1.7776, time 49951.36ms, mfu 0.51%
+iter 112: loss 2.2348, time 49935.30ms, mfu 0.51%
+iter 113: loss 1.7586, time 49919.76ms, mfu 0.51%
+iter 114: loss 2.0805, time 49961.56ms, mfu 0.51%
+step 115: train loss 2.0743, val loss 1.4321
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 115: loss 1.8747, time 69789.53ms, mfu 0.50%
+iter 116: loss 1.9206, time 49921.26ms, mfu 0.51%
+iter 117: loss 2.3014, time 49883.68ms, mfu 0.51%
+iter 118: loss 2.2556, time 49968.66ms, mfu 0.51%
+iter 119: loss 1.9838, time 49938.67ms, mfu 0.52%
+step 120: train loss 2.1095, val loss 1.4326
+iter 120: loss 2.0317, time 68805.30ms, mfu 0.50%
+iter 121: loss 1.7826, time 49919.65ms, mfu 0.51%
+iter 122: loss 2.0375, time 50066.38ms, mfu 0.51%
+iter 123: loss 2.1730, time 49948.73ms, mfu 0.51%
+iter 124: loss 2.1429, time 49929.51ms, mfu 0.52%
+step 125: train loss 2.0859, val loss 1.4264
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 125: loss 1.9655, time 69759.68ms, mfu 0.50%
+iter 126: loss 1.8855, time 49946.04ms, mfu 0.51%
+iter 127: loss 2.3711, time 49911.27ms, mfu 0.51%
+iter 128: loss 2.6166, time 49931.23ms, mfu 0.51%
+iter 129: loss 2.1640, time 49943.49ms, mfu 0.52%
+step 130: train loss 2.0202, val loss 1.4209
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 130: loss 2.2165, time 69815.24ms, mfu 0.50%
+iter 131: loss 1.6014, time 49936.97ms, mfu 0.51%
+iter 132: loss 1.7709, time 49948.02ms, mfu 0.51%
+iter 133: loss 2.4708, time 49935.42ms, mfu 0.51%
+iter 134: loss 1.8324, time 49959.63ms, mfu 0.52%
+step 135: train loss 1.9755, val loss 1.4184
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 135: loss 1.9902, time 69811.83ms, mfu 0.50%
+iter 136: loss 2.2358, time 49942.17ms, mfu 0.51%
+iter 137: loss 1.7036, time 49897.60ms, mfu 0.51%
+iter 138: loss 1.7762, time 49921.86ms, mfu 0.51%
+iter 139: loss 1.8840, time 49957.72ms, mfu 0.52%
+step 140: train loss 2.0471, val loss 1.4126
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 140: loss 2.0252, time 69782.30ms, mfu 0.50%
+iter 141: loss 1.9879, time 49925.17ms, mfu 0.51%
+iter 142: loss 1.9621, time 49911.82ms, mfu 0.51%
+iter 143: loss 1.7465, time 49963.61ms, mfu 0.51%
+iter 144: loss 1.9327, time 49912.62ms, mfu 0.52%
+step 145: train loss 2.0277, val loss 1.4061
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 145: loss 1.8989, time 69810.77ms, mfu 0.50%
+iter 146: loss 1.7551, time 49934.60ms, mfu 0.51%
+iter 147: loss 2.1095, time 49926.01ms, mfu 0.51%
+iter 148: loss 1.6924, time 49989.06ms, mfu 0.51%
+iter 149: loss 1.7926, time 49924.84ms, mfu 0.51%
+step 150: train loss 2.0559, val loss 1.4028
+saving checkpoint to out-commonsense-finetune-lowgradient
+iter 150: loss 2.0938, time 69797.48ms, mfu 0.50%
+iter 151: loss 1.7008, time 49949.78ms, mfu 0.51%
+iter 152: loss 2.0347, time 49922.18ms, mfu 0.51%
+iter 153: loss 2.1726, time 49920.30ms, mfu 0.51%

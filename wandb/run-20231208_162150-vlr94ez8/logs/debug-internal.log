@@ -1,0 +1,1062 @@
+2023-12-08 16:21:50,740 INFO    StreamThr :5678 [internal.py:wandb_internal():86] W&B internal server running at pid: 5678, started at: 2023-12-08 16:21:50.740198
+2023-12-08 16:21:50,742 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status
+2023-12-08 16:21:50,744 INFO    WriterThread:5678 [datastore.py:open_for_write():85] open: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/run-vlr94ez8.wandb
+2023-12-08 16:21:50,744 DEBUG   SenderThread:5678 [sender.py:send():380] send: header
+2023-12-08 16:21:50,753 DEBUG   SenderThread:5678 [sender.py:send():380] send: run
+2023-12-08 16:21:51,350 INFO    SenderThread:5678 [dir_watcher.py:__init__():211] watching files in: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files
+2023-12-08 16:21:51,350 INFO    SenderThread:5678 [sender.py:_start_run_threads():1124] run started: vlr94ez8 with start time 1702063310.741322
+2023-12-08 16:21:51,353 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: check_version
+2023-12-08 16:21:51,354 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: check_version
+2023-12-08 16:21:51,534 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: run_start
+2023-12-08 16:21:51,545 DEBUG   HandlerThread:5678 [system_info.py:__init__():32] System info init
+2023-12-08 16:21:51,545 DEBUG   HandlerThread:5678 [system_info.py:__init__():47] System info init done
+2023-12-08 16:21:51,545 INFO    HandlerThread:5678 [system_monitor.py:start():194] Starting system monitor
+2023-12-08 16:21:51,545 INFO    SystemMonitor:5678 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2023-12-08 16:21:51,545 INFO    HandlerThread:5678 [system_monitor.py:probe():214] Collecting system info
+2023-12-08 16:21:51,545 INFO    SystemMonitor:5678 [interfaces.py:start():190] Started cpu monitoring
+2023-12-08 16:21:51,546 INFO    SystemMonitor:5678 [interfaces.py:start():190] Started disk monitoring
+2023-12-08 16:21:51,546 INFO    SystemMonitor:5678 [interfaces.py:start():190] Started gpu monitoring
+2023-12-08 16:21:51,546 INFO    SystemMonitor:5678 [interfaces.py:start():190] Started memory monitoring
+2023-12-08 16:21:51,546 INFO    SystemMonitor:5678 [interfaces.py:start():190] Started network monitoring
+2023-12-08 16:21:51,554 DEBUG   HandlerThread:5678 [system_info.py:probe():196] Probing system
+2023-12-08 16:21:51,585 DEBUG   HandlerThread:5678 [system_info.py:_probe_git():181] Probing git
+2023-12-08 16:21:51,589 DEBUG   HandlerThread:5678 [system_info.py:_probe_git():189] Probing git done
+2023-12-08 16:21:51,589 DEBUG   HandlerThread:5678 [system_info.py:probe():244] Probing system done
+2023-12-08 16:21:51,589 DEBUG   HandlerThread:5678 [system_monitor.py:probe():223] {'os': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.29', 'python': '3.8.10', 'heartbeatAt': '2023-12-08T19:21:51.554107', 'startedAt': '2023-12-08T19:21:50.735291', 'docker': None, 'cuda': None, 'args': ('config/train_commonsense.py',), 'state': 'running', 'program': 'train.py', 'codePathLocal': 'train.py', 'codePath': 'train.py', 'git': {'remote': None, 'commit': 'aae5ae947be48baefe489d0b721f5560f55fef5e'}, 'email': 'jeronimo.bs@gmail.com', 'root': '/home/brunojeronimo/nanoGPT-ROCstories-master', 'host': 'ALIEN1', 'username': 'brunojeronimo', 'executable': '/usr/bin/python3', 'cpu_count': 16, 'cpu_count_logical': 32, 'cpu_freq': {'current': 2995.1999999999985, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}, {'current': 2995.2, 'min': 0.0, 'max': 0.0}], 'disk': {'/': {'total': 1006.853931427002, 'used': 26.63910675048828}}, 'gpu': 'NVIDIA GeForce RTX 4070 Ti', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce RTX 4070 Ti', 'memory_total': 12878610432}], 'memory': {'total': 15.480342864990234}}
+2023-12-08 16:21:51,589 INFO    HandlerThread:5678 [system_monitor.py:probe():224] Finished collecting system info
+2023-12-08 16:21:51,589 INFO    HandlerThread:5678 [system_monitor.py:probe():227] Publishing system info
+2023-12-08 16:21:51,589 DEBUG   HandlerThread:5678 [system_info.py:_save_pip():52] Saving list of pip packages installed into the current environment
+2023-12-08 16:21:51,589 DEBUG   HandlerThread:5678 [system_info.py:_save_pip():68] Saving pip packages done
+2023-12-08 16:21:51,589 INFO    HandlerThread:5678 [system_monitor.py:probe():229] Finished publishing system info
+2023-12-08 16:21:51,591 DEBUG   SenderThread:5678 [sender.py:send():380] send: files
+2023-12-08 16:21:51,591 INFO    SenderThread:5678 [sender.py:_save_file():1380] saving file wandb-metadata.json with policy now
+2023-12-08 16:21:51,594 DEBUG   SenderThread:5678 [sender.py:send():380] send: telemetry
+2023-12-08 16:21:51,595 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:21:51,595 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:21:51,595 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:21:52,351 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_created():271] file/dir created: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-metadata.json
+2023-12-08 16:21:52,351 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_created():271] file/dir created: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/requirements.txt
+2023-12-08 16:21:52,618 INFO    wandb-upload_0:5678 [upload_job.py:push():131] Uploaded file /tmp/tmp_qf5mittwandb/osf1esok-wandb-metadata.json
+2023-12-08 16:21:55,989 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:22:00,990 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:22:05,990 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:22:06,594 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:22:06,594 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:22:06,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:22:11,897 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:22:16,898 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:22:21,594 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:22:21,594 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:22:21,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:22:22,897 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:22:23,357 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/config.yaml
+2023-12-08 16:22:28,136 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:22:33,136 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:22:36,594 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:22:36,594 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:22:36,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:22:38,859 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:22:43,860 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:22:48,860 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:22:51,547 DEBUG   SystemMonitor:5678 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2023-12-08 16:22:51,547 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:22:51,594 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:22:51,594 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:22:51,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:22:54,818 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:22:59,819 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:23:04,819 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:23:06,594 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:23:06,594 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:23:06,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:23:09,888 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:23:14,889 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:23:19,890 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:23:21,548 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:23:21,594 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:23:21,594 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:23:21,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:23:24,899 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:23:29,900 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:23:34,900 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:23:36,594 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:23:36,594 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:23:36,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:23:40,852 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:23:45,853 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:23:50,854 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:23:51,548 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:23:51,594 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:23:51,594 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:23:51,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:23:56,838 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:01,839 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:06,594 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:24:06,595 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:24:06,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:24:06,886 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:11,887 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:16,888 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:21,548 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:24:21,594 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:24:21,595 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:24:21,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:24:21,911 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:23,626 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-08 16:24:23,626 DEBUG   SenderThread:5678 [sender.py:send():380] send: history
+2023-12-08 16:24:23,627 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: summary_record
+2023-12-08 16:24:23,627 INFO    SenderThread:5678 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-08 16:24:24,381 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_created():271] file/dir created: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-summary.json
+2023-12-08 16:24:24,381 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_created():271] file/dir created: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:24:26,381 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:24:27,627 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:32,628 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:36,594 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:24:36,595 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:24:36,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:24:37,717 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:38,384 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:24:40,385 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:24:42,385 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:24:42,818 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:44,386 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:24:46,386 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:24:47,917 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:48,387 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:24:50,387 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:24:51,551 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:24:51,595 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:24:51,595 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:24:51,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:24:52,388 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:24:53,018 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:54,389 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:24:56,389 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:24:58,151 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:24:58,390 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:25:00,390 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:25:02,391 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:25:03,278 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:25:04,391 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:25:06,392 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:25:06,595 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:25:06,595 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:25:06,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:25:08,375 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:25:08,392 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:25:10,393 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:25:12,393 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:25:14,351 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:25:14,394 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:25:19,352 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:25:21,549 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:25:21,595 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:25:21,595 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:25:21,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:25:24,897 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:25:29,898 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:25:34,899 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:25:36,595 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:25:36,595 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:25:36,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:25:40,891 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:25:45,892 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:25:50,893 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:25:51,550 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:25:51,595 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:25:51,595 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:25:51,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:25:56,852 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:26:01,853 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:26:06,595 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:26:06,596 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:26:06,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:26:06,894 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:26:11,894 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:26:16,895 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:26:21,552 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:26:21,595 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:26:21,595 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:26:21,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:26:22,889 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:26:27,890 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:26:32,891 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:26:36,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:26:36,596 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:26:36,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:26:38,861 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:26:43,862 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:26:48,863 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:26:51,550 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:26:51,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:26:51,596 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:26:51,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:26:53,870 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:26:58,871 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:27:03,871 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:27:06,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:27:06,596 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:27:06,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:27:08,905 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:27:13,905 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:27:18,906 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:27:21,551 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:27:21,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:27:21,596 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:27:21,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:27:24,822 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:27:29,822 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:27:34,823 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:27:35,319 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-08 16:27:35,320 DEBUG   SenderThread:5678 [sender.py:send():380] send: history
+2023-12-08 16:27:35,320 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: summary_record
+2023-12-08 16:27:35,320 INFO    SenderThread:5678 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-08 16:27:35,422 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-summary.json
+2023-12-08 16:27:36,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:27:36,596 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:27:36,597 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:27:38,422 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:27:39,949 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:27:40,423 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:27:42,423 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:27:44,424 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:27:45,043 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:27:46,425 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:27:48,425 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:27:50,141 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:27:50,426 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:27:51,551 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:27:51,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:27:51,596 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:27:51,597 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:27:52,426 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:27:54,426 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:27:55,241 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:27:56,427 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:27:58,428 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:28:00,345 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:28:00,428 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:28:02,429 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:28:04,430 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:28:05,448 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:28:06,430 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:28:06,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:28:06,596 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:28:06,598 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:28:08,431 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:28:10,431 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:28:10,550 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:28:12,432 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:28:16,260 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:28:21,261 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:28:21,552 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:28:21,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:28:21,596 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:28:21,597 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:28:26,883 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:28:31,884 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:28:36,596 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:28:36,597 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:28:36,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:28:36,899 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:28:41,900 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:28:46,901 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:28:51,552 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:28:51,597 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:28:51,597 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:28:51,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:28:52,865 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:28:57,866 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:29:02,867 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:29:06,597 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:29:06,597 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:29:06,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:29:08,842 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:29:13,842 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:29:18,843 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:29:21,553 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:29:21,597 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:29:21,597 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:29:21,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:29:23,885 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:29:28,886 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:29:33,887 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:29:36,597 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:29:36,597 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:29:36,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:29:39,848 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:29:44,849 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:29:49,849 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:29:51,556 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:29:51,597 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:29:51,597 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:29:51,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:29:55,824 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:00,824 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:05,825 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:06,597 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:30:06,598 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:30:06,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:30:10,868 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:15,869 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:20,870 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:21,553 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:30:21,597 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:30:21,598 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:30:21,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:30:25,896 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:30,897 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:34,899 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-08 16:30:34,900 DEBUG   SenderThread:5678 [sender.py:send():380] send: history
+2023-12-08 16:30:34,900 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: summary_record
+2023-12-08 16:30:34,901 INFO    SenderThread:5678 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-08 16:30:35,460 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-summary.json
+2023-12-08 16:30:35,914 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:36,460 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:30:36,598 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:30:36,598 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:30:36,598 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:30:38,461 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:30:40,461 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:30:41,014 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:42,462 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:30:44,462 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:30:46,119 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:46,463 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:30:48,463 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:30:50,464 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:30:51,223 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:51,554 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:30:51,598 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:30:51,598 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:30:51,598 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:30:52,465 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:30:54,465 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:30:56,325 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:30:56,466 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:30:58,466 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:31:00,467 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:31:01,427 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:31:02,467 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:31:04,468 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:31:06,468 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:31:06,524 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:31:06,598 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:31:06,599 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:31:06,599 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:31:08,469 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:31:10,470 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:31:11,918 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:31:12,470 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:31:16,919 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:31:21,554 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:31:21,598 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:31:21,598 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:31:21,599 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:31:22,825 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:31:27,825 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:31:32,826 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:31:36,598 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:31:36,598 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:31:36,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:31:37,841 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:31:42,842 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:31:47,843 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:31:51,555 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:31:51,598 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:31:51,598 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:31:51,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:31:52,845 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:31:57,846 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:32:02,847 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:32:06,599 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:32:06,599 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:32:06,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:32:07,853 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:32:12,853 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:32:17,854 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:32:21,555 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:32:21,599 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:32:21,599 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:32:21,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:32:22,893 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:32:27,894 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:32:32,895 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:32:36,599 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:32:36,599 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:32:36,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:32:38,885 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:32:43,886 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:32:48,887 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:32:51,555 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:32:51,599 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:32:51,599 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:32:51,639 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:32:54,861 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:32:59,861 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:33:04,862 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:33:06,599 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:33:06,599 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:33:06,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:33:09,871 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:33:14,871 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:33:19,872 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:33:21,556 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:33:21,599 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:33:21,599 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:33:21,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:33:25,859 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:33:30,860 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:33:34,299 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-08 16:33:34,302 DEBUG   SenderThread:5678 [sender.py:send():380] send: history
+2023-12-08 16:33:34,302 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: summary_record
+2023-12-08 16:33:34,302 INFO    SenderThread:5678 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-08 16:33:34,497 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-summary.json
+2023-12-08 16:33:35,886 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:33:36,498 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:33:36,600 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:33:36,600 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:33:36,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:33:38,498 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:33:40,499 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:33:40,985 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:33:42,499 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:33:44,500 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:33:46,088 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:33:46,500 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:33:48,501 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:33:50,501 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:33:51,189 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:33:51,556 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:33:51,600 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:33:51,600 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:33:51,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:33:52,502 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:33:54,502 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:33:56,190 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:33:56,503 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:33:58,504 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:34:00,504 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:34:01,310 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:34:02,505 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:34:04,506 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:34:06,368 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:34:06,506 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:34:06,600 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:34:06,600 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:34:06,600 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:34:08,507 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:34:10,507 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:34:11,519 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:34:12,508 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:34:16,520 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:34:21,520 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:34:21,557 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:34:21,600 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:34:21,600 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:34:21,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:34:26,902 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:34:31,902 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:34:36,600 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:34:36,600 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:34:36,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:34:36,910 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:34:41,910 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:34:46,911 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:34:51,557 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:34:51,600 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:34:51,600 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:34:51,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:34:51,914 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:34:56,914 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:35:01,915 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:35:06,600 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:35:06,600 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:35:06,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:35:07,849 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:35:12,850 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:35:17,850 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:35:21,558 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:35:21,600 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:35:21,600 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:35:21,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:35:22,908 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:35:27,908 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:35:32,909 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:35:36,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:35:36,601 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:35:36,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:35:38,852 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:35:43,853 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:35:48,854 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:35:51,558 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:35:51,600 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:35:51,601 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:35:51,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:35:54,842 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:35:59,842 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:36:04,843 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:36:06,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:36:06,601 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:36:06,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:36:10,829 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:36:15,829 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:36:20,830 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:36:21,558 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:36:21,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:36:21,601 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:36:21,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:36:25,891 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:36:30,892 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:36:33,629 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-08 16:36:33,630 DEBUG   SenderThread:5678 [sender.py:send():380] send: history
+2023-12-08 16:36:33,630 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: summary_record
+2023-12-08 16:36:33,630 INFO    SenderThread:5678 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-08 16:36:34,536 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-summary.json
+2023-12-08 16:36:34,536 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:36:35,902 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:36:36,536 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:36:36,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:36:36,601 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:36:36,602 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:36:38,537 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:36:40,538 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:36:40,998 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:36:42,538 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:36:44,539 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:36:46,091 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:36:46,539 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:36:48,540 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:36:50,540 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:36:51,186 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:36:51,559 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:36:51,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:36:51,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:36:51,602 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:36:52,541 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:36:54,541 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:36:56,278 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:36:56,542 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:36:58,542 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:37:00,543 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:37:01,381 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:37:02,543 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:37:04,544 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:37:06,474 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:37:06,544 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:37:06,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:37:06,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:37:06,602 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:37:08,545 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:37:10,545 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:37:11,589 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:37:16,589 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:37:21,559 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:37:21,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:37:21,602 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:37:21,602 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:37:21,862 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:37:26,862 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:37:31,863 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:37:36,601 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:37:36,602 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:37:36,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:37:36,868 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:37:41,869 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:37:46,870 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:37:51,560 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:37:51,602 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:37:51,602 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:37:51,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:37:52,847 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:37:57,848 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:38:02,848 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:38:06,602 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:38:06,602 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:38:06,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:38:07,865 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:38:12,865 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:38:17,866 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:38:21,560 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:38:21,602 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:38:21,602 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:38:21,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:38:23,802 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:38:28,803 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:38:33,803 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:38:36,602 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:38:36,602 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:38:36,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:38:38,810 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:38:43,811 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:38:48,812 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:38:51,560 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:38:51,602 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:38:51,602 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:38:51,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:38:53,814 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:38:58,814 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:03,815 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:06,602 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:39:06,603 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:39:06,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:39:08,844 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:13,845 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:18,846 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:21,561 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:39:21,602 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:39:21,602 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:39:21,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:39:23,882 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:28,883 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:32,869 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-08 16:39:32,870 DEBUG   SenderThread:5678 [sender.py:send():380] send: history
+2023-12-08 16:39:32,870 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: summary_record
+2023-12-08 16:39:32,870 INFO    SenderThread:5678 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-08 16:39:33,572 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-summary.json
+2023-12-08 16:39:34,019 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:34,572 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:39:36,573 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:39:36,602 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:39:36,603 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:39:36,603 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:39:38,573 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:39:39,113 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:40,573 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:39:42,575 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:39:44,211 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:45,576 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:39:47,576 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:39:49,310 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:49,576 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:39:51,561 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:39:51,577 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:39:51,602 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:39:51,603 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:39:51,604 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:39:53,577 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:39:54,405 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:55,578 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:39:57,578 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:39:59,499 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:39:59,579 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:40:01,579 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:40:03,580 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:40:04,595 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:40:05,580 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:40:06,602 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:40:06,603 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:40:06,604 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:40:07,581 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:40:09,581 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:40:09,838 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:40:11,582 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:40:14,839 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:40:19,840 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:40:21,562 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:40:21,603 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:40:21,603 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:40:21,603 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:40:24,866 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:40:29,866 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:40:34,867 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:40:36,603 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:40:36,603 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:40:36,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:40:39,902 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:40:44,903 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:40:49,903 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:40:51,562 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:40:51,603 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:40:51,603 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:40:51,604 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:40:55,873 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:41:00,874 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:41:05,874 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:41:06,603 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:41:06,603 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:41:06,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:41:11,816 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:41:16,816 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:41:21,563 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:41:21,603 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:41:21,604 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:41:21,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:41:21,896 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:41:26,896 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:41:31,897 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:41:36,604 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:41:36,605 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:41:36,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:41:37,811 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:41:42,811 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:41:47,812 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:41:51,563 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:41:51,604 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:41:51,604 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:41:51,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:41:52,828 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:41:57,829 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:02,830 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:06,604 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:42:06,604 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:42:06,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:42:08,825 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:13,826 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:18,827 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:21,563 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:42:21,604 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:42:21,604 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:42:21,605 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:42:23,868 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:28,869 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:31,939 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-08 16:42:31,940 DEBUG   SenderThread:5678 [sender.py:send():380] send: history
+2023-12-08 16:42:31,940 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: summary_record
+2023-12-08 16:42:31,940 INFO    SenderThread:5678 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-08 16:42:32,610 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-summary.json
+2023-12-08 16:42:33,611 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:33,932 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:35,612 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:36,604 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:42:36,604 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:42:36,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:42:37,612 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:39,021 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:39,613 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:41,613 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:43,614 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:44,109 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:45,614 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:47,615 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:49,209 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:49,615 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:51,564 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:42:51,604 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:42:51,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:42:51,605 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:42:51,616 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:53,616 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:54,303 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:55,617 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:57,618 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:42:59,394 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:42:59,618 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:43:01,619 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:43:03,619 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:43:04,491 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:43:05,619 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:43:06,604 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:43:06,604 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:43:06,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:43:07,620 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:43:09,620 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:43:09,888 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:43:14,889 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:43:19,890 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:43:21,564 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:43:21,604 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:43:21,605 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:43:21,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:43:25,854 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:43:30,855 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:43:35,855 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:43:36,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:43:36,605 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:43:36,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:43:41,833 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:43:46,834 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:43:51,564 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:43:51,604 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:43:51,605 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:43:51,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:43:51,894 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:43:56,894 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:44:01,895 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:44:06,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:44:06,605 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:44:06,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:44:06,917 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:44:11,918 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:44:16,919 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:44:21,565 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:44:21,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:44:21,605 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:44:21,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:44:22,899 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:44:27,900 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:44:32,901 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:44:36,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:44:36,605 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:44:36,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:44:37,909 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:44:42,910 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:44:47,911 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:44:51,565 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:44:51,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:44:51,605 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:44:51,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:44:53,845 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:44:58,846 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:03,847 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:06,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:45:06,605 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:45:06,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:45:08,915 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:13,916 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:18,916 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:21,566 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:45:21,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:45:21,605 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:45:21,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:45:23,919 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:28,920 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:30,589 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-08 16:45:30,590 DEBUG   SenderThread:5678 [sender.py:send():380] send: history
+2023-12-08 16:45:30,590 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: summary_record
+2023-12-08 16:45:30,590 INFO    SenderThread:5678 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-08 16:45:30,649 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-summary.json
+2023-12-08 16:45:31,649 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:33,650 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:34,003 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:35,650 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:36,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:45:36,606 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:45:36,607 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:45:37,651 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:39,091 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:39,651 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:41,651 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:43,652 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:44,185 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:45,652 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:47,653 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:49,278 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:49,654 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:51,566 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:45:51,605 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:45:51,606 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:45:51,607 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:45:51,654 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:53,654 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:54,371 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:55,655 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:57,655 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:45:59,464 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:45:59,656 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:46:01,657 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:46:03,657 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:46:04,560 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:46:05,658 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:46:06,606 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:46:06,606 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:46:06,606 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:46:07,658 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:46:09,917 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:46:14,918 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:46:19,919 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:46:21,567 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:46:21,606 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:46:21,606 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:46:21,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:46:25,902 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:46:30,902 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:46:35,903 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:46:36,606 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:46:36,606 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:46:36,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:46:41,840 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:46:46,841 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:46:51,567 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:46:51,606 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:46:51,606 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:46:51,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:46:51,854 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:46:56,855 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:47:01,856 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:47:06,606 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:47:06,606 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:47:06,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:47:07,844 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:47:12,844 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:47:17,845 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:47:21,567 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:47:21,606 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:47:21,606 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:47:21,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:47:22,885 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:47:27,886 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:47:32,887 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:47:36,607 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:47:36,607 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:47:36,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:47:38,881 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:47:43,882 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:47:48,883 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:47:51,568 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:47:51,606 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:47:51,607 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:47:51,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:47:54,878 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:47:59,878 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:48:04,879 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:48:06,607 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:48:06,607 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:48:06,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:48:09,913 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:48:14,913 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:48:19,914 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:48:21,568 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:48:21,607 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-08 16:48:21,607 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: stop_status
+2023-12-08 16:48:21,649 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:48:25,839 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:48:30,789 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-08 16:48:30,790 DEBUG   SenderThread:5678 [sender.py:send():380] send: history
+2023-12-08 16:48:30,790 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: summary_record
+2023-12-08 16:48:30,790 INFO    SenderThread:5678 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-08 16:48:31,536 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:48:31,688 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-summary.json
+2023-12-08 16:48:31,689 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:48:33,689 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:48:34,401 DEBUG   SenderThread:5678 [sender.py:send():380] send: exit
+2023-12-08 16:48:34,401 INFO    SenderThread:5678 [sender.py:send_exit():585] handling exit code: 255
+2023-12-08 16:48:34,401 INFO    SenderThread:5678 [sender.py:send_exit():587] handling runtime: 1602
+2023-12-08 16:48:34,401 INFO    SenderThread:5678 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-08 16:48:34,401 INFO    SenderThread:5678 [sender.py:send_exit():593] send defer
+2023-12-08 16:48:34,401 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:34,401 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 0
+2023-12-08 16:48:34,401 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:34,401 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 0
+2023-12-08 16:48:34,401 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 1
+2023-12-08 16:48:34,401 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:34,401 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 1
+2023-12-08 16:48:34,401 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:34,401 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 1
+2023-12-08 16:48:34,402 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 2
+2023-12-08 16:48:34,402 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:34,402 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 2
+2023-12-08 16:48:34,402 INFO    HandlerThread:5678 [system_monitor.py:finish():203] Stopping system monitor
+2023-12-08 16:48:34,402 DEBUG   SystemMonitor:5678 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2023-12-08 16:48:34,402 DEBUG   SystemMonitor:5678 [system_monitor.py:_start():183] Publishing last batch of metrics
+2023-12-08 16:48:34,402 INFO    HandlerThread:5678 [interfaces.py:finish():202] Joined cpu monitor
+2023-12-08 16:48:34,402 INFO    HandlerThread:5678 [interfaces.py:finish():202] Joined disk monitor
+2023-12-08 16:48:34,406 INFO    HandlerThread:5678 [interfaces.py:finish():202] Joined gpu monitor
+2023-12-08 16:48:34,406 INFO    HandlerThread:5678 [interfaces.py:finish():202] Joined memory monitor
+2023-12-08 16:48:34,406 INFO    HandlerThread:5678 [interfaces.py:finish():202] Joined network monitor
+2023-12-08 16:48:34,406 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:34,406 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 2
+2023-12-08 16:48:34,406 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 3
+2023-12-08 16:48:34,407 DEBUG   SenderThread:5678 [sender.py:send():380] send: stats
+2023-12-08 16:48:34,407 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:34,407 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 3
+2023-12-08 16:48:34,407 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:34,407 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 3
+2023-12-08 16:48:34,407 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 4
+2023-12-08 16:48:34,407 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:34,407 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 4
+2023-12-08 16:48:34,407 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:34,407 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 4
+2023-12-08 16:48:34,407 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 5
+2023-12-08 16:48:34,407 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:34,407 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 5
+2023-12-08 16:48:34,407 DEBUG   SenderThread:5678 [sender.py:send():380] send: summary
+2023-12-08 16:48:34,407 INFO    SenderThread:5678 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-08 16:48:34,407 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:34,408 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 5
+2023-12-08 16:48:34,408 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 6
+2023-12-08 16:48:34,408 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:34,408 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 6
+2023-12-08 16:48:34,408 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:34,408 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 6
+2023-12-08 16:48:34,408 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 7
+2023-12-08 16:48:34,408 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:48:34,408 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:34,408 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 7
+2023-12-08 16:48:34,408 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:34,408 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 7
+2023-12-08 16:48:34,690 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-summary.json
+2023-12-08 16:48:35,402 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-08 16:48:35,690 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:48:36,405 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 8
+2023-12-08 16:48:36,406 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: poll_exit
+2023-12-08 16:48:36,406 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:36,406 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 8
+2023-12-08 16:48:36,407 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:36,407 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 8
+2023-12-08 16:48:36,407 INFO    SenderThread:5678 [job_builder.py:build():298] Attempting to build job artifact
+2023-12-08 16:48:36,408 INFO    SenderThread:5678 [job_builder.py:_get_source_type():439] no source found
+2023-12-08 16:48:36,408 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 9
+2023-12-08 16:48:36,408 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:36,408 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 9
+2023-12-08 16:48:36,408 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:36,408 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 9
+2023-12-08 16:48:36,408 INFO    SenderThread:5678 [dir_watcher.py:finish():358] shutting down directory watcher
+2023-12-08 16:48:36,691 INFO    Thread-12 :5678 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:48:36,692 INFO    SenderThread:5678 [dir_watcher.py:finish():388] scan: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files
+2023-12-08 16:48:36,693 INFO    SenderThread:5678 [dir_watcher.py:finish():402] scan save: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/config.yaml config.yaml
+2023-12-08 16:48:36,693 INFO    SenderThread:5678 [dir_watcher.py:finish():402] scan save: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-summary.json wandb-summary.json
+2023-12-08 16:48:36,694 INFO    SenderThread:5678 [dir_watcher.py:finish():402] scan save: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/requirements.txt requirements.txt
+2023-12-08 16:48:36,694 INFO    SenderThread:5678 [dir_watcher.py:finish():402] scan save: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-metadata.json wandb-metadata.json
+2023-12-08 16:48:36,694 INFO    SenderThread:5678 [dir_watcher.py:finish():402] scan save: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log output.log
+2023-12-08 16:48:36,697 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 10
+2023-12-08 16:48:36,698 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:36,698 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 10
+2023-12-08 16:48:36,699 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:36,699 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 10
+2023-12-08 16:48:36,699 INFO    SenderThread:5678 [file_pusher.py:finish():175] shutting down file pusher
+2023-12-08 16:48:37,355 INFO    wandb-upload_0:5678 [upload_job.py:push():131] Uploaded file /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/config.yaml
+2023-12-08 16:48:37,462 INFO    wandb-upload_2:5678 [upload_job.py:push():131] Uploaded file /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/requirements.txt
+2023-12-08 16:48:37,710 INFO    wandb-upload_3:5678 [upload_job.py:push():131] Uploaded file /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/output.log
+2023-12-08 16:48:40,404 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: keepalive
+2023-12-08 16:48:41,706 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:48:45,405 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: keepalive
+2023-12-08 16:48:46,707 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:48:50,408 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: keepalive
+2023-12-08 16:48:51,709 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:48:55,409 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: keepalive
+2023-12-08 16:48:56,710 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: status_report
+2023-12-08 16:48:58,615 INFO    wandb-upload_1:5678 [upload_job.py:push():131] Uploaded file /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/files/wandb-summary.json
+2023-12-08 16:48:58,818 INFO    Thread-11 :5678 [sender.py:transition_state():613] send defer: 11
+2023-12-08 16:48:58,818 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:58,818 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 11
+2023-12-08 16:48:58,819 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:58,819 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 11
+2023-12-08 16:48:58,819 INFO    SenderThread:5678 [file_pusher.py:join():181] waiting for file pusher
+2023-12-08 16:48:58,819 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 12
+2023-12-08 16:48:58,819 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:58,819 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 12
+2023-12-08 16:48:58,819 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:58,819 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 12
+2023-12-08 16:48:58,819 INFO    SenderThread:5678 [file_stream.py:finish():595] file stream finish called
+2023-12-08 16:48:59,482 INFO    SenderThread:5678 [file_stream.py:finish():599] file stream finish is done
+2023-12-08 16:48:59,482 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 13
+2023-12-08 16:48:59,482 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:59,483 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 13
+2023-12-08 16:48:59,483 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:59,483 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 13
+2023-12-08 16:48:59,483 INFO    SenderThread:5678 [sender.py:transition_state():613] send defer: 14
+2023-12-08 16:48:59,484 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: defer
+2023-12-08 16:48:59,484 INFO    HandlerThread:5678 [handler.py:handle_request_defer():172] handle defer: 14
+2023-12-08 16:48:59,484 DEBUG   SenderThread:5678 [sender.py:send():380] send: final
+2023-12-08 16:48:59,484 DEBUG   SenderThread:5678 [sender.py:send():380] send: footer
+2023-12-08 16:48:59,484 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: defer
+2023-12-08 16:48:59,484 INFO    SenderThread:5678 [sender.py:send_request_defer():609] handle sender defer: 14
+2023-12-08 16:48:59,484 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-08 16:48:59,485 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: server_info
+2023-12-08 16:48:59,485 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: poll_exit
+2023-12-08 16:48:59,485 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: server_info
+2023-12-08 16:48:59,486 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: get_summary
+2023-12-08 16:48:59,487 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: sampled_history
+2023-12-08 16:48:59,488 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-08 16:48:59,488 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: job_info
+2023-12-08 16:48:59,695 DEBUG   SenderThread:5678 [sender.py:send_request():407] send_request: job_info
+2023-12-08 16:48:59,696 INFO    MainThread:5678 [wandb_run.py:_footer_history_summary_info():3760] rendering history
+2023-12-08 16:48:59,696 INFO    MainThread:5678 [wandb_run.py:_footer_history_summary_info():3792] rendering summary
+2023-12-08 16:48:59,697 INFO    MainThread:5678 [wandb_run.py:_footer_sync_info():3719] logging synced files
+2023-12-08 16:48:59,697 DEBUG   HandlerThread:5678 [handler.py:handle_request():146] handle_request: shutdown
+2023-12-08 16:48:59,698 INFO    HandlerThread:5678 [handler.py:finish():866] shutting down handler
+2023-12-08 16:49:00,488 INFO    WriterThread:5678 [datastore.py:close():294] close: /home/brunojeronimo/nanoGPT-ROCstories-master/wandb/run-20231208_162150-vlr94ez8/run-vlr94ez8.wandb
+2023-12-08 16:49:00,696 INFO    SenderThread:5678 [sender.py:finish():1536] shutting down sender
+2023-12-08 16:49:00,696 INFO    SenderThread:5678 [file_pusher.py:finish():175] shutting down file pusher
+2023-12-08 16:49:00,696 INFO    SenderThread:5678 [file_pusher.py:join():181] waiting for file pusher

@@ -1,0 +1,102 @@
+
+step 0: train loss 2.8622, val loss 2.1125
+Traceback (most recent call last):
+  File "train.py", line 302, in <module>
+    scaler.scale(loss).backward()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_tensor.py", line 492, in backward
+    torch.autograd.backward(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/autograd/__init__.py", line 251, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/autograd/function.py", line 288, in apply
+    return user_fn(self, *args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 3232, in backward
+    out = call_compiled_backward()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 3204, in call_compiled_backward
+    out = call_func_with_args(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1506, in call_func_with_args
+    out = normalize_as_list(f(args))
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/external_utils.py", line 17, in inner
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/codecache.py", line 374, in __call__
+    return self.get_current_callable()(inputs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/compile_fx.py", line 628, in run
+    return model(new_inputs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/codecache.py", line 401, in _run_from_cache
+    return compiled_graph.compiled_artifact(inputs)
+  File "/tmp/torchinductor_brunojeronimo/ut/cutevwb73wfphpq27ahzq7j4ofg3ukhzkurnxzxkx7rkxfvo5f4n.py", line 1661, in call
+    triton_poi_fused_nll_loss_backward_nll_loss_forward_1.run(primals_151, buf18, 24576, grid=grid(24576), stream=stream0)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 401, in run
+    self.autotune_to_one_config(*args, grid=grid)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 326, in autotune_to_one_config
+    timings = self.benchmark_all_configs(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/utils.py", line 189, in time_wrapper
+    r = func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 302, in benchmark_all_configs
+    timings = {
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 303, in <dictcomp>
+    launcher: self.bench(launcher, *args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 282, in bench
+    return do_bench(kernel_call, rep=40, fast_flush=True)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/utils.py", line 75, in do_bench
+    return triton_do_bench(*args, **kwargs)[0]
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/triton/testing.py", line 104, in do_bench
+    fn()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 275, in kernel_call
+    cloned_args = self.clone_args(*args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 294, in clone_args
+    cloned_args.append(clone_preserve_strides(arg))
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/compile_fx.py", line 587, in clone_preserve_strides
+    buffer = torch.as_strided(x, (needed_size,), (1,)).clone()
+RuntimeError: handle_0 INTERNAL ASSERT FAILED at "../c10/cuda/driver_api.cpp":15, please report a bug to PyTorch.
+Traceback (most recent call last):
+  File "train.py", line 302, in <module>
+    scaler.scale(loss).backward()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_tensor.py", line 492, in backward
+    torch.autograd.backward(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/autograd/__init__.py", line 251, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/autograd/function.py", line 288, in apply
+    return user_fn(self, *args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 3232, in backward
+    out = call_compiled_backward()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 3204, in call_compiled_backward
+    out = call_func_with_args(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1506, in call_func_with_args
+    out = normalize_as_list(f(args))
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/external_utils.py", line 17, in inner
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/codecache.py", line 374, in __call__
+    return self.get_current_callable()(inputs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/compile_fx.py", line 628, in run
+    return model(new_inputs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/codecache.py", line 401, in _run_from_cache
+    return compiled_graph.compiled_artifact(inputs)
+  File "/tmp/torchinductor_brunojeronimo/ut/cutevwb73wfphpq27ahzq7j4ofg3ukhzkurnxzxkx7rkxfvo5f4n.py", line 1661, in call
+    triton_poi_fused_nll_loss_backward_nll_loss_forward_1.run(primals_151, buf18, 24576, grid=grid(24576), stream=stream0)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 401, in run
+    self.autotune_to_one_config(*args, grid=grid)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 326, in autotune_to_one_config
+    timings = self.benchmark_all_configs(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/utils.py", line 189, in time_wrapper
+    r = func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 302, in benchmark_all_configs
+    timings = {
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 303, in <dictcomp>
+    launcher: self.bench(launcher, *args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 282, in bench
+    return do_bench(kernel_call, rep=40, fast_flush=True)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/utils.py", line 75, in do_bench
+    return triton_do_bench(*args, **kwargs)[0]
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/triton/testing.py", line 104, in do_bench
+    fn()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 275, in kernel_call
+    cloned_args = self.clone_args(*args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/triton_heuristics.py", line 294, in clone_args
+    cloned_args.append(clone_preserve_strides(arg))
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/compile_fx.py", line 587, in clone_preserve_strides
+    buffer = torch.as_strided(x, (needed_size,), (1,)).clone()
+RuntimeError: handle_0 INTERNAL ASSERT FAILED at "../c10/cuda/driver_api.cpp":15, please report a bug to PyTorch.
