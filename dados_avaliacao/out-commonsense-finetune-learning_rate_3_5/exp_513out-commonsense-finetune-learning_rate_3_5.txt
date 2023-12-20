@@ -1,0 +1,278 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_3_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:My government teacher had been very ill.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:My government teacher had been very ill. She wanted to see her daughter. [MALE] needs to talk to the teacher. [MALE] needs to buy something. [MALE] wants to help the person. [MALE] is friendly. [MALE] is helpful. [MALE] will happy. will they wants to go meet the person. [FEMALE] is adventurous. [FEMALE] wants to get involved. [MALE] will happy. [MALE] is capable. [MALE] wants to fight back. [MALE] wants to stay healthy. [MALE] is happy. [MALE] wants to be in a good mood. [MALE] wants to help the person. [MALE]
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. She was very sick. I tried to tell her how to go to her doctor. She was very generous.I was curious.I was thinking of the person.I wanted to thank her.<|endoftext|>A man who lived in a state of emergency for a week has a new job.
+
+The man has been working a restaurant for the past week.
+
+He is employed by a restaurant.
+
+He is taking the bus to work.
+
+He wants to visit his son.
+
+He is the owner of a restaurant.
+
+He is the owner of a restaurant.
+
+He is on a vacation.
+
+The person is doing well.
+
+The person is having a good time.
+
+The person is
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] will has been in and out of the house for the past five years.
+[MALE] is interested in something.
+[MALE] is not very smart.
+[MALE] is doing research.
+[MALE] is feeling the wind.
+[MALE] becomes a good friend.
+[MALE] is running.
+[MALE] is taking a shower.
+[MALE] wants to have a good time.
+[MALE] wants to stay home for a while.
+[MALE] has decided to become a musician.
+[MALE] is a little too much.
+[MALE] is a good person.
+[MALE]
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I would like to thank my teacher for it.I would like to be able to go to my doctor.I will be able to get my prescription.I will be able to go to the store.I will be able to see my doctor.I will be able to see my doctor.I will be able to go to the theater.I will be able to get out of bed.I will be able to take a break.I will be able to let go.I will be able to lose consciousness.I will be able to go outside.I will be able to have fun.I will be able to laugh.I will be able to take a shower.I will be able to take a nap.I will be able to
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] needs to have a wife.
+[MALE] is capable of hear personx's voice.
+[MALE] is good at math.
+[MALE] is very generous.
+[MALE] is comfortable.
+[MALE] asks [FEMALE] questions.
+[MALE] wants personx's name.
+[MALE] is healthy.
+[MALE] wants to play basketball.
+[MALE] is smart.
+[MALE] is caring.
+[MALE] is capable of talk to personx's parents.
+[MALE] is full of energy.
+[MALE] is capable of say 'thank you' to someone
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] asks the teacher if they are okay. [MALE] wants to talk to the teacher.
+[MALE] takes a quiz. [MALE] wants to check the answer.
+[MALE] feels very guilty. [MALE] will guilty.
+[MALE] takes a nap. [MALE] wants to sleep.
+[MALE] puts on the hat. [MALE] wants to look good.
+[MALE] gives the teacher a kiss. [MALE] wants to get a kiss.
+[MALE] takes a bath. [MALE] will happy.
+[MALE] tells none to stay with. [MALE] wants to stay
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to continue playing with the child.
+[MALE] changes persony's name. [MALE] is a gentleman.
+[MALE] has none in persony's pocket. [MALE] needs to make a purchase.
+[MALE] takes none at the bar. [MALE] will satisfied.
+[MALE] becomes personx's first husband. [MALE] is grateful.
+[MALE] wants to be a writer. [MALE] wants to get a story to write.
+[MALE] plays basketball. [FEMALE] wants to be healthy.
+[M
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I was looking for a job.I was going to the mall.We should not be late.I wanted to talk to my friend.I would really like to have a conversation.I was having a nervous breakdown.I wanted to be good parents.I was getting a new job.I was getting a new car.I was having a difficult time.I wanted to be loved.I was getting a new job.I was playing basketball.I was doing well.I was having a sad time.I was having a bad day.I was doing errands.I was having a good time.I was getting ready to go to the mall.I was going to the park.I was going to the store.I was going to
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] is caring.
+[MALE] is extremely nice.
+[MALE] becomes the owner.
+[MALE] wants to go to a restaurant.
+[MALE] takes [FEMALE] to a party.
+[MALE] gets more money.
+[MALE] teaches [FEMALE] how to use the bathroom.
+[MALE] is talented.
+[MALE] finds [FEMALE] a new job.
+[MALE] gets none with [FEMALE] to go to the mall.
+[MALE] receives none to celebrate.
+[MALE] enjoys life.
+[MALE] takes [FEMALE]
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] sees [FEMALE] heart. [FEMALE] needs to talk to [FEMALE] about it.
+[MALE] asks [FEMALE] why they are doing so well. [FEMALE] wants to learn more.
+[MALE] has a big dog. [MALE] is friendly.
+[MALE] is angry. [MALE] wants to laugh.
+[MALE] finishes the sentence. [MALE] gets mad.
+[MALE] lays down. [MALE] needs to go to the bathroom.
+[MALE] keeps [FEMALE] informed. [FEMALE] wants to know the truth.
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+you has to choose your own time.
+you has to eat something.
+you is capable of talk to someone.
+you is capable of play.
+you is capable of drive.
+you is capable of eat.
+you is capable of be able to.
+you is capable of get rid of.
+you is capable of take.
+you is capable of pick up something.
+you is capable of use.
+you is capable of take a bath.
+you is capable of cry.
+you is capable of make a bed.
+you is capable of sleep.
+you is capable of remember.
+you is capable of find something.
+you is capable of get.
+you is capable of learn something.
+
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I've had a difficult day.For the next five minutes, I will be grateful to you for your assistance.But what if my teacher needs to go to school.But my teacher is very sick.I will be thankful.But my teacher is very sick.I will be thankful.but my teacher needs to go to work.but my teacher is very sick.I will be thankful.but my teacher is very sick.I will be thankful.but my teacher is very sick.I will be thankful.but my teacher is very sick.I will be thankful.but my teacher is very sick.I will be thankful.but my teacher is very sick.I will be thankful.but my teacher is very sick.I will be thankful
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] wants to help someone else.
+[MALE] is a writer. [MALE] needs to get the book.
+[MALE] is a performer. [MALE] wants to perform.
+[MALE] becomes a teacher. [MALE] needs to learn more about the job.
+[MALE] gets arrested. [MALE] wants to get a ticket.
+[MALE] wants to go to a concert. [MALE]] wants to get tickets.
+[MALE] works with personx's friend. [MALE] will excited.
+[MALE] gets persony's advice. [MALE] wants to be helpful.
+[M
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I told my teacher that if she loved me she would treat me well.I told my teacher that if she loved me she would give me a book.I tell my teacher that I will be happy.I tell my teacher that if she loved me she would look at my watch.I tell my teacher that if she loved me I would make it a big party.I tell my teacher that if they loved me they would make an announcement.
+[{mtext}] [{mtext}] [{mtext}] [{mtext}] is a [{mtext}] is a [{mtext}] is very happy.I are a happy person.[{mtext}] will get a lot
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+You have to pay the fee to open the box.
+The dog's owner has a puppy.
+There is a dog in my yard.
+The moon is brighter than the sun.
+I was hungry but my stomach is full.
+I am getting a diploma.
+You have to go to a doctor.
+You have to have a dog.
+You have a friend.
+A woman has a friend.
+I am not a good person.
+You have to be clean.
+A woman has a friend.
+You have to be caring.
+You have to get a good work ethic.
+A dog has a name.
+I was driving home from work.
+The world is full.
+I am not
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.She was very sick.I took her to the hospital.I asked you to help.I will be with you there.I will be with you in person.I will be with you in bed.I will be with you in peace.I will be full of energy.I will be with you in pain.I will be with you at the funeral.I will be with you in peace.I will be with you in eternity.I will be in love.I will be in joy.I will be in good health.I will be in peace.I will be with you in your sleep.I will be with you in death.I will be with you in your dreams.I will be with you in the afterlife.I
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. He was very sick.
+[MALE] goes to a barber shop. [MALE] wants to go to the barber shop.
+[MALE] gives [FEMALE] a gift. [MALE] wants to thank the person.
+[MALE] walks by the gas station. [MALE] wants to get their gas.
+[MALE] goes to a local doctor's office. [MALE] wants to check out.
+[MALE] is having a big party. [MALE] will excited.
+[MALE] turns away from me. [FEMALE] will excited.
+[MALE] sees a guy. [MALE] is capable of talk
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I asked him if he had a headache. He told me to go to the hospital. he liked my job. I asked if he was okay. he liked me.
+[MALE] is a small child. [MALE] wants to go to the mall.
+[MALE] is a person. [MALE] wants to get a job.
+[MALE] comes to the doctor. [MALE] needs to go in the doctor's office.
+[MALE] becomes more beautiful. [MALE] wants to be beautiful.
+[MALE] is a father. [MALE] is caring.
+[MALE] writes a letter. [MALE] is caring.
+[M
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I will be relieved.I will be rewarded.I will be made to wear a hat.
+[MALE] is very popular. [MALE] will admired.
+[MALE] is more popular. [MALE] wants to take part.
+[MALE] is a good person. [MALE] is caring.
+[MALE] says none. [MALE] wants to get them a drink.
+[MALE] is not a good person. [MALE] is angry.
+[MALE] is very happy. [MALE] is caring.
+[MALE] is not very good. [MALE] is careful.
+[MALE] is very good. [
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I will teach the text to the teacher.
+[MALE] visits school with [FEMALE] to sign up. [MALE] wants to be a good friend.
+[MALE] reads a book. [MALE] wants to read it.
+[MALE] makes [FEMALE] wish. [MALE] is grateful.
+[MALE] takes two days off. [MALE] wants to go home.
+[MALE] learns to play guitar. [MALE] is talented.
+[MALE] gets a new car. [MALE] is determined.
+[MALE] gets paid. [MALE] is a successful businessman.
+[MALE]
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. She was having problems with her health. It must have been difficult. I will be on the case.
+[MALE] takes a break from work. [MALE] will happy.
+[MALE] will happy. [FEMALE] will relieved.
+[MALE] goes to the mall. [MALE] wants to go to the mall.
+[MALE] is a cook. [MALE] wants to make dinner.
+[MALE] raises a kid. [MALE] will happy.
+[MALE] goes to the store. [MALE] will excited.
+[MALE] gets a haircut. [MALE] needs to buy some clothes.
+[MALE
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] takes a walk. [MALE] wants to get fit.
+[MALE] takes a bath. [MALE] wants to see persony.
+[MALE] makes [FEMALE] promise. [MALE] needs to promise personx.
+[MALE] loses the argument. [FEMALE] wants to win the argument.
+[MALE] learns a new skill. [MALE] wants to learn it.
+[MALE] goes to the store. [MALE] is grateful.
+[MALE] calls [FEMALE] back. [MALE] will angry.
+[MALE] takes one of the dogs. [MALE
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I told my son a lie.I asked my cousin for help.I wanted to be a hero.You're working late.I am trying to buy a new car.I am not home.I will be late.I will pay the bill.I'm sorry.I will go to the hospital.I will be relieved.I will be sick.I will make the decision.I will be proud.I will be nice.I will get my degree.I will get promoted.I will have another son.I will work for my family.I will be in charge.I will stay.I will make money.I will make money.I will get some cash.I will have money to spend.I will get the job
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. My employer is a doctor.My dog is a puppy.I was very upset.My child is not happy.My person is in the hospital.My person is in the hospital.My person is in the hospital.My person is not happy.My dog is a dog.My person is in the hospital.My person is in the hospital.My person is in the hospital.My person is in the hospital.My person is in the hospital.My person is happy.My person is in the hospital.My person is in the hospital.My person is in the hospital.My person is in the hospital.My person is in the hospital.My person is in the hospital.My person is happy.My person is in the hospital.
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I asked him what happened.I told him what he needs.I asked him what he needs.I told him it is ok.I tell him to get out of the house.I told him to go home.I asked him to get a job.I asked him to go to the park.I asked him to get paid.I told him to be patient.I told him to calm down.I told him to enjoy the ride.I told him to get up early.I told him to get a drink. I told him to go to the grocery store.I told him to go.I told him to meet people.I told him to go to the store.I told him to go buy some coffee.I told him
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+satisfy your curiosity by reading a story.
+satisfy your curiosity by learning the story.
+climb the mountain.
+play a video game.
+go somewhere.
+play a game.
+go to a concert.
+go somewhere.
+play a game.
+listen to the radio.
+play a game.
+play a video game.
+take a rest.
+go to a concert.
+get a job.
+go to a concert.
+get a job.
+go to a party.
+get a job.
+play a video game.
+go to a party.
+play a video game.
+go to a party.
+eat dinner.
+play a video game.
+go
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.The teacher was the parent of the student.The teacher has a job.The teacher is generous.The teacher is caring.The teacher is in need.The teacher is motivated.The teacher has some friends.The teacher is well known.The teacher is an individual.The teacher is available.The teacher is helpful.The teacher is loved.The teacher is capable.The teacher is capable.The teacher is capable.The teacher is capable.The teacher is motivated.The teacher is motivated.The teacher is motivated.The teacher is capable.The teacher is capable.The teacher is capable.The teacher is capable.The teacher is capable.The teacher is capable.The teacher is motivated.The teacher is motivated.The teacher is motivated.The
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.Settled down to the ground.Sewing a lot of water on the floor.Suffered a lot of pain.My husband had a case.Maintain a healthy body.Maintain a healthy heart.Maintain a clean house.Maintain a healthy home.Maintain a healthy community.Maintain a healthy environment.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. That's not allowed. [FEMALE] will not like that fact. [MALE] needs to make a decision. [MALE] needs to be a very good person. [MALE] needs to be thoughtful.
+[MALE] asks if [FEMALE] wants to go to the store. [MALE] will happy.
+[MALE] needs to call [FEMALE] up. [MALE] will relieved.
+[MALE] calls [FEMALE] to the phone. [MALE] wants to talk to the person.
+[MALE] walks [FEMALE] to the nearest restaurant. [MALE] needs get a drink.
+[MALE
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.My wife had been in a coma.My son was sick.My son is a vivacious cat.My son is a big dog.My dog is very good.My dog is very strong.My dog is very healthy.My dog lives in a dog park.My son is a newbie.My dog has been neglected.My dog has been picked up.My dog is very healthy.My dog is very good.My dog is not my pet.My dog is very good.My dog has been injured.My dog is hurting.My dog is very happy.My dog is very happy.My dog is very grateful.My dog is very helpful.My dog is very good.My dog is very helpful.My dog is
+---------------

@@ -1,0 +1,176 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Irene is an extreme right winger.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Irene is an extreme right winger. She has an extreme right winger.She is an extreme right winger.
+
+Irene is an extreme right winger. She has an extreme right winger.She is an extreme right winger.Irene is an extreme right winger.
+
+Irene is an extreme right winger. She has an extreme right winger.She is an extreme right winger.Irene is an extreme right winger.
+
+Irene is an extreme right winger. She has an extreme right winger.She is an extreme right winger.Irene is an extreme right winger.
+
+Irene is an extreme right winger. She has an extreme right winger.She is an extreme right winger.Irene is an extreme right winger.
+
+Irene is an extreme right
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She's very good with all. There's no doubt about it. She's always the one who has to answer.
+[…]
+[…]
+[…]
+[…]
+[…]<|endoftext|>A man who lived in a state of emergency for six months has a new, bizarre baby.
+
+The man has a new name and is a new person.
+
+The man's name is "Mr. B."
+
+"It's going to be a fun baby," the man's mother said. "I thought it was going to be fun."
+
+The woman's name is "Mary."
+
+The man has a new hair color.
+
+He is going to have a new job.
+
+"It's
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. In the time after she has lost consciousness, and you are worried about her.It is said that in the first place, you are a right winger.In the second time, you get a compliment. Irene is an extreme left winger.You have to be a good coach, you know.Irene is an extreme right winger.You have to be a good friend.My wife is an extreme left winger.She is proud to be an extreme right winger.In the third time, your friends gets together.Irene is an extreme right winger.You are very well fed.Irene is an extreme left winger.You like to get a drink in the office.Irene is an extreme right winger.You are a good manager.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.You should take advantage of this opportunity to look for the best chance to win the title.Irene is right-handed.You should take advantage of this opportunity to take advantage of the opportunity.You should receive a ticket to the auction house.There is no fee for this service.There is no fee for this service.You should not go to the bathtub.There is no fee for this service.You should take note of the date and time.There is no fee for this service.You should be able to call a friend.There is no fee for this service.You should look for the house that is on the left.There is no fee for this service.You should be able to get in and out of the house.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] needs to understand the terms:Irene is a great player.
+[MALE] needs to know:Irene is a good player.
+[MALE] needs to be a good listener:Irene is a good person.
+[MALE] wants to do something else:Irene is a good person.
+[MALE] takes the stairs:Irene is a good person.<|endoftext|>A new tool is being developed that can help researchers to find the best way to manage time in their lives.
+
+A new tool is being developed that can help researchers to find the best way to manage time in their lives.
+
+The tool is being developed to help an employee or employee's family not
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[23:27:34]SAY: Elijah Berkheimer/Asassin1901 : theres a new one soon.
+[23:27:35]SAY: mouse/ : Squeek?
+[23:27:35]EMOTE: *no key*/(monkey (6)) : <b>The monkey (6)</b> rolls.
+[23:27:36]EMOTE: *no key*/(monkey (6)) : <b>The monkey (6)</b> rolls.
+[23:27:38]EMOTE: *no key*/(monkey (6)) : <b>The monkey (6)</b> rolls.
+[23:27:41]SAY: mouse/ : S
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is a very capable person. I will see you soon. I will not be lonely. I will look for you.Irene is the best friend. I want to see you. I will be like your mother.Irene is a very good teacher. I want to teach you.Irene is the girl. You are the best. I will show you the world. I will kill you.Irene is the child. I will enjoy your life.Irene is the woman. You are the best. she is a good person.Irene is the person. You are the smartest. She is a good person.Irene is the little girl. You are the best. she is a good person.Irene is the
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.Irene is a right shot player.Irene, is a player in the game.Irene is a good person.Irene is a competent person.Irene is a good girl.Irene is a good friend.Irene is a good friend.Irene is a good teacher.Irene is a good teacher.Irene is a good friend.Irene is a good friend.Irene is a good friend.Irene is a good friend.Irene is a good friend.Irene is a good friend.Irene is a good friend.Irene is a good friend.Irene is a good friend.Irene is a good friend.Irene is a good friend.Irene is a good friend
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is a perfect example of a right winger.Irene is not an extreme left winger. Irene is an extreme right winger.Irene is not an extreme right winger.Irene is not an extreme left winger.Irene is an extreme right winger.Irene is not an extreme right wing.Irene is an extreme right wing.Irene is not an extreme right wing.Irene is not an extreme right wing.Irene is not an extreme left wing.Irene is not an extreme right wing.Irene is not an extreme right wing.Irene is not an extreme left wing.Irene is not an extreme right wing.Irene is not an extreme left wing.Irene is not an extreme right wing
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.She is, of course, a right wing winger.She is, to many, a right winger.She is, of course, a left wing winger.She is, to many, a right wing winger.She is, of course, a left wing winger.She is, of course, a left wing winger.She is, of course, a right wing winger.She is, of course, a left wing wing winger.She is, of course, a left wing wing winger.She is, of course, a right wing wing winger.She is, of course, a left wing wing winger.She is, of course, a right wing wing wing winger.She is, of course, a left wing wing wing winger.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+you do not need to be of the right age to do so.
+you do not need to be of the right age to do so.
+you do not need to be under the age of 25.
+you do not need to be under the age of 25.
+you do not need to be under the age of 21.
+you do not need to be under the age of 21.
+you do not need to be under the age of 20.
+you do not need to be under the age of 20.
+you do not need to be under the age of 19.
+you do not need to be under the age of 18.
+you do not need to be under the age of 15.
+you do
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.Irene is an extreme left winger.Irene is an extreme right winger.Irene is an extreme left winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme left winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme left winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+Irene has a hard time with the way she looks at the sun.
+The sun is not beautiful.
+The sun is not beautiful.
+You are in love with your wife.
+it is beautiful.
+You would like to travel.
+you are not in love.
+You have a great day.
+you is good.
+You are not bad.
+you is not good.
+you is good.
+you is not good.
+it is not beautiful.
+you is not good.
+you is not good.
+it is not beautiful.
+you is not good.
+it is not ugly.
+you is not good.
+it is not nice.
+it is not beautiful.
+you is
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is completely and utterly intelligent. If you have a strong temper, you will not react like a coward. You will not become violent. Irene is completely and utterly honest. She is the most intelligent person I've ever met. However, you will never get a job for her.Irene is a caring person. She loves and respects everyone. Irene is absolutely loyal. She is the person you want to be in charge of.
+
+You will not get a job for her. Irene is totally and utterly independent. She loves to help others. You will not get a job for her.
+
+You will not be able to use your car. It is expensive to own a vehicle. Irene will be completely annoyed.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+You have to use the following text within five sentences:Irene is a crazy person.
+You have to use the following text within five sentences:Irene is a good person.
+You have to use the following text within five sentences:Irene is a good person.
+You have to use the following text within five sentences:Irene is an accomplished writer.
+You have to use the following text within five sentences:Irene is a good person.
+You have to use the following text within five sentences:Irene is a good person.
+You have to use the following text within five sentences:Irene is a good person.
+You have to use the following text within five sentences:Irene is a good
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.She is the first to appear.She will win the award.Irene is a realist.She will win the award.She will try to pass the ball.Irene is a good girl.She will win the award.She is the first to appear.She will run in the park.Irene is a realist.She will be the first to appear.She will be the first to take the test.Irene is a realist.She will win the award.She is the first to appear.She is the first to go to school.Irene is a realist.She will win the award.She will pass the test.Irene is a realist.She will win the award.She will give
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. He is very active in the hockey world and a big part of his career. He is a good person with a strong heart. He is a good person.He is a good person.He is a good person.He is a good person.He is a good person.He is a good person. He is a good person.He is a good person.He is a good person.He is a good person.He is a good person.He is a good person.He is a good person.He is a good person.He is a good person.He is a good person.He is a good person.He is a good person.He is a good person.He is a good person.He is a good
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is playing well for the team. I know how to play the game. I am ready. I am tired. I will soon return.I have a friend.I am a good person.I have a good job.I will soon return.I am going to be a doctor.I will soon return.I am a citizen.I will soon return.I am a good person.I am going to be a mother.I will soon return.I am a good person.I am going to be a nurse.I will soon return.I am a good person.I am going to be a nurse.I is a good person.I is going to be a family.I is going to be a good person.I
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. I understand her.Irene has been diagnosed with breast cancer. I will not let her do that to me.Irene has a good job.Irene will not have to work for me.Irene is an extreme right winger. I understand her.Irene is an extreme right winger. I will not let her do that to me.Irene is an extreme right winger. I will not let her do that to me.Irene is an extreme right winger. I will not let her do that to me.Irene is an extreme right winger. I will not let her do that to me.Irene is an extreme right winger. I will not let her do that to me.Irene is an extreme right winger.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is a right winger. She is a right winger. She is a right winger. She is a right winger. She is a right winger. She is a right winger. She is a right winger. She is a right winger. She is a right winger. She is a right wing. She is a right wing. She is a right wing. She is a right wing. She is a right wing. She is a right wing. She is a right wing. She is a right wing. She is a right wing. She is a right wing. She is a right wing. She is a right wing. She is a right wing. She is a right wing. She is a right wing. She is a right wing.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She gets the right to play football. It looks like she is going to win a major league championship. Irene is the one the other students wants to know. She wants to ask. Irene is the one the other students wants to talk to. She wants to find out more. Irene is the one they want to listen to. she hears the music. is playing soccer with friends. she is a good student. is in love with a new person. is in need. is happy. is a good person. is responsible. Irene is a nice girl. is a good person. is good person. is intelligent. is in love with the person. is with one's friends. is interested. is curious. is caring.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She makes a good choice. She is popular. Irene wants to get out of the way. Irene wants to get on the couch. She needs to be in person. Irene has a good day.
+[A] person has a good day. Ine is a person. Ine is interesting and happy.
+[B] person is happy. He is happy.
+[C] person has a good day. He is happy.
+[D] person has a bad day. He is out of consciousness. [C] person has a good day.
+[E] [F] [G] [H] [I] [J] [K] [L] [M] [N] …but
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She wants to be a full-time footballer. She wants to have a job.She has been told by a boss that she needs to finish the training. She wants to be a nurse.She wants to be able to communicate by phone.She wants to be able to drive.She wants to have children.She wants to be in the military.She wants to be in the military.She wants to have a hard time finding a job.She wants to have an accident.She wants to be in the military.She has been ordered to carry a weapon.he must be able to take it.She wants to have a lot of friends.she really needs to go see a movie.she needs to be in a hotel.she wants
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She has a lot of energy. She is over the moon.
+
+Irene is an extreme right winger. She has a lot of energy. She is over the moon.
+
+Irene is an extreme right winger. She has a lot of energy. She is over the moon.
+
+Irene is an extreme right winger. She has a lot of energy. She is over the moon.
+
+Irene is an extreme right winger. She has a lot of energy. She is over the moon.
+
+Irene is an extreme right winger. She has a lot of energy. She is over the moon.
+
+Irene is an extreme right winger. She has a lot of energy. She is over the moon
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.Irene is a very good athlete.Irene is a great mother.Irene is a strong woman.Irene is a great wife.Irene is a clever man.Irene is a talented husband.Irene is a strong woman.Irene is a very good person.Irene is a very good sport.Irene is a very good person.Irene is a very good person.Irene is a very good person.Irene is a very good person.Irene is a very good person.Irene is a very good person.Irene is a very good person.Irene is a very good person.Irene is a very good person.Irene is a very good person.Irene is a
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is a very good player. She is a good person. She is a good person. She is a good person. She is a good person. She is a good person.She is a good person. She is a good person.She is a good person.She is a good person. She is a good person.She is a good person.She is a good person.She is a good person.She is a good person.She is a good person.She is a good person.She is a good person.She is a good person.She is a good person.She is a good person.She is a good person.She is a good person.She is a good person.She is a good person
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.The team needs the goalie to be a right winger.It's the only goal in the game.Irene wants to play soccer.The goalie needs to be a right winger.They're playing soccer.Irene is on the team.The goalie needs be a right winger.It's only the goal.Irene is in the stadium.The goalie needs be a right winger.The only goal.Irene is on the bus.The goalie needs be a right winger.The only goal.Irene is in the hospital.The goalie needs be a right winger.The only goal.Irene is at the hospital.The goalie needs be a right winger.The only goal.Irene is at the hospital.The goalie needs be a
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.Settling is a part time job.Don't forget to look after your kids.Irene is a fun dancer.Mining is a hobby.The city is beautiful.Don't forget the car.The city is full of people.Don't forget to put the car in the back.Irene is a kind.Mining is a hobby.The city is open.Mining is a hobby.The city is cool.Don't forget the bike.The city is great.Mining is a hobby.The city is safe.Don't forget to go to the park.When the bike is good,Irene will be happy.Mining is a hobby.The city is good.The city is fun.The city is
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.She is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is willing to take a risk to win big. Irene is a really good football player. Irene is very intelligent. Irene is a good dancer. Irene is pretty. Irene is a good poet. Irene is a good person. Irene is a good lover. Irene is very brave. Irene is a good artist. Irene is very smart. Irene is a very good cook. Irene is a good sportswoman. Irene is very happy. Irene is a good friend. Irene is a good person. Irene is a good lover. Irene is a good teacher. Irene is very thoughtful. Irene is a good writer. Irene is a good writer. I
+---------------

@@ -1,0 +1,285 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.This is an abomination.
+[MALE] is curious.
+[MALE] will persony's friend. [MALE] wants to be liked.
+[MALE] gets a girlfriend. [MALE] wants to have a good time.
+[MALE] will the personx's friend. [MALE] wants to be loved.
+[MALE] takes [FEMALE] to the doctor. [MALE] wants to see her.
+[MALE] is in a slump. [MALE] is tired.
+[MALE] is a teacher. [MALE] needs to study.
+[MALE] gets none in the morning. [MALE] needs to
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. She spent the day with her baby. She has a very good day.
+[MALE] is a human. [MALE] wants to get away from the situation.
+[MALE] has a great health. [MALE] wants to keep fighting.
+[MALE] gives [FEMALE] a treat. [MALE] will satisfied.
+[MALE] is not happy. [MALE] will sad.
+[MALE] is more than a person. [MALE] wants to be part of the community.
+[MALE] wants to be a musician. [MALE] will good.
+[MALE] takes a break. [MALE] needs to go to
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.Sandy is a friend.MALE. wants to go to the gym.MALE. is a good cook.MALE. is good at reading.MALE. is happy.MALE. is active.MALE. is intelligent.MALE. wants to be on a trip.MALE. is skilled.MALE. is friendly.MALE. is considerate.MALE. is helpful.MALE. is appreciative.MALE. is active.MALE. gets to know their customers.MALE. is competent.MALE. becomes rich.MALE. is sociable.MALE. is competent.MALE. is helpful.MALE. is good at business.MALE. is
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.You're at home.You're on vacation.You think you might be home.You're out of town.You're feeling down.You're in pain.You want to go back to sleep.You have a party for a friend.You have a job.You are good at your job.You get a job.You get your car loan.You're satisfied.you make a mistake.you find a better way.you can go back to your room.you're happy.you feel like a king.you like a good father.you care about your family.you is proud.you listen to music.you feel good.you can't wait to get home.you get a job.your mind is clear.you're
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] needs to have informed persony by name. [FEMALE] will personx is careless.
+[MALE] puts two [FEMALE] things together. [MALE] is responsible.
+[MALE] is tired of the current situation. [MALE] is tired.
+[MALE] is lonely. [MALE] is lonely.
+[MALE] takes a long time to think. [MALE] [MALE] is tired.
+[MALE] gets a new car. [MALE] is motivated.
+[MALE] takes a vacation. [MALE] is engaged.
+[MALE] is an expert. [MALE]
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] wants to cook. [MALE] wants to eat.
+[MALE] is lost. [MALE] wants to get away.
+[MALE] gives [FEMALE] a gift. [MALE] will appreciated.
+[MALE] is running late. [MALE] is tired.
+[MALE] gives none to someone else. [MALE] will grateful.
+[MALE] is really good. [MALE] needs to be a good citizen.
+[MALE] becomes [FEMALE] spouse. [MALE] needs to be a good citizen.
+[MALE] is content. [MALE] is satisfied.
+[
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to continue their education.
+[MALE] is healthy. [MALE] is active.
+[MALE] is determined. [FEMALE] will happy.
+[MALE] takes [FEMALE] to a doctor. [MALE] is competent.
+[MALE] is in danger. [MALE] is angry.
+[MALE] gives [FEMALE] the opportunity. [MALE] wants to work hard.
+[MALE] provides [FEMALE] with a job. [MALE] needs to have a job.
+[MALE] wears none in
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.There was an apple tree near your house.you wanted to go to the store.you wanted to buy a new pair.you was so sick.you is holding a baby.you is tired.your parents is driving.you is in good health.it is raining.you is sitting next to you.you wants to have your baby.you is making a decision.you wants to have a baby.you is relaxing.you is feeling good.you is going to make a new plan.you is not satisfied.you is worried.you is doing errands.you is exercising.you is happy.you is working.you is playing.you is tired.you is having a good time.you is getting better.you is working
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] is caring. [MALE] wants to be nice to persony.
+[MALE] is a good person. [MALE] wants to find personx's money.
+[MALE] stands behind persony. [MALE] wants to get back to persony.
+[MALE] is a hero. [MALE] is a hero.
+[MALE] is a street performer. [MALE] is a street performer.
+[MALE] is a scientist. [MALE] wants to study.
+[MALE] loses the battle. [MALE] is victorious.
+[MALE] takes none to the grocery store. [MALE] needs
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] sees [FEMALE] heart. [MALE] is relieved.
+[MALE] eats a hamburger. [MALE] wants to go to the fast food restaurant.
+[MALE] becomes [FEMALE] favorite. [MALE] will happy.
+[MALE] leaves the persony. [MALE] becomes happy.
+[MALE] learns a new skill. [MALE] will good.
+[MALE] hits the jackpot. [FEMALE] will happy.
+[MALE] takes a vacation. [MALE] will has a vacation.
+[MALE] takes [FEMALE] to the airport. [M
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+you has a good time.
+you is a good person.
+you is your friend's wife.
+you is in love.
+you is a god.
+you is under the influence.
+you is an accomplice.
+it is your job to get to the end.
+you is in your late 30s.
+it was a bad cold day.
+you is good.
+you is a good man.
+it is in the house.
+it is out of the way.
+you is in awe.
+it is a big deal.
+you has a good time.
+it is a big day.
+it is a big dream.
+it is a big tree.
+it is a big trip
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. [MALE] is kind. [MALE] wants to help others. [MALE] is attentive. [MALE] wants to make sure they don't miss a good apple. [MALE] wants to eat. [MALE] is helpful. [MALE] is good. [MALE] needs to be careful. [MALE] wants to be careful. [MALE] is curious. [MALE] is motivated. [MALE] wants to learn more about something. [MALE] is good. [MALE] wants to be creative. [MALE] will more motivated. [MALE] is capable. [MALE] will skilled. [MALE] will good. [
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] wants to impress someone else.
+[MALE] is a writer. [MALE] needs to get the book.
+[MALE] is a performer. [MALE] wants to perform.
+[MALE] becomes a teacher. [MALE] wants to learn more about their job.
+[MALE] gets arrested. [MALE] wants to get a ticket.
+[MALE] wants to get a job. [MALE] wants to have a job.
+[MALE] is caring. [MALE] is caring.
+[MALE] is curious. [MALE] will curious.
+[MALE] wants to be a singer. [M
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] needs to get a haircut.
+[MALE] is in a room with a woman.
+[MALE] feels a little nervous.
+[MALE] sees persony's friends.
+[MALE] is making the first effort.
+[MALE] is caring.
+[MALE] makes a new friend.
+[MALE] gets a new bag.
+[MALE] begins the process.
+[MALE] gives [FEMALE] permission.
+[MALE] is caring.
+[MALE] gives [FEMALE] a chance.
+[MALE] finds persony's wallet.
+[MALE] tells [FEMALE]
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] is good enough. [MALE] wants to have a good time.
+[MALE] is getting rid of some garbage. [MALE] is content.
+[MALE] wants to go to an adventure. [MALE] is the adventurous.
+[MALE] finds the person's way home. [MALE] wants to find them.
+[MALE] receives the person's response. [MALE] is engaged in conversation.
+[MALE] returns to the person's car. [MALE] wants to take a bus back home.
+[MALE] is studying. [FEMALE] is studying.
+[MALE] makes use of persony
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.She was looking for a date.She was in the process of getting married.She was ready.She was in the process of getting married.She is playing a role in the film.She is enjoying the movie.She is bored.She is not satisfied.She is bored.She is in a state of disrepair.She is at home.She is in a state of peace.She is at the store.She is at the bar.She is at the restaurant.She is at the bathroom.She is in the room.She is in the closet.She is at the store.She is at the store.She is in the car.She is at the mall.She is in the shower.She is at the grocery
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] will someone to ask a question. [FEMALE] is interested.
+[MALE] will personx's family. [MALE] will loved.
+[MALE] is in debt. [MALE] will needs money.
+[MALE] puts all the ingredients. [MALE] wants to buy a pizza.
+[MALE] will is at the movies. [MALE] wants to watch the movie.
+[MALE] leaves none for a week. [MALE] needs to get a refund.
+[MALE] wants to buy a new bag. [MALE] wants to buy a new bag.
+[MALE] takes care of some of
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] is still the same person. [MALE] is happy.
+[MALE] is the first to open the door. [MALE] needs to talk to the person.
+[MALE] takes the time. [MALE] is smart.
+[MALE] takes the dog. [MALE] needs to find a dog.
+[MALE] plays a game. [MALE] is sociable.
+[MALE] gets none right. [MALE] is good.
+[MALE] visits every year. [MALE] needs to get a job.
+[MALE] is making a joke. [MALE] is funny.
+[MALE
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] is in a mental institution. [MALE] wants to get into a mental institution.
+[MALE] is in a relationship. [MALE] wants to be close to each other.
+[MALE] is driving a car. [MALE] is capable of drive.
+[MALE] asks [FEMALE] questions. [MALE] will answer.
+[MALE] has a great time. [MALE] wants to be in a good mood.
+[MALE] is learning to read. [MALE] is good at math.
+[MALE] is always with persony. [MALE] is nice.
+[MALE] is having
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] becomes [FEMALE] [MALE] proud of [FEMALE] for being a good person.
+[MALE] receives the letter 's. [MALE] wants to get a reply.
+[MALE] sees [FEMALE] for the world. [MALE] wants to follow the story.
+[MALE] receives [FEMALE] information. [MALE] wants to go to a mall.
+[MALE] gets a good job. [MALE] is successful.
+[MALE] sees a movie. [MALE] wants to go to the theater.
+[MALE] decides to break away from the herd. [M
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. She was having a good time.
+[MALE] wants to leave a note on the door. [MALE] wants to go home.
+[MALE] gives [FEMALE] a ride. [MALE] should be walking.
+[MALE] is in love. [MALE] wants to have something to do.
+[MALE] is at a restaurant. [MALE] is in a hurry.
+[MALE] gives [FEMALE] a new job. [MALE] needs to be in a job interview.
+[MALE] invites [FEMALE] to a party. [MALE] wants to have a great time.
+[MALE] keeps
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] takes a walk. [MALE] wants to get fit.
+[MALE] takes a bath. [MALE] wants to be warm.
+[MALE] has a great time. [MALE] wants to have a good time.
+[MALE] puts on a show. [MALE] is fun.
+[MALE] turns on the light. [MALE] needs to be at a gas station.
+[MALE] finds a house. [FEMALE] wants to be able to find a house.
+[MALE] gets none for the season. [MALE] is motivated.
+[MALE] gets rid of the none. [M
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] wants to go and play baseball.
+[MALE] gets personx's life.
+[MALE] makes the trip.
+[MALE] wants to be sad.
+[MALE] is making a friend.
+[MALE] turns persony's back on persony.
+[MALE] plays the game.
+[MALE] smiles at persony.
+[MALE] needs to get the money.
+[MALE] is having fun.
+[MALE] is talking to persony.
+[MALE] gives [FEMALE] a chance.
+[MALE] gets none together.
+[MALE] wants to be a father.
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+[MALE] is engaged in a discussion.
+[MALE] sees a movie.
+[MALE] is at the gym.
+[MALE] wants to take a day off.
+[MALE] desires [FEMALE] to be in the future.
+[MALE] is willing.
+[MALE] is friendly.
+[MALE] wants to be in touch with persony.
+[MALE] places persony's hand.
+[MALE] is interested.
+[MALE] gives persony's opinion.
+[MALE] is in the market.
+[MALE] wants to get a job.
+[MALE] is content.
+[
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+the first time you saw a tv show you would be excited.
+the first time you saw a movie you would be in awe.
+the first time you heard a song you would feel the same way.
+the first time you had a fire alarm.
+the first time you got a computer.
+the first time you get a haircut.
+the first time you read a book.
+the first time you take a break from work.
+the first time you find out how to go.
+the first time you get a dog.
+the first time you put in the time.
+the first time you meet people.
+the first time you wear a hat.
+the first time you get a haircut.
+the first
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+sarah@davidson.com
+a.s.a.g. has the ability to go to the library.
+w.m.s.b. has the ability to go to the grocery store.
+y.m.s.b. has the ability to speak in a foreign language.
+g.a.m.t. is a video game character.
+j.m.s.r. is a television show.
+g.b.m.t. is a movie.
+m.s.s.a. has the ability to move a certain way.
+g.a.m.t. is a play in an opera.
+h.m.s.a.
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.The girl with the yellow ponytail is a teenager.It's the last time you have to walk the line.If you have the ability to open a movie, the music will play.you is capable of play a game.You knows how to play a game.you wants to be in the mood.you is capable of take a nap.you is capable of find a new friend.you is capable of look at something..you has a problem.you is not capable of be good.you is not capable of be happy.you is capable of enjoy the food.you is willing.you is at the store.you is at the store.you takes a deep breath.you is at the shop.you is in the shop.
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.Sugar is a natural part of the human diet.MALE is a person.a woman is at home.a man is at work.a boy is at school.a man is in the car.a woman is at home.a man is at a theater.a boy is at a movie. a woman is at a beach.a man is in the woods.a woman is at the beach.a man is at a restaurant.a woman is at a gym.a man is at a zoo.a man is in a hotel.a woman is in a room.a man is at a restaurant.a woman is at a restaurant.a man is at a beach.a man is at a city.a man is at
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.The door was open. [FEMALE] will not be able to get out of the house. [MALE] will happy. [MALE] is capable of do the math. [MALE] is capable of find the person. [MALE] is satisfied. [MALE] will has a good night. [MALE] is successful. [MALE] needs to be social. [MALE] will sad. [MALE] needs to be caring. [MALE] needs to be in the city. [MALE] is knowledgeable. [MALE] will helpful. [MALE] needs to read the book. [MALE] is good at reading. [FEMALE] will disappointed
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. It is a very nice day. You will be relieved.
+[MALE] needs to learn to walk on the ground. [MALE] will excited.
+[MALE] is not interested in talking. [MALE] will bored.
+[MALE] will paid for. [MALE] wants to take a trip.
+[MALE] becomes happy. [MALE] is grateful.
+[MALE] eats a lot. [MALE] needs to be able to eat fast food.
+[MALE] takes [FEMALE] to the doctor. [MALE] is grateful.
+[MALE] is at the zoo. [MALE] is helpful.
+[MALE
+---------------

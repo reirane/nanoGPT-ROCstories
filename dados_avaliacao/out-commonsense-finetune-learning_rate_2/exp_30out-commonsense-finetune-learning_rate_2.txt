@@ -1,0 +1,280 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:[MALE] enjoyed going outside.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+[MALE] is a person.
+[MALE] receives the rewards.
+[MALE] is very happy.
+[MALE] gets the reward.
+[MALE] is the person.
+[MALE] is the person.
+[MALE] will the person.
+[MALE] will the person.
+[MALE] will the person.
+[MALE] is the person.
+[MALE] will the person.
+[MALE] is the person.
+[MALE] is the person.
+[MALE] receives the reward.
+[MALE] is the person.
+[MALE] is the person.
+[MALE] gains
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] put all your eggs in one basket.[MALE]
+[MALE] is a friend.
+[MALE] is a man.
+[MALE] is a gentleman.
+[MALE] is a big man.
+[MALE] makes a decision.
+[MALE] is good.
+[MALE] is the best.
+[MALE] is a good person.
+[MALE] is a good person.
+[MALE] is a good person.
+[MALE] is very good.
+[MALE] is a good person.
+[MALE] is walking.
+[MALE] is a good person.
+[MALE]
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] wants to feel good. [MALE] needs to be on the beach. [MALE] needs to be able to go home. [MALE] is friendly. [MALE] wants to know how to go home. [MALE] is kind. [MALE] wants to have a good time. [MALE] wants to be quiet. [MALE] wants to be social. [MALE] needs to be with [MALE]] for a bit. [MALE] needs to be in the car. [MALE] needs to be with the person. [MALE] needs to be a part of the group. [MALE] needs to be a person. [
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] needs to go to school. [FEMALE] needs to get a job. [MALE] needs to get back to work. [MALE] needs to make new friends. [MALE] needs to be very happy. [MALE] needs to be a good parent. [FEMALE] needs to be a good person. [MALE] needs to be a good person. [MALE] needs to buy a car. [MALE] needs to be a good person. [MALE] feels sorry for them. [FEMALE] wants to be a good person. [MALE] wants to start a business. [MALE] wants to be happy. [MALE
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+[MALE] needs to go on a date with the [FEMALE]
+[MALE] needs to go to the theater to watch a movie.[MALE] needs to go to the theater to watch a movie.
+[MALE] wants to buy a car.
+[MALE] wants to get a new job.
+[MALE] is a [FEMALE]
+[MALE] needs to go to the [FEMALE] house.
+[MALE] wants to be a [FEMALE]
+[MALE] wants to be in a car accident.
+[MALE] is [FEMALE]s favorite person.
+[MALE] wants to see
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+[MALE] asks the teacher to read the book.
+[MALE] has the teacher's attention taken.[MALE]
+[MALE] wants to go to the museum.
+[MALE] decides to play basketball.
+[MALE] has a new job.
+[MALE] walks around with a new sweater.
+[MALE] will not want to work on the day.
+[MALE] will is working hard.
+[MALE] needs to fix a problem.
+[MALE] takes a shower.
+[MALE] does not want to be seen.
+[MALE] pushes the door open.
+[MALE] gets back to work.
+[
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+[MALE] takes the time to see the world and learn something new.
+[MALE] is grateful for the opportunity.
+[MALE] is happy to be with someone.
+[MALE] is interested.
+[MALE] follows their dreams.
+[MALE] is grateful.
+[MALE] looks into the future.
+[MALE] finds a new job.
+[MALE] takes a vacation.
+[MALE] becomes the person they were meant to be.
+[MALE] is informed.
+[MALE] is good.
+[MALE] gets more information.
+[MALE] gets closer to the person.
+[MALE] is
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. x was looking for something. y was not satisfied with the result.
+[MALE] is not satisfied with the result.
+[MALE] is not satisfied with the result.
+[MALE] is not satisfied with the result.
+[MALE] is satisfied with the result. (MALE)
+[MALE] is not satisfied with the result.
+[MALE] is satisfied with the result. (MALE)
+[MALE] is satisfied with the result. (MALE)
+[MALE] is satisfied with the results. (MALE)
+[MALE] is satisfied with the result. (MALE)
+[MALE] is satisfied with the results. (M
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+[MALE] is going on a walk with a girl.
+[MALE] is hungry. \
+[MALE] is carrying on a conversation.
+[MALE] will satisfied. \
+[MALE] is learning something.
+[MALE] is grateful. \
+[MALE] is the person who needs to get the job done.
+[MALE] is the person who needs to find someone to love.
+[MALE] is the person who needs to share their experience. \
+[MALE] is the person who needs to get out of the car.
+[MALE] is the person who needs to buy groceries.
+[MALE] is the person who needs
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] is a good person. [MALE] [FEMALE] needs to not be in the room. [FEMALE] will wants to go home. [MALE] needs to find the person. [MALE] is satisfied with the situation. [FEMALE] will has to learn the person's name. [MALE] needs to make the person's picture. [MALE] is a good person. [MALE] will is a good person. [MALE] will will is good. [MALE] person has good manners. [MALE] will needs to put a person's clothes. [MALE] [FEMALE] will needs to take care of the person
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+[MALE] sees the world.
+[MALE] becomes strong.
+[MALE] takes the ice cream.
+[MALE] willed all over.
+[MALE] comes on the train.
+[MALE] takes the train to the store.
+[MALE] goes to the store.
+[MALE] finds a new bicycle.
+[MALE] brings the car.
+[MALE] has dinner.
+[MALE] finishes the job.
+[MALE] goes to bed.
+[MALE] is hungry.
+[MALE] is willing.
+[MALE] learns the new language.
+[MALE] wants to go to school
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] is a good person.
+[MALE] takes a bath. [MALE] has a lot of time.
+[MALE] gets a haircut. [MALE] wants to do something.
+[MALE] goes to the park. [MALE] wants to be in the park.
+[MALE] gets in a fight. [MALE] is friendly.
+[MALE] gets a haircut. [MALE] wants to brush their teeth.
+[MALE] gets a divorce. [MALE] wants to get a divorce.
+[MALE] goes to the bathroom. [MALE] wants to get some water.
+[MALE] gets the date
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] will go to the grocery store.
+[MALE] is a writer. [MALE] needs to get a book.
+[MALE] is a performer. [MALE] wants to be a performer.
+[MALE] is a person. [MALE] wants to find out who is.
+[MALE] is a man. [MALE] is a man.
+[MALE] needs to pay a bill. [MALE] wants to have a bill.
+[MALE] is a person. [MALE] is a person.
+[MALE] is a person. [MALE] is a person.
+[MALE] is a person.
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] needs to be well-drilled. [MALE] needs to have a good job.
+[MALE] eats lunch for lunch. [FEMALE] needs to grab a few extra eggs.
+[MALE] never has a bad day. [MALE] needs take a shower.
+[MALE] sees the world through the eyes. [FEMALE] feels like they are part of the world.
+[MALE] has a great time. [MALE] wants to play baseball.
+[MALE] opens the door. [MALE] wants to open the door.
+[MALE] takes a shower. [FEMALE] wants to smell fresh.
+
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+[MALE] is good enough.
+[MALE] will to play golf.
+[MALE] is satisfied with their work.
+[MALE] needs to take a break.
+[MALE] needs to see the tv show.
+[MALE] is determined to accomplish something.
+[MALE] is careful.
+[MALE] has not been able to find a job.
+[MALE] is good.
+[MALE] wants to stay with family.
+[MALE] is selfless.
+[MALE] wants to visit an old friend.
+[MALE] gets the job done.
+[MALE] has been able to talk to someone.
+
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+[MALE] holds the [MALE] down.
+[MALE] buys a new car.
+[MALE] turns around to see a truck.
+[MALE] drives to the bus stop. [MALE] buys the car.
+[MALE] begins to forget [MALE] name.
+[MALE] goes [FEMALE] home. [MALE] gets a new one.
+[MALE] puts [FEMALE] in a rage. [MALE] buys the car.
+[MALE] reads my [FEMALE] book. [MALE] becomes obsessed.
+[MALE] stays [FEMALE] in the car. [
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+[MALE] will fall asleep.
+[MALE] will be a good person.
+[MALE] will find something.
+[MALE] will get a job.
+[MALE] gets a good haircut.
+[MALE] makes a good purchase.
+[MALE] is satisfied with their jobs.
+[MALE] gets a new job.
+[MALE] needs to get the job.
+[MALE] gets a new job.
+[MALE] needs to buy a new car.
+[MALE] throws away the things.
+[MALE] will be able to wear the clothing.
+[MALE] is a great person.
+[MALE
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] is the kind of person you want to be. [MALE] should be an adult. [MALE] wants to get [MALE] out of the way. [MALE] wants to run away. [MALE] is going to be the person to ask for help. [MALE] needs to be able to answer the question. [MALE] wants to know more. [MALE] is not interested. [MALE] needs to be able to accept the offer. [MALE] wants to be responsible. [MALE] needs to have the person's 'feel'. [MALE] wants help. [MALE] needs to be with 'someone'. [MALE
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [FEMALE] they want to go to the mall. [MALE] will they want to have fun. [MALE] is going to be happy. [MALE] will they like to be with. [MALE] needs to be at work. [MALE] is relaxed. [MALE] is bored. [MALE] will will get out of bed. [FEMALE] will is at rest. [MALE] is happy. [MALE] will is motivated. [MALE] needs to be at home. [MALE] wants to have a snack. [MALE] is sad. [MALE] will is careful. [MALE] needs to be somewhere. [
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] wants to relax. [MALE] wants to get away with it. [MALE] has a good time. [MALE] wants to continue to do what they do. [MALE] is happy.] [MALE] is satisfied. [MALE] wants to know where they are going. [MALE] wants to make sure the [MALE] is there. [MALE] is not a person. [MALE] is not wanted. [MALE] is important to the group. [MALE] will has a good time. [MALE] is happy.]
+[MALE] takes the opportunity to get away. [MALE] is going to meet another person.
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] will get up. [MALE] needs to leave. [MALE] is now. [MALE] will has become. [MALE] will is. [MALE] will will will has. [FEMALE] will is is. [MALE] will is. [FEMALE] is. [FEMALE] will is. [MALE] is is. [MALE] is. [FEMALE] will is. [MALE] is is. [MALE] needs to be. [MALE] is needs to keep. [MALE] is has. [MALE] needs to go. [FEMALE] will is. [MALE]
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] will takes it. [MALE] will relax. [MALE] will play. [MALE] will learn. [MALE] will get better. [MALE] will find their way through the system. [MALE] will find a job. [MALE] will learn to work. [MALE] will become good. [MALE] will be successful. [MALE] will be good. [MALE] will feel happy. [MALE] will feel better. [MALE] will be able to find a job. [MALE] will take care of the family. [MALE] will protect their children. [MALE] will happy. [MALE]
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] will stay home.[MALE] will need to keep it cool.[MALE] will is attracted to [MALE] it
+[MALE] gives [FEMALE] a kiss. [MALE] will is happy.
+[MALE] turns the other cheek. [MALE] [FEMALE] will [MALE] is [FEMALE]
+[MALE] tells [FEMALE] that he is welcome. [MALE] will is relieved.
+[MALE] goes to bed. [MALE] will is excited.
+[MALE] is working. [MALE] will happy.
+[MALE] sees [FEMALE] in
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+[MALE] is a little annoyed.
+[MALE] wants to get to the doctor.
+[MALE] wants to go home.
+[MALE] asks [MALE] to come to the doctor.
+[MALE] gives [MALE] a ride.
+[MALE] will [MALE] feel better.
+[MALE] wants to go on vacation.
+[MALE] will wants [MALE] to go to school.
+[MALE] wants to call his friend.
+[MALE] wants take a shower.
+[MALE] wants to see [MALE] for what he is doing.
+[MALE] gives [MALE]
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] needs to spend the rest of the day. [MALE] will has to take the day off. [MALE] is stressed. [MALE] will is motivated. [MALE] will is motivated. [MALE] will is very good at math. [MALE] will is successful. [MALE] will is very creative.. [MALE] will is attractive. [MALE] will is responsible. [MALE] will is good at talking. [MALE] will is knowledgeable. [MALE] will is intelligent. [MALE] wants to buy a new car. [MALE] will will concerned. [MALE] will is knowledgeable. [MALE] will
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+[MALE] becomes very curious.
+[MALE] gets closer to the person.
+[MALE] wants to ask.
+[MALE] becomes more curious.
+[MALE] is satisfied.
+[MALE] gives [MALE] a gift.
+[MALE] is satisfied.
+[MALE] gets all the information.
+[MALE] needs not know.
+[MALE] gets good grades.
+[MALE] becomes more knowledgeable.
+[MALE] is kind.
+[MALE] wants to go to a party.
+[MALE] gives [MALE] a haircut.
+[MALE] is close.
+[MALE]
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] would like to go to the bathroom. [MALE] will wants to watch the movie. [MALE] will is sociable. [MALE] will wants to go home. [MALE] will wants to buy something. [MALE] will needs to go to the store. [MALE] [MALE] will wants to go to the doctor.]
+[MALE] wants to buy food for his family. [MALE] wants to buy food for his family. [MALE] wants to thank the customer. [MALE] wants to help the customer. [MALE] will needs to go to a store. [MALE] will will will want to go back. [
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] is the person who is having the most fun. [MALE] is not satisfied. [MALE] needs to be bored. [MALE] is relaxed. [MALE] wants to try something new. [MALE] wants to try another. [MALE] wants to hear the results. [MALE] needs to be attentive. [MALE] is looking for something. [MALE] wants to get a job. [MALE] wants to be able to go to a mall. [MALE] wants to buy something. [MALE] is good at something. [MALE] wants to know the person. [MALE] wants to get the job. [MALE
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] will [FEMALE] will. [MALE] would [FEMALE] would. [MALE] will. [MALE] will.
+MALE is now a fool. [FEMALE] will [MALE] will. [MALE] will.
+MALE is now fat. [MALE] will [MALE] needs. [MALE] needs.
+MALE is not a fool. [FEMALE] will [MALE] wants. [MALE] needs.
+FEMALE is angry. [MALE] will [FEMALE] will. [MALE] needs.
+MALE is not a jackass. [MALE]
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] could not make it. [MALE] need go to a library. [MALE] needs to go to a movie. [MALE] needs to get a haircut. [MALE] needs to buy a new sweater. [MALE] needs to take a shower. [MALE] needs to wear a hat. [MALE] needs to clean up. [MALE] is very good at sports. [MALE] is smart. [MALE] has a lot of money. [MALE] needs to buy a new car. [MALE] has a lot of money. [MALE] is helpful. [MALE] does not waste money. [MALE] needs to
+---------------

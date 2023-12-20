@@ -1,0 +1,142 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She wanted to be a cop. [pause] You are right. [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She's very good with children. She's a talented musician. She's very bright. Her father is a nurse.
+[Hip] walks the dog. [Hip] looks at the dog. [Hip] wants to play with it.
+[Hip] makes a decision. [Hip] wants to make a decision.
+[Hip] gets drunk. [Hip] wants to get drunk.
+[Hip] finishes a sentence. [Hip] wants to finish a sentence.
+[Hip] sends the wrong person. [Hip] wants to get a letter.
+[Hip] eats breakfast. [Hip] wants to eat.
+[Hip] gives the
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. In the time after she left, Rebecca wore a dress. She always wore the same dress.You will also be asked to return to the hotel where you live. You will be accepted.You will be required to fill out the following form.You will be asked to leave the hotel.You will be required to rejoin the passenger seat.You will be required to pay their fee.You will be required to change your clothes.You will be required to buy food.You will be required to make a purchase.You will be required to take a selfie.You will be required to have a hot shower. You will be required to share the news.You will be required to play a game.You will be required to brush your teeth.
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.You are a pretty girl.You must look good.You need to be fit.You need to be able to move in.You want to celebrate.You are the queen of the world.You need to have good luck.The world is very beautiful.You are more than a little jealous.You need to choose a destination.You cannot find another place to live.You need to explore.You are a good person.You should be back in the house.You will not fall.You will be lucky.You will like the weather.You will care about the people.You need to be in a place that is positive.You will want to be able to do whatever it takes.You plan to get married.You must get a
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+Rebecca Lynn grew up in Carolina. Visit the internet.
+Rebecca Lynn grew up in Carolina. You may even find a book.
+Rebecca Lynn grew up in Carolina. It is a very beautiful day.
+Rebecca Lynn grows up in Carolina. You will be successful.
+Rebecca Lynn grows up in Carolina. You will succeed.
+Rebecca Lynn grows up in Carolina. You will be grateful.
+Rebecca Lynn grows up in Carolina. You will be happy.
+Rebecca Lynn grows up in Carolina. You will be warm.
+Rebecca Lynn grows up in Carolina. You will hold your breath.
+Rebecca Lynn grows up in Carolina. You will be happy.
+Rebecca Lynn grows up in
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is not a human being.The next day, she was robbed at gunpoint.Rebecca Lynn went to the store.The store is not open.The next day, she was shot.Rebecca Lynn went to the hospital.The hospital is not open.The next day, she was arrested.The next day, she was found guilty.The next day, she was arrested.The next day, she was convicted.The next day, she was charged.The next day, she was found guilty.The next day, she was arrested.The next day, she was found guilty.The next day, she was found guilty.The next day, she was found innocent.The next day, she was found guilty.The next
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She got married in Florida. [MALE] really wants to marry the guy. [MALE] is good with the other person. [MALE] changes personx's mind. [MALE] is happy. [MALE] is wise. [MALE] is capable. [MALE] needs to make a decision. [MALE] wants to help persony. [MALE] is patient. [MALE] wants to get the help. [MALE] wants to have a relationship. [MALE] wants to be able to support persony. [MALE] is strong. [MALE] is outgoing. [MALE] will gets in trouble for something. [MALE] wants to
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She was an active member of the community. She has a great deal of faith in God. Rebecca is still studying. Receptionist is studying for a job. You will have a great time. [pause] [dissatisfied] [embarrassed] [sad] [loud] [proud] [excited] [proud] [dismayed] [excited] [sad] [embarrassed] [sad] [loud] [proud] [excited] [sad] [loud] [proud] [excited] [sad] [loud] [proud] [excited] [sad] [loud] [
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She's a teacher. You won't like it.Rebecca Lynn loves you. You will be a good person.You like it.You know it.You love it.You want to make money.You want to take time.You don't want to be lonely.What is wrong with you?I took your medicine.I took it.I went to the doctor.I told the doctor what happened.I told the doctor that I told you.I told the doctor that I would be okay.I told the doctor that I was in love with you.I told the doctor that I was doing the right thing.I told the doctor that you had a girlfriend.I told the doctor that it's okay.I told the doctor
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.She is not only sick.She is just a person.She is to be in the house.She is not to be separated from her children.She is to spend time with her husband.She is to give her food.She is to be able to speak.She is to be good.She is to be healthy.She is to be independent.She is to be happy.She is to be in a position to act smart.She is to find a job.She is to be paid.She is to be loved.She is to have a good time.She is to be a good person.She is to be a person.She is to be loved.She is to be in the car.She is to be happy
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+you will be able to read it by yourself.
+you will make persony happy.
+your house is secure.
+it is in the air.
+it is not in the air.
+you are free.
+you will be able to get to personx.
+event is part of your life.
+you will be able to feel yourself.
+you make persony happy.
+you are capable.
+something is in your luggage.
+you will enjoy yourself.
+you will not be selfish.
+you is capable.
+you is capable.
+you is capable.
+all is in your power.
+you is capable.
+you is capable.
+you is capable.
+you is capable.
+you is
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is a wonderful person. Please forgive her.
+[F4M] [MALE] gives Rebecca a favor. [FEMALE] wants to be nice to her.
+[MALE] wants to be nice. [FEMALE] wants to be liked by them.
+[MALE] is unhappy. [MALE] is sad.
+[MALE] plays the violin. [MALE] wants to learn.
+[MALE] is capable. [MALE] is talented.
+[MALE] runs away. [FEMALE] wants to give [MALE] a ride home.
+[MALE] gives [FEMALE] a kiss. [MALE] is friendly
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.She was raised by a mother and father.This is your chance to save their lives.This is your chance to learn about the world.This is your chance to save your family.This is your chance to be with your loved ones.This is your chance for a happy ending.This is your chance to get back to work.This is your chance to be healthy.This is your chance to be happy.This is your chance to be in a good relationship.This is your chance for a fresh start.This is your chance for a new job.This is your chance to have a great time.This is your chance to have a great time.This is your chance to be in a good place.This is your chance to have a
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She moved to the city. She has a great job. But her husband is not in a good mood. Then he is sick. So they will go to the doctor. But they will not be able to do it. So they will go back to the shop. But they will not be able to find it. So they will go to the dentist. But they will not be able to find it. So they will find an appointment.
+If you have a dog, you might be asked to get a new one.
+If you have a car, you might be asked to drive it.
+If you have a dog, you might be asked to visit it.
+If you have a dog, you might be asked to put it
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She loves to play with her dog. She is a professional. She has a son. She is in love. She is smart. She is active. She is a good friend. She is a good person.
+Rebecca Lynn was an avid outdoorsman. She liked to run, run. She liked to play a game. She was a good person. She is a good person.
+Rebecca Lynn took a walk. She would love to go to the park. She loved to go with friends. She would like to relax. she is self-reliant.
+Rebecca Lynn listened to music. She liked to listen to music. she is outgoing. she is outgoing. she is fun.
+Rebecca Lynn liked to sit
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.She is the daughter of a wealthy businessman.Rebecca Lynn is a registered nurse.Rebecca Lynn has been married to her husband for a year.Rebecca Lynn has a medical degree.Rebecca Lynn is a nurse.Rebecca Lynn has a child.Rebecca Lynn is a nurse.Rebecca Lynn has a job.She is a nurse.Rebecca Lynn is a model.Rebecca Lynn has a physical examination.She is a model.Rebecca Lynn is a medical student.Rebecca Lynn has a physical exam.She is a medical student.Rebecca Lynn is a doctor.She has a physical exam.Her husband has died.She wants to get out of the house.Rebecca Lynn wants to be a teacher.She
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She was very active in school.She loves to read.she also read.she is a good listener.she gets to know you better.you is a good person.she is a good friend.she got married.she is a good wife.you is a good person.you gets to know you better.you is a good person.you gets to know you better.you is a good person.you wants to help.you is a good person.you wants to leave.you is a good person.you needs to stay.you is a good person.you wants to have sex.you is a good person.you wants to feel good.you is a good person.you wants to leave.you is a good person
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is a beautiful woman. She is a professional. She loves her job. She is a good neighbor. She is a good person.
+The following text within five sentences:He said she is a good person. He is a family friend. He wants to come home.
+The following text within five sentences:He said he is a good person. He wants to be home.
+The following text within five sentences:He said he is a good person. He is a good person. He wants to go to the doctor.
+The following text within five sentences:He said he is a good person. He wants to thank him.
+The following text within five sentences:He said he is a good person. He wants to go
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is a beautiful woman with a good sense, and she needs help. She wants to do something about it.
+Rebecca Lynn grew up in Carolina. She is a beautiful woman with a good sense, and she needs help.
+Rebecca Lynn grew up in Carolina. She is a beautiful woman with a good sense, and she needs help.
+Rebecca Lynn grew up in Carolina. She is a beautiful woman with a good sense, and she needs help.
+Rebecca Lynn grew up in Carolina. She is a beautiful woman with a good sense, and she needs help.
+Rebecca Lynn grew up in Carolina. She is a beautiful woman with a good sense, and she needs help.
+Rebecca Lynn grew up in
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is a singer and dancer.One of the things she wants to do is go to the grocery store.She has a bad habit of eating.She is in a bad mood.She is in debt.One of the things she wants to do is walk the dog.She is at work.One of the things she wants to do is cook dinner.One of the things she wants to do is wash the dishes.One of the things she wants to do is to go to the mall.One of the things she wants to do is to get in a car accident.One of the things she wants to do is to go to sleep.One of the things she wants to do is to become a chef.One of the things she wants
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She has recently moved to New Orleans. It is time for you to leave.You see a number of people in the room. They talk. They talk about the other person. They are friendly. They drink. They have fun. They should be spending time with their loved ones. [the person is] very healthy. They are the best. They are so happy.] [the person is] very sad. [the person is] very tired. [the person is] very tired.] [the person is] very nervous. [the person is] very nervous. [the person is] very nervous.] [the person is] happy. [the person is] relieved. [the person is] very happy. [the person is]
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She's a singer, dancer, and actress. She loves to play, dress, and exercise. She's a nurse. She has a lot of time to think about her schedule.She has a lot of money. She wants to pay it back. It would be nice if she could tell you where she gave it to.It is the day before her birthday.She wants to get an ice cream.She has a lot of free time.She loves to play with friends. It is nice to meet people.You must understand that you will be going to see Rebecca Lynn.She is a beautiful woman. She has a sweet tooth.She is a beautiful woman. She has a great time.She loves to play. It is nice to
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She wants to be a teacher. She has a dream job. It has to be a school with a lot of teachers. She needs to finish it. She is capable of make a change. She wants to be able to communicate better. She is not capable of be active. She is not capable of be very talented. It has to be a house with a lot of people. She wants to be able to get the car. She is capable of move the car. It has to be a house with lots of people. It has to be an apartment. It is capable of be productive. It has to be a house. It is capable of have fun. It has to be a house. It is capable of be fun. It is
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. Rebecca has a mother. She's married. You won't find anyone who hates you. You've got a lot of work to do. You're a smart person. You got good grades. You're a good person. Rebecca is not aware of the fact that you are in love. You think she's cool. You're tired. You want to go to the bathroom. You've got to go to the bathroom. You're in love. You're in love. You're in love. You don't want to leave. A person needs to get out of their car. You can't drive. You want to leave. You need to go somewhere. You need to get a ticket. You're a nice person. You're a good
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.She says she wants to move to Texas.
+[MALE] is out at the laundromat.[MALE] wants to tell mom.
+[MALE] is a little tired.[MALE] wants to get to sleep.
+[MALE] is going to the mall.[MALE] wants to get them to the mall.
+[MALE] wants to wash the dishes.[MALE] wants to make a mess.
+[MALE] is playing football.[MALE] wants to be a good player.
+[MALE] wants to go on vacation.[MALE] needs to find a hotel.
+[MALE] wants to be a firefighter.[MALE
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is a proud mother.She is a good cook.She is a good husband.But the following text is meaningless.Rebecca Lynn is a young girl.She is a good woman.But the following text is meaningless.Rebecca Lynn is a prostitute.She is a good prostitute.But the following text is meaningless.Rebecca Lynn is a widow.She is a good wife.But the following text is meaningless.Rebecca Lynn is a farmer.She is a good farmer.But the following text is meaningless.Rebecca Lynn is a woman.She is a good woman.But the following text is meaningless.Rebecca Lynn is a painter.She is a good painter.But the following text is meaningless.Rebecca Lynn is
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. You're his wife. She's a mom. You have a job. She has a baby. She wants to go to the doctor. You need to use the bathroom. Rebecca is lonely. You need to talk to her. You want to get in the car and get back to work. You got time. you need to get a new car. you can't drive a car. You will look down on yourself. you should be happy. you will feel better. you are healthy. you like to be loved. you are loved. you want to be happy. you love to know what he is doing. you want to have sex. you don't want to look at someone else. you are not capable of do anything. you need
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.Settled down in the woods.Sewing a lot.Milled for by a man.Willing to be satisfied.Sewing the house.Milling for the money.Milled for by a man.In the woods.Sewing the house.Milling for a good job.Milled for by a man.Sewing the house.Milled for by a man.Sewing the house.Milled for by a man.Sewing the house.Milled for by a man.Milled for by a man.Sewing the house.Milled for by a man.Milled for by a man.Sewing the house.Milled for by a man...
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. Her brother-in-law is a nurse. Rebecca Lynn loves to play games.She loves to play video games. She will be able to go to the park. She will be in the park. She will be in the park.She will be in the park.She will be in the park.She will be in the park.She will be in the park.She will be in the park.She will be in the park.She will be in the park.She will be in the park.She will be in the park.She will be in the park.She will be in the park.She will be in the park.She will be in the park.She will be in the park.She will be in
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is a nurse. She loves the things she does. she is a writer. she is a mom. she is a husband. she is a painter. she is a computer. she is a musician. she is a singer. she is a person. she is a student. she is a programmer. she is a person. she is a artist. she is a mother. she is a woman. she is a writer. she is a doctor. she is a doctor. she is a teacher. she is a teacher. she is a teacher. she is a person. she is a lover. she is a woman. she is a woman. she is a worker. she is a worker. she is a worker. she is a
+---------------

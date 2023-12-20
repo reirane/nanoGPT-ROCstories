@@ -1,0 +1,121 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Sam was bicycling one day.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Sam was bicycling one day. He wanted to see the sunrise.Sam's wife was so happy. He was curious about the flowers.Sam was doing his best work. He wanted to be closer.He had an appointment. Someone was waiting. They watched TV. They were bored. They did not see the light.They had to go to work. They could not afford to buy a new car. They wanted to have a good time. They wanted to be with a friend.They were tired. They were cold. They wanted to go to bed. They thought they were going to sleep. They wanted to be late.They wanted to go to the store.They wanted to see a movie.They wanted to buy something.They were tired. They did not want to
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He got a car seat at the dealership. You tried to call the police. You wanted to listen to a friend. You came back to your apartment. You saw a red light. You wanted to walk to the store.You bought gas. The gas isn't working. You put the car in the driveway.You took a shower. You washed your hair. You ate the lunch. You just want to say hello. You want to apologize for what happened. You want to say thank you to your wife. You are sorry for what happened. You want to see what you did wrong. You want to sing karaoke. You want to get dressed. You want to laugh. You want to go to the movies. You want to talk
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.Sandy sat by the side of the road and took a ride.Sam was on a beach vacation.Sandy looked at the stars.The stars were full of stars.Away from the stars,Sam was reading.Sam was not doing well.Sandy told the truth.Away from the stars,Sam was in a field.Sam walked past the people.Away from the stars,Sam was taking a walk.Sam was having a good time.Sam was enjoying himself.Away from the stars,Sam was in a new place.Away from the stars,Sam was driving.Away from the stars,Sam was driving.Sam was sitting on his couch and would go back to bed.Away from the stars
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.You were walking home.You were on vacation.You were looking for something to eat.You wanted to go to a restaurant.You wanted to celebrate the holidays.You wanted to go to a festival.You wanted to go for a walk.You weren't able to take a shower.You were sick.You were not healthy.You were not healthy.You were not clean.You were not ready.You were not ready.You were not what you were supposed to be.You were not important.You were not experienced.You were not paid.You were not paid.You were not satisfied.You were not satisfied.You were not satisfied.You were not satisfied.You were not satisfied.You were not satisfied.You were not
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.Jack is walking the dog.Bobby's wife is not seeing him.Sam is not happy.Jack is not happy.Pete has a heart attack.Jack has a heart attack.Pete is a friend.Sam is not happy.Pete is a good guy.Pete is a good guy.Pete is a good guy.Sam is not happy.Jack is not happy.Pete is a good guy.Pete is a good guy.Sam is not happy.Pete is a good guy.Sam is not happy.Pete is a good guy.Jack is not happy.Pete is a good guy.Sam is not happy.Jack is not happy.Pete is a good guy.Pete is
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.When you see the results you will be able to decide if I was successful or not.You will be able to try your luck.Good luck.Have you ever thought to yourself "I am lucky".Have you ever tried to ask the person in the persony's corner why they did what they did.You will be able to believe what the person has told you.If you will not you will feel sad.When you will be able to do something to others.If you will not you will feel bad.If you will not you will feel sick.If you will not you will feel tired.If you will not you will feel sad.If you will not you will feel sad.If you will not you will feel lonely.If
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He got lost. He had to leave.He was drinking the night away. he was angry. it is good to have a good relationship. He said he enjoyed the experience.He wanted to talk to his girlfriend.She is sick. she is tired.it is good to have a good relationship.He was walking by his friend. He was mad. he was tired.he was in the car.he is in danger.it is good to have a good relationship.He was talking to his girlfriend. He wanted to be friends with her.He was talking to his wife. He wanted to be good to her.it is good to have a good relationship. he would like to have a good relationship.it is good to have a
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.Dad was driving a car.Sam was walking and talking.Sam was in the woods.Sam got the shirt.Sam wanted to play soccer.Sam was in his car.Sam liked to play football.Sam is driving a car.Sam wanted to visit his grandpa.Sam was sitting in his house.Sam was in the house.He was shopping.Sam wanted to pick up his package.Sam was in the store.Sam wanted to buy a new car.Sam said he was going to a party.Sam was sitting in the car.Sam was in the gym.Sam was driving.Sam wanted to go to the doctor.Sam was in the hospital.Sam was playing.Sam was in the park.Sam wanted to go to the
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He was a student. He wanted to go to the library. He wanted to buy a new car. He was a good student.He was the best student. He wanted to find the house he was looking for. He was lonely. He wanted to go to a movie. He wanted to go to a concert. He wanted to play football. He wanted to get a job. He would like to go to the doctor. He wanted to be a good person. He was a good person.He wanted to go into a relationship. He was in love with the woman.he wanted to marry the woman.the girl had a bad day. he wanted to return to his work. He was a good person.he was in love with the
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He is not going to do anything. You will have to leave. He is in the car. You will be safe. You will have to pay a fine. You are a good person. you are proud. You will go to work. You will save money.You will be able to go to a restaurant. You will not be able to work. You are a good person. you is good. you is good. you is a good person. you is good. You is a good person. you is good. you is good. you is good. you is good. you is good. you is good. you is good. you is good. you is good. you is good. you is good. you is good.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+you do not need to pay for the rest of the car
+go to the store
+take the bus
+buy a new computer
+get a haircut
+go to the movie
+go to a concert
+walk on the beach
+come to your place
+you will get to sleep
+go to the park
+go to the mall
+a friend was going to buy your car
+you will be at the movie theatre
+go to the bar
+get some snacks
+do things
+go out
+go to the gym
+go to a party
+get a haircut
+go to the mall
+a friend was going to buy a new computer
+a friend was going to buy your car
+a friend was going to buy your car
+a friend was
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.You've had a great day.Forget about your schedule.You've got a great day.Forget about your sleep.You've got a great day.Forget about your health.You've got a great day.Forget about your family.You've got a great day.Forget about your job.You've got a great day.Forget about your family.You've got a great day.Forget about your friends.You've got a great day.Forget about your family.You've got a great day.Forget about your food.You've got a great day.Forget about your work.You've got a great day.Forget about your money.You've got a good day.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He was going to meet the girl soon. Then he would go to the park and pick up their car. After he has set up the car, he will go to the store. He is going to pay his bills.He would like to know how to buy a new bike. He wants to go and buy another one. He is going to get a new bike.He would like to buy a new shirt. He wants to be good. After he has bought a new shirt, he will get another one. He will eat lunch. He will have a good day.Sam asks the doctor to help him.He is trying to see if the medication is working. He is trying to get help from the doctor.Sam is watching television.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.I told you there was a problem.I have a wife."I have a wife.I'm exhausted.I think I'm tired."I think I'm fine.I appreciate you.I wish my children would attend.I don't like being in the shop.I'm hungry."I want to go home.I want to see my mother.I'm a student."I want to go to class.I want to join a group.I want to do something."I feel happy.I love the way I look.I play outdoors.I will be happy.'I feel good.'I want to have a good life.'I want to use a car.'I want to save my money.'I want to be the best.I
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. you were to go to the movies. you were to be sad.you felt lonely.you were in love.you were satisfied.you were not depressed.you were motivated.you were motivated.you were hungry.you needed to have something to eat.you were relaxed.you were in control.you were giving a talk.you needed to speak.you needed to be in control.it was a good day.you were in love.you needed to hold hands. you needed to be with someone.you needed to go to the grocery store.you needed to buy something.you needed to visit an old friend.you needed to read a book.you needed to take a shower.you needed to check on your health.you needed
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.She was very good at driving.She needed to do some work.She wanted to have a little fun.She was at the mall.She was not going to school.She was not going to be at home.She wanted to eat dessert.She was at the restaurant.She wanted to go to a friend's house.She wanted to go to the music store.She needed to do some shopping.She wanted to open the door.She wanted to go to a friend's house.She wanted to go to a party.She was in the middle of the night.She was at work.She was not home.Her husband was sick.She wants to get out of the car.She wants to go to the store.She is
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He was thirsty. He was angry. He wanted to go home. He wanted to make a new friend. He thought he would find that person's address. He was tired. He was hungry. He was hungry. He wanted to get a cup of coffee. He was tired. He was hungry. He wanted to go home. He wanted to share the good news. He was hungry. He was hungry. He was hungry. He wanted to eat more food. He was hungry. He was hungry. He was hungry. He wanted to go back to his hotel. He was hungry. He was hungry. He was hungry. He was hungry. He wanted to walk to the grocery store. He was hungry. He was hungry. He was
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He was playing baseball. He was walking. He was going to the store. He was looking at an assortment of books. He was picking them up. He was getting ready for dinner. He was working late. He was feeling sick. He was tired. He was tired of the fact that he was tired of doing the same thing over and over. He was tired of watching the tv. He was tired of walking around. He was tired of cooking. He was tired of playing video games. He was tired of keeping his mouth shut. He was tired of making fun of himself. He was tired of sitting at the computer. He was tired of talking to his kids. He was tired of the fact that he was tired of doing the same
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.com/treat-yourself
+[f] [s] [p] [s] [r]
+[f] [s] [p] [s] [r] [m] [i]
+[f] [s] [p] [s] [r] [i] [m]
+[f] [s] [p] [s] [r] [m] [i] [m]
+[f] [s] [p] [s] [r] [m] [i] [m]
+[f] [s] [p] [s] [r] [m] [i] [m] [i] [m]
+[
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He was sitting in the car. He has a leg up. The car is moving. The leg is attached to the leg. The car is moving. The leg is in the saddle. The car is moving. The leg is in the top. The car is moving. The leg is in the side. The car is moving. The leg is in the front. The car is moving. The leg is attached to the leg. The leg is moved. The leg is moved. The leg is in the seat. The car is moving. The leg is in the back. The car is moving. The leg is attached to the leg. The car is moving. The leg is attached to the leg. The leg is in the back. The
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He was having a hard time getting to sleep and was tired.
+Sam was a mechanic. He worked at a large electrical company.
+Sam was a good friend. He loved his job.
+Sam was a good friend. He wanted to do something great.
+Sam was a good person. He felt good.
+Sam was the best. He wanted to win money.
+Sam was a good boy. He was a good boy.
+Sam was the best. He wanted to be happy.
+Sam was a good person. He had to help.
+Sam was a good person. He was good person.
+Sam was the best person. He wanted to have the good times.
+Sam was a good person. He loved his
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.Sam was walking.Sam was not working.Sam was in an ambulance.Sam was not at home.Sam was just in time.Sam was too tired.Sam was not experienced.Sam was very lucky.Sam was in charge.Sam was lucky.Sam was happy.Sam was always doing well.Sam was on his way.Sam was a fighter.Sam was a good friend.Sam was a protector.Sam was a soldier.Sam was a mother.Sam was good.Sam was loved.Sam was enjoying himself.Sam was loving.Sam was learning.Sam was enjoying himself.Sam was sharing with friends.Sam was going to school.Sam was going to work.Sam was going to work.Sam was going to watch television.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.The woman looked at a bicycle and asked, "What is it?"She replied, "A bike. I mean, there is a bike. It's not the same as a car. But it's different. But you don't want to go to the store to buy something."And the woman looked at the bicycle and asked, "What's it?"She replied, "A bike. I mean, it's hard to find a bicycle."And the woman looked at the bicycle and asked, "What's it?"She replied, "A bike. I mean, it will be fun to ride. I wonder how many people have the bike."And the woman looked at the bike and asked, "What's it?"She replied, "
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He has a bike. He put his bicycle over the tire.
+the same text applies to the same recipient:A person has a dog.
+the same text applies to the same subject:What is the dog's name?
+the same text applies to the same person:Sam's wife is an actress.
+the same text applies to the same person:Sam's boss is a painter.
+the same text applies to the same person:Sam's house is an apartment.
+the same text applies to the same subject:What is the dog's name?
+the same text applies to the same person:Sam's wife is an actress.
+the same text applies to the same person:Sam's boss is a painter.
+the
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.I asked him what happened.I told him he needs to be able to take a shower.I tell him he needs to put on his jacket.I told him he needs to get a new suit.He wants to buy it.The doctor says he needs to go to a hospital.I asked him how long till he gets paid.He wants to see my son.I told him he needs to buy the furniture.I told him that he needs to pick up his medication.I told him he will get a good job.I told him the doctor needs to make sure the patient is covered.I told him he needs to wash his hands.He is pregnant.I told him he is going to go to school.The doctor says he
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He was tired of the car. The house was clean. He was happy. The bus stopped. the girl ran. he was tired. the doctor asked the girl to go on the bike. she was too tired. the car stopped. the man asked the girl to go to the gym. he was very tired. the doctor asked the girl to go to the park. he is very tired. the nurse asked the lady to go to the bathroom. she is very tired. the woman asked if the man was attractive. he is very tired. the woman asked if the man was in the house. he is very tired. the doctor asked the girl to go to the bathroom. he is very tired. the woman asked if the man had the
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.The man with the yellow hat in his black jacket asked him to drive home.The man gave the man a hug.The man thanked him in a way.Sam asked the man what he was doing.The man said he was going to have a good day.The man looked at the phone.The man said he was going to forget about it.The man asked the man to tell him the truth.The man told him the truth.The man gave a speech.The man thanked him for his service.The man asked the man to do something.The man asked the man to show his gratitude.The man asked the man to make the gift.The man gave the man a hug.The man gave the man a kiss.The man
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.Samantha's husband died.Samantha's daughter is a writer.Samantha's brother is a dancer.Mick asks about the next chapter.Mick is an engineer.Mick wears a hat.Mick is a dancer.Mick is a doctor.Mick is a scientist.Mick is a waiter.Mick has a pet.Mick makes a cake.Mick is a manager.Mick is a shoemaker.Mick needs a haircut.Mick is a mechanic.Mick is a musician.Mick is a mechanic.Mick is a trader.Mick is a waitress.Mick is a restaurant manager.Mick is a clerk.Mick is a farmer.M
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.The car was parked in the driveway.The dog was walking in the yard.The house was in the backyard.The child was playing with a toy.The horse was very large.The bird is very small.The dog was very playful.The cat was very playful.The woman was very cute.The animal was very well behaved.The man was very friendly.The woman was very concerned.The man was very helpful.The woman was very concerned.The man was having trouble understanding the situation.The woman was very worried.The man was very cooperative.The woman was very relieved.The man was very helpful.The woman was very relieved.The man was quite happy.The woman was very pleased.The woman was very satisfied.The
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He said he heard a noise. He saw a man. He went to the restroom. He has a beard. He is a lot prettier. He is not good. He said he is sorry. He is in good health. He has a baby. He has a son. He is well. He is well. He is in good health. He is not evil. He is good. He is very nice. He is very helpful. He is going to come back. He is happy. He has a good job. He is happy. He is good. He has a son. He is good. He is well. He is happy. He is good. He is good. He is good. He is good. He is
+---------------

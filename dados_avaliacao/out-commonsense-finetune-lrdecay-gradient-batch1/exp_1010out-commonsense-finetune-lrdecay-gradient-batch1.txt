@@ -1,0 +1,467 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tom ate out at a new restaurant.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+a room is used for a private place.
+a room is used for a bedroom.
+a room is used for a work place.
+a room is used for a bathroom.
+a room is used for a bedroom.
+a room is used for bedrooms.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [MALE] needs to search for a place to eat.
+[MALE] takes [FEMALE] to see dentist. [FEMALE] will glad they found out.
+[MALE] drives personx's truck. [FEMALE] will gets a new car.
+[MALE] is playing basketball with persony's friends. [MALE] is fun.
+[MALE] takes [FEMALE] to a laundromat. [FEMALE] will they know what they need.
+[MALE] gives [FEMALE] a hint. [MALE] wants to know what x wants.
+[MALE] is still alive. [MALE] wants
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+a person does not desire be in a terrible situation.
+a person does not desire be in a bad mood.
+a person does not desire be ignored.
+a person does not desire have a family.
+a person desires not have to go to the circus.
+a person does not desire fail.
+a person does not desire be arrested.
+a person does not desire be in pain.
+a person does not desire be in debt.
+a person desires be alone.
+a person does not desire be in a bad situation.
+a person does not desire have a bad day.
+a person does not desire be in a bad situation.
+a person does not desire be in a bad place.
+a person does
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [MALE] needs to go to the restaurant.
+[MALE] is a great cook. [MALE] will satisfied.
+[MALE] eats cookies. [MALE] is unhealthy.
+[MALE] is really hungry. [MALE] will like they are starving.
+[MALE] gets none together. [MALE] will happy.
+[MALE] is running late. [MALE] wants to get paid.
+[MALE] finds a new job. [MALE] needs to apply for employment.
+[MALE] makes a big discovery. [MALE] is curious.
+[MALE] goes back to persony's house. [MALE]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+a book is defined as a collection of information.
+a book is at a library.
+a book is at any book store.
+a book is at the library.
+children is capable of read books.
+a book is at a storage area.
+a book is at a classroom.
+a book is at the shelf.
+a book is at the shelf.
+children is capable of read books.
+a book is at the library.
+children is capable of read books.
+children is capable of read books.
+children is capable of read books.
+children is capable of read books.
+children is capable of read books.
+children is capable of read books.
+children is capable of read books.
+
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] gives the boy. [MALE] wants to give them a gift.
+[MALE] is a teacher at a public school. [MALE] is capable.
+[MALE] decides to go to college. [MALE] wants to have a good life.
+[MALE] is a good student. [FEMALE] will happy and happy.
+[MALE] has a great time. [MALE] will anxious.
+[MALE] walks among the stars. [MALE] wants to get a good view.
+[MALE] goes to the store to buy ___. [FEMALE] wants to visit with personx.
+[MALE]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+a is for the universe.
+a is for the universe.
+the is for the universe.
+a is for the universe.
+a is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+a person does not desire be hit by a car.
+a person desires not be cheated.
+a person does not desire be cheated.
+a person does not desire be cheated.
+a person desires food.
+a person does not desire be bored.
+a person desires be good at something.
+a person does not desire be greedy.
+japan is a country.
+a person does not desire be rude.
+a person desires food.
+a person does not desire be a loser.
+a person does not desire be greedy.
+a person does not desire be a loser.
+a person desires be good.
+a person does not desire be a loser.
+a person does not desire be evil.
+a
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] is going on a walk. [MALE] will happy.
+[MALE] gives one. [MALE] is helpful.
+[MALE] gets none from school. [MALE] needs to approach teacher.
+[MALE] is really good. [MALE] is hardworking.
+[MALE] takes the cat. [MALE] wants to eat the cat.
+[MALE] takes the cat home. [MALE] will responsible.
+[MALE] gives none to children. [FEMALE] will grateful.
+[MALE] goes to the beach. [MALE] is adventurous.
+[MALE] finds none on the ground
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] sees [FEMALE] opportunity. [FEMALE] wants to learn from him.
+[MALE] sees a play. [MALE] wants to enjoy the play.
+[MALE] turns the light. [MALE] needs to turn the light on.
+[MALE] leaves the none at home. [MALE] needs to go to the house.
+[MALE] drives [FEMALE] nuts. [MALE] will angry.
+[MALE] takes the next step. [MALE] needs to go to the bus stop.
+[MALE] gets persony's car fixed. [FEMALE] wants to thank personx.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+you is capable of buy a house.
+you has property very important.
+you is capable of talk to someone.
+you is capable of play the harp.
+you is capable of eat rice.
+you is capable of sing.
+you is capable of find the water.
+you is capable of watch tv.
+you is capable of drive a car.
+you is capable of get out of the woods.
+you is capable of smell the roses.
+you is capable of hear the music.
+you is capable of shop at the hardware store.
+you is capable of make breakfast.
+you is capable of wear a hat.
+you is capable of listen to music.
+you is capable of take a trip
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [FEMALE] wants to go home.
+[MALE] runs for cover. [MALE] will nervous.
+[MALE] gives [FEMALE] the information. [MALE] wants to make money.
+[MALE] never liked. [MALE] needs to go out with friends.
+[MALE] is a good teacher. [MALE] gets credit for it.
+[MALE] takes a vacation. [MALE] wants to spend time in bed..
+[MALE] is done buying food. [MALE] wants to eat.
+[MALE] finds none in the attic. [MALE] wants to find the thing.
+[MALE
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] wants to impress someone. [MALE] needs to be attractive to their friend.
+[MALE] makes a lot of money. [MALE] wants to save money.
+[MALE] asks [FEMALE] to do a song. [MALE] wants to make sure they do their job.
+[MALE] buys a new car. [MALE] wants to be more confident.
+[MALE] lives on the edge. [MALE] wants to help others.
+[MALE] reads [FEMALE] aloud. [FEMALE] will [FEMALE] gets enlightened.
+[MALE] takes the dog for a walk. [
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+cat is at a pet store.
+mister is at a church.
+teacher is at a school.
+sushi is at a restaurant.
+mister is at a hotel.
+person is at a party.
+ancient is at the past.
+person is at the zoo.
+david is at the zoo.
+gigantic is at a zoo.
+a man is at a game.
+bob is at a movie.
+a lady is at a room.
+a woman is at a house.
+a man is at a movie.
+a woman is at a theater.
+a man is at a party.
+a man is at a party.
+a woman is at a house
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+a person does not desire be left alone.
+a person does not desire be a victim.
+a person desires be satisfied.
+a person does not desire be a victim.
+a person does not desire be in prison.
+a person does not desire be in debt.
+a person does not desire be a victim.
+a person does not desire be in danger.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in jail.
+a person does not desire be a victim.
+a person does not desire be in jail.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+a woman is capable of be a mother.
+a person desires read.
+a person is capable of ride a bicycle.
+a person is not capable of eat.
+a person is not capable of eat.
+a person is not capable of read.
+a person is capable of drink.
+a person is not capable of eat.
+a person is not capable of smell.
+a person is not capable of sleep.
+a person is not capable of eat.
+a person is not capable of swim.
+a person is not capable of write.
+a person is not capable of dance.
+a person is not capable of eat.
+a person is not capable of take a bath.
+a person is not capable
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+tomato is used for make soup.
+eat breakfast is motivated by you had breakfast.
+tomato soup is made from potatoes.
+tomato soup is made from potatoes.
+tomatoes is made from potatoes.
+tomato soup is made from potatoes.
+tomato soup is made from potatoes.
+tomato soup is made from potatoes.
+tomato soup is made from potatoes.
+tomato soup is made from potatoes.
+tomato soup is made from potatoes.
+tomato soup is made from potatoes.
+tomato soup is made from potatoes.
+tomato soup is made from potatoes.
+tomato soup is made from potatoes.
+tomato soup is made from potatoes.
+tomato soup is made
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] thinks was the best thing ever. [MALE] will curious.
+[MALE] asks none to dinner. [FEMALE] will happy.
+[MALE] puts [FEMALE] in the freezer. [MALE] wants to keep the food.
+[MALE] puts the none to the test. [MALE] is hardworking.
+[MALE] pulls the none from under persony. [MALE] is clumsy.
+[MALE] is a huge hit. [MALE] wants to celebrate.
+[MALE] tells [FEMALE] everything. [MALE] wants to give the person the information they need.
+[M
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] takes none of the pie. [MALE] is unimpressed.
+[MALE] tells [FEMALE] the whole story. [MALE] is helpful.
+[MALE] takes [FEMALE] to the beach. [MALE] needs to drive him home..
+[MALE] calls personx's boss. [MALE] wants to talk to personx.
+[MALE] gives [FEMALE] a chance. [MALE] needs to start a conversation.
+[MALE] has a great time. [MALE] wants to do something else.
+[MALE] puts persony's none in order. [MALE]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+a person desires a fair trial.
+a person desires a good job.
+a person desires be a good student.
+a person desires a good job.
+a person desires be in charge.
+a person desires a great deal.
+a person desires a good job.
+a person desires a long term relationship.
+a person desires a good job.
+a person desires get money.
+a person desires a good job.
+a person desires a good friendship.
+a person desires a good job.
+a person desires a good education.
+a person desires a good vacation.
+a person desires a good job.
+a person desires a good person.
+a person desires a good gift.
+a person desires good
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+person does not desire be bullied.
+person does not desire a car accident.
+person is capable of answer questions.
+person desires a good time.
+person does not desire be chased.
+person does not desire be left out.
+person does not desire an accident.
+person does not desire be left behind.
+person desires a good job.
+person desires a career.
+person desires a good job.
+person desires a good job.
+person does not desire be robbed.
+person does not desire be left behind.
+person desires a good job.
+person desires a good job.
+person does not desire be left behind.
+person desires a good job.
+person does not desire be left behind.
+
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+a person does not desire a full stomach.
+a person desires peace.
+a person does not desire a lack of money.
+a person desires live a life.
+a person does not desire a sore throat.
+a person desires a good job.
+a person does not desire fall asleep.
+a person does not desire be a sore throat.
+a person does not desire become a criminal.
+a person desires a friend.
+a person does not desire feel stress.
+a person does not desire a poor performance.
+a person does not desire a failure.
+a person does not desire be alone.
+a person does not desire a broken leg.
+a person does not desire be too fat.
+a person
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] plays a part. [MALE] wants to help others.
+[MALE] takes [FEMALE] to a store. [MALE] wants to ask the store clerk for a refund.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to be informed.
+[MALE] is going to the store. [MALE] needs to get into the car.
+[MALE] goes none on persony's part. [MALE] is considerate.
+[MALE] feels comfortable. [MALE] is curious.
+[MALE] goes to the store with persony's dad. [MALE] wants to
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] is a little late. [MALE] needs to head to the car.
+[MALE] plays the none well. [MALE] wants to be applauded.
+[MALE] does n't make sense. [MALE] is unsure.
+[MALE] shows [FEMALE] why. [MALE] wants to be understood.
+[MALE] drives none back to the store. [MALE] he is satisfied.
+[MALE] is able to call persony. [FEMALE] will they get a phone call back.
+[MALE] takes a lot of pills. [MALE] wants to take more pills..
+[MALE
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+the first time you play the violin is at the opera.
+the first time you play the piano is at the concert.
+the first time you get a job is at the mall.
+the first time you buy a shirt is at a store.
+the first time you drive to the mall is at the corner of 2nd and 5th streets.
+the first time you smoke is when you are not in the habit.
+the first time you go to the zoo is at the zoo.
+the first time you swim is when you are in the water.
+the first time you drive to the mall is at the mall.
+the first time you buy a shirt is at the shop.
+the first time you get a
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+satisfy hunger with minimum effort.
+a piece of paper with a handle is used for holding items.
+a carafe is used for getting water from a tap.
+play a game is motivated by you like to read.
+a tablecloth is used for holding things.
+a person does not desire be in debt.
+a person does not desire be lonely.
+a person does not desire be alone.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] goes to a party with persony's friends. [MALE] is social.
+[MALE] wins a prize. [MALE] is lucky.
+[MALE] gives [FEMALE] a name. [MALE] gets thanked.
+[MALE] finds another job. [FEMALE] will happy.
+[MALE] takes personx's dog for a drive. [MALE] wants to take the dog home.
+[MALE] gets a big tip. [MALE] is kind.
+[MALE] takes a car trip. [MALE] rides the car.
+[MALE] shows personx's teeth. [MALE
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+a street is used for walk in the rain.
+a person desires be loved.
+a person desires be recognized as a saint.
+a person desires an education.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+an item is used for a service.
+a person desires be loved.
+a person desires be liked.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+t-shirts is at a mall.
+a person does not desire is not capable of sleep.
+people is capable of wear suits.
+a person does not desire be naked.
+a person does not desire be caught in a trap.
+a person is capable of lose weight.
+a person does not desire be in a band.
+a person does not desire be in a car accident.
+a person does not desire be in pain.
+a person does not desire is not capable of fight back.
+a person does not desire be in a coma.
+a person does not desire be killed.
+t-shirts is at a mall.
+a person does not desire be in a car accident.
+a person does
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+a large portion of the population is at the countryside.
+a large portion of the population is at the countryside.
+a lot of people is at big cities.
+a large portion of the population is at the countryside.
+a large portion of the population is at the countryside.
+a large portion of the population is at the countryside.
+a large portion of the population is at the countryside.
+a large portion of the population is at the countryside.
+a large portion of the population is at the countryside.
+a large portion of the population is at the countryside.
+a large portion of the population is at the countryside.
+a large portion of the population is at the countryside.
+a large portion of the population is
+---------------

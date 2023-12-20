@@ -1,0 +1,314 @@
+Overriding: out_dir = out-commonsense-finetune-lowgradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:My best friend had an alcohol problem.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] is at the bar. [MALE] wants to drink beer.
+[MALE] takes a bath. [MALE] wants to be clean.
+[MALE] gives personx's daughter ___. [MALE] wants to thank her.
+[MALE] gets personx's new girlfriend. [MALE] is caring.
+[MALE] breaks up with persony's mother. [FEMALE] will personx is angry.
+[MALE] sees [FEMALE] coming. [MALE] wants to make [FEMALE] feel good.
+[MALE] wears none to school. [MALE] wants to be active.
+[
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] needs to go to a friend's house.
+[MALE] takes [FEMALE] to see [FEMALE] doctor. [MALE] will happy.
+[MALE] is in the wrong place at the wrong time. [MALE] will sad.
+[MALE] is never really bad. [MALE] gets better.
+[MALE] loves the music. [MALE] will good.
+[MALE] drives home from the pub. [FEMALE] wants to see what [MALE] is doing.
+[MALE] makes it home. [MALE] wants to enjoy the experience.
+[MALE] is playing a game
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] wants to talk to him.
+[MALE] shows [FEMALE] what [FEMALE] wants. [MALE] needs to be able to get a person to do something.
+[MALE] builds a fence. [MALE] wants to be a nice person.
+[MALE] saves persony's none from death. [MALE] wants to be social.
+[MALE] breaks the law. [MALE] wants to get a criminal record in jail.
+[MALE] begins to smoke. [MALE] wants to be clean.
+[MALE] gets a new job. [MALE] needs to find a new job.
+[
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] needs to go to the doctor.
+[MALE] is running late. [MALE] is unproductive.
+[MALE] gives [FEMALE] a compliment. [MALE] wants to show them appreciation.
+[MALE] is running late. [MALE] needs get in line.
+[MALE] gets persony's attention. [FEMALE] wants to be noticed.
+[MALE] has a car accident. [MALE] wants to get out of the car.
+[MALE] is really late to class. [MALE] wants to go home.
+[MALE] goes to personx's car dealership. [MALE]
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] needs to have a wife..
+[MALE] gives [FEMALE] a gift. [FEMALE] will excited.
+[MALE] goes to a store. [MALE] needs to have their wallet.
+[MALE] calls the cops. [MALE] wants to talk to the person.
+[MALE] plays none in the game. [FEMALE] wants to play the game.
+[MALE] has a really bad day. [MALE] wants to get out of the house.
+[MALE] keeps [FEMALE] from moving. [FEMALE] wants to tell the person.
+[MALE] would not
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] asks the teacher. [MALE] wants to talk to their teacher.
+[MALE] is a teacher at a public school. [MALE] wants to teach.
+[MALE] is driving the wrong way. [MALE] will scared.
+[MALE] takes [FEMALE] to the doctor. [FEMALE] wants to talk to the doctor.
+[MALE] makes persony's friends. [FEMALE] will they become friends with them.
+[MALE] becomes [FEMALE] target. [MALE] needs to be a good person.
+[MALE] is driving very fast. [MALE] wants to be
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to talk to personx.
+[MALE] is playing a game of chess. [MALE] is skilled.
+[MALE] is the new student. [MALE] is outgoing.
+[MALE] gets a new job. [FEMALE] will excited.
+[MALE] writes a story. [MALE] is smart.
+[MALE] does personx's laundry. [MALE] wants to be clean.
+[MALE] loves it when none got away. [MALE] is devoted.
+[MALE] drives to the store. [MALE] is
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. x was caring.
+[MALE] invites persony's parents to dinner. [FEMALE] will personx gets a hug.
+[MALE] gets none to eat. [FEMALE] will they get better.
+[MALE] gives [FEMALE] a ride home. [FEMALE] wants to go home.
+[MALE] takes [FEMALE] to the veterinarian. [FEMALE] wants to be helpful.
+[MALE] gives [FEMALE] a call. [FEMALE] will happy.
+[MALE] plays none on the radio. [FEMALE] wants to talk to personx.
+[MALE] takes
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] is playing a game of tag. [MALE] wants to play a game.
+[MALE] gets a divorce. [MALE] wants to move out.
+[MALE] buys none for personx's family. [MALE] is responsible.
+[MALE] loves the idea. [MALE] wants to start a business.
+[MALE] finds [FEMALE] a new home. [MALE] wants to be a family.
+[MALE] brings in the none to help. [MALE] is generous.
+[MALE] goes to a party. [MALE] is friendly.
+[MALE] finds none on the side
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] is mean.
+[MALE] gives [FEMALE] a recipe. [MALE] wants to have fun.
+[MALE] asks [FEMALE] why. [MALE] will helpful.
+[MALE] gets personx's keys. [MALE] needs to get a receipt.
+[MALE] makes [FEMALE] offer. [MALE] is helpful.
+[MALE] gets personx's food. [MALE] wants to eat vegetables.
+[MALE] has a crush on persony. [MALE] wants to be friends with persony.
+[MALE] sets the none in motion. [MALE]
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+you has property good at politics.
+go for a drive has prerequisite for leave your car.
+a man desires be in love.
+a woman desires be friendly.
+a mother desires give her baby.
+a man desires see a play.
+a person desires express his desires.
+a person does not desire lie.
+a man desires be happy.
+a man desires express his emotions.
+a woman desires run.
+a person desires love his friends.
+a person desires sleep well.
+a person desires go to a movie.
+a man desires be active.
+a woman desires have children.
+a man desires exercise.
+a woman desires have children.
+a man desires learn to play.
+a woman
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] is kind.
+[MALE] buys a new pair of shoes. [MALE] will proud.
+[MALE] gives [FEMALE] a rest. [MALE] wants to go back to work.
+[MALE] wins the lottery. [MALE] needs to know the winner.
+[MALE] brings in [FEMALE] verdict. [FEMALE] will disappointed.
+[MALE] helps persony's father. [MALE] is kind.
+[MALE] wants to go to the store. [MALE] wants to have a good time.
+[MALE] makes everyone laugh. [MALE] is good.
+
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] wants to help someone else. [MALE] wants to help someone.
+[MALE] gives [FEMALE] a clue. [MALE] is helpful.
+[MALE] gives [FEMALE] a new one. [MALE] wants to thank him.
+[MALE] makes [FEMALE] a sandwich. [MALE] wants to eat it..
+[MALE] gets a new car. [MALE] wants to have the car repaired.
+[MALE] plays hockey. [MALE] is tired.
+[MALE] looks around. [FEMALE] will becomes confused.
+[MALE] prevents none from coming
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] needs to be in a room full of kids.
+[MALE] drives to work. [MALE] is impatient.
+[MALE] gives persony's friend ___. [MALE] wants to talk to persony's friend.
+[MALE] invites none to dinner. [MALE] wants to eat.
+[MALE] makes persony's friends. [MALE] is friendly.
+[MALE] has a baby girl. [MALE] is caring.
+[MALE] tells the none to come. [MALE] wants to make sure they are safe.
+[MALE] rides the bike home. [MALE] needs to get out of
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] is very upset. [FEMALE] will upset.
+[MALE] keeps [FEMALE] up til night. [MALE] is outgoing.
+[MALE] wants to go to an impasse. [MALE] wants to get somewhere to go.
+[MALE] carries none in persony's hand. [MALE] wants to use it.
+[MALE] keeps none from persony's family. [MALE] wants to be a father.
+[MALE] plays a prank on persony's friends. [MALE] needs to call the police.
+[MALE] gets wet. [MALE] is dehydrated.
+[
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] breaks none in two. [MALE] is capable.
+[MALE] tries another ___. [MALE] is ambitious.
+[MALE] puts none in the fridge. [MALE] is thoughtful.
+[MALE] makes persony's favorite pasta. [MALE] is kind.
+[MALE] drives a none across the street. [MALE] wants to make a better trip.
+[MALE] buys a new car. [MALE] wants to be responsible.
+[MALE] takes persony's dog. [MALE] is adventurous.
+[MALE] gets persony's phone back. [FEMALE] will gets yelled
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] tries to make persony's life better. [MALE] is ambitious.
+[MALE] gives [FEMALE] a present. [MALE] is generous.
+[MALE] calls none first. [FEMALE] wants to try to make a phone call.
+[MALE] is planning another vacation. [MALE] is adventurous.
+[MALE] takes persony's car. [FEMALE] wants to drive away.
+[MALE] is determined. [MALE] is determined.
+[MALE] takes personx's dog. [
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] is still the same person. [MALE] is happy.
+[MALE] is so good. [MALE] wants to do well.
+[MALE] pays none to a friend. [MALE] wants to say thanks.
+[MALE] plays a none at school. [MALE] needs to find a play.
+[MALE] plays a none at a baseball game. [MALE] is aggressive.
+[MALE] rides none to the movies. [MALE] wants to make a movie..
+[MALE] provides [FEMALE] with resources. [MALE] will helpful.
+[MALE] gets a good grade. [
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] takes none to the museum. [MALE] wants to go to the museum.
+[MALE] sees a clown. [MALE] wants to see how bad it was.
+[MALE] makes [FEMALE] plan. [MALE] needs to meet persony.
+[MALE] orders beer. [MALE] needs to order a beer.
+[MALE] provides [FEMALE] with information. [MALE] needs to know [FEMALE] better.
+[MALE] becomes [FEMALE] accountant. [MALE] is responsible.
+[MALE] gives [FEMALE] a big hug. [FEM
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] becomes [FEMALE] president. [MALE] will happy.
+[MALE] finds a toy. [FEMALE] will happy.
+[MALE] reads a book. [MALE] needs to have a book.
+[MALE] plays a none in the game. [MALE] is skilled.
+[MALE] takes none to a museum. [MALE] wants to visit a museum.
+[MALE] gives [FEMALE] a hand. [MALE] will kind.
+[MALE] is dating personx's ex-husband. [MALE] wants to get in touch.
+[MALE] is so excited.
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] will happy.
+[MALE] takes a seat in a queue. [MALE] will relaxed.
+[MALE] feels really bad. [MALE] is hopeful.
+[MALE] gets a new phone. [MALE] wants to talk to the person.
+[MALE] takes none back to persony's house. [FEMALE] wants to check their phone.
+[MALE] gets a new puppy. [MALE] needs to pick up the puppy.
+[MALE] is always late. [MALE] will sad.
+[MALE] gives [FEMALE] the opportunity. [MALE] is caring.
+[MALE
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] takes personx's keys. [MALE] is careful.
+[MALE] takes none on the road. [MALE] needs get a ride.
+[MALE] gives none a ride. [MALE] wants to get a ride.
+[MALE] teaches persony's son. [FEMALE] wants to be polite.
+[MALE] has a hard time. [MALE] wants to make a solution.
+[MALE] loves persony's new puppy. [MALE] wants to be loving.
+[MALE] takes notes. [MALE] will able to do their homework.
+[MALE] brings none to personx's
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] tells [FEMALE] not to worry. [MALE] is being a mean boss.
+[MALE] becomes the voice of reason. [FEMALE] will be relieved and happy.
+[MALE] leaves the house. [MALE] wants to find out what happened.
+[MALE] makes a joke. [MALE] smiles.
+[MALE] tells [FEMALE] was awake. [MALE] is nervous.
+[MALE] gives [FEMALE] something. [MALE] is helpful.
+[MALE] is working hard. [MALE] will satisfied.
+[MALE] hits a homerun. [
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] is driving home from work. [MALE] wants to get to the house.
+[MALE] finds none in the trash. [MALE] is careless.
+[MALE] does not have a car. [MALE] is lazy.
+[MALE] shows [FEMALE] what [FEMALE] thought. [MALE] will happy..
+[MALE] is playing poker with persony's friends. [FEMALE] will happy..
+[MALE] brings none to persony's attention. [MALE] wants to be noticed.
+[MALE] is playing personx's none in the backyard. [FEMALE] will worried
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] is none at the time. [MALE] will happy.
+[MALE] runs [FEMALE] away. [FEMALE] will scared.
+[MALE] gives [FEMALE] a gift. [MALE] is generous.
+[MALE] gets [FEMALE] some money. [MALE] is generous.
+[MALE] opens the none to view. [FEMALE] wants to go see.
+[MALE] leads [FEMALE] to tears. [MALE] wants to go on a date.
+[MALE] is bored. [MALE] is determined.
+[MALE] provides [F
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+satisfy your hunger is motivated by you will satisfied.
+love someone is motivated by you are loved.
+make music is motivated by you have a good time.
+person has property capable of lose weight.
+person is capable of be absent for weeks.
+person is capable of speak in tongues.
+someone is capable of get in bed.
+people is capable of live in small cities.
+it causes desire of play.
+it causes anxiety.
+someone is capable of get in bed.
+it causes confusion.
+someone is capable of take care of themselves.
+someone is capable of get out of bed.
+person is capable of say thanks.
+someone is capable of get away with it.
+someone is capable
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] will happy.
+[MALE] gives the dog a scratch. [FEMALE] will happy.
+[MALE] gets the none away. [FEMALE] wants to take the cat away.
+[MALE] brings [FEMALE] attention. [MALE] wants to reach [FEMALE] attention.
+[MALE] gives [FEMALE] a lesson. [MALE] wants to give [FEMALE] the chance.
+[MALE] gives [FEMALE] the money. [FEMALE] will they're going to get the money.
+[MALE] gets personx's order. [MALE] is generous.
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] wants to be nice.
+[MALE] finds personx's way back home. [MALE] needs to get a car.
+[MALE] takes none to the grocery store. [MALE] needs to buy the grocery store.
+[MALE] gives [FEMALE] a dose. [MALE] wants to be helpful.
+[MALE] uses persony's money. [MALE] wants to put the money down.
+[MALE] gives [FEMALE] a lecture. [FEMALE] wants to thank personx for being helpful.
+[MALE] makes none at home. [FEMALE] will happy.
+[MALE
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] will like he needs to take a bath.
+[MALE] calls [FEMALE] out of town. [FEMALE] will they do something funny.
+[MALE] gets rid of the cat. [MALE] wants to get rid of the cat.
+[MALE] needs to go to the zoo. [MALE] needs to be on the zoo.
+[MALE] goes to the store. [MALE] wants to buy something.
+[MALE] has an interview for persony's class. [MALE] needs to answer the interview.
+[MALE] has a great time with persony's mom. [FEMALE] will happy
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] wants to give him a big hug.
+[MALE] takes [FEMALE] to the zoo. [FEMALE] wants to see a toy.
+[MALE] writes none on a printer. [MALE] wants to write a reply on their letter.
+[MALE] gives a speech. [MALE] wants to be heard.
+[MALE] gives [FEMALE] a call. [MALE] needs to be present.
+[MALE] gives none a degree. [MALE] wants to continue his education.
+[MALE] makes a breakfast. [MALE] needs eat breakfast.
+[MALE] invites [FEMALE
+---------------

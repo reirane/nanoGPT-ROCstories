@@ -1,0 +1,463 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:I am always concerned about my online business sales.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:I am always concerned about my online business sales.
+waiting tables is used for meeting other people.
+a person does not desire lose their job.
+a person does not desire be ignored.
+a person does not desire be denied.
+a person does not desire be hurt.
+a person does not desire see an accident.
+a person does not desire be betrayed.
+a person does not desire be alone.
+a person does not desire a divorce.
+a person does not desire a heart attack.
+a person does not desire be alone.
+a person does not desire be bored.
+a person does not desire a wife.
+a person does not desire be violated.
+a person does not desire be in love.
+a person does not desire be bored.
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] takes a bath. [MALE] needs to go to the bathroom.
+[MALE] makes [FEMALE] announcement. [MALE] will excited.
+[MALE] is in bad shape. [MALE] wants to avoid the bad decision.
+[MALE] is playing basketball with friends. [MALE] wants to get some ice cream.
+[MALE] goes a long way. [MALE] is determined.
+[MALE] knows none well. [MALE] is interested.
+[MALE] talks to persony's boyfriend. [FEMALE] will they tell personx how they feel..
+[MALE] reads a book
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+a person does not desire be in debt.
+a person does not desire be in pain.
+a person does not desire be in pain.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+you is capable of drive over to where it is to buy a car.
+you is capable of call the police.
+you is capable of leave work.
+you is capable of make a pizza.
+you is capable of throw a football.
+you is capable of take a picture.
+you is capable of sleep.
+you is capable of make a pizza.
+you is capable of sell your car.
+you is capable of go to the grocery store.
+you is capable of buy a new tv.
+you is capable of get away with a crime.
+you is capable of listen to music.
+you is capable of make a movie.
+you is capable of wear shoes.
+you is capable of play a
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+a book is defined as a collection of information that is read.
+a person does not desire be lonely.
+a person does not desire be sad.
+a person does not desire be poor.
+a person does not desire be sad.
+a book is defined as a collection of information that is read.
+a person does not desire be alone.
+a person does not desire be in danger.
+a person does not desire be bored.
+an article is a collection of information about a subject.
+a person is not capable of enjoy a pleasant day.
+a person desires good food.
+a person does not desire be sad.
+a person does not desire be lonely.
+a book is defined as a collection of
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] asks the teacher. [MALE] wants to ask for their opinion.
+[MALE] is a teacher at a public school. [MALE] is knowledgeable.
+[MALE] decides to try it. [MALE] wants to have something new to try.
+[MALE] visits a friend. [FEMALE] wants to thank person x.
+[MALE] prevents none from falling. [MALE] needs to get his hands dirty.
+[MALE] takes a break. [MALE] is sad.
+[MALE] gets a new tv. [MALE] wants to watch tv.
+[MALE] gets back to work. [M
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+a is for the person does not desire see his name become famous.
+a is for the person does not desire the appearance of the person.
+a is for the person does not desire the appearance of the person.
+a is for the person does not desire the appearance of the person.
+a is for the person does not desire the appearance of the person.
+a is for the person does not desire the appearance of the person.
+a is for the person does not desire the appearance of the persons.
+a is for the person does not desire the appearance.
+a is for the person does not desire the appearance.
+a is for the person does not desire the appearance.
+a is for the person do not desire
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+a person does not desire be held in a corner.
+a person desires not be afraid.
+a person does not desire be lonely.
+a person desires a job well done.
+a person desires a good relationship.
+a person does not desire be a victim.
+a person does not desire be ignored.
+a person does not desire have a criminal trial.
+a person does not desire be told everything.
+a person does not desire be lied to.
+a person desires a good relationship.
+a person does not desire be told lies.
+a person does not desire be ignored.
+a person does not desire be called a fool.
+a person does not desire be misunderstood.
+a person does not desire be
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] is playing a video game with personx's friends.
+[MALE] gets none back. [MALE] needs to find out what happened.
+[MALE] takes it to the store. [MALE] wants to go home.
+[MALE] comes closer. [MALE] wants to be closer to the object.
+[MALE] takes [FEMALE] to the hospital. [MALE] needs get a card.
+[MALE] is in the process of moving. [MALE] is sad.
+[MALE] turns the television off. [MALE] will satisfied.
+[MALE] gets a computer. [MALE] needs
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+have a nervous breakdown has last subevent of drop out of school.
+a computer is used for store information.
+a person desires company.
+a person desires a clean house.
+one is capable of find it in the garage.
+a person desires a lot of things.
+purchase a cellular phone has prerequisite for get a cellular phone. (a cellular phone is part of a cellular phone.
+a person desires a computer.
+a person desires a job.
+a person desires a new job.
+a person desires a great deal.
+a person desires good taste.
+an electric razor is used for removing dirt.
+a person desires a new position.
+a person does not desire be bored.
+a person
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+you is capable of buy a house.
+you is capable of make a patchwork quilt.
+you is capable of throw a party.json
+you is capable of call a friend.json
+you is capable of get a job.json
+you is capable of wear shoes.json
+you is capable of drive a car.json
+you is capable of make a fool of yourself.
+you is capable of run a marathon.
+you is capable of smell something.json
+you is capable of try and read.json
+you is capable of move a car.
+you is capable of make a phone call.json
+you is capable of buy a shirt.
+you is capable of learn about politics.json
+you
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] buys some ice cream. [MALE] wants to make a purchase for others.
+[MALE] takes the dog for a walk. [MALE] wants to get a good home.
+[MALE] takes advantage of the situation. [FEMALE] will they are ignored.
+[MALE] plays none in the production. [MALE] is talented.
+[MALE] gets none from school. [MALE] wants to take a break.
+[MALE] sees the world. [MALE] is curious.
+[MALE] buys the book. [MALE] will happy.
+[MALE] pays for the service. [MALE]
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] wants to impress someone. [MALE] needs to be a successful business owner.
+[MALE] thinks [FEMALE] was funny. [FEMALE] will is asked to smile.
+[MALE] takes a look at persony. [MALE] needs to put on glasses.
+[MALE] looks for a new job. [MALE] is excited.
+[MALE] eats pizza. [MALE] wants to eat some food.
+[MALE] calls the police. [MALE] is law abiding.
+[MALE] is a great basketball player. [FEMALE] wants to thank personx.
+[MALE] takes
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] loves to cook. [MALE] is intelligent.
+[MALE] takes [FEMALE] to the pet store. [MALE] wants to spend money.
+[MALE] throws none into a pot. [MALE] he is dirty.
+[MALE] takes the rest of the day off. [MALE] needs to get a break.
+[MALE] is a college student. [MALE] wants to pass the test.
+[MALE] says it was christmas. [MALE] is observant.
+[MALE] puts none in the toilet. [MALE] needs to take out the toilet.
+[MALE] loses
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+a person does not desire be left alone.
+a person desires a wife.
+a person does not desire a spouse.
+a person desires a good job.
+a person desires sex.
+a person does not desire a divorce.
+a person does not desire a divorce.
+a person does not desire a divorce.
+a person desires a good job.
+a person does not desire a life.
+a person does not desire a divorce.
+a person does not desire a divorce.
+a person does not desire a divorce.
+a person does not desire a divorce.
+a person does not desire be left alone.
+a person does not desire a divorce.
+a person does not desire a divorce.
+a
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+a woman is capable of be a mother.
+a person desires read the book.
+a person desires a nice evening out.
+a person desires a nice day out.
+a person desires be close to his parents.
+a person desires a good job.
+a person desires the fact.
+a person is capable of be a person.
+a person is capable of travel.
+a person is capable of cook.
+a person is capable of stay at home.
+a person is capable of help others.
+a person is capable of change his or her appearance.
+a person is capable of leave a mark.
+a person is capable of read.
+a person is capable of get a drink.
+a person is
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+my friend is capable of help me in order to keep my job.
+the sun is at the horizon.
+the sun is at the horizon.
+my friend is capable of help me in the future.
+my friend is capable of help me in the present.
+my friend is capable of use.
+my friend is capable of look at my eyes.
+my friend is capable of look at my face.
+my friend is capable of know the way.
+my friend is capable of follow you.
+my friend is capable of keep it under control.
+my friend is capable of be a good person.
+my friend is capable of wear shoes.
+my friend is capable of sleep.
+my friend is capable of hear
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+play lacrosse is motivated by you are a soccer player.
+jazz is defined as plural of jazz.
+have a heart attack is motivated by your blood pressure is high.
+a person desires play at a baseball game.
+a person does not desire drink alcohol.
+a person does not desire have a physical exam.
+a person desires have a good time.
+a person does not desire be left behind.
+a person does not desire have a pet.
+a person desires eat ice cream.
+a person desires go to the mall.
+a person does not desire be abandoned.
+a person desires a job.
+a person does not desire a bad day.
+a person does not desire be yelled at.
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] is in the top 5%. [MALE] is capable.
+[MALE] makes a decision. [MALE] wants to make a decision.
+[MALE] is at the zoo. [MALE] wants to see the animals.
+[MALE] has a lot of fun. [FEMALE] will pleased.
+[MALE] tells the none what happened. [FEMALE] will happy.
+[MALE] buys a new puppy. [MALE] needs to go to the store.
+[MALE] goes to persony's house. [FEMALE] will person y walks in the house.
+[MALE] takes [FEM
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+a person desires a fair trial.
+a person desires a good job.
+a person desires be a good student.
+a person desires a good job.
+a person desires be in touch with an agent.
+a person desires a good job.
+a person desires an important job.
+a person desires a good job.
+a person desires a good job.
+a person desires be in touch with an agent.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+person does not desire be bullied.
+person does not desire a negative opinion.
+person is capable of answer questions.
+person desires a good time.
+person does not desire be threatened.
+person does not desire be confused.
+person does not desire be in debt.
+person desires a good time.
+person desires the best.
+person does not desire be lonely.
+person does not desire be angry.
+person desires a good meal.
+person does not desire be rejected.
+person does not desire be bored.
+person desires a clean house.
+person does not desire be lonely.
+person does not desire be lonely.
+person does not desire be lonely.
+person does not desire be unruly.
+
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+many people has a the desire to go see the best movie.
+satisfy appetites with minimum effort has subevent you will be satisfied.
+someone is capable of turn a rock into a hammer.
+get some physical activity has prerequisite for have a gym.
+a person desires be known as a woman.
+people desires be a leader.
+a person desires be able to see a movie.
+a person desires be a good cook.
+many people has a a love for the outdoors.
+a person is capable of take a vacation.
+a person desires exercise.
+a person is capable of read a book.
+a person desires have a good time.
+a person desires be able to see the world.
+
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] is a very good basketball player.
+[MALE] gets personx's ring. [MALE] needs to go to the ring shop.
+[MALE] gets none from the doctor. [MALE] is competent.
+[MALE] gives [FEMALE] a job. [MALE] wants to help personx.
+[MALE] takes none to the doctor. [MALE] is friendly.
+[MALE] is really funny. [MALE] will funny.
+[MALE] takes personx's girlfriend. [MALE] is curious.
+[MALE] gets some none from the doctor. [MALE] is patient.
+[
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] is a good student. [MALE] will proud.
+[MALE] has a great time at the party. [MALE] wants to be social.
+[MALE] eats personx's head off. [FEMALE] will they die.
+[MALE] wants to play. [MALE] wants to practice.
+[MALE] meets personx's needs. [FEMALE] will happy.
+[MALE] gets a job offer. [MALE] needs get hired.
+[MALE] gives none a huge hug. [MALE] will happy..
+[MALE] spends some time together. [MALE] wants to learn more
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+the first time you play the violin is at the opera.
+the first time you play the piano is at the concert.
+the first time you buy a car is at the mall.
+the first time you buy a house is at a flea market.
+the first time you buy a car is at a mall.
+the first time you swim is at a pool.
+the first time you buy a house is at a flea market.
+the first time you eat a hamburger is at the restaurant.
+the first time you play the violin is at a concert.
+the first time you get drunk is at a bar.
+the first time you buy a car is at the local car dealer.
+the first
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+satisfy your appetite with a healthy dose of protein.
+a person does not desire the death of another.
+a person does not desire the death of another.
+a person does not desire the death of another.
+a person does not desire the death of another.
+a person does not desire the death of another.
+a person does not desire the death of another.
+in a country there are many people.
+a person does not desire the death of another.
+a person does not desire the death of another.
+a person does not desire the death of another.
+a person does not desire the death of another.
+a person does not desire the death of another.
+a person does not desire the
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] goes to a dog show. [MALE] is observant.
+[MALE] tells persony's mother. [MALE] will happy.
+[MALE] gets personx's first bite. [MALE] wants to be satisfied.
+[MALE] finds personx's father. [FEMALE] will relieved.
+[MALE] makes personx's choice. [MALE] is responsible.
+[MALE] is having trouble sleeping. [MALE] wants to be better.
+[MALE] has a different idea. [MALE] wants to be creative.
+[MALE] turns the page. [MALE] wants to reread
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+a street is used for passing a particular number.
+a person desires a life.
+a person desires fun.
+a person does not desire be seen.
+a person desires a great company.
+a person desires a car.
+a person does not desire be injured.
+a person desires change.
+a person desires a place to live.
+a person does not desire be a bully.
+a person does not desire be a slave.
+a person desires a great job.
+a person does not desire a bad reputation.
+a person desires a puppy.
+a person desires a good job.
+a person desires a new job.
+a person does not desire be a slave.
+a person does not desire be
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+t-shirts is at a mall.
+a person does not desire is not capable of sleep.
+people is capable of stand up.
+a person does not desire be in jail.
+a person does not desire be in jail.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in trouble.
+a person does not desire be in danger.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+a large portion of the population is not capable of believe that humans are really capable of accomplish anything.
+a person is capable of get drunk.
+a person is capable of start a fire.
+a person is not capable of like a movie.
+a person is capable of get a new haircut.
+a woman is capable of kiss a man.
+a person is capable of wear heels.
+a person is capable of eat.
+a person is not capable of eat.
+a person is capable of eat.
+a person is capable of fall.
+a person is not capable of get too excited.
+a person is not capable of understand.
+a person is not capable of like a movie.
+a person is not
+---------------

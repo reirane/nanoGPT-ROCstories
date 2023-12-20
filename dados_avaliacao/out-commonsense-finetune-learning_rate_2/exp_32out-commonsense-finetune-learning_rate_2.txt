@@ -1,0 +1,230 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:I developed an oral fascination.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:I developed an oral fascination.I wanted to understand.I wanted to go outside for a walk.I was curious about the world.I was curious about the world.I wanted to be a good citizen.I wanted to have a good relationship with my boyfriend.I desired to be more understanding.I wanted to respect others.I was curious about what my friends thought.I wanted to be adventurous.I wanted to have fun.I wanted to be a good citizen.I wanted to have a good relationship with my boyfriend.I wanted to be happy.I wanted to have fun.I wanted to be more adventurous.I wanted to have a good relationship with my boyfriend.I wanted to be in a good mood.I wanted to have fun.I wanted to be successful
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I spent the day with my wife.I am grateful for the opportunity to attend the party.I am satisfied with my job.I am grateful for the opportunity to attend a conference.I am satisfied with my wife.I am thankful for the opportunity to go on a date.I am satisfied with the job.I am grateful for the opportunity to be promoted.I am satisfied with my wife.I am thankful for the opportunity to be in a position of power.I am satisfied with the time.I am satisfied with the opportunity to have a good time.I am satisfied with the time.I am satisfied with my wife.I am satisfied with the time.I am satisfied with my husband.I am satisfied with the opportunity to have a
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I would like to see all the things.I am more curious than interested.I get some enjoyment out of the experience.I want to be free.I do not have a problem with you.I would like to see all the things.I would like to get some work done.I do not have a problem with you.I would like to be in a good mood.I would like to get some work done.I do not have a problem with you.I would appreciate your help.I would like to see all the things.I would like to get some work done.I do not have a problem with you.I would like to have a good day.I do not have a problem with you.I would like to
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I became a successful businessman.I am a good schoolteacher.I have a son.I own a home.I want to get my education.I are the queen of the world.I am the queen of the world.I have a child.I buy clothes.I like clothes.I love my family.I like to go to the mall.I like to play sports.I want to be a better man.I want to pass the test.I want to be a better person.I am going to a party.I want to make a video.I have to look up the answer.I want to get a job.I just want to do whatever it takes.I plan to get married.I get divorced.
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] needs to be informed on the science. [FEMALE] needs to be able to read.
+[MALE] must help [FEMALE] to the next task. [FEMALE] needs to be comfortable.
+[MALE] needs to be informed about the next task. [FEMALE] needs to be able to stay informed.
+[MALE] needs to be informed about the next task. [FEMALE] needs to be able to think.
+[MALE] wants to participate in the race. [MALE] needs to be excited.
+[MALE] feels a strange connection between the person. [MALE] needs to be in control.
+
+---------------
+Complete the following text within five sentences:I developed an oral fascination.When my eyes are closed, the world is filled with thoughts I'm not aware of.When the world is filled with dreams I'd never dream of.When the air is filled with cold air, there is a hot breeze.When the air is filled with warm air, there is a cold breeze.When the air is filled with smoke, there is a smoke.When the air is filled with hot air, there is a hot breeze.When the air is filled with sound, you feel it.When the air is filled with light, you have a good feeling.When the air is filled with smell, you have a good smell.When the air is filled with snow, you have a cold snow.When the air is filled with earth
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+
+I developed an oral fascination.
+
+I became interested in the history of science.
+
+I became interested in the history of science.
+
+I became interested in the history of science.
+
+I became interested in the history of science.
+
+I became interested in the history of science.
+
+I became interested in the history of science.
+
+I became interested in the history of science.
+
+I became interested in the history of science.
+
+I became interested in the history of science.
+
+I became interested in the history of science.
+
+I became interested in the history of science.
+
+I became interested in the history of science.
+
+I became interested in the history of science
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I was an active participant.I was unable to control myself.I was free to change my mind.I is independent.I is knowledgeable.I is healthy.I is responsible.I is helpful.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+I was a young person.
+The girl is a girl.
+I was a pregnant woman.
+I was a woman's daughter.
+I got sick.
+I was pregnant with a child.
+The world is a lot more beautiful than the past.
+I am a woman's daughter.
+I was a man's wife.
+The person who is the first to see the person is the first person to be happy.
+I is a woman's child.
+The world is a lot more beautiful than the past.
+I is a woman's child.
+The person who is the first to see the person is the first person to be happy.
+The world is a lot more beautiful than the past.
+The
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+I develop an oral fascination. I get a degree.
+I get a degree. I work my way through the system.
+I work my way through the system. I get a job.
+I get a job. I have a good time.
+I have a good time. I have a job.
+I have a job. I spend time with my kids.
+I spend time with my kids. I like their interests.
+I like their interests. I help them.
+I help them. I have a good time.
+I have a good time. I can relax.
+I can relax. I need to take the exam.
+I need to take the exam. I want to take the exam.
+
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+you do not need to be obese.
+you are not incapable of be depressed.
+your health is not important to you.
+you are interested.
+you have a good temper.
+you do not have an appetite.
+you can not be drunk.
+you are not interested.
+do not put your hand on someone else.
+anyone else's car is capable of drive.
+someone else's dog is capable of get into trouble.
+do not give up.
+someone else's house is capable of smell bad.
+someone else's dog is capable of make a noise.
+someone else's dog is capable of run a marathon.
+someone else's house is capable of be a place of entertainment.
+someone
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I've had an exam.I've been on a date.I've been bored.I'm satisfied.I've been hungry.I'm thirsty.I'm nauseous.I'm tired.I'm tired of doing.I have feelings.I feel.I'm tired of doing.I've got a bag of groceries.I have a meeting.I'll meet my girlfriend.I feel.I know.I can.I can't.I need to.I need to.I need to.I need to.I need to.I'm tired.I'm tired. I need to.I need to.I have to.I need to.I have to.I need to.I need to.I need to
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+I am not a human.
+I am not a person.
+I am not a person.
+I am not a person.
+I am not a person.
+I am not a person.
+I am not a person.
+I am not a person.
+I am not a person.
+I am not a person.
+I am not a person.
+I am not a person.
+I am not a person.
+I am a person.
+I am a person.
+I am a person.
+I am a person.
+I am a person.
+I am a person.
+I am a person.
+I am a person.
+I am a person.
+I am a person
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I learned to cook.I studied the art of food.I fell in love with music.I bought a new coat.I went to the gym.I took the first exam.I got my B.A. and a B.S. in the field.I got my B.A. in the military.I have a son.I had a bad accident.I find a job.I feel terrible.I am sick.I think about my children.I like my job.I love my family.I want to play baseball.I will be a good mother.I will live in a house.I will cook.I will use a sewing machine.I will cook my own food.I own a new car.I
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+You have a pet.
+I am a cat.
+I am a mother.
+I am a good mother.
+You are a dog.
+You are a friend.
+You are a cat.
+You are a hunter.
+You are a fisherman.
+You are a lawyer.
+You are a lawyer.
+You have a dog.
+You are a friend.
+You are a man.
+You are a woman.
+You are a dog.
+You are a mother.
+You are a friend.
+You have a job.
+You are a dog.
+You are a man.
+You are a dog.
+You are a mother.
+You are a man.
+You are a man
+---------------
+Complete the following text within five sentences:I developed an oral fascination. My friend told me to take the medicine. Your brain is wired like that. I have learned a lesson.Your friend is the one who gave you the medicine. I will keep you in your bed.I will never forget the moment.I have a lot of fun.I can't wait to see you again.I will get it done.This is the best life I have ever had.People don't always like you.You are weak when you cry.I will tell everyone about you.I will help you.This is the best life I have ever had.Everything is going my way.I can't wait to get off the plane.I will get out of the car.I will get my driver's license.I will
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+Now read the following text within five sentences:I will be lucky to have a relationship with you.
+Now read the following text within five sentences:I will be proud of you.
+Now read the following text within five sentences:I will be grateful for you.
+Now read the following text within five sentences:I will be very happy.
+Now read the following text within five sentences:I will be creative.
+Now read the following text within five sentences:I will be creative.
+Now read the following text within five sentences:I will be comfortable.
+Now read the following text within five sentences:I will be able to feel the difference.
+Now read the following text within five sentences:I will find some common
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I want to know about the world.I know how to find it.I will learn something.I will feel the love.I want to get an education.I want to be a good citizen.I want to be happy.I want to go to the doctor.I want to keep going.I want to be good.I want to be able to find something.I want to be able to look for it.I want to try and get some money.I want to write a book.I want to be able to sleep.I want to have fun.I want to be a good father.I want to have a good time.I want to be a good family.I want to be a good husband.I want
+---------------
+Complete the following text within five sentences:I developed an oral fascination. I am a beautiful woman with a good sense, and I am very knowledgeable.The only way I will have fun is if I am good at something. I will be a good person.I want to be a normal person.I will be a good person.I want to have a good relationship with people.I want my daughter to be good.I want to have a good boyfriend.I want to have a good job.I want to have a nice vacation.I want to have a good wife.I want to have a good family.I want to have many children.I want to have a good job.I want to have a bad job...I want to have a bad life.I want to have a bad job.
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I want to play at the park.I want to take a break.I want to be in charge.I want to be a good wife.I want to be in charge of everything.I want to be a good mom.I want to make money.I want to be a good wife.I want to be my mother.I want to be a good friend.I want to be in charge of a job.I want to be a good mother.I want to be a good friend.I want to be good.I want to be a good wife.I want to be a good mother.I want to be good.I want to be good.I want to be good.I want to be good.I want
+---------------
+Complete the following text within five sentences:I developed an oral fascination. The history of my time is written on the paper.
+You wrote this in a school. You are looking for a teacher.
+You loved this picture of the dog. You will love it.
+You loved this picture of the city. You will love it.
+You was sitting in a restaurant. You will be having a good time.
+You was driving by a bar with your son. You will be getting a good view.
+The next day you will be on duty.
+You are a student. You will be studying.
+The next day you will be home.
+You is in a taxi. You will need to get into the car.
+You was visiting your friends. You will be having a great time.
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I use the phrase 'love' or 'love' in an ad.I need to take a photo of the sign.I will learn something.I live in the city.I can't see anything.I do some work.I go to the mall.I get a job.I fall asleep.I fall asleep.I walk home.I fall asleep.I see the future.I watch tv.I get a job.I travel.I read.I make new friends.I fall asleep.I get a job.I take a vacation.I have a dream.I am beautiful.I call my mom.I make a trip.I go to the vet.I get my medicine.I will have a baby.I
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I'm a genius.I was able to play baseball for the first time.I'm a smart guy.I got a job.I'm a good family man.I'm going to miss my mother.I'm a great person.I'm going to work hard.I'm a good girl.I'm in love with my job.I'm happy.I'm happy with my family.I'm a good person.I'm happy with my job.I'm happy with my family.I'm happy with my family.I'm happy with my job.I'm happy with my job.I'm happy with my job.I'm happy with my job.I'm happy with my job.I'm happy with my business.I
+---------------
+Complete the following text within five sentences:I developed an oral fascination. My wife has a cancer.My dog is over the moon.My house is under construction.My dog has two friends.I have a serious accident.My dog is drunk.My dog has a big heart.My dog is in the middle of nowhere.My dog is in the middle of the night.My dog is not sick.My family has a problem.My dog is in the water.My dog is in the woods.My dog has a pet.My dog is in the middle of the road.My dog has a boyfriend.My dog is in the hospital.My dog has a boyfriend.My dog is in the hospital.My dog is in the hospital.My dog is in the hospital.My dog has a boyfriend.
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I learned to play the piano.I became a psychologist.I got diagnosed with cancer.I gave birth to my son.I was born.I made a career.I studied law.I became a successful entrepreneur.I became a father to a daughter.It is very difficult to accept all the things I have done.It is very hard to accept the fact that I am not a human being.It is very hard to accept the fact that I have a disability.I was in my 40s.I was sick.I had a stroke.I was ill.I was in the hospital.I was on my way home.I walked into the house.I was mad.I was out at the mall.I went to the store
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+sputnik.org/index.php/topic,2370.0,1719.0 [FEMALE] has a history of being a prostitute.
+I developed an oral fascination.
+[KEEP] is an object.
+[KEEP] is an object.
+[KEEP] is a person.
+[FEMALE] is not human.
+[KEEP] is going to be late.
+[KEEP] is going to be late.
+[KEEP] is going to be late.
+[KEEP] is going to be late.
+[KEEP] is person.
+[FEMALE] is not human.
+[KEEP] is person.
+
+---------------
+Complete the following text within five sentences:I developed an oral fascination.The man with the toothbrush is a dog.His teeth have the ability to scratch each other.He wants to go home.I was in the middle of the night.The woman wants to go home.the man with the toothbrush is a dog.his life has a purpose.the woman wanted to go to the dentist.the man with the toothbrush is a dog.his life has a purpose.the woman wants to go home.the man with the toothbrush is a dog.his life has a purpose.the woman wants to go to the dentist.the man with the toothbrush is a dog.his life has a purpose.the woman wants to go home.he wants to order a cheeseburger.he wants to
+---------------
+Complete the following text within five sentences:I developed an oral fascination.Sometime later, I got a job at a job.I made a lot of money.Sometime later, I went to the mall.I was in love.I gave back to society.I created a new life.I got a job.I was in the middle of a divorce.I was a good person.I had a good life.I was in love.I gave back to society.I did a good job.I was in a hurry.I was busy.I was in a hurry.I was in a hurry.I was in a hurry.I was in the middle of a divorce.I was in love.I was in the middle of a divorce.I got a job.I was in the middle
+---------------
+Complete the following text within five sentences:I developed an oral fascination.The best part about this trip is that my interest is not in the fact that my tongue is wet.I'm a child of the past, but I understand the present very well.Maintaining the interest in the past is no longer a matter of being an individual.I'm doing my own thing.I don't want to be that person.I'm sick.I'm going to the dentist.This is my first time going to a dentist.I want to see my dentist.I need to pay for it.I'm thankful for it.Maintaining the interest in the past is no longer a matter of being an individual.I am a person.I am a family.I love my family.I am an artist.
+---------------
+Complete the following text within five sentences:I developed an oral fascination. It is a particular concern for me. I wish to be able to go on a date right now. [Sighs]I get used to it. [Sighs]I have been told that there is no way I will go to that university. [Sighs]I wonder what it will be like to go to a university. [Sighs]I wonder how it will feel. [Sighs]I wonder what my future will be. [Sighs]I wonder what it will be like with my family. [Sighs]I wonder what my future has been. [Sighs]I wonder what my future has become. [Sighs]I wonder what my future will be
+---------------

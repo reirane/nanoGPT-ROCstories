@@ -1,0 +1,126 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:My government teacher had been very ill.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:My government teacher had been very ill. He wanted to see me. He was in the hospital so his wife could come and visit him.I told my friend my friend is sick. My friend was very happy.Now he has to go to the doctor for his doctor.We were together.He has to see me.I will be fine.He has to take a breath.I will try and make it.. I will have a good night.I want to go with my friend.I call my friend.I want to go with my friend.my friend was very sick.He wants to take a shower.I will have a good day.I want to go to work.I want to go to the store.I want to go to my car. I will be
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. She was very ill. I tried to tell her how to go to her doctor. She was very sick.I thought, that's not going to work.I looked at her.I looked at my husband.I looked at my children.I was sick.I was not going to do my job.I was not going to get this job.I was not going to go to the doctor for my child's health.I was not going to change my mind.I was not going to buy another drink.I thought of my children.I was sick.I was sick.I was sick.I went to the hospital.I got the doctor there.I went to the doctor.I went to the doctor.I went to the
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.As a result, she went to a doctor and had to bring a medicine.It was said that they were treating the doctor.However, they were very ill.I wanted to save my life.I put the medicine in my pocket.I was very sick.But the doctor said they would do a better job.I gave up.I put the medicine in my pocket.My government teacher had been very ill.As a result, she went to a doctor and had to bring a medicine.It was said that they were treating the doctor.However, they were very ill.I wanted to save my life.I put the medicine in my pocket.I was very sick.I put the medicine in my pocket.My government teacher had been
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I hope she is okay.I am afraid.I am not sorry.I have something to do.I will be in a good mood.I will be ready.I am ready.I will be in a good mood.The next time you see me, ask me a question.The next time you see me, ask me a question.The next time you see me, ask me a question.The next time you see me, ask me a question.The next time you see me, ask me a question.The next time you see me, ask me a question.The next time you see me, ask me a question.The next time you see me, ask me a question.The next time you see me, ask
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. The doctor had told me to call the police. My mother was sick. The teacher was very ill.Now she's going to die.I have to help her.I'm going to call the police.I need a blood test.I got a doctor to help me.I want to go to the hospital.I'm not going to have to go to the hospital.I don't want to go to the hospital.I want to go to the hospital.I want to take my medication.I want to go to the doctor.I want to go to the doctor's office.I want to see them.I want to go to the doctor's office.I want to say thank you to the doctor.I want to go home
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.When my teacher is in such pain,my state does not need him.I will now start the day.You will soon find my teacher is not happy.<|endoftext|>This is a project to send you a gift package.
+
+I have a great idea. I want to make a new product.
+
+You get the idea.
+
+You start the project.
+
+You will not like it.
+
+You go to work.
+
+You have a great idea.
+
+You give it to another person.
+
+You receive the gift.
+
+You are happy.
+
+You are good.
+
+You decide that you want to keep spending the money.
+
+You find a new job.
+
+You love
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. He had been in the hospital. I had to go to the hospital to get him.I was very sick. I needed to go home.I was very tired.I wanted to go to the doctor.I was very tired.I wanted to talk to the doctor.I was very tired.I needed to go to the doctor.I was very tired.I wanted to go to the hospital.I was very tired.I wanted to go to the hospital.I was very tired.I needed to go to the doctor.I was very tired.I needed to go to the doctor.I was very tired.I wanted to go to the doctor.I was very tired.I needed to go to the doctor.I was very tired
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I was looking for a job.I saw my insurance company.I asked my insurance company to cover the cost.I wanted to go to the store.I looked for a car.I was in a hurry.I walked back to the bus stop.I took a look at the map.I saw the sun setting.I heard my wife singing.I was in love.I was in the middle of a business trip.I wanted to go to a restaurant.I took a picture of my new car.I was excited.I was in love.I was in love.I took a picture of my new car.I was tired.I was in my sleep.I was in love.I was having a good time.I was
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. He had a bad nose. He was a very short person. We would take them to the doctor. [PST Would like to continue...]
+
+917 1/16/2014 12:27:33 1/16/2014 12:27:33 1/16/2014 12:27:33 1/16/2014 12:27:34 1/16/2014 12:27:35 1/16/2014 12:27:36 1/16/2014 12:27:37 1/16/2014 12:27:38 1/16/2014 12:27:39 1/16/2014 12:27:40 1/16/2014 12:27:41 1/16/2014 12:
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. He always asked me to do something. I always gave him my name. He always wanted to find my way home. He would never have let me go to this doctor. I would never have let him have a cold. My teacher had come home early.I was in the middle of getting ready for work.I was working.My parents were late and got the car.My parents were in the car.My teacher was in a hurry.I was in the middle of the road.They were going to call the police.I was taking a picture.I was driving home.I went to my teacher.I heard my teacher calling.My teacher was in the car.I was late to the meeting.I was late to the meeting
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I will do my best.My mother will not say anything.My father will leave.My sister will not be able to go with me.My daughter will be sick.My brother will not be able to leave.My sister will not be able to be with me.My brother will be sick.My niece will not be able to go with me.My brother will make a request.My brother will eat something.My sister will not be able to go with me.My brother will leave.my friend will not be able to help.My friend will not be able to ask me questions.My friend will not be able to go with me.My mother will not say anything.my mother will be able to go with me.My
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I've had to go to the hospital.I'll be okay.I'm sorry if I'm late.I will explain.I'll be fine.You are not late.I have a question.I will do my best.I will tell you.I will never let you go.I will love you.I will love you back.I will love you fully.I will love you deeply.I will love you always.I will love you as a family.I don't know how you are going to respond.I am tired.I'm tired.I'm tired. I'm tired.I am tired.I have to go to the hospital.I have to go to the hospital.I will answer the question.I
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I was going to meet the president soon. Then he would go to the hospital and tell me. I will go to the doctor. Then I will pick up my glasses. He will be very happy. I will thank him. The doctor will tell me where the medicine is. I use the medicine. and he will go to my office. He is going to be very happy. I will go to the hospital. Then he will go to my office. The doctor will tell me the medicine. I will thank him. I will check his face. the doctor will tell me my doctor name. The doctor will will be very happy. I will pick up my glasses. then he will leave. I will go to the doctors office. then he
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I told my teacher that if she has a condition, then I will have to call the doctor.I told my teacher that I would not be able to take the medicine.I told my teacher that my medicine is useless.I told my teacher that my medicine has a bad side.My teacher told me to take the medicine.My teacher told me to wait.My teacher told me to take the medicine.My teacher told me to leave the room.My teacher told me to go to the bathroom.My teacher told me to put my hands on my knees.My teacher told me to go to the bathroom.My teacher told me to take a nap.My teacher told me to eat.My teacher told me to take the medicine.My teacher
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I told my boss to get up and go to the doctor. I decided to go to a doctor. [pause] [familiar] I will be back soon. [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] [pause] I took my shirt off. [pause] [pause
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.She was very sick.I took her to the hospital.I asked her to pick up the phone.My mom was at the hospital.For them to be very sick.I gave her the phone number.She took the phone back.I looked at the phone and said, 'My name is Steven.'I asked the teacher what it was.She said, 'Your name is Steven.'I gave her the phone number.She took the phone back.I sat at the computer.I put my phone to my ear.I was very tired.I took the phone to the next doctor.I asked the doctor what they were doing.He said, 'They are doing their best.'I take my phone from my ear.I got my
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. He was very active in my lessons. I could not leave my classroom after the class was over. I was grateful for the teacher. I took a break.I was very tired.I did not know what to do.I was tired.I let the teacher go.I had to go to the bathroom.I wanted to go to the bathroom.I wanted to see my professor.I felt very bad.I had to check my phone.I received the phone call.I wanted to go first.I was tired.I wanted to go back to my class.I went to the bathroom.I felt very sad.I felt more lonely.I felt lonely.I felt lonely.I went to the bathroom.I had to go to
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I asked him if he had any more. He replied, "No."I will pay the rest of the teachers.Your teacher is very good. [Sighs]You will be relieved.I will pay the rest of the family.Your teacher is very good. [Sighs]You will be grateful.[Sighs]I will have a good time. I will be able to practice.
+I will pay the rest of the family.Your teacher is very good. [Sighs]You are very good. [Sighs]You will be grateful.You will be at home.I will have a good time. I will be able to practice.
+I will pay the rest of the family.
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I will be using my cell phone to call my doctor. I will not be able to do anything about it.
+
+Mental Health
+
+Actors will notice that you are not doing well. You want to have a good day. Make sure you are enjoying your day.
+
+Mental health
+
+Actors will notice that you are enjoying your health. You want to spend time with family.
+
+Mental health
+
+Actors will notice that you are enjoying your health. You want to rest.
+
+Mental health
+
+Actors will notice that you are enjoying your health. You want to go to the dentist.
+
+Mental health
+
+Actors will notice that your health has improved. You
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. He had been sitting in the car seat of the car. He had been spending the day in the country.I heard a distant voice say something. My mind was racing. I felt like my body was in danger.My teacher was sick. I tried to avoid him. He was not able to.I was in a hurry.I was worried.I tried to find the person who would listen to me.I heard a voice saying.My teacher was talking to you.I went to the restroom.I made a mess.I could not find my teacher.I was too busy.I became a bit unwell.I was not happy.I was in pain.I was in pain.I was in pain. I was in pain
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. She was so embarrassed. You are my friend and I must help you. It is time for the teacher to be away.Thank the person for the time you have given me.I will not go to hospital. I will go to bed.We will not go to the hospital.I will not go to the mall.I will not go to the store.I will not go to the gym.I will not go to the park.I will not go to school.I will not go to the store.I will not go to the doctor.It is time for the doctor to be away.I will not go to the store.I will take my medicine.I will not go to the store.I will not go to the
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. She was in a tizzy. I asked her what was wrong. She told me it was because of a seizure.She told me it was too late.I asked her what was wrong.She told me it was too late.I asked her if she would do something.She told me she would.I asked her if she would do a lot of work.She told me that she would.I asked her if she was healthy.She told me she was.I asked her how much time she had.She told me that she was healthy.I asked her how much time she had.She told me she was healthy.I asked her how much time she had.She told me she was healthy.I asked her how much time
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I told my husband a story.I was working.I opened the door.I saw a dog.I had a headache.I was trying to open the door.I was going to bed.I was getting ready to go home.I received a call.I was home.I went to the doctor.I took a pill.I went back to the pharmacy.the doctor gave me the medicine.I went to the doctor.I did not know what was wrong.I was in my office.I went to the hospital.I found an ambulance.I went to the doctor.I met the doctors.I told my husband the story.I really wanted to go see him.there was a problem.I wanted to talk to the
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. My employer has lost control.My dog is over the moon.My house is under attack.My dog has been adopted.My daughter has found out.My dog has been taken.My house is falling apart.My dog has been eaten.My dog has been bitten.My dog has been spayed.My dog is not sick.My family has been taken care of.My dog is safe.My dog is satisfied.The following text is not in the dictionary.Your door is open.Is the roof to fall?Do the following things:1. Find a dog.2. Find a friend.3. Take the dog to a vet.4. Clean your house.5. Do some math.6. Get a new car
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I have to go to the hospital.I have to go to the doctor.I have to get a divorce.I have to come home.I have to go to the doctor.I have to get a new car.I have to get a new phone.I have to go to the doctor.I have to get a new guitar.I have to get a new computer.I have to get a new computer.I have to get a new bike.I have to get a new car.I have to go to the doctor.I have to get a new phone.I have to get a new computer.I have to get a new computer.I have to get a new computer.I have to get a new car.I
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. She was tired of trying to explain to me how to solve the problem, but I had to come home and go to the doctor. This is all wrong. I will finish my sentence.
+
+[YM] has to read the following text within five sentences:My mom is in the hospital. She needs to buy some toothpaste. I will go to the pharmacy.
+
+[YM] needs to spend time with [YM]. [YM] will be having fun. They will be having a good time.
+
+[YM] will go to the movie. [YM] will be bored.
+
+[YM] takes [YM] to the park. [YM] will be sad
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.The teacher was the only one to listen.I asked the teacher what was wrong.I gave the child a hug.I smiled at him.I went to the bathroom.The teacher looked down.The child gave him a smile.I told the teacher.I told him to keep going.I got the child's attention.They loved the teacher.I smiled when I saw his smile.I made my way to the classroom.The teacher looked at me.I gave the child a hug.I gave him a hug.I said hello to the teacher.I told the teacher to know my son.I gave him a hug.I made my way to the classroom.The teacher looked down.The child gave him a hug.I told
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. No one would have noticed the teacher's appearance if she was not a woman. I had been told to be patient with my teacher.My government teacher had been an idiot.We were always in the same place.I had gone to the movies.No one would have noticed my appearance.I was a little late for work.I had gotten a new pair of shoes.I was a little late for work.I had a question.I had to open my mail.I was busy.I had to order some food.I was going to school.I was going to go to church.I had to eat dinner.I had to go to the grocery store.I had to pick up a phone.I had to move my car.
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I asked him to go to the hospital. He said that he could not but would not be able to. He then asked me if I could go to the hospital. I said no. He then asked me if I would like to go to the hospital. I said yes. He then asked me to open the door. I said open that door. He then asked me to come back. I said I would. He then asked me to put his hand over my mouth. I said yes. He then asked me to go to the doctor. I said yes. He then asked me to go to the doctor. I said yes. He then asked me to continue working. I said yes. He then asked me to take the medicine. I
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. It said he was in a coma. I said you are insane. He said he needs to go to the hospital. I asked if he saw the ambulance. he said he did. I said sorry to all the others. he said he has to go to the hospital. I asked if he saw the fire truck. he said he was very upset. I asked about the money. he said he wants to help. I said he needs to get money. He said he has been to the hospital. I asked if he saw the ambulance with the money in it. he said he was very annoyed. I asked if the fire truck was the one he was driving. he said it was. I asked if he wanted to get a ride. he
+---------------

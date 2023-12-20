@@ -1,0 +1,391 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Harry and his basketball team was losing the game.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+The room is full.
+You have to go to the bathroom.
+You are in a hurry.
+Your mom has a problem.
+It is raining.
+You want to go home.
+It is still raining.
+Not much is left.
+You will find out soon.
+You will meet the next person.
+You will win.
+You will be at the park.
+You will want to go with you.
+You are tired.
+You want to go home.
+The party is over.
+The food is coming.
+You want to go in the car.
+You will like the smell of the new.
+You will think of a story.
+The computer is working.
+You are
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. Can you help me with it. There's a lot of talking to do. You need to listen to the answer.
+[Wizard] walks in the wizard's office. [MALE] asks for the information.
+[MALE] takes a vacation. [MALE] wants to study.
+[MALE] is a professor. [MALE] wants to be a professor for the future.
+[MALE] will the last person. [MALE] is very kind.
+[MALE] wants to be a nurse. [MALE] is nice.
+[MALE] is getting ready. [MALE] needs to get on the train.
+[MALE] is listening to music.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.Sooo, they had all lost.snow was freezing.one of the other players was losing his job.the doctor was in a coma.if you are not going to die from being bitten by a snake, you may want to go to a veterinarian.a doctor is the one who takes care of you.he is your friend.you have to tell him.he is your best friend.a person is you.a person is an animal.a person is a person.someone is a person.a person is in a restaurant.he is in a shop.you have to go to the store.he is in the store.he is in a restaurant.you will be sad.you will feel sick.you will get sick
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. The game began. The referee calls for a replay. The game is over. Harry is crying. He has no idea where he is. He has to go to the bathroom. He goes to the bathroom. He sees the referee. He is very upset. The referee is calling for an exit. Harry wants to go home. The referee calls for another person to call the referee. Harry goes to the bathroom. He is sick. He is not happy. He has to go to the doctor. He is at the hospital. The doctor has to check him. The doctor goes to bed. The doctor wants to see if he can get better. Harry wants to go back to school. The doctor calls for a break. He is sick. He
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+The 'Males' had an 'M' in the 'Facts' section.
+The 'Males' had a 'F' in 'Relationships.'
+The 'Males' had a 'F' in the 'Facts' section.
+The 'Males' had a 'F' in the 'Facts' section.
+The 'Males' had a 'F' in the 'Facts' section.
+The 'Males' had a 'F' in the 'Facts' section.
+The 'Males' had a 'F' in their 'Relationships.'
+The 'Males' had a 'F' in the 'Facts' section.
+The '
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. Ron was tired. If he says something to Ron, he will be relieved.
+[MALE] is an adult. [MALE] is mentally immature.
+[MALE] wants [FEMALE] to play basketball. [MALE] wants to be part of something.
+[MALE] gets [FEMALE] attention. [FEMALE] will not want to talk to [MALE] about it.
+[MALE] decides [FEMALE] needs to fix a problem. [MALE] will grateful.
+[MALE] will satisfied. [MALE] will joyful.
+[MALE] sees [FEMALE] very clearly. [MALE] will proud.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+He is back in the house.
+He really needs to go to the bathroom.
+He is really mad.
+He is going to miss his birthday.
+He is ready.
+He is bored.
+He is sick.
+he is in the gym.
+he is in the car.
+he is out in the field.
+he is good.
+he is in the car.
+he is in the bushes.
+he is not in the same city.
+he is not in a relationship.
+he is in a house.
+he is not at home.
+he is in a car accident.
+he is not in the same country.
+he is not in the same city.
+he is in
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.There was an accident.
+If you have been with someone for more than five minutes, they will let you know.
+You are so sick.
+You have a lot of money.
+You are nervous.
+You feel bad.
+You are bored.
+You are like a dog.
+You are very special.
+You are not a friend.
+You like food.
+You would like to play tennis.
+You can't feel.
+You are in love.
+You want to do something.
+You have a lot of money.
+You are too old.
+You want to go to the doctor.
+You have to wait for somebody.
+You are so smart.
+You will need to buy clothes.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+Harry was playing basketball.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next, next
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+you will be able to read it.
+you will have a good time.
+you will get a headache.
+you will think about something.
+you will have a meal.
+you will do well on the exam.
+you will get your money's refund.
+event . you will have a good day.
+event . you will have a good day.
+event . you will get out of bed.
+event . you will get a job.
+event . you will succeed.
+event . you will go to school.
+event . you will be active.
+event . you will remember.
+event . you will be happier.
+event . you will be safe.
+event . you will be able to
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+the following text within five sentences:Harry and his wife's first job as a chef.
+the following text within five sentences:Harry needs to go to school.
+the following text within five sentences:Harry needs to eat dinner together.
+the following text within five sentences:Harry is not interested in a great game.
+the following text within five sentences:Harry is in a hot tub.
+the following text within five sentences:Harry is a genius.
+the following text within five sentences:Harry is in bed.
+the following text within five sentences:Harry is in heaven.
+the following text within five sentences:Harry is in danger.
+the following text within five sentences:Harry needs to get help.
+the following
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+if you see it on the internet, it will be removed.
+if you are on your own, you should spend the rest of the day alone.
+if you get a call from your doctor, they will let you go.
+if you get a new car or house, the dealer will get a loan.
+if you are homeless, you will not be able to pay your rent.
+if you are in a car accident, you will not get a ticket.
+if you get caught stealing, you will be jailed for up to five years.
+if you have a friend, they will thank you.
+if you find a way to earn money, you will get a reward.
+if you get a new computer,
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+Harry smiled and looked at his basketball team.
+Harry looked around.
+Harry stood.
+Harry looked down.
+Harry went to the bathroom.
+Harry sat in his seat.
+Harry looked at the picture.
+Harry smiled.
+Harry looked up.
+Harry looked around.
+Harry waved goodbye to his friends.
+he looked around.
+he sat in a chair.
+he heard a loud noise.
+he looked around the room.
+he looked outside.
+he walked behind him.
+he put his hands on his knees.
+he read the newspaper.
+he looked at the sun.
+he read the paper.
+he was in a trance.
+he fell asleep.
+he looked around.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+You have to wait at least one hour for the game to be over.
+You have to pay for the service.
+You are a student.
+You are a teacher.
+You are free.
+You can't go without your seatbelt.
+You have to come to a hotel.
+You have a car.
+You have to go to a restaurant.
+You spend the night at the library.
+You play chess.
+You have a dog.
+A lot of people have some job.
+A lot of people have some money.
+The person is going to get a job.
+you can't see the person.
+the person is going to become friends.
+the person is going to leave your house
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+get the ball back.
+drink the water.
+get the ball back.
+go to work.
+go to work.
+go to work.
+go to a restaurant.
+go to a bar.
+go to a diner.
+take a shower.
+go to a hotel.
+get the baseball hat.
+go to the ballpark.
+do a baseball game.
+go to the zoo.
+go to a movie.
+go to a dance party.
+go to a store.
+go to the zoo.
+go to the pub.
+go to your party.
+go to the library.
+go to your house.
+meet a friend.
+go to the mall.
+go to a
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. He then walked to find a basketball. He did not return home. Harry did not return home. - Harry's car was in the driveway. - Harry looked at the car. - Harry did not know what to do. - The car was in the driveway. - The car broke down. - Harry left the car. - he looked at the car. - the car was in the driveway. - the car was in the driveway. - the car was in the driveway. - the car was in the driveway. - the car was in the driveway. - the car was in the driveway. - the car was in the driveway. - the car was in the driveway. - the car was in the driveway. - the car was in the
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+He never gave a second thought to it.
+He gave it to the right person.
+He asked the right question.
+He has a job.
+He does not have a friend.
+He's not a student.
+The only thing he is going to do is die.
+He is a nice person.
+he was a bad boy.
+he was a good man.
+he was a good person.
+he is angry.
+he is angry.
+he is angry.
+he is angry.
+he is a fool.
+he is a fool.
+he is a fool.
+he is a fool.
+he is a fool.
+he is a fool.
+he is a fool.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. If they win, they will be awarded the championship.
+if you win, you will be awarded the championship.
+you will be awarded the championship.
+if you win, you will be awarded the championship.
+if you win, you will be awarded the championship.
+if you win, you will be awarded the championship.
+if you win, you will be awarded the championship.
+if you win, you will be awarded the championship.
+if you win, you will be awarded the championship.
+if you win, you will be awarded the championship.
+if you win, you will be awarded the championship.
+if you win, you will be awarded the championship.
+if you win, you will be awarded the championship
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+Harry nodded.
+1. "Did you know that you are in need of some food?"
+2. "I have a feeling it will get better in a few weeks."
+3. "You do not need to be able to say hello to anyone.
+4. "Make sure your friend is in a good mood."
+5. "One thing I will be thankful for is that it is a family day."
+6. "You would be a great person to be with."
+7. "Never make love to someone you do not wish to marry."
+8. "I know it is time for you to go home."
+9. "I will be in the situation of being in the middle of something good
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. They realized that they had to play on the court. They were going to win a championship. [MALE] went to the bathroom. [MALE] was playing with friends. [MALE] would lose his balance. [MALE] would lose his heart. So they went to the bathroom. [MALE] wants to see if the restroom is open. [MALE] will happy. [MALE] is in pain. [MALE] will relieved. [MALE] is in control. [MALE] will to the bathroom. [MALE] wants to take care of the baby. [MALE] will happy. [MALE] will grateful. [MALE] will self-sacrific
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+Harry was reading the book that he was teaching.
+The book that he was reading.
+Harry was not interested in getting his homework done.
+Harry was having a great time.
+Harry was reading the news.
+Harry took the broom.
+Harry sat on his bed.
+Harry was studying.
+Harry was in a hurry.
+Harry was studying.
+Harry wanted to know what he was getting into.
+Harry was playing with his friends.
+Harry was happy.
+Harry was doing something nice.
+Harry was moving.
+Harry was grateful.
+Harry was doing bad things.
+Harry was doing good.
+Harry was watching movies.
+Harry was in the hospital.
+Harry was getting ready to go to
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. If they win, a snake will come and kill them.
+Harry and his friends will be with the professors.
+They will go to the lake.
+Harry and his friends will not have a date.
+The professors will not find the way to the restroom.
+The students will be in the middle of the night.
+They will be in the woods.
+the students will be walking.
+the students will be studying.
+the students will be working.
+the students will be leaving.
+the students will go to bed.
+the students will eat dinner.
+the students will feel relieved.
+the students will be working.
+the students will look happy.
+there is a water fountain.
+there is a water
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. Then a new person arrives.The goal is to win the game.The ball is in the air.The two teams have to go on the court.The person who is going to the court is going to be a wizard.The person who is going to the court is going to be a witch.The goal is to play the game.The ball is in the air.The person who is going to the court is going to be a wizard.The goal is to win the game.The ball is in the air.The person who is going to the court is going to fall.The goal is to win the game.The person who is going to the court is going to be a witch.The goal is to win the game.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+the first time Harry saw the television was in his twenties.
+the first time he looked at his homework was in the late thirties.
+the first time he had to go to the bathroom for the day.
+the first time he ever caught a train.
+the first time he saw the news.
+the first time he met someone.
+the first time he went to the theatre.
+the first time he got a haircut.
+the first time he was in my bedroom.
+the first time he ran into my family.
+the first time he saw my dad.
+the first time he never gave up.
+the first time he never talked about it.
+the first time he got his name.
+the
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+sputnik.org/sputnik/viewtopic.php?t=1719&start=1000
+sputnik.org/sputnik/viewtopic.php?t=1719&start=1000 Use the following text within five sentences:I was at the mall.
+sputnik.org/sputnik/viewtopic.php?t=1719&start=1000
+sputnik.org/sputnik/viewtopic.php?t=1719&start=1000
+sputnik.org/sputnik/viewtopic.php?t=1719&start=1000
+sputnik.org/sputnik/viewtopic.php?
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.The team was the fifth team in the world.Harry was the fifth of the team.The game was a success.Everyone was happy.Harry wasn't so happy.Harry looked sad.All of a sudden, a massive boulder hit Harry.Harry was in his life.The boulder hit only the dog.Harry's arms were heavy.Harry was in a coma when he fell.The boulder hit his head.Harry fell.The boulder hit his head.The boulder hit the head.A huge smile on his face.Walking around the house.Getting a new pair of shoes.Getting a new pair of shoes.Harry tried to get the ball.The ball threw the ball.Harry was in a bad mood.Harry was upset.The
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.Settling down for the time being is not a good idea.You would be able to play basketball.Harry needs to get the ball in play.Settling down for the time being is not a good idea.You would be able to play basketball.Settling down for the time being is not a good idea.You will get angry if you do not agree with it.Harry is out of town for a visit.Settling down for the time being is not a good idea.You will get angry if you don't agree with it.Harry is out of town for a visit.Settling down for the time being is not a good idea.You will get angry if you don't agree with it.Harry
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. They were playing basketball. [They are going to lose the game]. [They would not be happy]. [They will not be happy]. [They will not be happy]. [They will not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would not be happy]. [They would
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. It was a very poor team. The coach was very helpful. He would really like to help. He would say something. The coach would smile. And Harry would be in a great mood. But the coach was very annoyed. He would go to his room. And he would run out. The coach would go to his room. And he would be angry. The coach would hurt. But he would give the answer. The coach would make a decision. But the coach didn't want to hurt. He would make the decision. And with the money in his pocket. The coach was very happy. The coach was really grateful. The coach was happy. But the coach was very angry. He would be angry. The coach was very angry.
+---------------

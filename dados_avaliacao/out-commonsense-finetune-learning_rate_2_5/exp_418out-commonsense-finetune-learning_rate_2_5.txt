@@ -1,0 +1,306 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tim was sick for school picture day.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tim was sick for school picture day. He wanted to go to the movies. He wanted to go to a restaurant.He wanted to take a shower.Tim wanted to go to the grocery store. He was a good kid.He wanted to have lunch with his friends.He wanted to walk home.He wanted to thank his mom.He wanted to meet his girlfriend.He wanted to talk to someone.He wanted to get the help from his mom.He wanted to have a drink.He wanted to wear a shirt.He wanted to go to the movies.He wanted to eat meat.He wanted to get more sleep.He wanted to have a drink.He wanted to feel better.He wanted to go to the movies.He wanted to find a car.He wanted to
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. She got up at 8:30am. She went to the store.She went to the store.She got a cold.Tim was in a coma. He died.Tim left his family.Time has passed.Tim is in the hospital.Time isn't right.Time is a bad decision.Tim will be a good person.Time is bad.Tim will be unfulfilled.Tim will have to ask his mother.Tim will go to the hospital.Tim will get a diagnosis.Time is a slow day for the young man.Time is much easier for him.Tim will be responsible.Tim will be happy.Tim will be happy.Tim will find a job.Tim will get a new job.Tim will have a better
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.Sealed by the sun.At the airport.With the keys.Lived for some time.Worked hard.Sealed by the internet.Moved to a new city.Moved by the weather.Mentored by the family.Sealed by the family.Mentored by the business.Sealed by the family.Mentored by business.Mentored by culture.Sealed by the family.Mentored by the family.Mentored by environment.Mentored by environment.Sealed by the group.Mentored by an event.Mentored by the group.Sealed by the group.Mentored by a place.Mentored by
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.You should take the following action:1. Make the call.2. Take the call.3. Talk to your dad.You should follow the directions.4. Talk to your friends.You should continue to do your job.5. Repeat the exercise.You should be good.The next time you see Tim will remember you.You should take a picture.You should start to feel better.This is a great way to teach others.You should buy a car.Your mom will be happy.You should let the car go.6. Take the exam.7. Go to the store.8. Go to the shop.9. Take a walk.10. Go to the beach.11. Drink milk.12. Go
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+The 'MILLION ISLAND' is the 'MILF OF THE DAY'
+The 'MILLION ISLAND' is the 'MILF OF THE DAY'
+The 'MILLION ISLAND' is the 'MILF OF THE DAY'
+The 'MILLION ISLAND' is the 'MILF OF THE DAY'
+The 'MILLION ISLAND' is the 'MILF OF THE DAY'
+The 'MILLION ISLAND' is the 'MILF OF THE DAY'
+The 'MILLION ISLAND' is the 'MILF OF THE DAY'
+The 'MILLION ISLAND' is the 'MILF OF THE
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+You are not allowed to pick up the phone from the desk. You should get a new one immediately.
+Your computer is a pain in the ass.
+You are in an accident.
+You are not in a relationship.
+You are not smart.
+You are not in a relationship.
+You are not in an accident.
+You are not on the road.
+You are not in a relationship.
+You are not in your car.
+You are not in the office.
+You are not in the wrong place.
+You are not in the right place.
+You are not in the right place.
+You are not in the wrong place.
+You are not in the right place.
+You are not
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+He is in the store.
+He needs to get the items to the store.
+He is in the mall.
+He is under the table.
+He is eating a hamburger.
+He is toying with his children.
+He has had a stroke.
+He is in the shop.
+The item in the shopping basket has been spoiled.
+He is getting ready for work.
+He is toying with his kids.
+He is toying with his family.
+A person is not in the audience.
+The person is not toying with his friends.
+The person is in the house.
+He is not in the store.
+The person is not toying with his parents.
+He is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.Tim was looking for a job.Tim was pregnant with their child.Tim was not hungry.Tim was sitting still.Tim was in the car.Tim was holding a can of beans.Tim was a girl.Tim was walking.Tim wanted to visit.Tim wanted to go around the house.Tim was a person.Tim wanted to be helpful.Tim was a good person.Tim wanted to be a good person.Tim was a child.Tim wanted to be a good person.Tim wanted to be a good person.Tim was a child.Tim was a good person.Tim wanted to go to a movie.Tim was good.Tim wanted to be a good person.Tim was a good person.Tim was a good person.Tim
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+He was in a long line.
+He was in a hurry.
+The person who was responsible for the action.
+He was a part of the problem.
+It was not his job.
+He was a person of honor.
+He was an important person.
+He was good.
+He took a break.
+He wanted to get to work.
+He was able.
+The person to whom he was concerned.
+He is not in danger.
+He was in the gym.
+He is in the way.
+It is the right thing.
+The person to whom he was responsible.
+he was strong.
+the person to whom he was responsible.
+the person to whom he is responsible.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+Today, you will celebrate your birthday.
+I will work.
+Take my medicine.
+I will be safe.
+I will earn the money.
+Today, I will have fun.
+Today, I will go out.
+You will be satisfied.
+You will make good friends.
+You will get a place to live.
+I will save you money.
+You will go to the zoo.
+You will get a job.
+I will be a good wife.
+I will be on my deathbed.
+Today, I will be on my way home.
+Today, I will be in the car.
+Today, you will enjoy a good time.
+This is my first time.
+Today,
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+you will be able to read it within a week.
+it is difficult to read the same way twice.
+you will be able to do something.
+it will be easier for you.
+you will be able to see the stars.
+have a good time.
+event is part of the day.
+you will be able to feel yourself.
+you will be capable of enjoy the day.
+you will be able to get something.
+you will be able to make good decisions.
+you will be able to make a new decision.
+you will be able to keep your head down.
+you will be able to sleep well.
+you will have fun.
+you will be able to enjoy the moment.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.You've had your doctor's exam.You're a good student.You're a good person.You're a good man.You're good at your job.You're a good friend.You want to play soccer.You want to get married.You want to play football.You want to go to a band.You want to go to a concert.You want pick up a phone.You want buy something.You want to be a full time artist.You're working hard.You want to play football.You want to be a firefighter.You want to work at a new restaurant.You want to pay more money.You want to get a job.You want to get an education.You want to help your family.You
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+b) read the following text within five sentences:
+b) read the following text within five sentences:
+b) set up the table:
+b) look at the table:
+b) eat something delicious:
+b) have dinner with you:
+b) look around the room:
+b) find out about another topic:
+b) find your way out:
+b) go to sleep:
+a) get up and go to bed:
+b) take a shower:
+a) leave the room:
+b) leave the room:
+b) make breakfast:
+a) call a friend:
+b) walk down the street:
+b) pick up a phone at the store:
+b
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.I told my mom.But she said yes.I told my mom.I told my mom.I told my mom.I told my mom.I told my mom.I told my mom.I had the name.I found the name.I got the name.I got the picture.I bought the ticket.I have the picture.I had the picture.I picked up the car.I was scared.I looked for my doctor.I was sick.I tried to figure out what was wrong.I made the right decision.I told my mom.I told my mom.I had a good time.I was excited.I looked at the clock.I bought the gift.I sold my own.I was excited.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+You have to pay the fee.
+You must be a police officer.
+You are a criminal.
+Time is of the essence.
+You must be a complete and accurate person.
+A cat is a person.
+You can get a good job.
+A person is a family.
+An old person has a new.
+Doing nothing is not good.
+A person is a family.
+A man is a human.
+A person is a person.
+You have to pay the fee.
+You are a part of something.
+Doing something is not good.
+Something is not smart.
+You must be a member of the band.
+You are a part of something.
+A person is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.She was very sick.He took a shower.He opened the door.He went to sleep.He will not wake up.He will not see you.He will not forget.He is happy.He will never cry.He needs to have a job.He wants to go to the park.He wants to be in a movie.He wants to meet his girlfriend.He wants to get something to eat.He needs to be in a car.He wants to buy a new phone.He wants to go to the mall.He is scared.He wants to leave.He wants to save time.He wants to spend money.He wants to be happy.He is a good person.He will never become sick.He needs to
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. He then went to find a car. He did not return home.The question was asked:What is the reason for the person you are with has to be sick. It was asked:If the person you are with is sick, the person you are with is sick.The person you are with is mad.The question was asked:Are you going to pay the money to get out. the person you are with is mad.The person you are with is in the wrong.The question was asked:Do you have the right to call your doctor. the person you are with is in the wrong.The person you are with is the person you feel is sick.The person you are with is in the wrong.The person you are with
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+He never gave a second thought to it.
+He gave up all hope.
+He liked his job.
+He listened to music.
+He liked to do it.
+He was a good person.
+He is a family friend.
+Tim is a true patriot.
+He is a friend of the family.
+he was a bad boy.
+he was a good man.
+he was a good man.
+he liked to compete.
+he was a good person.
+he was bad.
+He was a good person.
+he was a good person.
+he was a good person.
+he is a good person.
+he was a good person.
+he was a good person.
+he is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+He is using a restroom in the same place.
+He is not reaching for his phone.
+He is not keeping his wallet.
+The dog is barking.
+The dog is tired.
+He is not listening.
+He is not washing his hands.
+He is not using the bathroom.
+He is not listening to music.
+He is not getting out of bed.
+He is not getting up.
+He is not being asked.
+He is not talking.
+The dog is barking.
+The dog is moving towards the end.
+He is not standing.
+He is not getting wet.
+The dog is scared.
+He is not being careful.
+The dog is tired.
+The dog is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. He is happy.
+1. (b) Remove the item from the display.
+2. (c) Change the item.
+3. (d) Have the item put in the drawer.
+4. (e) (f) make a cup of coffee.
+5. (g) (h) take a bath.
+6. (i) (j) get up.
+j) (k) give the item to someone else.
+7. (l) (m) take a bath.
+8. (n) (o) let the property dry.
+9. (p) (q) pick up the item.
+10. (r) (s) get the item back.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. He gets the picture. You are on your way to the doctor. He takes a look. You are looking for a doctor. Tim is a good guy. Tim is very good at business. Tim is getting paid. You see what he has to say. The doctor is there. Tim is a little nervous. You are worried. You are tired. You are hungry. You are stressed. You want to go to the doctor. You want to go through the process. You need to get a doctor. You need to tell the doctor. You need to be in touch with the person. You need to be able to talk to them. The person wants to thank you. They are grateful. They are grateful. They want to thank you.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.He wants to go to the cinema.He is in a hurry.Someone else is trying to help.You can't tell the difference.You need to be careful.He goes home.You wake up.Do you feel better?I got home from work.Your husband wants to go to the hospital.He is getting ready for work.You come home.You are tired.I want to go to the store.I will get him some food.You go to the store.You are going to look for the right item.you is happy.you is healthy.you is confident.you is responsible.you is responsible for the people around you.you is responsible for the world.someone needs to call you.someone needs to be
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. Then he ran to the gym. Tim walked over to the guy and picked him up.Tim told the guy he was sick. The guy said he was sick.Tim went to the doctor. The doctor said he is fine. The doctor said they will help him. he asked the doctor how to get the medications. the doctor will tell them. the doctor tells the person. the person wants to say hello. Tim went to the restaurant. He was playing in the park. he is playing in the park. they will tell him the time. the person wants to go home. the person says they is ok. The person wants to go to the store. the store employee will come to the store. a guy is at the store. he
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.I asked him to come to the office.I told him he needs to get his car.I tell him to get on the bike.I tell him to walk to the store.I told him to call the store.I told him to keep quiet.It is very depressing.I tell him to get his car.I told him to sign the paperwork.I told him to take a bus.I told him to take a taxi ride.I told him to make a call.I told him to get a car. I told him to go to the mall.I told him to go to the store.I told him to order a soda.I told him to get a new pair.I told him to get a new hat.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+sick for school picture day. set the subject of the text with a question mark.
+set the subject of the text with a question mark. set the topic in the text.
+set the subject in the text. read the text.
+read the text. join the group.
+rejoin the group. read the text.
+one person. join the group.
+somebody. become a human.
+one person. become a human.
+somebody. become a human.
+somebody. become a human.
+somebody. become a human.
+somebody. become a human.
+somebody. become a human.
+somebody. become a human.
+somebody. become a human.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.The doctor ordered the toothpaste.He had a lot of problems.The doctor gave the order.The doctor said no.Tim will be in the hospital.The doctor will be satisfied.The doctor will call the ambulance.The doctor will be able to see his doctor.The doctor will be able to get his medicine.The doctor will be able to pick up the prescription.The doctor will be able to wait.The doctor will be able to leave.The doctor will be able to go home.The doctor will be able to shop.The doctor will be happy.The doctor will know why he is paying money.Tim will have the wrong doctor.Tim will be incompetent.The doctor will be frustrated.The doctor will be angry.The
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.Sugar is sick for school time.Sugar is sick for school time.Tim is sick for mom.Sugar is sick for mom.Tim is sick for dad.Sugar is sick for mom.Tim is sick for mom.Sugar is sick for dad.Sugar is sick for mom.Sugar is sick for mom.Sugar is sick for mom.Sugar is sick for mom.Sugar is sick for mom.Sugar is sick for mom.Sugar is sick for mom.Sugar is sick for mom.Sugar is sick for mom.Sugar is sick for mom.Sugar is sick for mom.Sugar is sick for mom.Sugar is sick for mom.Sugar is sick
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.The door will open. The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.The door will open.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. He said he heard a noise. He wanted to make sure he got the information. His eyes were wide and his hair was long.
+Tim saw a big white sign in the distance. He was very angry.
+Tim saw a large tree. He looked around.
+Tim saw a tree. He looked at the tree.
+Tim saw a tree. He took a closer look.
+Tim saw a tree. He looked around.
+Tim saw a tree. He took a closer look.
+Tim saw a tree. He took a closer look.
+Tim saw a tree. He took a closer look.
+Tim saw a tree. He took a closer look at it.
+Tim saw a tree. He took a closer look.
+---------------

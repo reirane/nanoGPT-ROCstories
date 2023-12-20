@@ -1,0 +1,479 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Sam was bicycling one day.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Sam was bicycling one day.
+a room is used for a private place.
+a room is used for a bedroom.
+a room is used for a sleeping pad.
+a room is used for a bathroom.
+a room is used for a bedroom.
+a room is used for bedrooms.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] takes persony's hands in persony's pockets. [MALE] wants to keep persony's wallet safe.
+[MALE] is on the web. [MALE] wants to read.
+[MALE] loves to paint. [MALE] needs to go to a paint shop.
+[MALE] comes to the attention. [MALE] needs ask questions.
+[MALE] pulls persony's back. [MALE] wants to be in control of their situation.
+[MALE] shows up on time. [MALE] is prepared.
+[MALE] eats healthy food. [MALE] wants to eat more.
+[MALE]
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+a person does not desire be in a bad situation.
+a person does not desire be in a bad place.
+a person does not desire be ignored.
+a person does not desire have a family.
+a person desires not have to go to the circus.
+a person does not desire fail.
+a person does not desire be lonely.
+a person does not desire be in pain.
+a person does not desire be in debt.
+a person desires be alone.
+a person does not desire be in a bad situation.
+a person desires a good job.
+a person does not desire be in a bad situation.
+a person does not desire be a bad person.
+a person does not desire be in
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+the devil is capable of eat persony.
+the devil is capable of eat something.
+the devil is capable of listen.
+the devil is capable of take pictures.
+the devil is capable of have sex.
+the devil is capable of cry.
+the devil is capable of live.
+the devil is capable of use drugs.
+the devil is capable of wear glasses.
+the devil is capable of call the police.
+the devil is capable of pick up a car.
+the devil is capable of run.
+the devil is capable of go to church.
+the devil is capable of save persony.
+the devil is capable of use drugs.
+the devil is capable of take pictures.
+the devil is
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+a book is used for read.
+a book is used for write.
+a book is used for keep safe.
+a book is used for travel.
+a book is used for use.
+a book is used for learn.
+a book is used for buy.
+a book is used for teach.
+a book is used for read.
+a book is used for read.
+a book is used for practice.
+a book is used for learn.
+a book is used for study.
+a book is used for enjoy.
+a book is used for learn.
+a book is used for enjoy.
+a book is used for learn.
+a book is used for read.
+a book is used
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] asks the teacher. [MALE] wants to ask for their opinion.
+[MALE] is a teacher at a school. [MALE] is intelligent.
+[MALE] is at the park with personx's friends. [MALE] wants to play with friends.
+[MALE] makes eye contact. [MALE] will close to the camera.
+[MALE] puts a foot wrong. [FEMALE] wants to give the truth.
+[MALE] gets persony's hair cut. [MALE] will like they are doing something good.
+[MALE] gets [FEMALE] idea. [MALE] is smart.
+[
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+a is for the universe.
+a is for the universe.
+the is for the universe.
+a is for the universe.
+a is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+sam is a writer.
+one is capable of form a poem.
+sam is a good friend.
+sam is a person.
+sam is a student.
+sam is a friend.
+one is capable of feel bad.
+one is capable of take a break.
+one is capable of look at a map.
+one is capable of drink water.
+one is capable of drink milk.
+one is capable of take a bus.
+one is capable of play a game.
+one is capable of eat.
+one is capable of buy a suit.
+one is capable of ride a bike.
+one is capable of look at a map.
+one is capable of stay healthy.
+one is capable of wear
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] is playing basketball. [MALE] is athletic.
+[MALE] gets none back. [MALE] needs to find out what happened.
+[MALE] takes none to the store. [MALE] wants to go shopping.
+[MALE] takes a trip. [MALE] wants to take a walk down the street.
+[MALE] sees none at the park. [MALE] is curious.
+[MALE] comes across ___. [MALE] wants to go somewhere.
+[MALE] is the best person. [MALE] will strong.
+[MALE] reads persony's book. [MALE] is helpful.
+
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] sees persony's daughter. [MALE] wants to be entertained.
+[MALE] eats at a restaurant. [MALE] needs to go to the restaurant.
+[MALE] takes a few minutes. [MALE] gets the results.
+[MALE] takes care of the children. [FEMALE] wants to be happy.
+[MALE] learns how to knit. [MALE] makes a sweater.
+[MALE] buys the food. [MALE] needs to eat the food.
+[MALE] is a world champion. [MALE] will accomplished.
+[MALE] takes persony's car. [FEMALE]
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+you is capable of place a bouquet in a cabinet.
+you is capable of take a photo.
+you is capable of use a calculator.
+you is capable of buy a gift.
+you is capable of make a phone call.
+you is capable of find a bike.
+you is capable of watch a movie.
+you is capable of feel the breeze.
+you is capable of eat food.
+you is capable of feel tired.
+you is capable of smell the roses.
+you is capable of go to the shop.
+you is capable of sleep.
+you is capable of remember.
+you is capable of sleep.
+you is capable of listen to music.
+you is capable of look at a
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. [MALE] needs to buy something.
+[MALE] takes a trip to the beach. [MALE] is adventurous.
+[MALE] buys [FEMALE] a gift. [FEMALE] wants to give it to person x.
+[MALE] is a college student. [MALE] will motivated.
+[MALE] helps others. [MALE] is helpful.
+[MALE] does a lot of research. [MALE] gets more information..
+[MALE] runs all the way. [MALE] wants to get out of the house.
+[MALE] helps another ___. [MALE] will happy.
+[MALE] keeps
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+breathe air has prerequisite for breathe in/out.
+it has property very cold.
+people has a needs.
+turtles is capable of learn to swim.
+eat has prerequisite for eat.
+play has subevent have fun.
+a person does not desire be a coward.
+a person does not desire be ill.
+a person does not desire be a liar.
+a person does not desire be miserable.
+a person desires exercise.
+walk on the street has subevent you walk.
+a person desires exercise.
+a person does not desire be a pimp.
+get in line has subevent get your ticket.
+a person does not desire be a loser.
+a person does not desire
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] loves personx's mother. [MALE] is caring.
+[MALE] is feeling sick. [MALE] will sick.
+[MALE] sees my favorite show. [MALE] wants to have fun.
+[MALE] loses personx's balance. [MALE] is careless.
+[MALE] throws [FEMALE] away. [MALE] is determined.
+[MALE] has a baby girl. [MALE] is caring.
+[MALE] tells the none to stop. [MALE] wants to make sure they are fine.
+[MALE] reads the newspaper. [MALE] wants to read the news.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+a person does not desire be left alone.
+a person does not desire be a victim.
+a person desires be satisfied.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+a woman is capable of be a woman.
+a person is capable of drink coffee.
+a person desires another way to live.
+a person desires a better life.
+a person desires be close to others.
+a person desires a well-being.
+a person desires the world to be a better place.
+a person desires be with his family.
+a person is capable of be in a relationship.
+a person desires a better life.
+a person is capable of move.
+a person desires a better life.
+a person is capable of live a long time.
+a person is capable of get away.
+a person is capable of look into a mirror.
+a person is capable of love.
+
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] tries to make persony's home. [MALE] needs to find persony's house.
+[MALE] goes the extra mile. [MALE] is dedicated.
+[MALE] calls the police. [MALE] is a danger.
+[MALE] drives none to the store. [FEMALE] wants to leave the car.
+[MALE] keeps these none in personx's. [MALE] needs to buy them.
+[MALE] takes the car out. [MALE] needs to find a place to park.
+[MALE]
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] thinks was wrong. [MALE] needs to think of the problem.
+[MALE] finds none in the woods. [MALE] needs to go to the woods.
+[MALE] takes the dog. [MALE] will concerned.
+[MALE] takes the dog home. [MALE] needs to call the dog.
+[MALE] learns how to drive. [MALE] wants to make sure they are safe.
+[MALE] has a crush on a girl. [FEMALE] wants to be friends with person x.
+[MALE] tells stories. [MALE] wants to give his story to others..
+[MALE]
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] is in good shape. [MALE] wants to get better.
+[MALE] loves the game. [MALE] will happy.
+[MALE] puts none into action. [MALE] needs to be thinking.
+[MALE] is going to the mall. [MALE] will happy.
+[MALE] is n't paying attention. [MALE] wants rest.
+[MALE] goes the extra mile. [MALE] wants to quit smoking.
+[MALE] makes it into the finals. [MALE] wants to win the competition.
+[MALE] makes [FEMALE] decision. [MALE] is thoughtful.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+a person desires a fairytale.
+a person desires read books.
+a person desires be entertained.
+a person desires something to do.
+a person does not desire be in jail.
+a person desires a great deal.
+a person desires a promotion.
+a person does not desire be in jail.
+a person desires a good job.
+a person does not desire be in debt.
+a person desires a lot of money.
+a person does not desire be in trouble.
+a person desires a good job.
+a person does not desire be in debt.
+a person does not desire to sleep.
+a person does not desire be in jail.
+a person does not desire be in debt.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+person has a many activities to do.
+a person desires a well made meal.
+a person desires a good job.
+a person desires a good job..
+a person desires a good marriage.
+a person desires a good career.
+a person desires an object.
+a person desires a good job.
+a person desires a good job.
+a person desires a good record.
+a person desires a good family.
+this is a toy.
+a person desires a good life.
+a person desires a good dress.
+a person desires a good home.
+a person desires a good work ethic.
+a person desires good health.
+a person desires a good job.
+a person desires a good education
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+many people is at the library.
+someone is at an amusement park.
+a person does not desire be lonely.
+a person does not desire be overwhelmed.
+a person does not desire take a pill.
+a person desires be loved.
+a person does not desire be betrayed.
+a person does not desire be a bully.
+a person does not desire be injured.
+an employee is at the office.
+a person does not desire be cheated.
+something is at the basement.
+a person does not desire be selfish.
+a person desires be loved.
+a person does not desire be a hater.
+a person does not desire be lonely.
+a person does not desire be lonely.
+a
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] plays a part. [MALE] wants to help others.
+[MALE] takes a course. [MALE] wants to take lessons.
+[MALE] is a good cook. [MALE] is skilled.
+[MALE] gives [FEMALE] a job. [FEMALE] will they are thanked.
+[MALE] takes none to the counter. [MALE] is friendly.
+[MALE] is really good. [MALE] will content.
+[MALE] takes none to san francisco. [MALE] is brave.
+[MALE] gets none in the right place. [FEMALE] will is happy
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] is a college student. [MALE] wants to be a student.
+[MALE] puts [FEMALE] in the freezer. [MALE] is demanding.
+[MALE] puts [FEMALE] in the freezer. [MALE] is caring.
+[MALE] thinks would like. [MALE] needs to think of a way to solve problem.
+[MALE] takes none to the bar. [FEMALE] will happy..
+[MALE] brings none to life. [MALE] wants to help others.
+[MALE] takes a lot of pills. [MALE] wants to take more pills.
+[MALE
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+the first time you saw the moon was in the summer of 1981.
+the first time you saw the moon was in the fall of 1981.
+the first time you saw the moon was in 1981.
+the first time you saw the moon was in 1981.
+the first time you saw the moon was in 1981.
+the first time you see the moon is in 1981.
+the first time you see the moon is in 1981.
+the first time you see the moon is in 1981.
+the first time you see the moon is in 1981.
+the first time you see the moon is in 1981.
+the first time you see the moon is in 1981.
+the first time you see the moon is in 1981.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+satisfy hunger with minimum effort.
+a piece of paper with a handle is used for holding items.
+a car is used for driving.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+a person desires be loved.
+a person is capable of love a robot.
+a person desires be loved.
+a person desires be loved.
+a person is capable of be loved.
+a person is capable of be loved.
+a person desires be loved.
+a person desires be loved.
+a person is capable of be loved.
+a person is capable of be loved.
+a person
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] goes the store. [MALE] is prepared.
+[MALE] wants to go to the bar. [MALE] wants to buy drinks.
+[MALE] gets personx's first bite. [MALE] wants to be satisfied.
+[MALE] finds none in the house. [MALE] wants to find a friend.
+[MALE] starts a new job. [MALE] wants to work hard.
+[MALE] spends none with persony's family. [MALE] wants to go to a party.
+[MALE] is the first time. [MALE] wants to be a good person.
+[MALE] goes to
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+a ball is used for holding a ball.
+a person desires be social.
+a person does not desire be dependent on somebody else.
+a person desires be good.
+a person does not desire be angry.
+a person desires be loved.
+a person does not desire be sad.
+a person does not desire be lonely.
+a person does not desire be rude.
+a person does not desire be lonely.
+a person does not desire be alone.
+a person desires attention.
+a person does not desire be lonely.
+a person does not desire be bored.
+a person does not desire be greedy.
+a person does not desire be a loser.
+a person does not desire be confused.
+
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+t-shirts is at a mall.
+a person does not desire is not capable of sleep.
+people is capable of stand up.
+a person does not desire be in jail.
+a person does not desire be in jail.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in trouble.
+a person does not desire be in danger.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+a large house has a many rooms.
+a person desires health benefits.
+a person desires a nice vacation.
+a lot of money is at a casino.
+a toy is used for toying.
+an article is used for reading.
+a person desires a good job.
+a large house is used for a residence.
+a person desires comfort.
+a person desires a good job.
+a person desires be a good father.
+many things has a links.
+a person desires a vacation.
+a person desires a good job.
+a person desires a great lover.
+a person desires a nice job.
+a person desires a good haircut.
+a person desires a good job.
+a person is
+---------------

@@ -1,0 +1,91 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_3_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city.[FEMALE] wants to have a career. [FEMALE] needs to find a job. [FEMALE] increases their motivation. [FEMALE] wants to find something to do. [FEMALE] will happy. [FEMALE] will happy.][FEMALE] is the first man to respond. [FEMALE] will nervous. [FEMALE] needs to pay attention. [FEMALE] will happy]
+[MALE] continues to [FEMALE] [MALE] is good. [FEMALE] wants to continue. [MALE] needs to stay at home and relax. [FEMALE] wants to be at home. [M
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] will happy. [MALE] will sad. [MALE] will pleased. [MALE] will satisfied. [MALE] will happy. [MALE] will satisfied. [MALE] will satisfied. [MALE] be happy. [MALE] will happy. [MALE] will satisfied. [MALE] is happy. [MALE] is happy.]
+[MALE] will has a hard time eating. [MALE] wants to drink the beer. [MALE] is sick. [MALE] is nice. [MALE] is generous. ]
+[MALE] needs to tell [FEMALE] their name. [FEMALE] will
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] wants to be a good and loving person. [MALE] finds some new friends. [MALE] is a good person. [MALE] is happy. [MALE] is capable. [MALE] is loving. [MALE] is capable. [MALE] is capable of. [MALE] needs to be a strong. [MALE] is capable. [MALE] is capable. [MALE] is responsible. [MALE] is responsible. [MALE] wants to get paid. [MALE] wants to have money. [MALE] needs be prepared. [MALE] needs be informed.. [MALE] knows what needs to be done.
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] needs to work on it. [FEMALE] is motivated. [MALE] will happy. [MALE] will confident. [MALE] will healthy. [MALE] will satisfied. [MALE] needs to be able to express their desire. )
+[MALE] invites [FEMALE] to make a meal. [MALE] will happy. [MALE] is entertained. )
+[MALE] asks [FEMALE] to give [FEMALE] a drink. [MALE] will happy. [MALE] needs to leave the room.. )
+[MALE] wants to learn more about [FEMALE] behavior. [MALE
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] needs to have an education. [MALE] will happy. [MALE] will happy. [MALE] is intelligent. [MALE] is hopeful. [MALE] wants to go to the park. [MALE] wants to buy groceries. [MALE] will sad. [MALE] wants to go home. [MALE] is kind. [MALE] wants to help. [MALE] is generous. [MALE] wants to get a new house. [MALE] wants to be closer to home. [MALE] will satisfied. [MALE] is helpful. [FEMALE] wants to find the best. (MALE) wants to be
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] will happy to be away from home. [MALE] will happy to have a new job. [MALE] needs do it well. [MALE] will satisfied. [MALE] is interested. [MALE] wants to enjoy the experience. [MALE] will satisfied. [MALE] is capable of help the person. [MALE] is caring. [MALE] will grateful. [MALE] is capable of get help. [MALE] is helpful. [MALE] wants to get help. [MALE] will satisfied. [MALE] needs to be healthy and healthy. [MALE] wants to be healthy..] is capable of run. [M
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] wants to be a successful entrepreneur. [FEMALE] wants to be successful. [FEMALE] will satisfied. [FEMALE] will ready. [FEMALE] will satisfied. [FEMALE] will wants to run a business. [FEMALE] will good. [FEMALE] will satisfied. [FEMALE] will happy. [FEMALE] will satisfied. [FEMALE] will [FEMALE] does not know why she did it. [FEMALE] will disappointed. [FEMALE] will sad. [FEMALE] will jealous. [FEMALE] wants to be happy.]
+[MALE] sees [
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] will be healthy. [MALE] is brave. [MALE] is satisfied. [MALE] will grateful. [MALE] is fulfilled. [MALE] asks [FEMALE] their favorite question. [MALE] is knowledgeable. [MALE] will capable. [MALE] needs to know] [MALE] is capable. [MALE] needs to have a good understanding. [MALE] will relieved. [FEMALE] wants to be satisfied. [MALE] needs to have a good appreciation. [MALE] needs to be able to read books. [MALE] needs to have a good understanding. [MALE] gets more information. [
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] needs to visit a doctor. [MALE] will happy and healthy. [MALE] wants to be a musician. [MALE] is not motivated. [MALE] takes it from persony. [MALE] wants to be successful. [MALE] is good. [MALE] wants to make a profit. [MALE] is disciplined. [MALE] will sad. [MALE] is cautious. [MALE] wants to be careful. [MALE] is helpful. [MALE] will knowledgeable. [MALE] wants to have more information. [MALE] is helpful. [MALE] wants to get ready for the test. [MALE]
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] will safe. [MALE] will satisfied. [MALE] needs to not be in need of money. [MALE] will happy. [MALE] needs to be informed. [MALE] will satisfied. [MALE] is capable. [FEMALE] will has to learn. [MALE] needs to be a good person. [MALE] is competent. [MALE] needs to be a good person. [MALE] is responsible. [MALE] will capable. [MALE] needs to use good judgement. [MALE] is strong. [MALE] will happy. [MALE] needs to be in the car. [MALE] needs
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] will be motivated to work harder. [MALE] needs to reach the person's goal.
+[MALE] takes the time to read the news. [MALE] needs to have some time to prepare. [MALE] will sad.
+[MALE] calls the police. [MALE] needs to feel safe. [MALE] will grateful for the fact.
+[MALE] turns [FEMALE] away. [MALE] needs to change the subject. [MALE] will confident.
+[MALE] gives [FEMALE] a gift. [MALE] wants to thank [FEMALE] for their support.
+[MALE] finds a
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] wants to go home. [FEMALE] needs to find a job. [FEMALE] wants to be responsible. [FEMALE] wants to have a good relationship. [FEMALE] is determined to be happy. [FEMALE] wants to be a great person. [FEMALE] will happy in their lives. [FEMALE] will happy to be home. [FEMALE] wants to avoid problems. [FEMALE] wants to avoid drama. [FEMALE] wants to be responsible. [FEMALE] will friendly. [FEMALE] will satisfied. [FEMALE] will happy. [FEMALE] wants to eat
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] wants to go somewhere he/she did not go to. [FEMALE] gets a job. [FEMALE] is kind. [FEMALE] wants to go somewhere they did not go to. [FEMALE] is kind. [FEMALE] wants to go to sleep. [FEMALE] gets a new job. [FEMALE] wants to have fun with them. [FEMALE] wants to be happy. [FEMALE] will satisfied. [FEMALE] will satisfied. [FEMALE] is tired. [FEMALE] needs to get up. [FEMALE] will satisfied. [FEMALE] will grateful.
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] needs to get a job. [FEMALE] is confident. [FEMALE] is self-reliant. [FEMALE] wants to make the list. [FEMALE] wants to go back to the shop. [FEMALE] is caring. [FEMALE] will happy. [FEMALE] will happy. [FEMALE] feels good. [FEMALE] is satisfied. [FEMALE] wants to get healthy. [FEMALE] will happy. [FEMALE] wants to be happy. [FEMALE] wants to be happy. [FEMALE] wants to be relaxed. [FEMALE] will relieved.
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] will happy. [MALE] will sad. [MALE] needs to be [FEMALE] motivated. [MALE] will angry. [MALE] will free. [MALE] needs to be helpful. [MALE] needs to be good. [MALE] is responsible. [MALE] is useful. [MALE] is satisfied. [MALE] is caring. [MALE] wants to have a good time. [MALE] wants to be helpful. [FEMALE] will wants to make a purchase. [FEMALE] will needs to buy a ticket. [FEMALE] is caring. [MALE] is caring. [MALE
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city.She is looking for work. [FEMALE] needs to go to work. [FEMALE] needs to get the job done. [FEMALE] wants to continue working. [FEMALE] wants to get a job. [FEMALE] will satisfied. [FEMALE] wants to get some money. [FEMALE] will happy. [FEMALE] will satisfied. [FEMALE] will happy. [FEMALE] wants to move to a different city. [FEMALE] wants to be closer to the person. [FEMALE] will healthy. [FEMALE] wants to get out of the car. [FEMALE] wants to continue to do
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] will happy. [FEMALE] will content. [FEMALE] will grateful. [FEMALE] will happy. [FEMALE] will happy. [FEMALE] will sad. [FEMALE] will hopeful. [FEMALE] will proud. [FEMALE] will excited. [FEMALE] wants to express gratitude. [FEMALE] will happy. [FEMALE] will happy. [FEMALE] wants to be responsible. [FEMALE] needs to be physically fit. [FEMALE] wants to feel good. [FEMALE] needs to be able to concentrate. [FEMALE] takes the hand off
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] will sad. [FEMALE] needs to move.] [FEMALE] is active. [FEMALE] is interested. [FEMALE] will satisfied. [FEMALE] wants to go home. [FEMALE] will happy, happy. [FEMALE] will happy. [FEMALE] will satisfied. [FEMALE] wants to eat. [FEMALE] wants to have food. [FEMALE] wants to eat. [FEMALE] will happy. [FEMALE] wants to be able to give him money. [FEMALE] needs to help. ] [FEMALE] is satisfied. [FEMALE]
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] wants to go out and read. [FEMALE] will happy. [FEMALE] will happy. [FEMALE] will eager. [FEMALE] needs to get to work. [FEMALE] will satisfied. [FEMALE] will sad. [FEMALE] will relieved. [FEMALE] will is happy. [FEMALE] will has left. [FEMALE] wants to go to school. [FEMALE] will happy. [FEMALE] will happy.] [FEMALE] will sad. [FEMALE] is sad. [FEMALE] will happy. [FEMALE] will sad. [F
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] wants to be self-sufficient. [FEMALE] needs to be close to him. [FEMALE] will satisfied. [FEMALE] will happy. [FEMALE] is grateful. [FEMALE] is skilled. [FEMALE] needs to be a skilled cook. [FEMALE] needs to be [FEMALE] content. [FEMALE] desires a person to give a person a gift. [FEMALE] will grateful. [FEMALE] is nice. [FEMALE] needs to be well-behaved. [FEMALE] will relaxed. [FEMALE] will curious. [FEMALE] wants to
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] will happy. [MALE] will satisfied. [MALE] is caring. [MALE] needs the money. [MALE] is intelligent. [MALE] will helpful. [MALE] will helpful. [MALE] is happy. [MALE] is helpful. [MALE] is helpful. [MALE] is helpful. [MALE] is helpful. [MALE] is helpful. [MALE] wants to be happy. [MALE] needs to avoid someone. [MALE] is helpful. ]
+[MALE] wants to work. [MALE] wants to hire a lot of people. [MALE] will grateful. [MALE]
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] wants to be popular. [FEMALE] is trustworthy. [FEMALE] needs to be motivated. [FEMALE] will personx is good. [FEMALE] will persony is good. [FEMALE] wants to buy groceries. [FEMALE] wants to talk with personx. [FEMALE] is happy. [FEMALE] wants to eat. [FEMALE] wants to feel happy. [FEMALE] is happy. [FEMALE] will is grateful. [FEMALE] wants to be nice to persony. [FEMALE] needs to be polite. [FEMALE] will will is angry. [
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] wants to go. [FEMALE] wants to use a phone with personx. [FEMALE] will happy and fulfilled. [FEMALE] will relieved. [FEMALE] will satisfied. [FEMALE] will wants to go home. [FEMALE] will happy. [FEMALE] will confused. [FEMALE] will annoyed. [FEMALE] will excited. [FEMALE] will satisfied. [FEMALE] will has done. [FEMALE] will satisfied. [FEMALE] will happy. [FEMALE] will [FEMALE] will happy] [FEMALE] wants to take the phone from
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city.FEMALE is not capable of be with persony. [FEMALE] wants to be with personx. personx is capable of be with persony. [FEMALE] is not capable of be with personx. [FEMALE] needs to have a home. [FEMALE] is willing. [FEMALE] is friendly. [FEMALE] wants to be with persony. [FEMALE] wants to be with persony. [FEMALE] wants to be alone. [FEMALE] is capable of fall asleep. [FEMALE] is satisfied. [FEMALE] is capable of get a job. [FEMALE] will happy. [F
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] will thankful. [FEMALE] will happy.
+[MALE] wants to get [FEMALE] some food. [MALE] will happy.
+[MALE] is more popular. [MALE] is more popular.
+[MALE] wants to wash the dishes. [MALE] needs to clean the dishes.
+[MALE] is not in love. [MALE] wants to get married.
+[MALE] wants to raise the children. [MALE] is fulfilled.
+[MALE] loses the competition. [MALE] will satisfied.
+[MALE] wants to see the movie. [MALE] wants to make a film
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] wants to go to work. [MALE] gets closer to [FEMALE].. [MALE] receives more attention. [MALE] wants to be more accepted. [MALE] wants to be nice. [MALE] will happy and fulfilled. [MALE] will happy and fulfilled. [MALE] will happy and fulfilled. [MALE] wants to thank [FEMALE] for helping them. [MALE] wants to celebrate. [MALE] will excited. [MALE] wants to tell [FEMALE] everything. [MALE] wants to make personx's appearance. [MALE] wants to feel good. [MALE] will happy.
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] wants to go to the restaurant. [RESULT] will will wants to spend [FEMALE] time with [FEMALE]
+[MALE] plays some video game. [MALE] wants to get better. [MALE] gets angry. [MALE] wants to get punished. [MALE] will [MALE] is greedy.
+[MALE] wants to buy food for his family. [MALE] wants to buy food for his family. [MALE] wants to thank [MALE] for his purchase. [MALE] is happy.
+[MALE] gets a new car. [MALE] wants to buy a new car. [M
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [MALE] will happy. [MALE] will well. [MALE] is thoughtful. [MALE] is sociable. [MALE] wants to be an engineer. [MALE] wants to be rich. [MALE] wants to be good. [MALE] wants to get away. [MALE] wants to be happy. [MALE] is dedicated. [MALE] wants to be successful. [MALE] wants to be helpful. [MALE] is social. [MALE] takes [FEMALE] to task. [FEMALE] will happy. [MALE] wants to be happy. [MALE] wants to be fulfilled. [MALE]
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] wants to go home. [FEMALE] is playful. [FEMALE] is sad. [FEMALE] needs to be very sociable. [FEMALE] is happy. [FEMALE] is observant. [FEMALE] wants to get up. [FEMALE] will happy. [FEMALE] needs to be social. [FEMALE] wants to be respected].. [FEMALE] is observant. [FEMALE] is determined. [FEMALE] wants to be independent. [FEMALE] is capable. [FEMALE] is responsible].. [FEMALE] wants to do something productive. [
+---------------
+Complete the following text within five sentences:Tired of her mundane life, [FEMALE] moved to the city. [FEMALE] wants to go to bed. [FEMALE] will happy. [FEMALE] needs to start a new day. [FEMALE] will happy. [FEMALE] will happy and fulfilled. [FEMALE] will happy. [FEMALE] will satisfied. [FEMALE] will satisfied. [FEMALE] wants to be content. [FEMALE] will happy. [FEMALE] will satisfied. [FEMALE] will satisfied. [FEMALE] will satisfied. [FEMALE] will happy. [FEMALE] will happy. [FEMALE] needs to go to the hospital. [FEMALE] will is
+---------------

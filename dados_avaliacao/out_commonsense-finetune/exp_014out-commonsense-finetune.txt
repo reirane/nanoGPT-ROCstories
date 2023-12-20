@@ -1,0 +1,447 @@
+Overriding: out_dir = out-commonsense-finetune/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:John got a pet turtle when he was a kid.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] gets a new pair of shoes.
+[MALE] is in a party.
+[MALE] takes none to the store.
+[MALE] gives none a test.
+[MALE] plays video games.
+[MALE] buys none in the store.
+[MALE] makes the right choice.
+[MALE] says none aloud.
+[MALE] talks to persony.
+[MALE] does persony's work.
+[MALE] is excited.
+[MALE] gets a new toy.
+[MALE] is at the store.
+[MALE] helps persony's friend get a haircut.
+[MALE]
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] takes none to the doctor. [MALE] is satisfied with his work.
+[MALE] meets none in persony's home. [MALE] wants to have fun.
+[MALE] calls none to persony's home. [FEMALE] wants to be a good friend of persony.
+[MALE] gets none by taking the bus. [MALE] needs to go to a gas station.
+[MALE] drives to personx's house. [MALE] wants to get home.
+[MALE] talks to persony's girlfriend. [FEMALE] will they tell personx.
+[MALE] takes persony's phone.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] gets none from the government.
+[MALE] goes for a walk.
+[MALE] gets a new look.
+[MALE] is sitting down.
+[MALE] is doing personx's duties.
+[MALE] looks [FEMALE] in the eye.
+[MALE] is really happy.
+[MALE] is none in the kitchen.
+[MALE] wants to have a good time.
+[MALE] sees none in the restaurant.
+[MALE] is caring.
+[MALE] is a party goer.
+[MALE] gets none by the hand.
+[MALE] needs a new shirt.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+the devil is now a good person.
+the moon has a blue ring on it.
+the moon is at the moon.
+the earth is round.
+the moon is round.
+the earth is round.
+the earth is round.
+the moon is round.
+the earth is at the sun.
+the earth is round.
+the moon is at the sun.
+the earth is round.
+the moon is at the sky.
+the earth has a part.
+the moon is part.
+the earth has a part.
+the earth is round.
+the moon is part.
+the earth has a part.
+the earth is round.
+the earth is round.
+the earth is round.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a book is defined as a collection of information.
+a person is at a restaurant.
+a book is at any book.
+something is at two different places.
+a person is capable of desire a new toy.
+a person is capable of be lonely.
+a person is capable of be lonely.
+a person desires a book.
+a book is at the library.
+a book is at an office.
+the weather is at a place.
+a book is at a magazine.
+a book is at a book.
+a book is at a library.
+a book is used for entertaining a friend.
+a book is used for reading.
+a book is used for an audience.
+a book is
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] wants to be good. [MALE] wants to get better.
+[MALE] goes out on a limb. [MALE] wants to get healthy.
+[MALE] is really good. [MALE] is a good friend.
+[MALE] goes to the airport. [MALE] needs to hop in a plane.
+[MALE] is playing a part. [MALE] is good.
+[MALE] gives none to people. [MALE] needs to get a deposit.
+[MALE] becomes extremely upset. [MALE] is aggressive.
+[MALE] is in the bathroom. [MALE] is at the toilet.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+something is capable of move.
+a barber shop owner is capable of make a good impression.
+a toilet is used for clean the toilet.
+a person is capable of like food.
+a person is capable of be tired.
+a person is capable of take the bus.
+a person is capable of make a joke.
+a person receives a gift.
+a person is capable of have a great time.
+a person is capable of go to the store.
+a person does not like being treated badly.
+a person receives a gift.
+a refrigerator is used for making good meals.
+a person is capable of care for their loved one.
+a person is capable of be happy.
+a person is
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. x was looking for a turtle.
+[MALE] takes [FEMALE] to a pub. [MALE] will excited.
+[MALE] gets none out of the fridge. [MALE] will ready.
+[MALE] makes a lot of money. [MALE] wants to be successful.
+[MALE] meets none at a poker game. [MALE] wants to play.
+[MALE] is a good student. [FEMALE] will good at their education.
+[MALE] eats [FEMALE] hamburger. [MALE] is hungry.
+[MALE] sees none at work. [MALE] will happy.
+[M
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] is playing a game of tag.
+[MALE] tells [FEMALE] to go.
+[MALE] wants to see [FEMALE] more.
+[MALE] is not an expert.
+[MALE] wants to get married.
+[MALE] takes the bus home.
+[MALE] asks [FEMALE] out on a date.
+[MALE] finds [FEMALE] in the wrong place.
+[MALE] is very excited.
+[MALE] lives with persony's family.
+[MALE] loses personx's job.
+[MALE] lets [FEMALE] know.
+[
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] sees none for the first time. [MALE] will happy.
+[MALE] gets a job. [MALE] wants to go to work.
+[MALE] stays the night. [MALE] is worried.
+[MALE] takes none to the principal. [MALE] wants to talk to the principals.
+[MALE] gets the none from a friend. [FEMALE] wants to be thanked.
+[MALE] gives [FEMALE] a ride. [MALE] has a ride.
+[MALE] does [FEMALE] good. [MALE] wants to be rewarded.
+[MALE] hears none from
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+you has a good time.
+a good book has property useful.
+a book is used for learning.
+a book is used for reading.
+a book is used for reading.
+a book is used for keeping.
+a book is used for reading.
+a book is used for learning.
+a book is used for learning.
+a book is used for learning.
+a book is used for learning.
+a book is used for teaching.
+a book is used for learning.
+a book is used for keeping.
+a book is used for learning.
+a book is used for learning.
+a book is used for learning.
+a book is used for learning.
+a book is used for learning
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [FEMALE] wants to give them a gift.
+[MALE] needs to be in the same class as [FEMALE] [MALE] [MALE] is. [MALE] wants to go to class.
+[MALE] takes none with persony's friend. [MALE] wants to get a cup of coffee.
+[MALE] gets [FEMALE] none for the holidays. [FEMALE] wants to do something for [MALE]..
+[MALE] runs all day. [MALE] wants to be social.
+[MALE] makes persony's lunch. [MALE] wants eat.
+[MALE] loves the show
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+bust the air.
+a good teacher.
+something that you can do.
+a great deal of money.
+a good day for everyone.
+a good day.
+a good time.
+a good job.
+a good time.
+a good idea.
+a good idea.
+a good idea.
+a good idea.
+a bad idea.
+a bad idea.
+a good idea.
+a bad idea.
+a bad idea.
+a bad idea.
+a bad idea.
+a bad idea.
+a bad idea.
+a bad idea.
+a bad idea.
+a bad idea.
+a bad idea.
+a bad idea.
+a bad idea.
+a bad
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] loves to play. [MALE] is playful.
+[MALE] takes none in the classroom. [MALE] wants to get a lesson.
+[MALE] gives [FEMALE] the money. [MALE] wants to make the money.
+[MALE] gives [FEMALE] the gift. [MALE] wants to give it.
+[MALE] gives the person. [MALE] wants to offer him a gift.
+[MALE] gets a ticket. [MALE] wants to get it.
+[MALE] puts [FEMALE] out of business. [MALE] needs to go to the store.
+[
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] is good enough. [MALE] wants to have a good time.
+[MALE] is getting married. [MALE] is nervous.
+[MALE] takes none to the opera. [MALE] is passionate.
+[MALE] wants a new toy. [MALE] wants to be entertained.
+[MALE] gains the none for life. [MALE] wants to give up the use of the weapon.
+[MALE] runs errands. [MALE] needs to be a passenger.
+[MALE] buys some new shoes. [MALE] gets paid.
+[MALE] makes the list. [MALE] wants to be
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+get the ball: take the ball to the winner.
+get the ball for the first time: get a new one.
+jump the shark: get a boat ticket.
+see your favorite show: get a ticket to see them.
+see the full moon: see the full moon.
+get a new job: get a job.
+buy a house: get a new house.
+go to the zoo: get a safari.
+go to a restaurant: buy a hamburger.
+see a movie: go to the movies.
+see the film: buy a ticket.
+go to school: get a diploma.
+go to a meeting: get a book.
+go to school: get a grade.
+
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] makes [FEMALE] offer a gift. [MALE] wants to be grateful for the gift.
+[MALE] starts a new career. [MALE] wants to be successful.
+[MALE] becomes [FEMALE] president. [MALE] wants to be a leader.
+[MALE] calls [FEMALE] to the phone. [MALE] needs to be called to the phone.
+[MALE] leaves none for the children. [MALE] needs to buy candy.
+[MALE] moves to an apartment. [MALE] is excited.
+[MALE] sees a guy. [MALE] is curious.
+
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] thinks of the best thing to do.
+[MALE] wants to go out.
+[MALE] loves the job.
+[MALE] keeps persony's hands. [MALE] wants to keep [FEMALE] from crying.
+[MALE] takes the kids home. [MALE] needs to have a car.
+[MALE] gets none to go to school. [MALE] is responsible.
+[MALE] becomes more beautiful. [MALE] wants to be beautiful.
+[MALE] gets none on the job. [MALE] wants hire a new employee.
+[MALE] goes none with personx's family. [
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] throws none at the door. [MALE] wants to get into the door.
+[MALE] sees the none at the grocery store. [MALE] will satisfied.
+[MALE] takes [FEMALE] to the beach. [MALE] needs to be in the beach.
+[MALE] pays none to the government. [MALE] wants to take a trip.
+[MALE] gives [FEMALE] a chance. [MALE] needs to find a job/restaurant.
+[MALE] meets persony's none at the bar. [MALE] will good.
+[MALE] pays persony's none for the
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+John gets the dog fed.
+John gets married.
+John gets married.
+John gives john money.
+John gets married.
+John is in debt.
+John gets elected.
+John gets elected.
+John gets caught.
+John knows the weather.
+John has a appointment.
+John receives a divorce.
+John takes a walk.
+John is in trouble.
+John takes the bus.
+John gets tired.
+John gets a new haircut.
+John gets married.
+John is in the kitchen.
+John is being chased.
+John gets a new job.
+John is in the woods.
+John sees the sun.
+John get's a new car.
+John gets married.
+John
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+john gets a piece of paper.
+mike is on a plane.
+joe is a prostitute.
+joe is a whore.
+mike is a whore.
+mike is a whore.
+joe gets a new job.
+mike is a whore.
+mike is a whore.
+joe gets a divorce.
+mike is a whore.
+joe is a whore.
+mike gets married.
+joe gets a divorce.
+mike is a whore.
+mike gets a new job.
+mike is a whore.
+mike is a whore.
+mike gets a new job.
+joe gets a new job.
+mike is a
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] takes none to the park.
+[MALE] loves persony's dog.
+[MALE] puts none in personx's pocket.
+[MALE] becomes a magician.
+[MALE] buys none for personx's wife.
+[MALE] puts on persony's show.
+[MALE] gets good grades.
+[MALE] gives persony's favorite friend.
+[MALE] stays quiet.
+[MALE] is new to the restaurant.
+[MALE] opens persony's eyes.
+[MALE] takes notes.
+[MALE] gets personx's groceries.
+[MALE] brings none to persony's
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.John wants to be a good boy.
+[MALE] sends the personx's best friend. [MALE] is helpful.
+[MALE] eats the food. [MALE] will happy.
+[MALE] is very excited. [MALE] is excited.
+[MALE] gives [FEMALE] a [FEMALE] impression. [MALE] needs to be a salesman.
+[MALE] tells [FEMALE] to go. [MALE] wants to help.
+[MALE] takes none to the vet. [MALE] is curious.
+[MALE] goes to the store. [MALE] wants to buy something.
+[
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] is a cook. [MALE] is hungry.
+[MALE] takes none to personx's house. [MALE] needs to drive.
+[MALE] gives [FEMALE] a gift. [MALE] wants to thank [FEMALE] for the gift.
+[MALE] tells none [FEMALE] to go. [MALE] needs to be listening..
+[MALE] comes none to school. [MALE] is interested.
+[MALE] gives none to persony's mother. [MALE] is caring.
+[MALE] plays none with personx's friends. [MALE] wants to be a good
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+the first time you saw the moon was in the summer of 1969.
+some movies has a a two day period.
+person has a a a eye.
+there is a a a a a for a person.
+a person loves a fire.
+a person has a a brain.
+the internet has a a a a a.
+buy a ticket has a a a a a.
+a person has a a a a a.
+a person is interested in a cat.
+a dog has a a a a a.
+someone has a a a a a.
+a fire has a a a a a.
+a person is bored.
+a person has a a a a a.
+a person is interested
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+sputnik is capable of make a film.
+sputnik is capable of get in the way of people.
+sputnik is capable of get drunk.
+sputnik is capable of talk to people.
+sputnik is capable of leave the house.
+sputnik is capable of buy a house.
+sputnik is capable of bring to market.
+sputnik is capable of break the glass.
+sputnik is capable of make a hamburger.
+sputnik is capable of make a film.
+sputnik is capable of get a ticket.
+sputnik is capable of get into a fight.
+sputnik is capable of make a hamburger.
+s
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] goes to a dog show. [MALE] wants to have fun.
+[MALE] puts [FEMALE] in the dust. [MALE] is angry.
+[MALE] leaves persony's place. [MALE] needs to go to the store.
+[MALE] hears none in persony's ears. [MALE] wants to hear the noise..
+[MALE] plays none at the park. [MALE] wants to play with friends.
+[MALE] gets [FEMALE] help. [MALE] will relieved.
+[MALE] takes none to the doctor. [MALE] will cheerful.
+[MALE
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+peter rhodes is a retired firefighter.
+kathy is a comedian.
+jay is a writer.
+john is a lawyer.
+he is a teacher.
+he is the father.
+mike is a photographer.
+jessie is a writer.
+mike is a writer.
+peter rhodes is a physician.
+peter rhodes is a nurse.
+jean is a nurse.
+kathy is a writer.
+jean is a nurse.
+peter rhodes is a doctor.
+peter rhodes is a good cook.
+peter rhodes is a philosopher.
+peter rhodes is a doctor.
+peter r
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.John is not allowed to sell drugs.John is a great businessman.John is a good friend.John is a good person.John is a loving friend.John is very sociable.John is a good musician.John is a good person.John is an entrepreneur.John is a person to do business with.John is a good person.John is a great friend.John is a good person.John is an explorer.John is a good teacher.John is an expert.John is an accomplished businessman.John is a good member of the community.John is a good teacher.John is a good listener.John is a good friend.John is a good friend.John is a good friend.John is a good person.John
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] has none of the bromide. [MALE] needs to learn to live with the bromide.
+[MALE] finally got a job. [MALE] will happy.
+[MALE] buys a new computer. [FEMALE] wants it to work.
+[MALE] does research. [MALE] is curious.
+[MALE] receives none from god. [MALE] is dedicated.
+[MALE] has a none of the action. [MALE] wants to get hurt.
+[MALE] finally got. [MALE] is patient.
+[MALE] gives [FEMALE] a reason. [FEM
+---------------

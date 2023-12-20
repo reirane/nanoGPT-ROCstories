@@ -1,0 +1,407 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Harry and his basketball team was losing the game.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+have an idea.
+the next day.
+have a good time with your family.
+going to a sporting event.
+someone sees you.
+drinks water.
+you get a tattoo.
+take a walk.
+you have a great time.
+go on a date.
+go to a party.
+play chess.
+you is adventurous.
+a good teacher.
+a good lawyer.
+a good friend.
+a good neighbor.
+a good friend.
+a good friend.
+a good friend.
+play basketball.
+play basketball.
+play a game.
+have a drink.
+take a shower.
+go to the store.
+going to the mall.
+going to the movie
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] takes out the trash.
+[MALE] is always with persony.
+[MALE] meets personx's death.
+[MALE] looks like a dog.
+[MALE] makes persony's bed.
+[MALE] is at the beach.
+[MALE] is a newbie.
+[MALE] gives [FEMALE] a ride.
+[MALE] takes none to a shop.
+[MALE] is in awe of persony.
+[MALE] is a teacher.
+[MALE] is the first person.
+[MALE] gets a ticket.
+[MALE] is a friend.
+[M
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] will to be in and out of the room. [MALE] will to be in and out of the room.
+[MALE] will to not be able to put on the glasses. [MALE] will they will not.
+[MALE] wants to see. [MALE] will happy.
+[MALE] gets a letter. [MALE] wants to get the letter.
+[MALE] wants to leave. [MALE] wants to find out why.
+[MALE] gives none to the children. [MALE] is a very nice person.
+[MALE] comes back to the house. [FEMALE] needs to go on the
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.You should take advantage of this opportunity to find out the truth.Your parents have told you to go to the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.You will be at the library.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] needs to have a go at it. [MALE] needs to be bored.
+[MALE] takes back the phone from [FEMALE] . [MALE] wants to go to the store.
+[MALE] buys a new car. [MALE] wants to take the car home.
+[MALE] plays the piano. [MALE] wants to make musical notes.
+[MALE] eats none [FEMALE] is tired. [MALE] will happy.
+[MALE] sets the none in motion. [MALE] will satisfied.
+[MALE] finds [FEMALE] in the alley. [MALE] is not
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] wants to go to the theater.
+[MALE] wants to talk to the persony.
+[MALE] wants to go to a store.
+[MALE] gives none to persony.
+[MALE] gets personx's last name.
+[MALE] walks on eggshells.
+[MALE] gives none to noney.
+[MALE] is a little bit impatient.
+[MALE] needs to give none to another person.
+[MALE] is playing video games.
+[MALE] does not want to be a student.
+[MALE] sees none in personx's view.
+[MALE] loves to draw
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+the story has to start with the first two letters of the letter.
+the story has to make sense of the events.
+a person has to be at a restaurant.
+a person has to attend a function.
+a person has to work.
+a person has to be in the country.
+an item has a purpose.
+a person has a house.
+a person has a home.
+a person has a car.
+a person has a cat.
+an item has a purpose.
+the item has a purpose.
+the goal has to be accomplished properly.
+a person has a car.
+a person has a house.
+a person has a dog.
+a person has a dog.
+a
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.There was an accident.
+[MALE] wants to be brave. [MALE] is not capable.
+[MALE] is studying for a degree. [MALE] needs to study for a degree.
+[MALE] is taking drugs. [MALE] is becoming dependent.
+[MALE] puts [FEMALE] to sleep. [MALE] is awake.
+[MALE] gets a new job. [MALE] wants to get a new job.
+[MALE] puts [FEMALE] under surveillance. [MALE] wants to see who is watching.
+[MALE] makes [FEMALE] best friend. [MALE] needs to be
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] is playing basketball.
+[MALE] is good person.
+[MALE] gives one to a friend.
+[MALE] wants to find out about the topic.
+[MALE] sends personx's friend to a school.
+[MALE] takes persony's friend to the park.
+[MALE] takes personx's best friend.
+[MALE] gives none to a friend.
+[MALE] wants to be a musician.
+[MALE] is in love with persony.
+[MALE] gives [MALE] a pen.
+[MALE] is very important.
+[MALE] sees personx's friends.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] sees the right thing. [MALE] wants to make a decision.
+[MALE] eats a burger. [MALE] will relaxed.
+[MALE] loses a vote. [MALE] needs to go to the store.
+[MALE] meets a dead person. [MALE] person is curious.
+[MALE] wants to be a lawyer. [MALE] needs to make a decision.
+[MALE] loses a bet. [MALE] loses money.
+[MALE] has a crush on. [MALE] wants to put a stop to the crush.
+[MALE] takes a picture. [MALE] will happy.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+you is at a place.
+a person gains a certain height.
+a person is capable of talk to another person.
+a person is capable of go where nobody else would go.
+a person is capable of make a point.
+a person is capable of find some food.
+a person does not like being told to become.
+a person receives death threats.
+a person is capable of sleep well.
+a person does not like the weather.
+a person receives death threats.
+a person is capable of make a bed.
+a person receives death threats.
+a person receives death threats.
+a person is capable of be able to read.
+a person receives death threats.
+a person is capable of
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] buys some ice cream.
+[MALE] runs for president.
+[MALE] has a great time.
+[MALE] looks like an idiot.
+[MALE] wants to go to the zoo.
+[MALE] wants to make good grades.
+[MALE] turns [FEMALE] in.
+[MALE] gets sick. [MALE] needs to save his money.
+[MALE] has a lot of students. [MALE] needs to be a student.
+[MALE] gives [FEMALE] more money. [MALE] needs to be good.
+[MALE] needs to get help. [MALE
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] wants to help someone else.
+[MALE] is a writer. [MALE] needs to get a book.
+[MALE] is a small talker. [MALE] wants to talk to someone.
+[MALE] is not a man. [MALE] needs to get rid of the male.
+[MALE] gives none to the class. [MALE] is helpful.
+[MALE] is a great singer. [MALE] wants to perform.
+[MALE] plays hockey. [MALE] is tired.
+[MALE] looks around. [FEMALE] is sad.
+[MALE] puts none to work.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+Harry and his basketball team was losing the game.
+penny.m
+penny.m.p
+penny.m.p
+penny.m.p
+penny.m.p
+penny.m.p
+this.p.m.
+this.p.m.
+this.p.m.
+this.p.m.
+this.p.m.
+this.p.m.
+this.p.m.
+this.p.m.
+this.p.m.
+this.p.m.
+this.p.m.
+this.p.m.
+this.p.m.
+this.p.m.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+Harry gets his wand.
+Harry receives a letter.
+Harry has to go to the doctor.
+Harry wants to get back to his life.
+Harry is nervous.
+Harry wants to go to the pub.
+Harry gives an impromptu speech.
+Harry gets the book.
+Harry breaks his jaw.
+Harry's friends have a laugh.
+Harry is a friend.
+Harry meets the new friend.
+Harry wants to go to the zoo.
+Harry goes to the zoo.
+Harry needs a new car.
+Harry sees a beautiful girl.
+Harry sees a lot of children.
+Harry hears about the murder.
+Harry is a genius.
+Harry buys a new car.
+Harry starts talking to his
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a. Determines the probability of a winner.
+a. Evaluates the odds.
+a. Determines the distance to the line.
+a. Considers the probability of winning the game.
+a. Completes the task.
+a. Evaluates the outcome.
+a. Considers the outcome.
+a. Evaluates the outcome.
+a. Evaluates the outcome.
+a. Evaluates the outcome.
+a. Evaluates the outcome.
+a. Preserves the outcome.
+a. Prevents the opponent.
+a. Evaluates the outcome.
+a. Considers the outcome.
+a. Evaluates the outcome.
+a. Evaluates the outcome.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. He then read the newspaper and went to the office.
+[MALE] wants to be the best basketball player in the world. [MALE] wants to be a great athlete.
+[MALE] is a teenager. [MALE] wants to be a good person.
+[MALE] is at the mall. [MALE] is spending money.
+[MALE] is at the movies. [MALE] is on the way to the theater.
+[MALE] is a big sister. [MALE] is the big sister.
+[MALE] wants to go see a movie. [MALE] wants to see the movie.
+[MALE] takes [FEMALE]
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] will sad. [MALE] wants to help. [MALE] wants to feel better.
+[MALE] is unsure. [MALE] wants to be unconfident.
+[MALE] will proud. [MALE] will happy.
+[MALE] wants to buy. [MALE] needs to buy food.
+[MALE] plays none for. [MALE] needs to keep track of the number of plays.
+[MALE] receives none for breakfast. [MALE] wants to relax.
+[MALE] provides none to children. [FEMALE] will happy.
+[MALE] takes none with him. [MALE]
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] is in bed. [MALE] will wants to go to bed
+[MALE] is very good. [MALE] will happy
+[MALE] is capable. [MALE] is motivated
+[MALE] takes none into school. [MALE] will fit in the classroom
+[MALE] is proud. [MALE] wants to be proud
+[MALE] is having a great day. [MALE] is optimistic
+[MALE] is at the airport. [MALE] is excited
+[MALE] calls a mom. [MALE] is sad
+[MALE] loses sight of persony. [MALE] will tired
+[
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] becomes the best of friends. [MALE] wants to be a better person.
+[MALE] is very close. [MALE] is good.
+[MALE] plays a lot of chess. [MALE] needs to be an important person.
+[MALE] plays a lot of games. [MALE] is diligent.
+[MALE] is the only person. [MALE] wants to be responsible.
+[MALE] provides none to. [MALE] needs to be at the airport.
+[MALE] needs to buy a new sweater. [MALE] wants to purchase a sweater.
+[MALE] sees the stars. [M
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. They will be defeated. You are capable of solve the puzzle.
+you has a girlfriend. [MALE] wants to be the first person to date her.
+you has a wife. [MALE] will happy.
+you has a personx's dog. [MALE] wants to love the dog.
+you has a dog. [MALE] wants to have a pet.
+you is absent. [MALE] wants to use it.
+you is at a party. [MALE] will friendly.
+you is not capable. [MALE] needs take care of the children.
+you is in a coma. [MALE] will upset.
+you is at a party. [MALE
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+Harry is reading the book.
+the book is in the fridge.
+a book is in the library.
+a book has a lot of dust.
+a person wears a hat.
+a person has a heart attack.
+a person wears a green hat.
+a person is capable of make a bed.
+a person is a wizard.
+a person is capable of make a bed.
+a person is capable of get a book.
+a book is in the library.
+a person is capable of understand the subject.
+a book is in the library.
+a person is capable of take a shower.
+a book is in the library.
+a book is in the library.
+a book is in the
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] will a lot. [MALE] wants to help.
+[MALE] is working. [MALE] wants to enjoy the work.
+[MALE] wants to be. [MALE] needs to be at work.
+[MALE] gives [FEMALE] a clue. [MALE] needs to get the person's information.
+[MALE] has a hard time. [MALE] wants to get into trouble.
+[MALE] plays none carefully. [MALE] is determined.
+[MALE] gives [FEMALE] a big hug. [MALE] will happy.
+[MALE] sees none in the mirror. [
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] is engaged. [MALE] is motivated.
+[MALE] loses the ball. [MALE] needs to buy supplies.
+[MALE] makes [FEMALE] angry. [MALE] will relieved.
+[MALE] goes to sleep. [MALE] will motivated.
+[MALE] gives [FEMALE] answer. [MALE] needs get the answer.
+[MALE] comes home. [MALE] will happy.
+[MALE] is getting ready. [MALE] wants to get ready to go home.
+[MALE] is in the house. [MALE] wants a nice place to sleep.
+[
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+the first time you saw a boy in a blue dress.
+the first time you looked at a mirror.
+the first time you fell asleep on the couch.
+the first time you told a friend.
+the first time you had a fire alarm.
+the first time you got a letter.
+the first time you get a haircut.
+jolly the old thing.
+the first time you have a fight with the police.
+the first time you get the phone.
+the first time you turn on the TV.
+the first time you make a book.
+the first time you read a book.
+the first time you find a new car.
+the first time you put a hat on.
+the first
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+sputnik.org/sputnik/viewitem.htm. [MALE] needs to go to the police station.
+egypt.org/british.html. [MALE] wants to read the newspaper.
+m. k. p. [FEMALE] needs to buy a new car. [MALE] needs to bring the car to the shop.
+southern.com/michigan.html. [MALE] needs to go to the mall.
+japan.wikipedia.org/wiki/Females. [MALE] wants to go to a family event.
+m. k. p. [FEMALE] wants to go to a party.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.The team was the only one to go home.Harry will be the first to congratulate each other.At the end of five sentences, Harry will remember his parents.Harry will be satisfied.All is well.the house is quiet.the house is still.the house is a park.the house is safe.the house is not a place to live.the house is a place to go to.the house is warm.the house is warm.the house is not warm.the house is not warm.the house is not warm.the house is not happy.the house is lonely.the house is lonely.the house is strong.the house is peaceful.the house is good.the house is good.the house is good.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.Settling down is the best way to get a good sleep.Marrying a child is not good for you.Marrying a child is good.Marrying a child is the best way to spend time.Marrying a child is a fun experience.Marrying a child is a good experience.Marrying a child is good.Marrying a child is good.Marrying a child is fun.Marrying a child is fun.Marrying a child is good.Marrying a child is good.Marrying a child is good.Marrying a child is good.Marrying a child is good.Marrying a child is good.Marrying a
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+Harry and his basketball team were losing the game.
+Harry and his basketball team was losing the game.
+Harry and his basketball team were losing the game.
+Harry and his basketball team lost the game.
+Harry and his basketball team lost the game.
+Ron and Hermione were playing the game.
+Ron and Hermione were playing the game.
+Ron and Hermione were playing the game.
+Ron and Hermione were playing the game.
+Ron and Hermione were playing the game.
+Ron and Hermione were playing the game.
+Ron and Hermione were playing the game.
+Ron and Hermione were playing the game.
+Ron and Hermione were playing the game.
+Ron and Hermione were playing the game.
+Ron and Hermione was playing the
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. It is time to go home.
+[MALE] will need to get a job. [MALE] wants to work.
+[MALE] is bored. [MALE] will frustrated.
+[MALE] does not feel good. [MALE] will satisfied.
+[MALE] feels good. [MALE] is happy about the results.
+[MALE] is at work. [MALE] needs to be home.
+[MALE] wants to come. [MALE] is nervous.
+[MALE] has to go to a gas station. [MALE] needs to be at the gas station.
+[MALE] is wearing glasses. [MALE] is
+---------------

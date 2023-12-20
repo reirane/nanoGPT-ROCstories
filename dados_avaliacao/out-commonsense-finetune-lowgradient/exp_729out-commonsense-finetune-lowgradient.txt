@@ -1,0 +1,291 @@
+Overriding: out_dir = out-commonsense-finetune-lowgradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:I was playing catch with some friends outside.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] gives [FEMALE] a text. [MALE] wants to make the message clear.
+[MALE] has a good day. [MALE] needs to have the food.
+[MALE] is really sad. [MALE] will sad.
+[MALE] sees a film. [MALE] is entertained.
+[MALE] is in the middle of a party. [MALE] wants to go to the party.
+[MALE] sees [FEMALE] coming. [MALE] wants to make [FEMALE] feel good.
+[MALE] makes [MALE] face. [MALE] wants to be friendly.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [MALE] will excited.
+[MALE] breaks persony's arm. [MALE] will sore.
+[MALE] gets persony's work done. [MALE] wants to spend time with personx.
+[MALE] spends none with persony's family. [MALE] is good.
+[MALE] takes the piss. [MALE] needs ask questions.
+[MALE] pulls none back. [MALE] is kind.
+[MALE] writes a book. [FEMALE] will proud.
+[MALE] buys personx's ticket. [MALE] wants to go somewhere nice.
+[MALE] gets a new phone.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [MALE] wants to watch tv.
+[MALE] buys none on the beach. [MALE] needs to be able to go out to the beach.
+[MALE] wants to go fishing. [MALE] wants to get in shape.
+[MALE] plays the guitar. [MALE] wants to have fun.
+[MALE] is walking around town. [MALE] is tired.
+[MALE] is dating none at the mall. [MALE] wants to go to a party.
+[MALE] asks [FEMALE] out. [MALE] needs to ask a girl.
+[MALE] goes to a baseball game. [MALE
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [MALE] needs be at persony's school.
+[MALE] makes none out of wood. [MALE] wants to look at it.
+[MALE] loves all the food. [MALE] eats them all.
+[MALE] works like a king. [MALE] needs get good grades.
+[MALE] gets none from persony. [MALE] will good.
+[MALE] runs the gamut. [MALE] wants to win the game.
+[MALE] gets none from someone. [MALE] wants to be polite.
+[MALE] eats none the next day. [MALE] wants to get better.
+[M
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] needs to have a wife. [MALE] wants to be happy.
+[MALE] wants to go back to school. [MALE] is curious.
+[MALE] is sitting on the couch. [MALE] is tired.
+[MALE] finds none on the shelf. [MALE] needs to find the item.
+[MALE] opens persony's eyes. [FEMALE] wants to say thank you.
+[MALE] brings [FEMALE] to the point. [MALE] is good.
+[MALE] makes [FEMALE] dinner. [MALE] wants to eat.
+[MALE] spends none
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] asks the teacher to read the book. [MALE] wants to learn something.
+[MALE] spends none in the hospital. [MALE] is desperate.
+[MALE] decides to play the violin. [MALE] wants to have fun.
+[MALE] walks toward the door. [MALE] will nervous.
+[MALE] takes [FEMALE] to the city. [FEMALE] wants to see what the city is doing.
+[MALE] buys a new pair of shoes. [MALE] is good.
+[MALE] takes persony's car to work. [MALE] needs to have made a plan.
+
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to talk to [FEMALE] about what they have to go to the hospital with.
+[MALE] asks [FEMALE] out. [MALE] wants to welcome person x back.
+[MALE] gives [FEMALE] a kiss. [FEMALE] will happy.
+[MALE] gives [FEMALE] a present. [FEMALE] will grateful.
+[MALE] always asked. [MALE] is sociable.
+[MALE] tells [FEMALE] the news. [FEMALE] wants to be informed.
+[M
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. x is at a beach. y is at a mall.
+[MALE] invites none to the party. [MALE] wants to be friendly.
+[MALE] takes none for a spin. [MALE] will good.
+[MALE] makes [FEMALE] sign. [MALE] wants to make a sign.
+[MALE] raises the stakes. [MALE] is cautious.
+[MALE] takes a walk. [MALE] wants to be sociable.
+[MALE] puts none under persony's skin. [FEMALE] will receives a hug.
+[MALE] is having a party. [MALE] gets a party ticket.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] is playing basketball. [MALE] is trying to play.
+[MALE] gives [FEMALE] the sign. [MALE] wants to show personx's appreciation.
+[MALE] eats none in the shower. [MALE] gets some rest.
+[MALE] spends none there. [MALE] needs to walk around the block.
+[MALE] puts personx's none in the kitchen. [MALE] wants to open the fridge.
+[MALE] takes none to the zoo. [MALE] wants to get a new pen.
+[MALE] gets personx's phone back. [FEMALE] will relieved.
+
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [MALE] is mean.
+[MALE] gives [FEMALE] a kiss. [MALE] wants to thank personx.
+[MALE] buys [FEMALE] a new pair of shoes. [FEMALE] wants to give [MALE] a refund.
+[MALE] leaves the none at home. [MALE] needs to go to the store.
+[MALE] drives [FEMALE] none back to the house. [MALE] wants to be safe.
+[MALE] has a lot of fun. [MALE] wants to do something fun.
+[MALE] puts the none away. [MALE] is smart.
+
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+you is at a friend's house.
+you has property very important to you.
+some people is capable of be violent.
+get some groceries has prerequisite for have a meal under your bed.
+hike has subevent climb a mountain.
+you is capable of feel great about yourself.
+someone has property very nice to have.
+a person receives action make up of many people.
+someone is capable of run across the street.
+japanese people does not like the color of paint.
+a person does not like to have their hair cut short.
+you is at a movie.
+someone is capable of wear a top hat.
+a person is capable of sit on a chair.
+a person is capable
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [FEMALE] wants to go home.
+[MALE] raises personx's hand. [MALE] is confident.
+[MALE] buys [FEMALE] a present. [FEMALE] wants to thank person x.
+[MALE] begins to eat. [MALE] is hungry.
+[MALE] calls my mom. [MALE] gets a call back.
+[MALE] takes a walk. [MALE] wants to play.
+[MALE] enjoys the day. [MALE] is friendly.
+[MALE] buys personx's none online. [MALE] wants to get some money.
+[MALE] provides [F
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [MALE] wants go home soon.
+[MALE] tells [FEMALE] to go home. [FEMALE] wants to tell [FEMALE] to go.
+[MALE] takes none back home. [MALE] is kind.
+[MALE] gets another ___. [MALE] is proud.
+[MALE] gives [FEMALE] a cup of tea. [FEMALE] will happy.
+[MALE] meets persony's boyfriend. [MALE] is sociable.
+[MALE] makes a lot of noise. [MALE] wants to be loud.
+[MALE] gets persony's cat. [MALE
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [MALE] needs to be a good swimmer.
+[MALE] goes to sleep. [MALE] needs to wake up.
+[MALE] takes persony's friend. [MALE] wants to see them.
+[MALE] sees [FEMALE] in the mirror. [MALE] wants to say thank you.
+[MALE] provides none for persony's children. [MALE] wants to thank god.
+[MALE] has a great time. [MALE] will happy.
+[MALE] gives [FEMALE] the benefit of the doubt. [MALE] is responsible.
+[MALE] moves personx's none around.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [MALE] is at a bar.
+[MALE] says to personx's mom. [FEMALE] will smiles.
+[MALE] gets a new job. [MALE] needs to work for a good company.
+[MALE] makes persony's bed. [MALE] wants to be home.
+[MALE] takes persony's children for the weekend. [FEMALE] wants to call personx's family.
+[MALE] runs errands. [MALE] needs to be a carpenter.
+[MALE] wants to impress personx's sister. [MALE] needs to go to the store.
+[MALE] takes a break
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [MALE] is mean.
+[MALE] makes a mess. [MALE] wants to avoid another bad incident.
+[MALE] takes the day off. [MALE] is healthy.
+[MALE] gives personx's none to college. [FEMALE] wants to be responsible for it.
+[MALE] tells persony's mom. [MALE] wants to tell y about it.
+[MALE] sells personx's none at a discount. [MALE] is responsible.
+[MALE] takes persony's time. [MALE] is generous.
+[MALE] gets persony's none back. [MALE] wants to go home
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [FEMALE] will angry. [MALE] wants to enjoy the game.
+[MALE] gets personx's hair cut short. [MALE] wants to be thanked.
+[MALE] becomes [FEMALE] friend. [MALE] wants to help.
+[MALE] wants to have a birthday party. [MALE] wants to have fun.
+[MALE] buys a new pair of shoes. [MALE] will happy.
+[MALE] keeps these none in personx's closet. [FEMALE] wants to call me.
+[MALE] feels a little better. [MALE] gets better.
+[MALE] gets some money
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [FEMALE] will sad.
+[MALE] gives [FEMALE] explanation. [FEMALE] will grateful.
+[MALE] does personx's best. [MALE] is caring.
+[MALE] eats persony's meal. [MALE] is energetic.
+[MALE] gets personx's wallet. [MALE] wants to buy something for persony.
+[MALE] puts persony's ___. [MALE] wants to be helpful.
+[MALE] sends personx's response. [MALE] needs to have completed a task.
+[MALE] keeps it together. [MALE] needs to have a team over.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [FEMALE] wants to take [FEMALE] home.
+[MALE] calls none to the principal. [MALE] will informed.
+[MALE] uses personx's none for business. [MALE] wants to make money.
+[MALE] has a lot of trouble holding persony's head. [MALE] wants to have trouble breathing.
+[MALE] has a really good time. [MALE] is social.
+[MALE] gets [FEMALE] dose. [MALE] needs to take one dose.
+[MALE] gets personx's phone back. [MALE] needs to check the phone book.
+[MALE]
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [MALE] wants to relax.
+[MALE] goes none with persony's dad. [FEMALE] will happy and content.
+[MALE] makes dinner. [MALE] wants to have a meal.
+[MALE] goes none soon. [MALE] is prepared.
+[MALE] pays none to the man. [MALE] wants to provide a support.
+[MALE] cooks a meal for [FEMALE] friend. [MALE] is generous.
+[MALE] tells personx's sister. [MALE] is friendly.
+[MALE] takes persony's dog. [FEMALE] will get excited.
+[M
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [MALE] will happy.
+[MALE] takes a seat in a chair. [MALE] is relaxed.
+[MALE] feels really good. [MALE] is hopeful.
+[MALE] gets a new phone. [MALE] wants to call a friend.
+[MALE] takes personx's dog. [FEMALE] wants to think about what to do.
+[MALE] gets personx's hair cut. [MALE] needs to pick up the scissors.
+[MALE] is always late. [MALE] will sad.
+[MALE] gives a good lecture. [MALE] is helpful.
+[MALE] watches some movies
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [FEMALE] wants to explain to person y what happened.
+[MALE] takes none to the vet. [MALE] wants to see a doctor.
+[MALE] becomes a writer. [MALE] wants to make a book.
+[MALE] looks pretty good. [MALE] wants to take a shower.
+[MALE] buys a new pair of shoes. [MALE] wants to wear shoes.
+[MALE] moves the none to the new house. [MALE] is helpful.
+[MALE] loves persony's car. [MALE] wants to get to know persony.
+[MALE] returns home one day. [MALE
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [FEMALE] will gets tired.
+[MALE] buys none for a friend with a gift. [MALE] needs to go to the store.
+[MALE] never saw it. [MALE] is lost.
+[MALE] wants none to be. [MALE] needs to be in the vicinity.
+[MALE] is going to the store with persony. [MALE] wants get a gift.
+[MALE] puts on a show. [MALE] wants to see what he is selling.
+[MALE] gives [FEMALE] a big hug. [FEMALE] will happy.
+[MALE] is a big hit. [
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] is at the bar with a friend.
+[MALE] calls the police. [MALE] needs call the police.
+[MALE] calls the none to tell the truth. [MALE] needs to call their attorney.
+[MALE] gets none to sleep. [MALE] will relaxed.
+[MALE] is in the water. [MALE] needs to get hydrated..
+[MALE] comes home from school. [MALE] is tired.
+[MALE] gives persony's none away. [MALE] needs to steal something.
+[MALE] gets personx's hands dirty. [MALE] wants to avoid something.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I was running late.I was bored.I was bad.I was out of steam.I was hungry.I was inebriated.I was out of shape.I was in the process of going to college.I was tired.I was ill.I was out of pocket.I was feeling sleepy.I was lonely.I was hungry.I was inebriated.I was confused.I was scared.I was angry.I was bored.I was in a hurry.I was tired. I was tired.I was hungry.I was hungry.I was hungry.I was hungry.I was hungry.I was thirsty.I was thirsty.I was thirsty.I was thirsty.I was thirsty.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] pays the rent. [MALE] wants to get back to work.
+[MALE] wants to have a baby girl. [MALE] needs be healthy.
+[MALE] wants to be a firefighter. [MALE] wants to give them the opportunity.
+[MALE] watches none in the morning. [MALE] wants check the weather.
+[MALE] gets a job. [MALE] wants to make a living.
+[MALE] plays football with persony's friends. [FEMALE] wants to tell [MALE] how to play.
+[MALE] is really bad. [MALE] wants to go home.
+[
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [FEMALE] wants to go home.
+[MALE] joins a britain club. [MALE] will excited.
+[MALE] takes none to the doctor. [MALE] is informed.
+[MALE] gets married. [MALE] wants to get married.
+[MALE] hears none at work. [MALE] wants to work.
+[MALE] loves none for a year. [MALE] wants to enjoy the holidays.
+[MALE] has a great day. [MALE] wants to celebrate.
+[MALE] takes a break. [MALE] needs to take out their trash.
+[MALE] makes [FEM
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [MALE] is sociable.
+[MALE] spends time with persony's parents. [MALE] needs to know about persony's family.
+[MALE] plays tennis with persony's family. [MALE] is smart.
+[MALE] is a good friend. [MALE] will friendly.
+[MALE] tells personx's mom. [MALE] wants to talk to her again.
+[MALE] looks back at persony. [MALE] wants to give [FEMALE] [FEMALE] guidance.
+[MALE] never looked back. [FEMALE] will has a better idea of what they are looking back at.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [MALE] will [FEMALE] will motivated.
+[MALE] calls for help. [MALE] needs to get in touch.
+[MALE] takes none to the doctor. [MALE] is busy.
+[MALE] has a great day. [MALE] has fun.
+[MALE] takes none to the bar. [MALE] needs to have a drink.
+[MALE] makes a mess. [MALE] is careless.
+[MALE] has an interview. [MALE] wants to talk to persony.
+[MALE] loses personx's girlfriend. [MALE] wants to be a good friend.
+[MALE
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. [FEMALE] wants to go to bed.
+[MALE] takes the number. [MALE] needs to start a game.
+[MALE] takes none back. [MALE] wants to have a good time.
+[MALE] hits the store. [MALE] is desperate.
+[MALE] calls the number. [MALE] is friendly.
+[MALE] always wanted. [MALE] is smart.
+[MALE] has to go to the doctor. [MALE] wants to get evaluated.
+[MALE] wins the ball. [MALE] will satisfied.
+[MALE] does the math. [MALE] to impress.
+---------------

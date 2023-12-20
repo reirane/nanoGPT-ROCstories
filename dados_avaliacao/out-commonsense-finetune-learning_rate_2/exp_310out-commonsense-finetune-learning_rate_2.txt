@@ -1,0 +1,257 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tom ate out at a new restaurant.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tom ate out at a new restaurant.Tom wanted to sit down.Tom was in the store.Tom wants to go to the store.<|endoftext|>The number of people who work in the UK has more than doubled over the last decade.
+
+The number of people working in the UK has more than doubled over the last decade.
+
+The number of people working in the UK has more than doubled over the last decade.
+
+The number of people working in the UK has more than doubled over the last decade.
+
+Number of people working in the UK has more than doubled over the last decade.
+
+The number of people working in the UK has more than doubled over the last decade.
+
+The number of people working in the UK has more than doubled over the last
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. He got a good deal at the restaurant. You tried to go to the store.You get a lot of credit.
+
+[MALE] is able to ask a question.
+
+[MALE] is well skilled.
+
+[MALE] calls you.
+
+[MALE] will tired.
+
+[MALE] is easy to deal with.
+
+[MALE] is attentive.
+
+[MALE] has a good time.
+
+[MALE] is in good shape.
+
+[MALE] reads you.
+
+[MALE] will ready.
+
+[MALE] is helpful.
+
+[MALE] is understanding.
+
+[MALE]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Tom walked to the restaurant.Tom is in the car.Tom plays the piano.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom is in the car.Tom
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.You're a pretty bad cook.He wasn't eating to keep a job.You're a slut.You have to go for a walk.You're too tired.Your mom says you need to go to a friend's house.You've got to go to the store.You're a good friend.You're a good person.You're over your head.You're in a bar.You've got a great time.You're a good person.You're not a burden.You're a good person.You want to help someone.You're a good person.You need to go to a doctor.You're a good person.You just need to do whatever it takes.You deserve to get your meds.You're
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+Tom started the conversation by saying, "My mom told me about your mom's dog.
+Tom said he was going to take a walk with his two dogs.
+Tom ran to the car and said, "I had a great time.
+Tom was driving back from work.
+Tom made a joke about his family.
+Tom said he was lonely.
+Tom said he is lucky.
+Tom said he is not that good.
+Tom said he wants to go out.
+Tom said he wants to go back.
+Tom said he wants to go home.
+Tom said he is determined.
+Tom said he wants to go back.
+Tom said he wants to go back.
+Tom said he wants to go home
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.When you open the refrigerator for the first time, you will find him in the kitchen with a tray.When you open the refrigerator for the first time, you will find him in the living room.When you open the refrigerator for the first time, you will find him in the kitchen with a blanket.When you open the refrigerator for the first time, you will find him in the living room.When you open the refrigerator for the first time, you will find him in the living room.When you open the refrigerator for the first time, you will find him in the living room.When you open the refrigerator for the first time, you will find him in the living room.When you open the refrigerator for the first time, you will find
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+He is engaged to the woman.
+He has a new home.
+The woman will be very happy.
+Tom has a new job.
+The woman is happy.
+Tom has a new job.
+Tom is married.
+The woman has had a divorce.
+Tom is in the hospital.
+The woman is very happy.
+Tom has a new job.
+The woman is at work.
+Tom has a new job.
+Tom is in the hospital.
+The woman does not like it.
+The woman is very happy.
+The woman has a new job.
+The woman is very happy.
+The woman has a new job.
+The woman is satisfied.
+The woman is very happy.
+
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.There was some talk about how he got fired and then he was told to leave.You were a star student.You wanted to play soccer.You want to go to the mall.You wanted to go to a movie.You want to go to work.The situation is getting worse.You want to take a break.You want to go to a friend's house.You want to go to the mall.You want to go to a party.You want to go to the movies.You want to do something for a friend.You want to buy a car.You want to go to the mall.You want to go to a game.You want to play tennis.You want to fall asleep.You want to make the decision.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. He then saw a movie. He then went back to the restaurant. He then found a new car. He then goes to the bathroom.Tom goes to the bathroom.He goes to the bathroom.Tom takes the bath.Tom is not hungry.Tom gives the bath.Tom gets dressed.Tom is good.Tom takes the bath.Tom is good.Tom takes the bath.Tom is good.Tom takes the bath.Tom is good.Tom is good.Tom takes the bath.Tom is good.Tom takes the bath.Tom is good.Tom takes the bath.Tom is good.Tom takes the bath.Tom is good.Tom takes the bath.Tom is good.Tom takes the bath.Tom is good.Tom takes
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. He always does.You always do.He always does.You always do.You always do.He always does.He eats at a new place.You always do.He eats at a new restaurant.You always do.You always do.You always do.You always do.He eats at a new place.You always do.You always do.You always do.You always do.He eats at a new restaurant.You always do.You always do.You always do.You always do.He eats at a new restaurant.You always do.You always do.You always do.You always do.You always do.You always do.He eats at a new restaurant.You always do.You never do.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+you do not need to pay for the rest of the meal
+go to the bathroom
+take a bath
+you will never find a good person
+you will never have a problem
+you will never do anything wrong
+go to a movie
+you will never find a good person
+go to the park
+you will never find a good person
+get the necessary ingredients
+cook rice
+take a bath
+go to the park
+go to a party
+you will never find a good person
+go to the mall
+go to a movie
+you will never find a good person
+go to the movie
+you will never find a good person
+go to the grocery store
+you will never find a good person
+go to the grocery
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.You've had an accident.I had no idea how you ended up on the other side.I'm sorry.But what's up with the little girl who was holding your hand?You have a problem.I needed help.I'm sorry.But you're not going to get the help.you're a little weird.you're not allowed to go home.you're in a hot tub.we're going to a house party.you're in need of a shower.you need to take a bath.you're worried.you're confused.you need to talk to someone.you need to wait for the car.you have to leave your car.you're in need of some food.you need to help the waitress.you
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+"I'm not going to pick up the phone after my break."
+"The phone is not in my pocket."
+"It is not in your pocket."
+"It is not in your pocket."
+"You would never have to go to the doctor."
+"You would never have to go to the doctor."
+"You would never be able to go to the theater."
+"You would not have to go to the store."
+"You would not be able to get the car."
+"You would not be able to get the shirt off."
+"You would not be able to put a sock on your ass."
+"You would not be able to pick the pocket of your hat."
+"You
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.I told my mom.But she said, "He told me to."Tom told me.But she said, "He told me to.""Tom ate out at the mall."She said, "I had to go to the mall."Tom ate out at the mall."She said, "I looked at the mall signs."She said, "I had to go buy my ticket."Tom ate out at the park."She said, "I think I was sick."Tom ate out at the park."She said, "I just wanted to tell my mom."Tom ate out at the park."She said, "I'm fine."Tom ate out at the park."She said, "I'm fine. I can call my doctor."
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+Tom eats out at a new restaurant. Tom eats out at a new movie.
+Tom eats out at a new movie. Tom eats out at a different party.
+Tom eats out at a different party. Tom eats out at a new adventure.
+Tom eats out at a new adventure. Tom eats out at a new place.
+Tom eats out at a new place. Tom eats out at a new place.
+Tom eats out at a new place. Tom eats out at a new place.
+Tom eats out at a new place. Tom eats out at a new place.
+Tom eats out at a new place. Tom eats out at a new place.
+Tom eats out at a new place. Tom eats out at a
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Tom is looking for new clothes.Tom has a new gift for his dog.Tom is ready.Tom is happy.Tom is in love.Tom is playing a game.Tom is in the mood.Tom is holding the ball.Tom is ready.Tom is having fun.Tom is getting some sleep.Tom is getting ready for work.Tom is working.Tom is with a friend.Tom is at his mom's house.Tom is on his way home.Tom is tired.Tom is doing work.Tom is getting ready for the holidays.Tom is holding the ball.Tom is hitting the ball.Tom is doing something good.Tom is doing good.Tom is doing good.Tom is feeling good.Tom is doing good.Tom
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. He then went to find a car. He asks a friend to help him. The friend says that he's going to make sure you're not missing anything.Tom gets a car. Tom is in the car.Tom gets a good haircut. The friend asks if he's okay. The friend asks if they can just put the car on the floor.The friend asks if they can go somewhere. The friend asks if they can check their phone. The friend asks if they can keep the phone with them. The friend asks if they are good.Tom gets a new suit. The friend asks if they want to wear one.The friend asks if they feel good. The friend asks if they're okay.The friend takes the suit off.The
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Tom asked what happened.Tom turned the stove on.Tom gave him a drink.Tom called.Tom left.Tom asks.Tom how he feels.Tom asks.Tom asks.Tom sees.Tom sees.Tom is feeling sick.Tom returns.Tom is in pain.Tom uses a fork.Tom has to pick up food.Tom gets food.Tom wants to eat.Tom gets food.Tom wants to eat.Tom pulls the fork from Tom's hand.Tom is sick.Tom is in pain.Tom has to pick up food.Tom gets money.Tom wants to go to a movie.Tom has to pick up.Tom tells.Tom wants help.Tom wants to go to jail.Tom gets a phone.Tom is
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. I will be happy.I will be surprised.I will be so fed up.I will be glad.I will be grateful.I will be thankful.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be proud.I will be
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. He is happy. However, he had lost his appetite. He is tired, but not sick.He is determined. He is ready to go home.He is a good friend.He is a good man.He is a great soldier.But he is a bit tired. he has become too tired. He is a bit tired. he wants to go to bed.He is going to go to the doctor.What happened?Tom has a fever. He will be fine. However, he will find out later. he is getting better. He is being careful. but he is getting sick. He is sick.<|endoftext|>Still loading...
+
+A B C D E F G H I J K L M N O P Q R S
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. He gets so much satisfaction from getting to know you. He wants to leave a nice gesture. He wants to be alone.
+Tom takes a shower. He gets a new clothes.
+Tom takes a drink. He wants to stop by a bar.
+Tom takes a shower. He gets a new clothes.
+Tom takes a shower. He gets a new clothes.
+Tom takes a shower. He gets a new clothes.
+Tom wears a new uniform. He gets to wear a new uniform.
+Tom eats breakfast. He eats breakfast to eat.
+Tom goes to the store. He is looking for something.
+Tom eats dinner with a friend. He is looking for them.
+Tom takes a shower. He gets to shower
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Tom was in the car with a girlfriend.Tom went to the store.Tom left the store.Thomas was a friend.Thomas has a lot.Thomas goes to the store.Thomas is the next one.Thomas is in charge.Thomas has a boss.Thomas is in charge.Thomas is happy.Thomas is on his way.Thomas is a leader.Thomas is the good one.Thomas is a boss.Thomas has a boss.Thomas is a good one.Thomas is a happy one.Thomas is a boss.Thomas is in charge.Thomas is the guy.Thomas is in charge.Thomas is the person.Thomas is the one.Thomas is in charge.Thomas is the one.Thomas is in charge.Thomas is happy.Thomas
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.He doesn't like a good restaurant.you will get a new job.he will be in a new hotel.this is a family vacation.it will be the best experience.you will have a great time.this is a family vacation.it is the best vacation.you will have a great time.this is a family vacation.it is the best vacation.you will have a great time.this is a family vacation.it is the best vacation.you will have a great time.this is a family vacation.it is the best vacation.you will have a great time.this is a family vacation.it is the best vacation.you will have a great time.this is a family vacation.it is the best vacation.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. Then he ran to the store.Tom went over to the counter and picked up his food.
+Tom decided to go to the mall.
+Tom asked for the money.
+Tom asks for the money.
+Tom asks for the money.
+Tom asks for the money.
+Tom goes to the store.
+Tom wants to get the gum.
+Tom wants to get the gum.
+Tom asks for the gum.
+Tom wants to go.
+Tom wants to go.
+Tom wants to look at the store.
+Tom wants to get the gum.
+Tom wants take a shower.
+Tom wants to get the gum.
+Tom is in the car.
+Tom is at the parking lot.
+Tom is at the
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.I asked him if he was ok.He said he was.I asked him what he looked like.Tom smiled.I asked him what he was doing.He said he was working.I told him how I took care of the dishes.Tom smiled.It is very good to thank you.I asked him how he felt.He said he was so sad.I asked him how he felt.He said he went to the doctor.I told him he is ok.He said he was talking.He said he is fine.I told him how he is doing.He said he is well.I told him he is good.I told him he is very happy.He said he is very happy.I told him he is very
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+Tom is a player.
+Tom is a cook.
+Tom is a cook.
+Tom is a woman.
+Tom is a cook.
+Tom is a woman's cook.
+Tom is a cook's daughter.
+Tom is a cook's son.
+Tom is a cook's son.
+Tom is a cook's grandson.
+Tom is a cook's grandson.
+Tom is a cook's grandson.
+Tom is a cook's grandson.
+Tom is a cook's son.
+Tom is a cook's son.
+Tom is a cook's son.
+Tom is a cook's grandson.
+Tom is a cook's grandson.
+Tom is a cook's grandson.
+Tom is a cook's son.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.The restaurant was the only one in town.The restaurant was not the only one in town.The chef had the food.The restaurant was in the food court.The chef was not satisfied with his restaurant.The chef was not satisfied with his meal.The chef was not satisfied with his meal.The chef was not satisfied with his meal.The chef was not satisfied with his meal.The chef was not satisfied with his meal.The chef was not satisfied with his meal.The chef was not satisfied with his meal.The chef was not satisfied with his meal.The chef was not satisfied with his meal.The chef was not satisfied with his meal.The chef was not satisfied with his meal.The chef was not satisfied with his meal.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Settled down to the ground.Sewing a lot.Milled for by a dog.Sewing some more.Sewing the house.Milled for by the wind.Sewing the whole family.Milled for by the wind.Sewing the house.Milled for by the wind.Sewing the garden.Milled for by the wind.Sewing the yard.Milled for by the wind.Sewing the flower.Milled for by the wind.Sewing the garden.Milled for by the wind.Sewing the children.Milled for by the wind.Sewing the home.Milled for by the wind.Sewing the house
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. That's not fun. [Tom says nothing.]Is that true? That is not true. [Tom calls for the police.] [Tom shows up to the restaurant. No one is looking.] [Tom wants to be a hero.]
+Tom gets fired from his job. [He is fired from his job.] [He is fired from that job.]
+Tom buys a new car. [He gets hired by a dealership.] [He wants to be a car salesman.]
+Thomas gets a new job. [He wants to work.] [He is looking for a new job.]
+Tom says he will help his son. [He is relieved.] [He is working on his son.]
+Tom is a boy. [He is surprised.]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. He said he loves a good meal.
+Tom told the waitress he ate lunch.
+Tom told the waitress he wants to go to a movie.
+Tom asked the waiter who's helping him.
+Tom told the waitress that he wants to buy a ticket.
+Tom told the waitress that he loves it.
+Tom told the waitress that he has a special girlfriend.
+Tom told the bartender that he is a good bartender.
+Tom told the waitress that he is a good friend.
+Tom tells the waiter that he wants to get a beer.
+Tom told the bartender that he is a good person.
+Tom told the waiter to get the dog.
+Tom told the waiter to put the bag on the table.
+Tom told
+---------------

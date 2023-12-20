@@ -1,0 +1,318 @@
+Overriding: out_dir = out-commonsense-finetune/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] buys a new pair of shoes. [MALE] needs to find shoes.
+[MALE] sees [FEMALE] face. [MALE] wants to help.
+[MALE] brings [FEMALE] to see. [MALE] wants to take care of the person.
+[MALE] plays the guitar. [MALE] is a musician.
+[MALE] makes a good impression. [FEMALE] wants to make [MALE] feel good.
+[MALE] takes more pictures. [MALE] wants to take pictures of the situation.
+[MALE] helps persony's friend. [MALE] needs to be able
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] takes none to the doctor. [MALE] will satisfied with his work.
+[MALE] meets none at a party. [MALE] will excited.
+[MALE] opens the none to the public. [MALE] wants to share the knowledge.
+[MALE] is playing basketball with friends. [MALE] wants to be friendly.
+[MALE] decides to buy a new car. [MALE] is desperate.
+[MALE] finds none in the trash. [FEMALE] will proud.
+[MALE] buys the none in bulk. [MALE] wants to have a nice surprise.
+[MALE] decides to follow the
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] desires to be in the future. [MALE] needs get some money.
+[MALE] gets a new look. [MALE] is happy.
+[MALE] wants to go to the store. [MALE] wants to buy food..
+[MALE] finally drove. [MALE] needs to drive.
+[MALE] walks [FEMALE] home. [FEMALE] will sad.
+[MALE] gets none in the mail. [MALE] is determined.
+[MALE] gives [FEMALE] the thumbs up. [FEMALE] will excited.
+[MALE] brings [FEMALE] home.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You are a pretty good cook.Chef is pretty good.Cook is very good.
+[MALE] will personx's next job. [MALE] wants to be a good cook.
+[MALE] receives [FEMALE] apology. [FEMALE] wants to apologize to persony.
+[MALE] calls persony's mother. [FEMALE] will person y will be in charge.
+[MALE] loses a lot of money. [MALE] wants to be a good person.
+[MALE] makes personx's way. [MALE] wants to find the money.
+[MALE] goes to personx's car. [MALE] will
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] needs to have a wife. [MALE] wants to be happy.
+[MALE] goes to the mall with persony. [MALE] needs to get a ticket.
+[MALE] gets a new car. [MALE] wants to enjoy the car.
+[MALE] gives persony's wallet. [MALE] wants to give it away.
+[MALE] plays none in the backyard. [MALE] is smart.
+[MALE] is in a bad mood. [MALE] is nervous.
+[MALE] wants to have sex. [MALE] wants to have sex.
+[MALE] is driving persony's car
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] asks the person next to them for directions. [MALE] has the right to ask the person.
+[MALE] gets the job done. [MALE] gets a promotion.
+[MALE] is the persony's first friend. [MALE] will loved.
+[MALE] receives a discount. [MALE] will happy.
+[MALE] loves to do. [MALE] will capable.
+[MALE] takes lessons. [MALE] needs to have a degree.
+[MALE] sends none to prison. [MALE] wants to make sure the prison system is safe.
+[MALE] gets back to work. [M
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] decides to leave. [MALE] wants to get away from persony.
+[MALE] finally arrived. [MALE] is happy to be home.
+[MALE] asks [FEMALE] out. [MALE] will happy.
+[MALE] tries and make [FEMALE] happy. [MALE] wants to get some peace.
+[MALE] puts [FEMALE] in charge. [FEMALE] is dominant.
+[MALE] wants to be. [MALE] is sociable.
+[MALE] tells [FEMALE] the news. [FEMALE] wants to be informed.
+[M
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. x is responsible for his salary.
+[MALE] takes [FEMALE] to a store. [MALE] will excited.
+[MALE] gets none from people. [FEMALE] will happy.
+[MALE] is a good teacher. [MALE] will good.
+[MALE] spends none on a project. [MALE] is motivated.
+[MALE] sends none in personx's way. [MALE] wants to be a good person.
+[MALE] buys none online. [MALE] is open.
+[MALE] receives none from [FEMALE] teacher. [MALE] needs to complete the assignment.
+[M
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] is caring. [MALE] needs to be nice to persony.
+[MALE] takes a picture. [MALE] needs to like the picture.
+[MALE] takes persony's money. [MALE] needs to take it from persony.
+[MALE] tells personx's mom. [MALE] wants to comfort the mom.
+[MALE] puts personx's none in the kitchen. [MALE] will happy.
+[MALE] wins the game. [MALE] is strong.
+[MALE] gets personx's hair cut. [MALE] needs to take them to the salon.
+[MALE] gets
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] sees none for the first time. [MALE] will happy.
+[MALE] buys a new watch. [MALE] will glad.
+[MALE] loses the none for a week. [MALE] wants to get away from persony.
+[MALE] gives birth to a boy. [MALE] is excited.
+[MALE] makes [FEMALE] laugh. [MALE] will embarrassed.
+[MALE] buys groceries. [MALE] needs to find the grocery store.
+[MALE] is talking to personx's mother. [MALE] is sad.
+[MALE] saves none for the future. [M
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+you has a good time.
+you is a person.
+you has a good opinion.
+a is capable of desire.
+you has a good time.
+you has a good day.
+you is capable of get a good break.
+you is capable of keep your wallet.
+a is capable of get a bad press.
+a is capable of make a fool of themselves.
+a is capable of run across the street.
+japanese is not on english.
+a is capable of wear a long sleeve.
+a is capable of wear a dress.
+you is capable of get tired.
+you is capable of desire.
+a is capable of get wet.
+a is capable of be married.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. [FEMALE] wants to go home.
+[MALE] raises the child. [MALE] will proud.
+[MALE] will tired. [MALE] wants to get up.
+[MALE] meets none at the park. [MALE] will good.
+[MALE] puts none upon persony's lips. [MALE] wants to talk to persony.
+[MALE] calls none upon persony. [MALE] wants to say thank you..
+[MALE] runs all the way. [MALE] wants to get out.
+[MALE] finds none in the attic. [MALE] wants to find the thing.
+[MALE
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] wants to help someone else. [MALE] wants to help someone.
+[MALE] is at the store. [MALE] gets lost.
+[MALE] is running late. [MALE] gets to the door.
+[MALE] wants to get another one. [MALE] is proud.
+[MALE] gives [FEMALE] a cup of tea. [FEMALE] will happy.
+[MALE] meets persony's boyfriend. [MALE] is sociable.
+[MALE] is tired. [MALE] gets tired.
+[MALE] invites persony's friends. [MALE] will happy.
+
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] loves to cook. [MALE] is intelligent.
+[MALE] takes none to the grocery store. [MALE] is thoughtful.
+[MALE] is determined. [MALE] is determined.
+[MALE] sees none on the road. [MALE] needs to find a vehicle.
+[MALE] throws [FEMALE] away. [MALE] is determined.
+[MALE] has a baby girl. [MALE] is caring.
+[MALE] gives [FEMALE] the phone. [MALE] is needy.
+[MALE] has a good laugh. [FEMALE] wants to be entertained.
+
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] is good enough. [MALE] wants to have a good time.
+[MALE] loves [FEMALE] so much. [FEMALE] will happy.
+[MALE] gives [FEMALE] a raise. [MALE] wants to do good work.
+[MALE] is playing a game. [MALE] wants to play a game.
+[MALE] is scared. [MALE] needs to learn to walk.
+[MALE] takes none to the doctor. [MALE] wants get better.
+[MALE] wants to go back. [MALE] is brave.
+[MALE] knows none well. [
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] calls [FEMALE] out on a date. [MALE] wants to talk to [FEMALE] about their date.
+[MALE] puts none in the fridge. [MALE] wants to eat it.
+[MALE] gets none to sing. [MALE] is capable.
+[MALE] drives to the airport. [MALE] wants to go to the airport.
+[MALE] sells the none to the owners. [MALE] wants to make a profit.
+[MALE] loves to play. [MALE] wants to watch the game.
+[MALE] starts [FEMALE] to drink. [MALE]
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] makes [FEMALE] offer a gift. [MALE] wants to be grateful for the gift.
+[MALE] starts [FEMALE] day. [MALE] needs to be in the company of the person.
+[MALE] walks none around. [MALE] is brave.
+[MALE] walks a mile. [MALE] needs to be at the right time.
+[MALE] gets a new one. [MALE] is responsible.
+[MALE] asks [FEMALE] to come. [FEMALE] will grateful.
+[MALE] gets a new one. [MALE] wants to do it some other
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] thinks of the person behind the counter. [MALE] wants to have an idea.
+[MALE] finishes the job. [MALE] will happy.
+[MALE] is almost done. [MALE] is tired.
+[MALE] gets a new one. [MALE] wants to have a new one.
+[MALE] gets none for the trip. [MALE] wants to have a good trip.
+[MALE] gives [FEMALE] the keys. [MALE] wants to be nice.
+[MALE] eats a hamburger. [MALE] wants eat something.
+[MALE] gets a phone call. [
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] throws none at persony. [MALE] is clumsy.
+[MALE] makes a terrible mistake. [MALE] will sorry.
+[MALE] puts one on persony's head. [MALE] wants to be more confident.
+[MALE] shows [FEMALE] concern. [MALE] wants to have a better understanding.
+[MALE] reads personx's memoir. [MALE] is curious.
+[MALE] uses persony's none to the fullest. [MALE] needs to be able to do things that person y has not.
+[MALE] loses sight of persony. [MALE] will sad.
+
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] becomes [FEMALE] [MALE] enemy. [MALE] wants to get away from persony and lose.
+[MALE] makes [FEMALE] stand up. [MALE] is forceful.
+[MALE] invites none to the beach. [MALE] will comfortable.
+[MALE] starts [FEMALE] business. [MALE] is knowledgeable.
+[MALE] makes persony's best friend. [MALE] wants to be happy.
+[MALE] gets none in personx's hand. [MALE] wants to have a good time.
+[MALE] decides to break persony's arm. [M
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] puts persony's money in personz's pockets. [FEMALE] wants to have the money.
+[MALE] gets a new puppy. [MALE] needs to change his hair.
+[MALE] makes none in the last two weeks. [MALE] gets a new puppy.
+[MALE] is playing a none at a game. [MALE] wants to look good.
+[MALE] puts none in the trunk. [MALE] will responsible.
+[MALE] is always late. [MALE] will tired.
+[MALE] gives [FEMALE] the money. [MALE] will grateful.
+[MALE
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] takes none to the park. [MALE] is hungry.
+[MALE] takes none on the road. [MALE] will safe.
+[MALE] puts none to work. [FEMALE] will happy.
+[MALE] looks for a friend. [MALE] wants to find someone to go to the store.
+[MALE] has a new job. [MALE] is creative.
+[MALE] has a new boyfriend. [MALE] will happy.
+[MALE] gives [FEMALE] a ride. [FEMALE] wants to go to the car.
+[MALE] takes persony's dog. [
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] wants to go. [MALE] wants to get away from persony.
+[MALE] is taking none to the store. [MALE] wants to get their stuff.
+[MALE] loses personx's place. [MALE] is determined.
+[MALE] asks persony's opinion. [MALE] wants to continue the conversation.
+[MALE] tells [FEMALE] that personx has a crush on persony. [FEMALE] will is interested.
+[MALE] gets personx's girlfriend. [MALE] is outgoing.
+[MALE] gets none to work. [MALE] wants to be helpful.
+
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] is the only person in the world that is very popular. [MALE] wants to be popular.
+[MALE] receives the none from time. [MALE] will happy.
+[MALE] gets none from the top. [MALE] wants to go to the top.
+[MALE] buys a new pair. [MALE] wants to be proud.
+[MALE] wants to get. [MALE] wants to go to a store.
+[MALE] has a terrible accident. [MALE] wants to get a care package.
+[MALE] sees none in the house. [MALE] wants a nice home.
+[MALE
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] buys none in the mail. [MALE] will receives mail.
+[MALE] is in charge. [MALE] wants to be part of the action.
+[MALE] becomes the father of persony's son. [FEMALE] wants to get their son a present.
+[MALE] gets a new one. [MALE] wants to have a new one.
+[MALE] gives [FEMALE] a hug. [MALE] wants to talk to the person.
+[MALE] finds none in the area. [MALE] is adventurous.
+[MALE] wants to get a haircut. [MALE] is mean.
+
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+sputnik has a very friendly atmosphere.
+buddha has a very strong connection.
+get ready for the new year has subevent you might get a bad grade.
+take a bath has subevent you might get a sore skin.
+taking a shower has subevent you might have a sore throat.
+gathering water has subevent you might get a big stink.
+instructing a friend has subevent you might get some unwanted reactions.
+eating a meal has last subevent of go to the restaurant.
+get a haircut has subevent you might get a new haircut.
+you might be having a hard time getting into a relationship.
+remember something has subevent you might forget.
+getting into a
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] goes to a party. [MALE] wants to be social.
+[MALE] tells personx's mother. [MALE] will happy.
+[MALE] gets personx's first bite. [MALE] wants to be satisfied.
+[MALE] finds none in the house. [MALE] wants to make sure they have enough.
+[MALE] has a terrible day. [MALE] will tired.
+[MALE] spends none with persony's son. [MALE] wants talk to persony.
+[MALE] takes a break. [MALE] needs to go out for a break.
+[MALE] takes a trip
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] writes the check. [MALE] needs to get a receipt.
+[MALE] gets personx's hair cut. [MALE] needs to have a haircut.
+[MALE] fills the tank. [MALE] needs to get the tank.
+[MALE] sets the grill on. [MALE] needs to get a grill.
+[MALE] takes persony's dog. [MALE] wants to take [MALE] to the vet.
+[MALE] takes persony's puppy. [FEMALE] will good.
+[MALE] gives [FEMALE] a clue. [MALE] will surprised.
+[MALE
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] wants to play videogame with persony. [MALE] needs to know how to play games.
+[MALE] gets none. [MALE] needs to have a lot of money.
+[MALE] takes persony's phone. [MALE] will has a computer.
+[MALE] starts the car. [MALE] wants to get the car.
+[MALE] goes to the store. [MALE] is hungry.
+[MALE] gets personx's hair cut. [MALE] is busy.
+[MALE] walks to the beach. [MALE] needs to buy a beach towel.
+[MALE] plays none with
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] opens the package. [MALE] wants to get a package.
+[MALE] is married. [MALE] will happy.
+[MALE] gives [FEMALE] a gift. [MALE] [FEMALE] wants donate to charity.
+[MALE] says a prayer. [MALE] wants to pray.
+[MALE] sees the dog. [MALE] wants to help them.
+[MALE] has a big heart. [MALE] will calmer.
+[MALE] takes none to the doctor. [MALE] will relieved.
+[MALE] gives [FEMALE] a reason. [FEM
+---------------

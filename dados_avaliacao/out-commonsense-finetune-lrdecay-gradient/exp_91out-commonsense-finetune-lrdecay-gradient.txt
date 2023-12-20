@@ -1,0 +1,220 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:[MALE] wanted to get a snack.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+MALE wanted to get a snack.
+
+MALE want to get a bite.
+
+MALE wanted to get a meal.
+
+MALE wanted to get a meal.
+
+MALE wanted to get a snack.
+
+MALE wanted to get a snack.
+
+MALE wanted to get a snack.
+
+MALE wanted to get a snack.
+
+MALE wanted to get a snack.
+
+MALE wanted to get a snack.
+
+MALE wanted to get a snack.
+
+MALE wanted to get a snack.
+
+MALE wanted to get a snack.
+
+MALE wanted to get a snack.
+
+MALE wanted to get a snack.
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] put it in the fridge. [MALE] get a cup of coffee. [MALE] give a gift. [MALE] get a hat. [MALE] get a chair. [MALE] get a ring. [MALE] put a ring on the finger. [MALE] get a new pair of shoes. [MALE] get a new pair of shoes. [MALE] get a new ring. [MALE] get a new sign. [MALE] put a sign on the door. [MALE] give a gift. [MALE] get a new necklace. [MALE] get a new necklace. [MALE] put a piece of paper in
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wanted to get a snack. [MALE] wants to get a snack.
+
+[MALE] wanted to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack.
+
+[MALE] wanted to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] needs to go to school. [MALE] is a student. [MALE] needs to go to school. [MALE] is a student. [MALE] is a student. (MALE) is a student. [MALE] is a student. [MALE] is a student. (MALE) is a student. [MALE] is a student. [MALE] is a student. (MALE) is a student. [MALE] is a student. (MALE) is a student. [MALE] is a student. (MALE) is a student. [MALE] is a student. (MALE) is a student. [M
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+"MALE," you say. "It's alright. That's more important than the food. You may even eat a bunch of it. I'll get you some food. It's okay."
+
+"MALE," you say.
+
+"MALE," you say.
+
+"MALE," you say.
+
+"MALE," you say.
+
+"MALE," you say.<|endoftext|>The following is a small story of my life.
+
+I was in college when my roommate at the time found out about my affair with my brother. We were a little brother, and we'd been together three years. I hadn't even told her what we were doing (we were in the same dorm
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack. I'm your boss.
+
+[MALE] wanted to get a snack. I have to go to the store to buy something.
+
+[MALE] wanted to get a snack. I need to take a break.
+
+[MALE] wanted to get a snack. I'm on the road to work.
+
+[MALE] wanted to get a snack. I want to go back to work.
+
+[MALE] wanted to get a snack. I'm on the way to work.
+
+[MALE] wanted to get a snack. I'm in the shop.
+
+[MALE] wanted to get a snack. I
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+[MALE] want to get a really nice gift.
+
+[MALE] want to get a nice haircut.
+
+[MALE] want to get a job.
+
+[MALE] want to get a job.
+
+[MALE] want to get a job.
+
+[MALE] want to get a job.
+
+[MALE] want to get a job.
+
+[MALE] want to get a job.
+
+[MALE] want to get a job.
+
+[MALE] want to get a job.
+
+[MALE] want to get a job.
+
+[MALE] want to get a job.
+
+[
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. MALE: get a shot of water. [MALE: gets a shot of water] got the shirt on. [MALE: get the shirt on] was trying to get a snack. [MALE: gets the shirt on] is trying to get a snack. [MALE: gets the shirt on] got the shirt on. [MALE: gets the shirt on] got the shirt on. [MALE: gets the shirt on] is trying to get a snack. [MALE: gets the shirt on] got the shirt on. [MALE: gets the shirt on] got the shirt on. [MALE: gets the shirt on] is trying to get a snack. [MALE: gets the
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+"I'm a mom. I love to make my own bread. I love to bake my own cookies. I like to have a good time. I love to like to be around people. I love to make my own cookies. I like to make my own bread."
+
+"I'm a little bit of a sissy. I like to snack on the foods. I like to eat out of the fridge. I don't like to eat in the kitchen. I like to be around people. I like to be around people."
+
+"I like to make my own bread. I like to bake my own cookies. I like to have a good time. I like to like to be around people. I like to
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] told me to eat. [MALE] gave me a hug. [MALE] told me to take a shower. [MALE] told me to go to the bathroom. [MALE] told me to come back later. [MALE] told me to go to the doctor. [MALE] told me to take a nap. [MALE] told me to get dressed. [MALE] told me to find a job. [MALE] told me to meet my friends. [MALE] told me to do something for my family. [MALE] told me to put my family first. [MALE] told me to be a good dad. [MALE] told me
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+[MALE] wanted to have a little fun.
+
+[MALE] wants to have a game in hand.
+
+[MALE] wants to play a game.
+
+[MALE] wanted to see a lot.
+
+[MALE] wants to plan a trip.
+
+[MALE] wants to keep things simple.[/MALE]
+
+[MALE] wants to have a lot of fun.
+
+[MALE] wants to have a good time.
+
+[MALE] wants to have a great time.
+
+[MALE] wants to think about something.
+
+[MALE] wants to get a feel for something.
+
+[MALE
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] is a nerd. [MALE] wants to get a workout. [MALE] has a girlfriend. [MALE] is a nerd. [MALE] wants to get a playdate. [MALE] is a nerd. [MALE] is a nerd. [MALE] has a girlfriend. [MALE] is a nerd. [MALE] is a nerd. [MALE] has a boyfriend. [MALE] wants to get a haircut. [MALE] is a nerd. [MALE] wants to get a playdate. [MALE] is a nerd. [MALE] wants to have a date. [MALE] is a nerd. [M
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] needs to get a snack. [MALE] needs to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wanted to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack.
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] has a hard time getting a snack. [MALE] is a young man. [MALE] is a beautiful woman. [MALE] is a person of good character. [MALE] is a young person who is very happy. [MALE] is someone who is caring. [MALE] is a person who is supportive. [MALE] is a person who feels like a little guy. [MALE] is a person who is happy. [MALE] is a person who is proud. [MALE] is a person who is kind and caring. [MALE] is a person who is loyal. [MALE] is a person who is warm. [MALE]
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. you're a good person. good enough. you're a good person. you're a good person. [MALE] said you were a bad person. good enough. you're a bad person. you're a bad person. you're a bad person. [MALE] said you hated the sound of your voice. good enough. you're a bad person. you're a bad person. you're a bad person. you're a bad person. you're a bad person. you're a bad person. [MALE] said you were a good person. good enough. you're a good person. you're a good person. you're a good person. you're a good person. [MALE] said you liked
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] had a hard time with it. [MALE] wanted to have a little fun with it. [MALE] wanted to have a hug. [MALE] wanted to have some fun with it. [MALE] wanted to have a kiss. [MALE] wanted to have some fun with it. [MALE] wanted to get some fun. [MALE] wanted to get some fun. [MALE] wanted to get some fun. [MALE] wanted to get some fun. [MALE] wanted to get some fun. [MALE] wanted to get some fun. [MALE] wanted to get some fun. [MALE] wanted to get some fun. [M
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. you want to put in your pocket. [MALE] wants to get a drink. [MALE] wants to make sure you pack something for your home. [MALE] wants to get into the car. [MALE] wants to go to the restroom. [MALE] wants to use your phone. [MALE] wants to get your computer. [MALE] wants to get some stuff. [MALE] wants to go to school. [MALE] wants to finish your homework. [MALE] wants to get to the bathroom. [MALE] wants to go to the bathroom with your family. [MALE] wants to get the last thing you wanted before you died. [MALE]
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. I want to get a cigarette. I want to get a coffee. I want to get a snack. I want to get a coffee.
+
+[MALE] wanted to get a book. I want to get a book. I want to get a book. I want to get a book. I want to get a book.
+
+[MALE] wanted to get a place to go. I want to get a place to go. I want to get a place to go. I want to get a place to go.
+
+[MALE] wants to get a place to go. I want to get a place to go. I want to get a place to go. I want to get a place to go.
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. I understand. [MALE] I need to get out of here. [MALE] I need to go to a party. [MALE] I need to have some beer. [MALE] I need to go to a concert. [MALE] I need to have some beers. [MALE] I need to go to a dance. [MALE] I need to have some dancing. [MALE] I need to have some dancing. [MALE] I need to have some dancing. [MALE] I need to have some dancing. [MALE] I need to have some dancing. [MALE] I need to have some dancing. [MALE] I need to have some dancing.
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] wants to relax. [MALE] wants to play with your toy. [MALE] wants to be a better person. [MALE] wants to put on a hat. [MALE] wants to put on a button. [MALE] wants to put on a hoodie. [MALE] wants to put on a shirt. [MALE] wants to change clothes. [MALE] wants to change clothes. [MALE] wants to get some rest. [MALE] wants to go to bed. [MALE] wants to sleep. [MALE] wants to put on a pair of socks. [MALE] wants to become a better person. [MALE] wants
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] had a weird girlfriend, and they were on a date. [MALE] asked the guy for a way out. [MALE] was a little confused. [MALE] didn't want to go to bed. [MALE] needed an update on his mind. [MALE] was worried about the kid. [MALE] is a little stressed. [MALE] is just a little nervous. [MALE] is a little nervous. [MALE] was worried about the kid. [MALE] is a little nervous. [MALE] is a little nervous. [MALE] is a little nervous. [MALE] is a little nervous. [MALE] is a
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] the person needs to go see the dentist. [MALE] the person needs to find a friend. [MALE] the person needs to go to a movie. [MALE] the person needs to go to a concert. [MALE] the person needs to go to a concert on a weekend. [MALE] the person needs to go to a concert on a weekend. [MALE] the person needs to go to a concert on a weekend. [MALE] the person needs to go to a concert on a weekend. [MALE] the person needs to go to a concert on a weekend. [MALE] the person needs to go to a concert on a weekend. [MALE
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] a snack is the first thing that comes to mind when you think about calling a guy a friend. [MALE] a man is the first thing you would say if you had any idea. [MALE] it is a very important thing to ask a friend to do. [MALE] a man is your first choice. [MALE] it is the first thing you would say if you had any idea. [MALE] that is the first thing that you would say. [MALE] it is the first thing you would say if you had any idea. [MALE] they is your first friend. [MALE] they is your first friend. [MALE] it is the first thing
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+[MALE] is a dog.
+[MALE] wants to get a sandwich.
+[MALE] wants to get a dog.
+[MALE] wanted to get a book.
+[MALE] wants to get a dog.
+[MALE] wants to get a dog.
+[MALE] wants to get a dog.
+[MALE] wants to get a dog.
+[MALE] wants to get a dog.
+[MALE] wants to get a cat.
+[MALE] wants to get a cat.
+[MALE] wants to get a dog.
+[MALE] wants to get a dog.
+[MALE] wants to get a
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] needed to have a good time. [MALE] needed to have a good time. [MALE] wanted to get a drink. [MALE] needed to have a drink. [MALE] wanted to get a book. [MALE] needed to have a book. [MALE] needed to get a phone call. [MALE] needed to have a phone call. [MALE] needed to get a job. [MALE] wanted to get a job. [MALE] needed to get a job. [MALE] wanted to get a job. [MALE] wanted to get a job. [MALE] needed to get a job. [MALE] wanted to
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+"I want to go to the store. I'm hungry, I've got a bunch of stuff I like."
+
+"I'm getting a ticket to win a ticket. We're going to go, I mean we have to go."
+
+"I want to talk to the person who's going to win a ticket. I'm excited about it."
+
+"I want to go to a show. I like music. I like doing a show. I've got a lot of stuff I like."
+
+"I want to go to the movies. I like movies. I mean you go to the movies."
+
+"I want to go to the store. I've got a bunch of stuff I like."
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] would like to go to the bathroom. [MALE] wants to go in the kitchen. [MALE] wants to go to the bathroom. [MALE] wants to go to the kitchen. [MALE] wants to go to the bathroom. [MALE] wanted to go to the bathroom. [MALE] wants to go to the bathroom. [MALE] wants to go to the bathroom. [MALE] wants to go to the bathroom. [MALE] wants to go to the bathroom. [MALE] wants to go to the bathroom. [MALE] wanted to go to the bathroom. [MALE] wants to go to the bathroom. [MALE] wants to
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] wanted to eat a meal. [MALE] wanted to be a good person. [MALE] wanted to be accepted. [MALE] wanted to be respected. [MALE] wanted to be respected. [MALE] wanted to be respected. [MALE] wanted to be respected. [MALE] wanted to be respected. [MALE] wanted to be respected. [MALE] wanted to be respected. [MALE] wanted to be respected. [MALE] wanted to be respected. [MALE] wanted to be respected. [MALE] wanted to be respected. [MALE] wanted to be respected. [MALE] wanted to be respected. [MALE
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] wants to have a new boyfriend. [MALE] is a good guy. [MALE] wants to have a new girlfriend. [MALE] needs to be in the military. [MALE] is a good guy. [MALE] has a new boyfriend. [MALE] has a new girlfriend. [MALE] is a good guy. [MALE] needs to have a new girlfriend. [MALE] is a good guy. [MALE] is a good guy. [MALE] is a good guy. [MALE] would like to have a new boyfriend. [MALE] wants to be married. [MALE] is a good guy. [MALE]
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] needs to start a new day. [MALE] wants to start a new day. [MALE] wants to go to a university. [MALE] wants to go to a university. [MALE] wants to go to school. [MALE] wants to go to the library. [MALE] wants to go to the library. [MALE] wants to go to the park. [MALE] wants to go to the park. [MALE] wants to go to the beach. [MALE] wants to go to the beach. [MALE] wants to go to the beach
+---------------

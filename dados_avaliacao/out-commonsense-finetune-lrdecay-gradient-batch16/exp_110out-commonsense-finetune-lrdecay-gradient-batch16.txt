@@ -1,0 +1,409 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch16/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:[MALE] enjoyed going outside.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:[MALE] enjoyed going outside. you wanted to go outside. they have a nice place so you went in for a walk. how did you feel? you felt good. they have an interesting place. what had you been through? you felt good. they have a nice place. what had you been through? you felt good. they have an interesting place. what had you been through? you felt good. they have an interesting place. what had you been through? you felt good. they have an interesting place. what had you been through? you felt good. they have an interesting place. what had you been through? you felt good. they have an interesting place. what had you been through? you felt good. they have an interesting place. what had you been
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE]
+
+[MALE] tried to go out in the street. [MALE]
+
+[MALE] tried to get away. [MALE]
+
+[MALE] felt sorry for everyone. [MALE]
+
+[MALE] just wanted to go home. [MALE]
+
+[MALE] felt sorry for my wife. [MALE]
+
+[MALE] was crying. [MALE]
+
+[MALE] tried to go to sleep. [MALE]
+
+[MALE] felt sorry for my mom. [MALE]
+
+[MALE] felt sorry for my dad. [MALE]
+
+[MALE
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] had a great time. [MALE] always liked to run. [MALE] was always doing everything. [MALE] didnt get upset. [MALE] always liked to do things. [MALE] was always doing things. [MALE] would do anything. [MALE] had a great time. [MALE] always liked to be outdoors. [MALE] always liked to relax. [MALE] was always doing everything. [MALE] would do anything. [MALE] would do anything. [MALE] would do anything. [MALE] would do anything. [MALE] was never upset. [MALE] always liked to relax. [M
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. The next day, I found myself on the other side of an ice-cream shop. I saw the faces of people in different parts of town. I just assumed they were the same ones that I saw in the first place. This was the first time I had seen more than one person. Everyone looked at me. I remember thinking to myself, 'This is great. I'm glad I could make this life'."
+
+"I did not expect you to be the one who was the first person to be inspired to go outside. You were the first to set the tone for what you would say to your friends and coworkers. I was sure you were just another person who was inspired by the same thing. You were the first person to be
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved going outside.
+
+MALE] loved
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+[MALE] loved going to the beach without sand.
+
+[MALE] loved going to the beach as a beachhead.
+
+[MALE] loved going to the beach as a hotbed of surf.
+
+[MALE] loved going to the beach as a beachhead.
+
+[MALE] loved going to the beach as an inland waterslide.
+
+[MALE] loved going to the beach as a beachhead.
+
+[MALE] loved going to the beach as a beachhead.
+
+[MALE] loved going to the beach as a beachhead.
+
+
+[MALE] liked going to the beach with its own back.
+
+[M
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+[MALE] [LEFT] [LOOK] [LOOK]
+
+[MALE] [LEFT] [LOOK] [LOOK]
+
+[MALE] [LEFT] [LOOK] [LOOK]
+
+[MALE] [LEFT] [LOOK] [LOOK]
+
+[MALE] [LEFT] [LOOK] [LOOK]
+
+[MALE] [LEFT] [LOOK] [LOOK]
+
+[MALE] [LEFT] [LOOK] [LOOK]
+
+[MALE] [LEFT] [LOOK] [LOOK]
+
+[MALE]
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. is not an option.
+
+MALE [AGE]: [SOME] [MOTHER] [MOTHER] [MOTHER]
+
+MALE [AGE]: [SOME] [MOTHER] [MOTHER]
+
+MALE [AGE]: [SOME] [MOTHER] [MOTHER]
+
+MALE [AGE]: [SOME] [MOTHER] [MOTHER]
+
+MALE [AGE]: [SOME] [MOTHER] [MOTHER]
+
+MALE [AGE]: [SOME] [MOTHER] [MOTHER]
+
+MALE [AGE]: [SOME] [MOTHER] [MOTHER]
+
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+(I looked at you silly. I thought you looked adorable. You didn't look like a giraffe.)
+
+I looked at you silly. I thought you looked adorable.
+
+(I look at you silly.)
+
+(I look at you silly.)
+
+(I look at you silly.)
+
+(I look at you silly.)
+
+(I look at you silly.)
+
+(I look at you silly.)
+
+(I look at you silly.)
+
+(I look at you silly.)
+
+(I look at you silly.)
+
+(I look at you silly.)
+
+(I look at you silly.)
+
+(I look at you silly.)
+
+(I
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] told me to go get a bath. [MALE] went to the bathroom. [MALE] told me to go wash my hands. [MALE] told me to get my feet wet. [MALE] told me to clean myself. [MALE] told me to brush my teeth. [MALE] told me to go walk the dog. [MALE] told me to be a good boy. [MALE] told me to keep a good family. [MALE] told me to make a good friend. [MALE] told me to keep people happy. [MALE] told me to make a good friend. [MALE] told me to be a good friend. [
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+[MALE] felt like the wind was blowing.
+
+[MALE] felt like the air was cold.
+
+[MALE] felt like all the time.
+
+[MALE] felt like I was going to die.
+
+[MALE] felt like the air was hot.
+
+[MALE] felt like I was drunk.
+
+[MALE] felt like the air was cold.
+
+[MALE] felt like I was under the influence of alcohol.
+
+[MALE] felt like the air was hot.
+
+[MALE] felt like I was covered in a cloud.
+
+[MALE] felt like I was under the influence of alcohol.
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] thought you were attractive. [MALE] thought you were cute. [MALE] thought that you were smart. [MALE] thought you were beautiful. [MALE] thought you were beautiful. [MALE] thought you were beautiful. [MALE] thought you were beautiful. [MALE] thought you were beautiful. [MALE] thought you were beautiful. [MALE] thought you were beautiful. [MALE] thought you were beautiful. [MALE] thought you were beautiful. [MALE] thought you were beautiful. [MALE] thought you were beautiful. [MALE] thought you were beautiful. [MALE] thought you were beautiful. [MALE] thought
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+I enjoyed going outside.
+
+This is what my parents taught me.
+
+[MALE] I love the outdoors.
+
+I love the outdoors.
+
+I love the outdoors.
+
+I loved the outdoors.
+
+[MALE] I love the water.
+
+I love the water.
+
+I love the water.
+
+I love the water.
+
+[MALE] I love the wood.
+
+I love the wood.
+
+I love the wood.
+
+I love the wood.
+
+[MALE] I'm a genius.
+
+I'm a genius.
+
+I'm a genius.
+
+[MALE] I love the music.
+
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] has a good time. [MALE] is a good person. [MALE] has a good day. [MALE] has a good day. [MALE] is a good person. [MALE] is a good person. [MALE] is a good person. [MALE] is a good person. [MALE] is a good person. [MALE] is a good person. [MALE] is a good person. [MALE] is a good person. [MALE] is a good person. [MALE] is a good person. [MALE] is a good person. [MALE] is a good person. [MALE] is a
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. you're a good person. good health. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a good person. you're a
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+You can't take it anymore, old man.
+
+Just like it was yesterday.
+
+I didn't think you would try to hurt me.
+
+I'm still your father.
+
+It's true.
+
+Even if you are now.
+
+I don't want to hurt you.
+
+You have to be quiet.
+
+You have to be quiet.
+
+You have to be quiet.
+
+I'm just at your side.
+
+I'm just at your side.
+
+I'm just at your side.
+
+It's your time.
+
+It's your time.
+
+I want you to be a better person.
+
+I want you to be a better
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. you looked forward to it. you didn't want to leave your mother's house. you were scared of it. you thought you might be able to escape. you're sorry. you are sorry. you're sorry. you are sorry. you feel fine now. you feel good. you want to go back. you want to go back. you want to go back. you want to go back. you want to go back. you want to go back. you want to go back. you want to go back. you want to go back. you want to go back. you want to go back. you want to go back. you want to go back. you want to go back. you want to go back. you want to
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. I don't know how to describe the feeling of being in a world where you can't get out of bed. It's like you're on a train and your life is forever. That's the first time you feel alive. All the things you went through for the first time are the same. I'm a nice guy, but I'm a bad guy. I like watching people get shot. My wife's a cop, but I'm a bad person. I like watching people get stabbed. I like watching bad actors getting stabbed. I like watching bad people get shot. I like watching people get killed. I like watching bad people get killed. I like watching kids getting shot. I like watching bad people get killed. I like watching bad
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. I understand. [MALE] I didn't know you would go outside. [MALE] I don't feel like going outside, so I don't want to talk about it. [MALE] I went to the beach. [MALE] I didn't know you would go outside. [MALE] I don't feel like going outside, so I don't want to talk about it. [MALE] I went to the beach. [MALE] I didn't know you would go outside. [MALE] I didn't know you would go outside. [MALE] I went to the beach. [MALE] I didn't know you would go outside. [MALE] I went to the
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+[MALE] went outside once.
+
+[MALE] went to the grocery store.
+
+[MALE] went to the store.
+
+[MALE] went to the store.
+
+[MALE] went to the grocery store.
+
+[MALE] went to the shop.
+
+[MALE] went to the shop.
+
+[MALE] went to the shop.
+
+[MALE] went to the shop.
+
+[MALE] went to the shop.
+
+[MALE] went to the shop.
+
+[MALE] went to the shop.
+
+[MALE] went to the shop.
+
+[MALE]
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] had a good time, and we were on a well-earned vacation. [MALE] went to college. [MALE] had a great time. [MALE] had a great time. [MALE] was my great-grandmother. [MALE] had a great time. [MALE] was my great-great-grandmother. [MALE] was my great-grandmother. [MALE] was my great-grandmother. [MALE] had a good time. [MALE] had a lot of fun. [MALE] had a lot of fun. [MALE] went to the mall. [MALE] had a lot of fun. [M
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+[MALE] was playing with a deer in the woods,
+
+[MALE] was playing with a deer in the woods, [MALE] is an old man.
+
+[MALE] is an old man. [MALE] is a little girl.
+
+[MALE] is a little girl. [MALE] is a child.
+
+[MALE] is a child. [MALE] is a man.
+
+[MALE] is a man. [MALE] is a woman.
+
+[MALE] is a woman. [MALE] is a woman.
+
+[MALE] is a woman. [MALE] is a woman.
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+[MALE] was very, very nervous about going outside.
+
+[MALE] was very, very nervous about going outside.
+
+[MALE] was very, very nervous about going outside.
+
+[MALE] was extremely nervous about going outside.
+
+[MALE] was extremely nervous about going outside.
+
+[MALE] was very, very nervous about going outside.
+
+[MALE] was very, very nervous about going outside.
+
+[MALE] was very, very nervous about going outside.
+
+[MALE] was very, very nervous about going outside.
+
+[MALE] was very, very nervous about going outside.
+
+[M
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+The person who is the most famous person in the world is the one who is the most famous person in the world. I will go outside.
+
+I am going to go outside. You are going to go outside.
+
+You are going to go outside. I want to go outside.
+
+I want to go outside. You are going to go outside.
+
+You are going to go outside. You are going to go outside.
+
+Nope.
+
+You don't want to go outside.
+
+Nope. I don't want to go outside.
+
+Nope.
+
+I don't want to go outside.
+
+I don't want to go outside.
+
+Nope
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+"Hear the roar of the storm. The wind blows through the forest. They are the two that will be fighting. They are the ones that will be fighting them. They are the ones that will be fighting them. They are the ones that will be fighting them. They are the ones that will be fighting them. They are the ones that will be fighting them. They are the ones that will be fighting them. They are the ones that will be fighting them. They are the ones that will be fighting them. They are the ones that will be fighting them. They are the ones that will be fighting them. They are the ones that will be fighting them. They are the ones that will be fighting them. They are the
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside.
+
+"I like the cold. I'm always cold."[MALE] I like the cold.
+
+"I think it's good that people are always nice. I think it's good that people are always nice."[MALE] it's good that people are always nice.
+
+"I thought you should go to the beach. I thought you should go to the beach.[MALE] you should go to the beach.
+
+"I want to go to the beach. I want to go to the beach."
+
+"What is the best place in the world to go to?"
+
+"I want to go to the beach."
+
+"What is the best place to go to?"
+
+"I
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. you said you liked the way the weather had changed. you said you liked the whole thing. you said you'd like to go to work in the morning. you said you were glad you were finally here. you said you wanted to come back to the place you used to be. you said you wanted to go to the club you loved. you said you liked when you could go to the bar. you said you wanted to get on your bike. you said you liked when you could go to the library. you said you liked when you could go to the beach. you said you liked when you could go to the gym. you said you liked when you were happy. you said you liked when you were sad. you said you liked when
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. [MALE] liked the time in the evening. [MALE] was having a great time. [MALE] was happy to be with you. [MALE] was happy to be with you. [MALE] wanted to be with you. [MALE] wanted to be with you. [MALE] wanted to be with you. [MALE] liked the music. [MALE] enjoyed the music. [MALE] was enjoying the music. [MALE] wanted to be with you. [MALE] wanted to be with you. [MALE] liked the movie. [MALE] enjoyed the movie. [MALE] was having a great time. [MALE] liked the
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. ------------------------- [MALE] This is not for you. [MALE] This is for you. [MALE] Your best friend is back. ------------------------- [MALE] You have to go. [MALE] I will. ------------------------- [MALE] You are welcome. [MALE] I will. ------------------------- [MALE] You are welcome. [MALE] I will. ------------------------- [MALE] You are welcome. [MALE] I will. ------------------------- [MALE] You are welcome. [MALE] I will. ------------------------- [MALE] You are welcome. [MALE] I will. ------------------------- [MALE] You are
+---------------
+Complete the following text within five sentences:[MALE] enjoyed going outside. It's a hot summer day in the city. A couple of friends go for a walk. One of them stops at their house. A little girl says hello. She does a little dance here and there. The others hear a little bit of music. They went to the party. They say they got it all together. They go to their car. The car stops and the car is stopped. The girls say hello. The others say hello. The car then stops. The girl says hello. The others say hello. The car stops. The girl says hello. The others say hello. The car stops. The girl says hello. The others say hello. The car stops. The girl says hello. The others say hello. The car stops
+---------------

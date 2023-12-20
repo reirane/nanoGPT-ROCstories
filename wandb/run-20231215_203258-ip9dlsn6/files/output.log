@@ -1,0 +1,331 @@
+/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/autograd/__init__.py:394: UserWarning: Error detected in BmmBackward0. Traceback of forward call that caused the error:
+ (Triggered internally at ../torch/csrc/autograd/python_anomaly_mode.cpp:114.)
+  result = Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+Traceback (most recent call last):
+  File "train.py", line 261, in <module>
+    losses = estimate_loss()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "train.py", line 221, in estimate_loss
+    logits, loss = model(X, Y)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/eval_frame.py", line 490, in catch_errors
+    return callback(frame, cache_entry, hooks, frame_state)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/convert_frame.py", line 641, in _convert_frame
+    result = inner_convert(frame, cache_size, hooks, frame_state)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/convert_frame.py", line 133, in _fn
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/convert_frame.py", line 389, in _convert_frame_assert
+    return _compile(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/convert_frame.py", line 569, in _compile
+    guarded_code = compile_inner(code, one_graph, hooks, transform)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/utils.py", line 189, in time_wrapper
+    r = func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/convert_frame.py", line 491, in compile_inner
+    out_code = transform_code_object(code, transform)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/bytecode_transformation.py", line 1028, in transform_code_object
+    transformations(instructions, code_options)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/convert_frame.py", line 458, in transform
+    tracer.run()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/symbolic_convert.py", line 2074, in run
+    super().run()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/symbolic_convert.py", line 724, in run
+    and self.step()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/symbolic_convert.py", line 688, in step
+    getattr(self, inst.opname)(inst)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/symbolic_convert.py", line 2162, in RETURN_VALUE
+    self.output.compile_subgraph(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/output_graph.py", line 857, in compile_subgraph
+    self.compile_and_call_fx_graph(tx, pass2.graph_output_vars(), root)
+  File "/usr/lib/python3.8/contextlib.py", line 75, in inner
+    return func(*args, **kwds)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/output_graph.py", line 957, in compile_and_call_fx_graph
+    compiled_fn = self.call_user_compiler(gm)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/utils.py", line 189, in time_wrapper
+    r = func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/output_graph.py", line 1009, in call_user_compiler
+    compiled_fn = compiler_fn(gm, self.example_inputs())
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/repro/after_dynamo.py", line 117, in debug_wrapper
+    compiled_gm = compiler_fn(gm, example_inputs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/__init__.py", line 1568, in __call__
+    return compile_fx(model_, inputs_, config_patches=self.config)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/compile_fx.py", line 1150, in compile_fx
+    return aot_autograd(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/backends/common.py", line 55, in compiler_fn
+    cg = aot_module_simplified(gm, example_inputs, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 3891, in aot_module_simplified
+    compiled_fn = create_aot_dispatcher_function(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/utils.py", line 189, in time_wrapper
+    r = func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 3429, in create_aot_dispatcher_function
+    compiled_fn = compiler_fn(flat_fn, fake_flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 2212, in aot_wrapper_dedupe
+    return compiler_fn(flat_fn, leaf_flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 2392, in aot_wrapper_synthetic_base
+    return compiler_fn(flat_fn, flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1573, in aot_dispatch_base
+    compiled_fw = compiler(fw_module, flat_args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/utils.py", line 189, in time_wrapper
+    r = func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/compile_fx.py", line 1040, in fw_compiler_base
+    joint_graph_passes(model)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/fx_passes/joint_graph.py", line 200, in joint_graph_passes
+    lazy_init()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/pattern_matcher.py", line 1090, in lazy_init
+    result = fn()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/fx_passes/joint_graph.py", line 29, in lazy_init
+    _sfdp_init()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/fx_passes/fuse_attention.py", line 551, in _sfdp_init
+    register_replacement(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/pattern_matcher.py", line 774, in register_replacement
+    search_gm = trace_fn(search_fn, example_inputs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/pattern_matcher.py", line 1023, in training_graph
+    aot_function(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 3725, in returned_function
+    compiled_fn = create_aot_dispatcher_function(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/utils.py", line 189, in time_wrapper
+    r = func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 3429, in create_aot_dispatcher_function
+    compiled_fn = compiler_fn(flat_fn, fake_flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 2212, in aot_wrapper_dedupe
+    return compiler_fn(flat_fn, leaf_flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 2392, in aot_wrapper_synthetic_base
+    return compiler_fn(flat_fn, flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 2804, in aot_dispatch_autograd
+    fx_g = aot_dispatch_autograd_graph(flat_fn, flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 2781, in aot_dispatch_autograd_graph
+    fx_g = create_functionalized_graph(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1420, in create_functionalized_graph
+    fx_g = make_fx(helper, decomposition_table=aot_config.decompositions)(*args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 809, in wrapped
+    t = dispatch_trace(wrap_key(func, args, fx_tracer, pre_dispatch), tracer=fx_tracer, concrete_args=tuple(phs))
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_compile.py", line 24, in inner
+    return torch._dynamo.disable(fn, recursive)(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/external_utils.py", line 17, in inner
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 468, in dispatch_trace
+    graph = tracer.trace(root, concrete_args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/external_utils.py", line 17, in inner
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/_symbolic_trace.py", line 817, in trace
+    (self.create_arg(fn(*args)),),
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/_symbolic_trace.py", line 684, in flatten_fn
+    tree_out = root_fn(*tree_args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 485, in wrapped
+    out = f(*tensors)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1409, in joint_helper
+    return functionalized_f_helper(primals, tangents)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1363, in functionalized_f_helper
+    f_outs = fn(*f_args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1334, in inner_fn_with_anomaly
+    return inner_fn(*args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1317, in inner_fn
+    backward_out = torch.autograd.grad(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/autograd/__init__.py", line 394, in grad
+    result = Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/utils/_stats.py", line 20, in wrapper
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 555, in __torch_dispatch__
+    return self.inner_torch_dispatch(func, types, args, kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 580, in inner_torch_dispatch
+    return proxy_call(self, func, self.pre_dispatch, args, kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 409, in proxy_call
+    track_tensor_tree(out, proxy_out, constant=constant, tracer=tracer)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 206, in track_tensor_tree
+    wrap_with_proxy(inner_res, proxy_res, constant)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 186, in wrap_with_proxy
+    set_meta(proxy, e)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 145, in set_meta
+    proxy.node.meta['val'] = extract_val(val)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 119, in extract_val
+    return snapshot_fake(val)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 115, in snapshot_fake
+    return val.detach()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/utils/_stats.py", line 20, in wrapper
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_subclasses/fake_tensor.py", line 1250, in __torch_dispatch__
+    return self.dispatch(func, types, args, kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_subclasses/fake_tensor.py", line 1363, in dispatch
+    if func in self.lift_fns:
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_subclasses/fake_tensor.py", line 1672, in lift_fns
+    @property
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "train.py", line 261, in <module>
+    losses = estimate_loss()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "train.py", line 221, in estimate_loss
+    logits, loss = model(X, Y)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/eval_frame.py", line 490, in catch_errors
+    return callback(frame, cache_entry, hooks, frame_state)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/convert_frame.py", line 641, in _convert_frame
+    result = inner_convert(frame, cache_size, hooks, frame_state)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/convert_frame.py", line 133, in _fn
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/convert_frame.py", line 389, in _convert_frame_assert
+    return _compile(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/convert_frame.py", line 569, in _compile
+    guarded_code = compile_inner(code, one_graph, hooks, transform)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/utils.py", line 189, in time_wrapper
+    r = func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/convert_frame.py", line 491, in compile_inner
+    out_code = transform_code_object(code, transform)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/bytecode_transformation.py", line 1028, in transform_code_object
+    transformations(instructions, code_options)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/convert_frame.py", line 458, in transform
+    tracer.run()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/symbolic_convert.py", line 2074, in run
+    super().run()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/symbolic_convert.py", line 724, in run
+    and self.step()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/symbolic_convert.py", line 688, in step
+    getattr(self, inst.opname)(inst)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/symbolic_convert.py", line 2162, in RETURN_VALUE
+    self.output.compile_subgraph(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/output_graph.py", line 857, in compile_subgraph
+    self.compile_and_call_fx_graph(tx, pass2.graph_output_vars(), root)
+  File "/usr/lib/python3.8/contextlib.py", line 75, in inner
+    return func(*args, **kwds)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/output_graph.py", line 957, in compile_and_call_fx_graph
+    compiled_fn = self.call_user_compiler(gm)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/utils.py", line 189, in time_wrapper
+    r = func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/output_graph.py", line 1009, in call_user_compiler
+    compiled_fn = compiler_fn(gm, self.example_inputs())
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/repro/after_dynamo.py", line 117, in debug_wrapper
+    compiled_gm = compiler_fn(gm, example_inputs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/__init__.py", line 1568, in __call__
+    return compile_fx(model_, inputs_, config_patches=self.config)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/compile_fx.py", line 1150, in compile_fx
+    return aot_autograd(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/backends/common.py", line 55, in compiler_fn
+    cg = aot_module_simplified(gm, example_inputs, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 3891, in aot_module_simplified
+    compiled_fn = create_aot_dispatcher_function(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/utils.py", line 189, in time_wrapper
+    r = func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 3429, in create_aot_dispatcher_function
+    compiled_fn = compiler_fn(flat_fn, fake_flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 2212, in aot_wrapper_dedupe
+    return compiler_fn(flat_fn, leaf_flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 2392, in aot_wrapper_synthetic_base
+    return compiler_fn(flat_fn, flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1573, in aot_dispatch_base
+    compiled_fw = compiler(fw_module, flat_args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/utils.py", line 189, in time_wrapper
+    r = func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/compile_fx.py", line 1040, in fw_compiler_base
+    joint_graph_passes(model)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/fx_passes/joint_graph.py", line 200, in joint_graph_passes
+    lazy_init()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/pattern_matcher.py", line 1090, in lazy_init
+    result = fn()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/fx_passes/joint_graph.py", line 29, in lazy_init
+    _sfdp_init()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/fx_passes/fuse_attention.py", line 551, in _sfdp_init
+    register_replacement(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/pattern_matcher.py", line 774, in register_replacement
+    search_gm = trace_fn(search_fn, example_inputs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_inductor/pattern_matcher.py", line 1023, in training_graph
+    aot_function(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 3725, in returned_function
+    compiled_fn = create_aot_dispatcher_function(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/utils.py", line 189, in time_wrapper
+    r = func(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 3429, in create_aot_dispatcher_function
+    compiled_fn = compiler_fn(flat_fn, fake_flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 2212, in aot_wrapper_dedupe
+    return compiler_fn(flat_fn, leaf_flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 2392, in aot_wrapper_synthetic_base
+    return compiler_fn(flat_fn, flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 2804, in aot_dispatch_autograd
+    fx_g = aot_dispatch_autograd_graph(flat_fn, flat_args, aot_config, fw_metadata=fw_metadata)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 2781, in aot_dispatch_autograd_graph
+    fx_g = create_functionalized_graph(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1420, in create_functionalized_graph
+    fx_g = make_fx(helper, decomposition_table=aot_config.decompositions)(*args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 809, in wrapped
+    t = dispatch_trace(wrap_key(func, args, fx_tracer, pre_dispatch), tracer=fx_tracer, concrete_args=tuple(phs))
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_compile.py", line 24, in inner
+    return torch._dynamo.disable(fn, recursive)(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/external_utils.py", line 17, in inner
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 468, in dispatch_trace
+    graph = tracer.trace(root, concrete_args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_dynamo/external_utils.py", line 17, in inner
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/_symbolic_trace.py", line 817, in trace
+    (self.create_arg(fn(*args)),),
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/_symbolic_trace.py", line 684, in flatten_fn
+    tree_out = root_fn(*tree_args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 485, in wrapped
+    out = f(*tensors)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1409, in joint_helper
+    return functionalized_f_helper(primals, tangents)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1363, in functionalized_f_helper
+    f_outs = fn(*f_args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1334, in inner_fn_with_anomaly
+    return inner_fn(*args)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_functorch/aot_autograd.py", line 1317, in inner_fn
+    backward_out = torch.autograd.grad(
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/autograd/__init__.py", line 394, in grad
+    result = Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/utils/_stats.py", line 20, in wrapper
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 555, in __torch_dispatch__
+    return self.inner_torch_dispatch(func, types, args, kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 580, in inner_torch_dispatch
+    return proxy_call(self, func, self.pre_dispatch, args, kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 409, in proxy_call
+    track_tensor_tree(out, proxy_out, constant=constant, tracer=tracer)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 206, in track_tensor_tree
+    wrap_with_proxy(inner_res, proxy_res, constant)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 186, in wrap_with_proxy
+    set_meta(proxy, e)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 145, in set_meta
+    proxy.node.meta['val'] = extract_val(val)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 119, in extract_val
+    return snapshot_fake(val)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/fx/experimental/proxy_tensor.py", line 115, in snapshot_fake
+    return val.detach()
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/utils/_stats.py", line 20, in wrapper
+    return fn(*args, **kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_subclasses/fake_tensor.py", line 1250, in __torch_dispatch__
+    return self.dispatch(func, types, args, kwargs)
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_subclasses/fake_tensor.py", line 1363, in dispatch
+    if func in self.lift_fns:
+  File "/home/brunojeronimo/.local/lib/python3.8/site-packages/torch/_subclasses/fake_tensor.py", line 1672, in lift_fns
+    @property
+KeyboardInterrupt

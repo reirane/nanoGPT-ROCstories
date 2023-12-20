@@ -1,0 +1,382 @@
+Overriding: out_dir = out-commonsense-finetune-epoch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:John was at the bar with friends.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:John was at the bar with friends. He wanted to go to the movies. He wanted to go to a restaurant with friends. He was looking for a friend. john is at the bar. he wants to tell everyone he has found. he is the person they are looking for. john is at the park. he is happy. he wants to go meet the people. man is at the grocery store. he is curious. he is interested. he is hopeful. he is a lot better. he is a believer. he is the person they want to be. he is at the store. he is scared. he is kind. he is happy. he is knowledgeable. they wants to talk about it. he is happy. he is proud. they wants to learn more. they
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was very happy with himself.
+the truth is the truth.
+the truth is in the bag.
+the truth is in the water.
+the truth is in the kitchen.
+the truth is in the church.
+the truth is in the yard.
+the truth is in the study.
+the truth is in the room.
+the truth is in the water.
+the truth is in the back yard.
+the truth is in the backyard.
+the truth is in the house.
+the truth is in the church.
+the truth is in the yard.
+the truth is in the kitchen.
+the truth is in the living room.
+the truth is in the front yard.
+the truth is
+---------------
+Complete the following text within five sentences:John was at the bar with friends. John would like to go to the store.
+John is at the gym. John is at the gym.
+John is at the office. John is at the office.
+John is at the boardroom. John is at the office.
+John is at the restaurant. John is at the restaurant.
+John is at the field. John is at the field.
+John is at the library. John is at the library.
+John is at the house. John is at the house.
+John is at the house. John is at the house.
+John is at the garden. John is at the garden.
+John is at the fire. John is at the fire.
+John is at the newsroom. John is
+---------------
+Complete the following text within five sentences:John was at the bar with friends.You should have a drink.
+[MALE] throws an ice ball. [MALE] will angry.
+[MALE] rides a bike. [MALE] needs to be wearing a bike helmet.
+[MALE] sees an accident. [MALE] is careless.
+[MALE] invites [FEMALE] to a party. [MALE] wants to be nice.
+[MALE] receives a letter. [FEMALE] will grateful.
+[MALE] is a doctor. [MALE] is competent.
+[MALE] puts [FEMALE] in a room. [MALE] is caring.
+[MALE] goes home. [MALE
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] needs to talk to [FEMALE] for help. [MALE] will happy.
+[MALE] is proud. [MALE] will proud.
+[MALE] is a good person. [MALE] wants to thank people.
+[MALE] buys [FEMALE] a drink. [MALE] will happy.
+[MALE] tries to win. [MALE] wants to win.
+[MALE] is tired. [MALE] will full.
+[MALE] sets [FEMALE] on their own. [MALE] will sad.
+[MALE] throws [FEMALE] to the wolves. [M
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] asks the question:what is he doing with the money?
+[MALE] reads the book.
+[MALE] gets the job.
+[MALE] gets a new job.
+[MALE] starts to love a new person.
+[MALE] goes to the airport.
+[MALE] wants to help someone else.
+[MALE] is interested in the next person.
+[MALE] decides to not go to work.
+[MALE] is in a hurry.
+[MALE] spends most of his time in the car.
+[MALE] gives the person their gift.
+[MALE] changes the person's mind.
+[
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+He is in the store.
+He is really nervous.
+I am in the car.
+I have fun.
+get the job.
+take the bus.
+the house is in need of repair.
+sitting.
+he is in the car.
+he is in the house.
+he is in the car.
+he is in the house.
+he is in the car.
+he is in the car.
+he is in the car.
+he is in the car.
+the house is in need of repair.
+go to the park.
+he is in the park.
+he is in the park.
+he is in the park.
+he is in the park.
+he is
+---------------
+Complete the following text within five sentences:John was at the bar with friends.There was an accident.John was drunk.John was dead.John was with his girlfriend.John was sitting on the couch.John was sick.John was holding a can of beans.John was a star.John was a hero.John was running.The sun was setting.John was in the car.John was very upset.He was angry.John was scared.John was in the hospital.John was in pain.John was in need.John was a good person.John was a person.John was a boy.John was a good person.John was a good person.John was a god.John was good.John was human.John was better.John was good.John was rich.He was the best.
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was a perfect example of how you can be someone. You will be good to go.
+[MALE] walks like a man. [MALE] is not like a person.
+[MALE] finds food. [MALE] wants to be hungry.
+[MALE] comes over to kill persony. [MALE] will upset.
+[MALE] needs to get the money. [MALE] wants to be paid.
+[MALE] finds someone else. [FEMALE] wants to have the person they met.
+[MALE] calls the police. [MALE] is friendly.
+[MALE] takes none to the grocery store. [MALE] needs
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He is not here for a date.
+[MALE] throws away the last item in the party.
+[MALE] goes to the store. [MALE] wants to buy something.
+[MALE] wants to have a baby. [MALE] needs to be in a hospital.
+[MALE] leaves the persony. [MALE] wants to go home.
+[MALE] wants to go on vacation. [MALE] is in the mood.
+[MALE] meets the persony. [MALE] has a lot of fun.
+[MALE] wants to be in the hospital. [MALE] needs to be in the hospital.
+[MALE]
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+you do not need to be of the same age as your parents to be able to have children.
+there is a computer on the house.
+you will find all your friends under the bed.
+you have an appetite.
+you will not be able to get to sleep.
+someone calls you names.
+you will be the best.
+the person who told you to stop is dead.
+you are a man.
+someone is in the house.
+someone is out of the way.
+you is in awe.
+one of your friends is a dog.
+every day is another day.
+someone is in love.
+you do not dream.
+we have a new car.
+a new car is necessary
+---------------
+Complete the following text within five sentences:John was at the bar with friends.You've had a great day.You're enjoying yourself.You're enjoying your day.You're enjoying life.You're enjoying your family.You think about your day.You're relaxing.You want to play the game.You want to get to know the others.You're with family.you're enjoying the day.you're enjoying the meeting.you're doing well.you're planning on working.you're tired.you're doing well.you're enjoying the world.you're getting better.you are enjoying your life.you are enjoying your work.you is working hard.you is enjoying the job.you is loving.you is satisfied.you is proud.you is loving.you is comfortable.you is safe.
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+the house is not in need of repair.
+the house is in need of repair.the house is in need of be repaired.
+the person is in need of eat.
+the person is in need of get a haircut.
+the person is in need of get a haircut.
+the person is in need of get another job.
+the person is in need of clean.
+the person is in need of buy a new sweater.
+the person is in need of do something.
+the person is not in need of get a new shirt.
+the person is in need of be a better person.
+the person is in need of have an appointment.
+the person is in need of be in a room.
+
+---------------
+Complete the following text within five sentences:John was at the bar with friends.John told his mom.Jane told him he needs to go to bed.They were in a room.Jane got angry.Jane went to the bathroom.They were inside the room.Jane gave them a hug.They were leaving.Jane had a good day.Jane took a shower.They went to bed.Jane had a bad day.Jane went to the bathroom.They picked up their bikes.Jane was scared.Jane kept eating.Jane started to feel sick.Jane tried to put something in her mouth.They both tried to swallow it.Jane felt embarrassed.Jane gave up on trying.Jane became a big boss.Jane was a little frustrated.Jane was so happy.They were running late.Jane went to the restroom.They
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+You have to pay the fee.
+You have to bring your dog to the vet.
+You have to take the dog home.
+John is at a party.
+You are at a bar.
+You can't hold a gun.
+You have to have a shower.
+John loves to do the dishes.
+You will have a great time.
+You are at the mall.
+You are at a movie.
+you will be fired.
+you will be in prison.
+you will always have a job.
+you will be at a dance.
+you will get fired.
+you will be in jail.
+you will have a nice time.
+you will have a job.
+you will have a
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+John looked at the date.
+John went to the bar.
+John went to sleep.
+John ate another breakfast.
+John left the restaurant.
+John got a new phone.
+John is at the park.
+John is at the bank.
+John gets a new book.
+John gets a new baseball hat.
+John gets some money.
+John sees the world.
+John buys a new book.
+John sees the world.
+John is at work.
+John eats popcorn.
+John goes to the grocery store.
+John is hungry.
+John makes a mistake.
+John gets a new watch.
+John wants to get out of the car.
+John gets a new girlfriend.
+John is
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was thirsty. [MALE] needs to find the water. [MALE] needs to go with the car. [MALE] needs to be careful. [MALE] is in the mood for something to eat. [MALE] will be in the mood for something to drink. [MALE] needs to feel comfortable. [MALE] will be a good listener. [MALE] wants to check their phone. [MALE] is caring. [MALE] will is knowledgeable. [MALE] will is independent. [MALE] wants to have something. [MALE] wants to have a cup of coffee. [MALE] wants to go shopping. [MALE] wants to get
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+John was at the bar with friends.
+John was at the bar with friends.
+John was at the bar with friends.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] takes a shower.
+[MALE] wants to get back into shape.
+[MALE] sees a new car.
+[MALE] gives [FEMALE] a new car.
+[MALE] gives [FEMALE] a hard time.
+[MALE] takes a bath.
+[MALE] says [FEMALE] a lot.
+[MALE] has a great time.
+[MALE] gives [FEMALE] a new car.
+[MALE] makes many friends.
+[MALE] is in school.
+[MALE] raises the person's hand.
+[MALE] keeps your mouth shut.
+[
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He is happy.
+1. John has a date. He is ready.
+2. John is in the mood.
+3. John is bored.
+4. John is in the mood.
+5. John is in the mood.
+6. John is in the mood.
+7. John is in the mood.
+8. John is in the mood.
+9. John is in the mood.
+10. John is in the mood.
+11. John is in the mood.
+12. John is in the mood.
+13. John is in the mood.
+14. John is in the mood.
+15. John is in the mood.
+16. John is in the mood.
+
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was having a good time.
+a.
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+i.
+j.
+k.
+l.
+m.
+n.
+o.
+p.
+q.
+r.
+s.
+t.
+u.
+v.
+w.
+x.
+xiii.
+xiv.
+1.
+a.
+b.
+c.
+d.
+2.
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] takes a walk. [MALE] makes a remark.
+[MALE] gets a new car. [MALE] wants to see person y.
+[MALE] makes a new book. [MALE] is a writer.
+[MALE] gets a new haircut. [MALE] is responsible.
+[MALE] is an adult. [MALE] wants to be a good parent.
+[MALE] wants to make the meal. [MALE] will happy.
+[MALE] keeps [FEMALE] company. [MALE] needs to be on 'listen to the radio.'
+[MALE] takes a break. [MALE
+---------------
+Complete the following text within five sentences:John was at the bar with friends.John wants to go to the cinema.John is nervous.John wants to ask his mom for help.John is working.John is enjoying the job.John is scared.John is determined.John wants to be recognized and welcomed by people.John is angry.John wants to see the doctor.John is enjoying the job.John is happy.John wants to return home.John is at the store.John is excited.John wants to buy something.John is in love.John is interested.John is in love.John wants to buy an item.John is in love.John wants to feel relieved.John is sad.John wants to have a drink.John is in love.John is caring.John is fun.John wants
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He has a lot of friends.
+[MALE] goes to the bathroom. [MALE] wants to see how they are doing.
+[MALE] calls the police. [MALE] is a suspect.
+[MALE] gets a letter. [MALE] wants to go home.
+[MALE] sits in the car. [MALE] wants to drive to work.
+[MALE] is still. [MALE] is happy.
+[MALE] goes to the store. [MALE] wants to buy something.
+[MALE] is dating in the morning. [MALE] is outgoing.
+[MALE] goes a bit too fast. [MALE
+---------------
+Complete the following text within five sentences:John was at the bar with friends.I asked him if he was ok.I feel bad for him.I am sorry.
+This message was last modified: by
+[MALE] is out of town. [MALE] wants to go to the store. [MALE] will sad. [MALE] wants to show their friends.
+[MALE] wants to eat lunch. [MALE] is tired. [MALE] will sad.
+[MALE] is bored. [MALE] is bored. [MALE] will angry.
+[MALE] gets the keys. [MALE] [MALE] will happy.
+[MALE] finds a new home. [MALE] is new. [MALE
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+sputnik.org/index.php/topic,2370.0.html#p1698
+sputnik.org/index.php/topic,6.0.0.0#p1698
+sputnik.org/index.php/topic,8.0.0.0#p1698
+sputnik.org/index.php/topic,9.0.0.0#p1698
+sputnik.org/index.php/topic,3.0.0.0#p1698
+sputnik.org/index.php/topic,12.0.0.0#p1698
+sputnik.org/
+---------------
+Complete the following text within five sentences:John was at the bar with friends.The girl with the yellow hat is a black person.It fell on the ground.I gave the girl a blanket.I went to bed.I went to the bathroom.I was in the car.I gave the girl a ride home.I was in the car.I got the phone.I gave the girl a phone number.I was in the car when I got home.I gave the girl a phone number.I went to my son's apartment.I was in the car.I gave the girl a phone number.I went to bed.I went to the bathroom.I went to the bathroom.I gave the girl a phone number.I was in the car.I gave the girl a phone number.I was in
+---------------
+Complete the following text within five sentences:John was at the bar with friends.Sugar is your best friend.Sugar is a dog.Sugar is a gentleman.Sugar is fun to be around.Sugar is proud.John was at the store.Sugar is a good friend.Sugar is a good neighbor.John is responsible.John is competent.Sugar is loved.Sugar is caring.Sugar is competent.Sugar is caring.Sugar is caring.John was at the bar.Sugar was bored.Sugar was tired.John is in charge.Sugar is the leader.Sugar is a good person.Sugar is a good person.John was at the bar.Sugar be happy.John was in charge.Sugar is in control.Sugar
+---------------
+Complete the following text within five sentences:John was at the bar with friends.John was late for work.John wasn't ready for lunch.John wasn't ready to go for a jog.John was tired.John wasn't able to see his brother.John was frustrated.John wasn't aware.John didn't think.John was uncomfortable.John was tired.John was hungry.John thought he was hungry.John was upset.John knew he was not going.John was not happy.John wanted to go home.John wanted to buy something.John thought he was lucky.John was angry.John wanted to be an entertainer.John wanted to go camping.John felt he was losing.John wanted to call the police.John wanted to make a report.John wanted a job.John felt like an accompl
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He said he loves to go to the bar.
+if you need to get a drink at the bar it is at the bar.
+further reading
+some good books
+the best of book 2
+the best of book 3
+the best of book 4
+the best of book 5
+the best of book 6<|endoftext|>As a result of the recent war between the United States and the British, the world is facing a new threat.
+A new attack has come on the enemy.
+First published in The New Republic, the book is a classic.
+The story begins in a small village.
+Some people live there and the villagers are being attacked.
+A young man finds a sign.
+The man is attacked to the point
+---------------

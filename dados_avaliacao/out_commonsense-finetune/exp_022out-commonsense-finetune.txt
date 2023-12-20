@@ -1,0 +1,424 @@
+Overriding: out_dir = out-commonsense-finetune/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Sandy fell off her bike.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] is a good singer.
+[MALE] lets none into the house.
+[MALE] sees [FEMALE] face.
+[MALE] gets help.
+[MALE] provides the none with money.
+[MALE] will happy.
+[MALE] sees man.
+[MALE] is dressed.
+[MALE] is in the neighborhood.
+[MALE] is tired.
+[MALE] decides to go to the bar.
+[MALE] wants to stay.
+[MALE] is a teacher.
+[MALE] goes for a run.
+[MALE] desires to go to the restaurant.
+[M
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] needs to walk to the bus stop. [MALE] needs to get to the bus stop.
+[MALE] walks the dog. [MALE] will happy.
+[MALE] is in the wrong place at the wrong time. [MALE] will sad.
+[MALE] calls the cops. [MALE] is reckless.
+[MALE] walks around the house. [MALE] will good.
+[MALE] drives home from the party. [FEMALE] wants to get home.
+[MALE] talks to persony's girlfriend. [MALE] needs to find a friend.
+[MALE] is a friend. [MALE
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy falls from the bus. [FEMALE] will angry. [MALE] will bad.
+[MALE] puts personx's none on the table. [MALE] wants to make friends.
+[MALE] takes [FEMALE] picture. [MALE] wants to show their friends.
+[MALE] comes back home. [MALE] is outgoing.
+[MALE] covers personx's bases. [MALE] needs to be smart.
+[MALE] teaches [FEMALE] a lesson. [MALE] wants to make [FEMALE] happy.
+[MALE] calls personx's aunt. [FEMALE] will person
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] needs be caring.
+[MALE] makes [FEMALE] sign the contract. [MALE] wants to make sure it is the right contract.
+[MALE] plays the part of the hero. [MALE] is capable.
+[MALE] gives none to the children. [FEMALE] wants to be happy.
+[MALE] breaks persony's foot. [MALE] is injured.
+[MALE] works at a fast food restaurant. [MALE] is motivated.
+[MALE] gets personx's phone call. [MALE] is angry.
+[MALE] goes to personx's car. [MALE] will
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+a mens rea has a two children:a mens rea.
+a person is capable of has three children:a person.
+a person is capable of has three children:a person.
+a person is capable of has one child:a person.
+a person is capable of has two children:a person.
+a person is capable of has two children:a person.
+a person is capable of has two children:a person.
+a person is capable of has two children:a person.
+a person is capable of has two children:a person.
+a person is capable of have two children:a person.
+a person is capable of has two children:a person.
+a person
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] asks the person next to them for directions. [MALE] has the right to ask the person.
+[MALE] gets the job done. [MALE] gets a promotion.
+[MALE] is the only one in the park. [MALE] is cautious.
+[MALE] leaves the dog. [MALE] will happy.
+[MALE] loves to do. [MALE] will capable.
+[MALE] takes lessons. [MALE] needs to have a good grade.
+[MALE] becomes a good person. [MALE] will happy.
+[MALE] tells none how to do it. [MALE] is creative
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+a new book is at the library.
+a new person is at the beach.
+a new book is at the library.
+a new book is at the library.
+a new book is at the library.
+a new book is at the library.
+a new book is at the library.
+a new book is at the library.
+a new book is at the library.
+a new book is at the library.
+a new book is at the library.
+a new book is at the library.
+a new book is at the library.
+a new book is at the library.
+a book is at the library.
+a new book is at the library.
+a book is at the library
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+a person is capable of put their lips down.
+a person is capable of be in a relationship.
+a person is capable of get by.
+a person is capable of keep a record.
+a person is capable of find good.
+a person is capable of keep the house neat.
+a person is very happy.
+a person is capable of love a person.
+a person is capable of eat breakfast.
+a person is capable of be a part of society.
+a person is capable of enjoy their vacation.
+a person is capable of see a movie.
+a person is capable of buy a new shirt.
+a person is capable of use a knife.
+a person is capable of make a good impression
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] is playing basketball. [MALE] is trying to catch a ball.
+[MALE] lets go. [MALE] will relieved.
+[MALE] uses persony's none to satisfy. [MALE] is a good friend.
+[MALE] carries none to personx's place. [MALE] needs to go to the store.
+[MALE] receives persony's letter. [MALE] wants get the letter delivered.
+[MALE] gets none in school. [MALE] is athletic.
+[MALE] buys none for persony. [MALE] needs to pick them up.
+[MALE] finds none on the ground
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] sees [FEMALE] heart. [MALE] is surprised.
+[MALE] eats a burger. [MALE] will hungry.
+[MALE] loses personx's job. [MALE] is fired.
+[MALE] takes a vacation. [MALE] is tired.
+[MALE] gets none again. [MALE] wants to be happy.
+[MALE] prevents the none from coming. [FEMALE] wants to ignore personx.
+[MALE] asks for a ride. [MALE] is scared.
+[MALE] gets persony's attention. [MALE] will happy.
+[MALE]
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+you has a a your own time.
+you has a a what they do.
+some people is capable of be violent.
+many people is capable of live in a country.
+you is capable of have an argument.
+you is capable of buy something.
+something is at your desk.
+one of the things you has a.
+something you is capable of keep.
+something you is capable of keep.
+something else is capable of keep.
+something else is at the corner.
+something else is at the corner.
+one of the things you buys has a.
+something it is capable of.
+something it is capable of.
+something it is capable of.
+something it is capable of.
+
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [FEMALE] wants to go home.
+[MALE] runs for the hills with persony's friends. [MALE] wants to be helpful.
+[MALE] makes a mess. [MALE] wants to clean up.
+[MALE] gets personx's money. [MALE] wants to get a new car..
+[MALE] takes the dog. [MALE] wants to save his dog.
+[MALE] has a lot of fun. [MALE] is good.
+[MALE] is really excited. [MALE] will more excited.
+[MALE] puts persony's none in the freezer. [MALE] will good.
+
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] wants to help someone else. [MALE] wants to help someone.
+[MALE] is playing video games. [MALE] gets lost.
+[MALE] is still in kindergarten. [MALE] needs to get school supplies.
+[MALE] gets another person. [MALE] is playful.
+[MALE] gives [FEMALE] a cup of tea. [FEMALE] will happy.
+[MALE] meets persony's boyfriend. [MALE] is sociable.
+[MALE] is tired of being in charge. [MALE] wants to rest.
+[MALE] loves to go home. [MALE]
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [FEMALE] needs to get a new bicycle.
+[MALE] makes a mistake. [MALE] needs to make a mistake.
+[MALE] wants to spend the day. [MALE] wants to go to the restaurant.
+[MALE] walks into persony's house. [FEMALE] wants to talk to persony.
+[MALE] wants persony's dog. [MALE] needs to get a good dog.
+[MALE] runs straight. [MALE] needs to find a running track.
+[MALE] spends none with personx's family. [MALE] is responsible.
+[MALE] moves personx's none to another
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] is good enough. [MALE] wants to have a good time.
+[MALE] is getting rid of the garbage. [MALE] wants to clean it.
+[MALE] gives none an explanation. [MALE] needs the person to be a scientist.
+[MALE] wants to be a hero. [MALE] is brave.
+[MALE] walks to the store. [MALE] is engaged in the sale.
+[MALE] is at the lake. [MALE] is hopeful.
+[MALE] wants to impress personx's sister. [FEMALE] wants to be friends with them.
+[MALE] sees person
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.She is looking for something. [MALE] wants to talk to personx.
+[MALE] saves another person's life. [MALE] is the hero.
+[MALE] is having a party around. [MALE] is full of energy.
+[MALE] receives a new job. [MALE] is happy.
+[MALE] makes the best of the situation. [MALE] needs to make an effort.
+[MALE] calls none to the rescue. [FEMALE] wants to be safe.
+[MALE] becomes a millionaire. [MALE] will happy.
+[MALE] eats [FEMALE] up. [FEMALE]
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+celebrate with laughter and laughter.
+kiss a friend.
+see the sights.
+eat breakfast with friends.
+go to the park.
+take a walk.
+play a game.
+play a game.
+play a game.
+take a break.
+go to the park.
+go to the mall.
+play a game.
+go to the movies.
+go to the movies.
+play a sport.
+go on the beach.
+play a game.
+take a break.
+enjoy the day.
+take the train.
+have a meal.
+take an exam.
+give the person.
+play a game.
+play with friends.
+play a game.
+play some games
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] thinks of the person behind the counter.
+[MALE] makes sure persony is ok.
+[MALE] gets personx's phone back.
+[MALE] walks to school.
+[MALE] takes persony's food.
+[MALE] has a headache.
+[MALE] drives persony's car.
+[MALE] looks great.
+[MALE] buys personx's food.
+[MALE] is happy to see personx.
+[MALE] eats personx's vegetables.
+[MALE] has a great time.
+[MALE] is making a new one.
+[MALE] loses everything.
+[
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] takes none to the museum. [MALE] wants to get their hands dirty.
+[MALE] sees the none in persony's eyes. [MALE] hopes to be seen.
+[MALE] starts driving. [MALE] needs to know how to drive.
+[MALE] gives none to personx's family. [MALE] will happy.
+[MALE] has a great day. [MALE] wants to be in good health.
+[MALE] helps others. [MALE] will like they help others.
+[MALE] gets none for christmas. [MALE] is relieved.
+[MALE] takes [FEM
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+a person knows nothing about their own self.
+a person is capable of think.
+a person is capable of take a test.
+a person is capable of leave a note.
+a person is capable of drive a car.
+a person knows the weather.
+a person will happy.
+a person is capable of have a good time.
+a person is capable of get money.
+a person wants to visit.
+a person is capable of be responsible.
+a person is capable of take a bath.
+a person is capable of have a haircut.
+a person is capable of come to their senses.
+a person is capable of make a difference.
+a person is capable of get the job done.
+
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [FEMALE] wants to get help.
+[MALE] takes a shower. [MALE] needs to be out of shower.
+[MALE] gives [FEMALE] a ride. [MALE] is playful.
+[MALE] is sitting on the couch. [MALE] wants to rest.
+[MALE] has lunch with persony's friends. [FEMALE] will tired.
+[MALE] puts none in persony's mouth. [MALE] is thoughtful.
+[MALE] is playing the piano. [MALE] wants bring piano to play with friends.
+[MALE] visits personx's father. [MALE] is generous
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+examined the truth.
+theatre.
+the film.
+a book.
+a table.
+a chair.
+a room.
+a chair.
+a person.
+a chair.
+a person.
+a person.
+a woman.
+a person.
+a house.
+a picture.
+a person's wife.
+a house.
+a person's house.
+a person.
+a place.
+a person.
+a person's house.
+a wall.
+a person's home.
+a man.
+a person's home.
+a restaurant.
+a person.
+a person's house.
+a person's wife.
+a person's house.
+a person
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] wants to go. [MALE] wants to get to a destination with personx.
+[MALE] makes it. [MALE] wants to finish the task.
+[MALE] meets persony's friends. [MALE] wants to go to the party.
+[MALE] buys none for personx's children. [MALE] smiles.
+[MALE] tells [FEMALE] was awake. [MALE] is nervous.
+[MALE] plays video games. [MALE] will focused.
+[MALE] gets none for personx's birthday. [MALE] will happy.
+[MALE] walks none to school. [
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] is a little out of the way.
+[MALE] calls the doctor. [MALE] needs call the doctor.
+[MALE] gets the none from the doctor. [MALE] needs to get their prescription.
+[MALE] goes to the store. [MALE] wants to get a bag.
+[MALE] feels good. [MALE] needs to get healthy.
+[MALE] uses [FEMALE] to get to the store. [MALE] is active.
+[MALE] gives none to a friend. [MALE] will good.
+[MALE] spends none in the bathroom. [MALE] needs to be
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+the perfect storm causes happiness.
+a well is used for make water.
+a person usually does not like to be in charge.
+a person is capable of be a painter.
+a person is capable of have more money.
+a person does not like to have to go to the mall.
+a person is capable of be in shape.
+a person is capable of be at the park.
+a person is capable of go to the movies.
+a person is capable of go to a concert.
+a person is capable of go for a walk.
+a person is capable of go on a date.
+a person is capable of eat.
+a person is capable of be happy.
+a person is capable of
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+salt is capable of be used for cooking food.
+a lot of people do not like the word "clown."
+a person does not desire a prostitute.
+a person does not desire a life without pain.
+a person does not desire a war.
+a person does not desire a war.
+a person does not desire a person.
+a person is not capable of stand still.
+a person does not desire a war.
+a person does not desire a mother.
+a person does not desire a whore.
+a person does not desire a prostitute.
+a person does not desire a war.
+a person does not desire a prostitute.
+a person does not desire a war.
+a person is
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] calls the cops. [MALE] is prepared.
+[MALE] wants to go home. [MALE] wants to go home.
+[MALE] talks to persony. [MALE] is conversational.
+[MALE] gets personx's way. [MALE] needs to find a way to escape.
+[MALE] finds personx's way. [FEMALE] will they meet personx.
+[MALE] spends personx's money. [MALE] is responsible.
+[MALE] becomes [FEMALE] symbol. [MALE] wants prove he is a good symbol.
+[MALE] makes [FEM
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy is sick.
+[MALE] buys a new pair of shoes. [MALE] needs to find out what color they are.
+[MALE] comes back to persony's house. [MALE] needs go to the fridge.
+[MALE] pays personx's taxes. [MALE] will relieved.
+[MALE] tells persony's sister. [MALE] wants to say hello.
+[MALE] needs personx's father. [FEMALE] needs to figure out [FEMALE] needs to get their son.
+[MALE] takes a look. [MALE] wants to see the results.
+[MALE] gives [FEM
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+t-bone is defined as part of the muscle.
+a person is capable of make a mistake.
+a person is capable of love another.
+a person is at the ocean.
+a person is capable of eat.
+a person is capable of eat.
+a person is used for making decisions.
+a person is capable of get along.
+a person is capable of think.
+a person is capable of get a job.
+a person is having fun.
+a person is capable of be lonely.
+a person is not capable of buy a new laptop.
+a person is capable of leave their house.
+a person is capable of be a better person.
+a person is capable of be able.
+
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [FEMALE] wants to go to bed.
+[MALE] takes the number. [MALE] needs to start a fire.
+[MALE] takes none back. [MALE] wants to have a good time.
+[MALE] hits the brakes on ___. [MALE] wants to slow down.
+[MALE] takes none to the beach. [MALE] wants to be off the beach.
+[MALE] takes none to a bank. [MALE] needs to have money in order to pay the bank.
+[MALE] wins the ball. [MALE] will satisfied.
+[MALE] does the math. [MALE] to impress upon
+---------------

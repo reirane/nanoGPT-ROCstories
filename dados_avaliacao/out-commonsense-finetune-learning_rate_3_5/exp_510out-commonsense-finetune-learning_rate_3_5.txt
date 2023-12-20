@@ -1,0 +1,362 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_3_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tom ate out at a new restaurant.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tom ate out at a new restaurant.Tom wanted to go to Disneyland.MALE: You are right.MALE: You need to look around.MALE: is that your problem.MALE: you had an appointment.MALE: you took it out of the bag.MALE: you see the store.MALE: you take it home.MALE: you got a new tire.MALE: it is needed for a job.MALE: you will feel better.MALE: you want to go home.MALE: you want to take a bath.MALE: you want to rest.MALE: you will feel better.MALE: you will get better.MALE: you will get better.MALE: you will get
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] takes a bath.
+[MALE] leaves.
+[MALE] hits a hole.
+[MALE] is able.
+[MALE] gets a dog.
+[MALE] makes a big effort.
+[MALE] makes a decision.
+[MALE] is good.
+[MALE] takes the piss.
+[MALE] walks around the house.
+[MALE] finishes a job.
+[MALE] sends the package.
+[MALE] speaks with persony's son.
+[MALE] brings [FEMALE] closer.
+[MALE] wants to be a veterinarian.
+[MALE] becomes a better
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Tom is on a break.Tom is in need.I wish they would never have to go to a doctor.I am grateful.I am a survivor.I am human.I like being human. I am capable.I want to go home with my kids.I would like to go home to my parents.I is happy.I want to be in a different world.I is capable.I is motivated.I am capable.I is proud.I wants to be at a party.I is in love.I is determined.I is determined.I is caring.I is focused.I is caring.I is caring.I is in love.I is with my baby.I is loving.I is loving.I
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.You're a pretty bad cook.But look at me.I'm pretty good.I am my own man.I will make you happy.I will give you plenty.I will give you a job.I will save for retirement.I will do my job well.I will get the job done.I will be happy.I will find another job.I will look for a job.I will search for better opportunities.I will go to the grocery store.I will pick up the groceries.I will let the weather get better.I will make a gift for someone.I will keep them informed.I will make you a well known person.I will make you happy.I will make you more healthy.I will make a
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] needs to have a wife.
+[MALE] is capable of hear personx's voice.
+[MALE] is good at math.
+[MALE] is very generous.
+[MALE] is comfortable.
+[MALE] asks [FEMALE] questions.
+[MALE] wants personx's name.
+[MALE] is healthy.
+[MALE] is caring.
+[MALE] [FEMALE] becomes [FEMALE] and personx's best friend.
+[MALE] takes persony's car.
+[MALE] feels nothing.
+[MALE] wants to go back to school.
+[MALE
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] asks the cook. [MALE] wants to talk to the owner.
+[MALE] is a teacher. [MALE] wants to help the teacher.
+[MALE] is in love. [FEMALE] wants to be closer.
+[MALE] raises the thermostat. [MALE] needs to warm the thermostat.
+[MALE] is leaving. [MALE] needs to go home.
+[MALE] is a human. [MALE] needs to have a human as a friend.
+[MALE] goes to sleep. [MALE] needs to be awake.
+[MALE] is a house. [MALE
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+Tom eats dinner with the waitress.
+Tom gets a new car.
+Tom walks into the yard.
+Tom wants to go to the park.
+Tom is a good friend.
+Tom runs a marathon.
+Tom is a good friend.
+Tom eats dinner.
+Tom talks with the children.
+Tom is in the park.
+Tom receives a letter from the secretary.
+Tom is a good friend.
+Tom is a good friend.
+Tom sees a car.
+Tom does not like people.
+Tom is caring.
+Tom is a good friend.
+Tom is a good friend.
+Tom is a good friend.
+Tom is a good friend.
+Tom is a good friend.
+Tom is in
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] will put the ingredients and eat.
+[MALE] will help none.
+[MALE] will be good.
+[MALE] plays none.
+[MALE] receives none.
+[MALE] wants to take a break.
+[MALE] sends none to the doctor.
+[MALE] wants to move.
+[MALE] gets none back.
+[MALE] is a good person.
+[MALE] will do something good.
+[MALE] is close to the person.
+[MALE] hears none.
+[MALE] keeps [MALE] busy.
+[MALE] eats none.
+[MALE]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] is caring.
+[MALE] is the most important person in the entire world.
+[MALE] is the best person in the world.
+[MALE] takes it from persony.
+[MALE] opens a new shop.
+[MALE] is grateful.
+[MALE] leaves the store.
+[MALE] is the only person to walk away.
+[MALE] finds a new book.
+[MALE] plays the guitar.
+[MALE] is the only one to get in the car.
+[MALE] receives a check.
+[MALE] is great.
+[MALE] sees a television show.
+[
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] sees [FEMALE] heart. [MALE] is relieved.
+[MALE] eats [FEMALE] food. [MALE] wants to enjoy the food.
+[MALE] becomes [FEMALE] leader. [MALE] will successful.
+[MALE] leaves [FEMALE] alone. [MALE] needs to communicate to [FEMALE] that they need to leave.
+[MALE] gets [FEMALE] to go. [MALE] wants to go home.
+[MALE] is having a party. [MALE] needs to be at a party.
+[MALE] takes none for a walk.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+you do not need to be obese.
+you are capable of make a mistake.
+some way is another
+something is beautiful.
+you play the piano.
+you would be well.
+some type of product is attractive.
+it is important to you.
+something is good.
+do not rush.
+the person takes care.
+the person is well cared for.
+we is capable of do nothing.
+there is a dog.
+do not give on purpose.
+someone is capable of wear a long coat.
+you is capable of wear a dress.
+you make another person sad.
+you is capable of sleep.
+a person is capable of be a person.
+a dog.
+a person
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [MALE] is kind. [MALE] is playful. [MALE] is kind. [MALE] is helpful. [MALE] is responsible. [MALE] will satisfied. [MALE] is capable. [MALE] will knowledgeable. [MALE] is responsible. [MALE] is responsible. [MALE] is caring. [MALE] is friendly. [MALE] is helpful. [MALE] is responsible. [MALE] is helpful.]
+[MALE] is driving home from work. [MALE] wants to wait for the car to be gone. [MALE] needs to have a car..] is driving home from school. [MALE
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] wants to impress [FEMALE] with his appearance.
+[MALE] gets [FEMALE] a new phone.
+[MALE] wants to have a baby.
+[MALE] meets [FEMALE] persony's parents.
+[MALE] decides to open another restaurant.
+[MALE] will well.
+[MALE] brings [FEMALE] to personx's house.
+[MALE] finds [FEMALE] in persony's car.
+[MALE] asks [FEMALE] to meet persony.
+[MALE] is capable of change persony's mind.
+[MALE] has [F
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] needs to wait in line for a room.
+[MALE] wants to get a haircut.
+[MALE] goes to the store.
+[MALE] is determined. [MALE] is happy. [MALE] wants to win.
+[MALE] plays baseball for the win.
+[MALE] makes [FEMALE] a sandwich.
+[MALE] is determined. [MALE] is successful.
+[MALE] watches the news. [MALE] is caring.
+[MALE] gives [FEMALE] a kiss. [MALE] is generous.
+[MALE] raises [FEMALE] the next day.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom bites the apple.
+Tom bites the apple.
+Tom has a bad day.
+Tom has a bad day.
+Tom is talking about his dog.
+Tom is with a dog.
+Tom is with a dog.
+Tom is with a dog.
+Tom is talking about his dog.
+Tom is talking about his dog.
+Tom is talking about his dog.
+Tom is talking about his dog.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] calls [FEMALE] out on a date.
+[MALE] will to another person's service.
+[MALE] leaves the house.
+[MALE] needs to buy something.
+[MALE] needs to write a letter.
+[MALE] gives [FEMALE] an opportunity.
+[MALE] spends every night.
+[MALE] wants to make a friend.
+[MALE] sees [FEMALE] for a good time.
+[MALE] lives on a farm.
+[MALE] wants to say something.
+[MALE] walks the dog.
+[MALE] puts the car in the garage.
+
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+Now that Tom has finished eating, you are a better person.
+Now that Tom has finished eating, you are a better person.
+You have a new hobby.
+Now that you are tired, you need to take your time.
+Now that you are tired, you need to relax.
+Now that you are tired, you have to get your computer.
+Now that you have been away from your mother, you will be sad.
+You have a new job.
+Now that you have a new job, you will be satisfied.
+Now that you are a new guest, you will be a nice person.
+You are a new customer.
+Now that you are a new customer, you will be happy.
+
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Tom asked what he ate.
+[MALE] gives [FEMALE] the benefit of the doubt. [MALE] wants to get [FEMALE] back.
+[MALE] puts [FEMALE] to sleep. [MALE] will happy.
+[MALE] takes [FEMALE] to the hospital. [MALE] will exhausted.
+[MALE] drives a new car. [FEMALE] will happy.
+[MALE] tells [FEMALE] to go home. [FEMALE] will happy.
+[MALE] eats a hamburger. [FEMALE] will happy.
+[MALE] gets a phone call. [
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.com.
+[MALE] asks [FEMALE] if they can get together.
+[MALE] decides to move back to town.
+[MALE] gives [FEMALE] a new car.
+[MALE] gives [FEMALE] a hard time.
+[MALE] takes [FEMALE] to bed.
+[MALE] gives [FEMALE] a new phone.
+[MALE] makes [FEMALE] feel.
+[MALE] gives [FEMALE] an opportunity.
+[MALE] doesn't like it when [FEMALE] tries to get it.
+[MALE] makes [FEMALE] feel good
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] becomes [FEMALE] [MALE]'s personal chef.
+[MALE] is not a person.
+[MALE] will is a person.
+[MALE] puts [FEMALE] on the bus.
+[MALE] puts [FEMALE] on the bus.
+[MALE] wants to [FEMALE] become [FEMALE] more.
+[MALE] gets [FEMALE] some good food.
+[MALE] brings [FEMALE] to the office.
+[MALE] is happy.
+[MALE] takes [FEMALE] to the mall.
+[MALE] takes [F
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.<|endoftext|>The first attempt was yesterday, on the day of the launch of the new video game. [MALE] has the option to go to the bathroom. [MALE] will get the opportunity to drink some water. [MALE] will happy. [MALE] wants to be a superhero. [MALE] wants to become famous. [MALE] wants to have the highest result. [MALE] wants to look good. [MALE] wants to feel good. [MALE] is a good person. [MALE] wants to have some fun. [MALE] wants to be happy. [MALE] wants to be healthy. [MALE] is outgoing. [MALE] is productive
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] takes a walk. [MALE] wants to get fit.
+[MALE] takes a bath. [MALE] wants to see persony.
+[MALE] makes [FEMALE] nervous. [MALE] needs to be careful.
+[MALE] stops watching TV. [MALE] needs to be good.
+[MALE] takes [FEMALE] to the vet. [MALE] needs to be there.
+[MALE] is really [FEMALE].. [MALE] needs to feel better.
+[MALE] takes none to 's. [MALE] needs to go to the hospital.
+[MALE]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+Tom eats out a new restaurant.
+Tom does not need to be at a restaurant.
+Tom leaves the restaurant.
+Tom is at the hospital.
+Tom is visiting a friend.
+Tom is at the hospital.
+Tom is home.
+Tom is home.
+Tom is at the hospital.
+Tom is home.
+Tom is at the hospital.
+Tom is at the hospital.
+Tom has a crush.
+Tom is at the hospital.
+Tom is at the hospital.
+Tom is at the hospital.
+Tom is home.
+Tom will gets sick.
+Tom is home.
+Tom is home.
+Tom is home.
+Tom is home.
+Tom is home.
+Tom is home.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] is a little scared. [MALE] wants to be angry.
+[MALE] is a little funny. [MALE] wants to express good.
+[MALE] is a good person. [MALE] is intelligent.
+[MALE] is talking about. [MALE] is funny.
+[MALE] is a little sad. [MALE] needs to get to the hospital.
+[MALE] is having a party. [MALE] wants to celebrate.
+[MALE] is getting ready. [MALE] is engaged in the marriage.
+[MALE] is getting along. [MALE] is friendly.
+[MALE]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.I have to go to the store.I get rejected by the store manager.I eat cake.I get lost.I see blood.I leave the restaurant.I will happy.I will tired.I will drunk.I will have to keep my phone up.I have to go to the doctor.I will a bit tired.I feel bad.I will happy..I am a good person.I have a new job.I go to the park.I get tired.I go to the grocery store.I find something.I go to the grocery store.I find something.I miss the store.I want to buy a ticket.I go to the store.I wear a dress.I like to go shopping.I
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+satisfy the following question within five sentences:Do you get a dog?
+satisfy the following question within five sentences:What does the world look like in the past year?
+satisfy the following question within five sentences:What is the most important thing about the present?
+satisfy the following question within five sentences:What do you do every day with your children?
+satisfy the following question within five sentences:What is the most important thing to do in life?
+satisfy the following question within five sentences:What is the most important thing to do to your children?
+satisfy the following question within five sentences:What is the most important thing to do to your children?
+
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.The girl with the yellow ponytail is a teenager.It's the last time you have to walk the line.If you have to do it every day you will work harder.They do not trust you.You will not be capable of do it.You will be a disgrace.You will be a burden.You will get a gift.You will be a child.You will get a reward.You will have a job.You will take a bath.You will have a baby.You will have a job.You will have sex.You will be happy.You will be in love.You will be a good person.You will be a good person.You will have children.You will have children.You will have a good
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Settled down to the ground.Sewing a lot of oil.Sewing a hair.Sewing a little oil on your hair.Tired of having to clean your car.Wet your car.Wet your clothes.Wet your hair.Wet your shoes.Wet your hair.Wet your hair.Wet your sleep.Wet your house.Wet your pants.Wet your shoes.Wet your phone.Wet your shoes.Wet your couch.Wet your house.Wet yours.Wet your dog.Wet your children.Wet your own.Wet your own home.Wet your own family.Wet your own children.Wet
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom is a dog.
+Tom is a dog.
+Tom is a dog.
+Tom is a dog.
+Tom is a dog.
+Tom is a dog.
+Tom is a dog.
+Tom is a dog.
+Tom is a dog.
+Tom is a dog.
+Tom is a dog.
+Tom is a dog.
+Tom is a dog.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] opens the door. [MALE] need go to the library.
+[MALE] needs to start a fire. [MALE] needs to start a fire.
+[MALE] is not capable. [MALE] needs to go to the bathroom.
+[MALE] sees someone else. [MALE] wants to talk to them.
+[MALE] is a fool. [MALE] wants to be smart.
+[MALE] has a big heart. [MALE] wants to feel better.
+[MALE] wants to go to a zoo. [MALE] needs to go to the zoo.
+[MALE] is not capable. [M
+---------------

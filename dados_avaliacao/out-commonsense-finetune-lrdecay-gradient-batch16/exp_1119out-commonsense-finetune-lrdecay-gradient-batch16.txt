@@ -1,0 +1,124 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch16/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Keith got dumped by his girlfriend.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Keith got dumped by his girlfriend. He wanted to be a cop. He's been fighting so hard he's lost his job. And then the cops took him to work.They took him to court.Did you hear the last one? Keith's lawyers are out of the country.They're suing him for "misconduct." They're suing him for "personal injury." The police got a warrant to arrest him. And it's actually the third time the cops arrested Keith.So the cops call up the FBI, they call the local police, they call up the cops at the precinct level. They call up more cops. And the first thing they find out is that they're dealing with a serial killer.The cops get a warrant to arrest Keith. He's a police officer
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. She got dumped at the hospital. He's going to be the man in charge of the hospital. He's going to make sure they're really dead.Keith has a plan for the city.He's going to keep the city alive.He's going to keep the city safe.He's going to keep the city safe.He's going to make sure the city is really safe.No matter what happens, the city is going to get a lot of their money back. If you don't want it, the city will lose their money.Keith has a plan for the city.He's going to keep them alive.He's going to make sure that they're really dead.No matter what happens, the city is going to get a
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.Slightly edited by ksaben.
+
+Keith got dumped by his girlfriend.Slightly edited by ksaben.
+
+Keith got dumped by his girlfriend.Slightly edited by ksaben.
+
+Keith got dumped by his girlfriend.Slightly edited by ksaben.
+
+Keith got dumped by his girlfriend.Slightly edited by ksaben.
+
+Keith got dumped by his girlfriend.Slightly edited by ksaben.
+
+Keith got dumped by his girlfriend.Slightly edited by ksaben.
+
+Keith got dumped by his girlfriend.Slightly edited by ksaben.
+
+Keith got dumped by his girlfriend.Slightly edited by ks
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. The next day, he found that he wasn't alone. That's when he decided to go out with her.He took her to her parents house. He put the keys to the house on the desk. He put the keys on the phone.Keith found that the woman's boyfriend was with her.She told him he had a good time. Keith told her to get out of there. He went to the bathroom. He put the keys back on the desk.He went to the car. He put the keys to the car.He took her to the hospital. He took her to the hospital.He took her to the police station. Keith took her to the police station.He took her to the police station.He took her to
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. The police say the man took a bath on the beach and then went back to his car.He returned to his house and found Keith dead.His parents were able to find Keith's body.Keith was taken to the hospital.Police say the man was found alive. Keith was pronounced dead on the spot.Police say the man had a lacerated liver.The man was taken to the hospital.Keith's wife, the one that took him to the hospital, told police that she wanted to take him to a doctor.Police say he was found dead in the car.Police say the man took a bath on the beach.Keith got dumped by his girlfriend.The police say the man took a bath on the beach and then went back to
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.When Keith went home, he says that he wants to be with him again. He wants to be with the girl who came out to him at the car park. He wants her to go to the bar. On the way, he says, "They're not here for me, okay?" As he walks away, he walks toward the bar and says goodbye. Keith asks why he walked away and the bartender says, "Where is your girlfriend?" Keith asks how long it took Keith to get back home.Keith says that he is so tired, he is out of the shower. He goes up to the bathroom and gets a towel and a pillow and then goes to the bathroom and gets a new towel. Keith says that he has been told that
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped by his girlfriend. Keith got dumped
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.After he's been forced to put up with his girlfriend, Keith gets trapped with his girlfriend.When the police arrive, Keith gets locked in a cage. He meets a girl named Linda who's been a friend of Keith's.She tells Keith that she wants to take a break from the work he's doing.After he's done with his job and he's a good guy for it, Keith tries to be with Linda again.Keith and Linda are having a romantic dinner.After Keith has got a little bit of success and their relationship is getting better, they have a romantic dinner.When it is over, they go to their car to go drive.After Keith has gotten over his girlfriend, he finds his way back to the station.When
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. He's a bad guy, so he's got to make a deal. He wants to find his ex, but the odds are against him. He's got to find someone like his son, but he'll lose his head if he doesn't. He wants to be able to find his ex, but he's got to get the deal. But there's no way he's going to get the deal. He's got to find his ex, but he's got to get the deal. But he's got to find someone like his son, but he'll lose his head if he doesn't. There's no way he's going to get the deal. He's got to find his ex, but he's got to get the deal.
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. He tried to sneak into his ex's house, but he found the girl locked in his bedroom.He didn't know what to do. He started to be bothered by her, but he didn't want her to find out about it.She went to the hospital, but she was actually shocked and scared by Keith. It's when the doctor told her she got the disease and her husband took her to the hospital. He told her that he's going to find out why she got the disease.She doesn't like the doctor, but the doctor's wife is the most annoying person in the world. And she won't believe what happened to Keith.So he goes to the doctor, but he's told the whole truth to the doctor.He
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. When she found out, they went to the local police station. They found him, and he's been suspended. Then they put him in jail.He's been suspended all over, for years. And they say they're going to get him back. He's been suspended for the rest of his life. And that's what they do.They put him in jail, and he's been released.He's been suspended for nine months. He's been suspended for two years. He's been suspended for three years. And they put him in jail, and they're going to get him back.They put him in jail, and he's been released.He's been suspended for seven years. They put him in jail. He's been
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. He went to the doctor to get more information.
+
+
+Keith didn't even have to go with her at all. She's totally fine.
+
+
+You don't have to tell me you're a murderer. It doesn't matter what. Just say you're not. I'm not a murderer.
+
+
+That's a lie. It's a lie.
+
+
+You need to see a doctor.
+
+
+You need to go to a hospital.
+
+
+I know you don't want to go. Just tell me you need to go.
+
+
+You need to tell me that I'm a good person.
+
+
+You didn't know I was a bad person.
+
+
+You know it hurts.
+
+
+You think you can
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. He and her boyfriend have been dating for about a year.Keith and his girlfriend are dating each other. According to Keith, the girlfriend is a nice person. Keith and his girlfriend are going to have a good time. Keith has a feeling that the girlfriend is going to have a good time. Keith has a feeling that the girlfriend is going to have a good time.Keith has a feeling that he is going to have a good time."What will you do to make a difference in the world?""I will have a very good time. I will have a very good time. I will have a very good time."What will you do to make your life better?""I will have a very good life. I will have a very good
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. Keith told his girlfriend that if he doesn't have sex now, he'll never get back to her. He got angry and threw a glass at her. Keith is the first person Keith has ever referred to as "the good guy." He had a good, solid reputation as a guy who had a good time. Keith had a bad reputation and it's up to him to fix it. Keith has a very strong sense of justice and gets it. He is a good guy. Keith has a great sense of honor and has a great sense of family. Keith has a very good sense of loyalty and loyalty to his family. Keith has a very good sense of pride. Keith has a very good sense of family. Keith has a strong sense of self
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. And the other night he was drinking and he was drunk.He was drunk and he was drunk.Keith went out for a cup of milk. And he went to the mall and he went to the store. And he went to the store.And he went to the store.And he went to the store.And he went to the mall.And he went to the store.And he went to the store.And he went to the store.And he went to the store.And he went to the store.And he went to the store.And he went to the store.And he went to the store.And he went to the store.And he went to the store.And he went to the store.And he went
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.She's been dating him.I asked about the contract.She said it's for the last twenty years.I didn't have any idea.I'm hoping for the best.I asked about the agreement.She said it's for them.I asked about the contract.She said it's for them.I asked about the contract.She said it's for them.I asked about the contract.She said it's for them.I asked about the contract.She said it's for them.I asked about the contract.She said it's for them.I asked about the contract.She said it's for them.I asked about the contract.She said it's for them.I asked about the contract.She said it's
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. He then found out that she was pregnant and wanted to leave. Keith goes to a drug-dealing woman's house to lure her into his house. He then finds out that the woman is in the wrong body. This becomes the beginning of the end of the story.<|endoftext|>The story begins in the late 1980s when a young man named Jack Ryan became a regular at a local bar. An aspiring actor named Jim had just graduated from high school. His first job as a bartender at a local restaurant was to help out the waitress at the bar. But due to his inexperience with the job, Jim started drinking heavily and started getting more and more drunk. He began to become a regular at the bar, but by the time he graduated he
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped by his girlfriend.Keith gets dumped
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.He went to a nearby bar.He didn't go to the bathroom.He didn't do anything to hurt the girl.He went back to his car and he accidentally hit Keith.He went back to his house and he broke his leg."The girl told the police.They took the girl to the hospital where she was admitted to the hospital.They found her in the hospital and they found her in the hospital's ICU.They found her in the ICU's.The girl told the police."Just because you're a good person doesn't mean you're not a good person. You have to do something to make a difference. So you're like... you know what happened? You got hit by a car.You went off to
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. He is a total bitch. He had no choice but to go back home, go to the grocery store, etc. He looked for something and found a jar of Jellyfish Jellyfish. He went back to the grocery store, found a jar of Jellyfish Jellyfish. He went back to the store, found a jar of Jellyfish Jellyfish. Keith is a complete bitch. He has no choice but to be the mommy. He was really mad at himself for being such a bitch. Keith wanted to be a mom, but he couldn't. He wanted to go back to his mom, but he couldn't. He wanted to be the dad of his child. He wanted to be the father of his child. Keith was truly mad
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. She gets dumped by his grandma. He gets dumped by his brother. He gets dumped by his mother. He gets dumped by his uncle. He gets dumped by his dad. He gets dumped by his mom. He gets dumped by his grandmother. He gets dumped by his step-mother. He gets dumped by his father. He gets dumped by his mother. He gets dumped by his grandmother. He gets dumped by his step-grandmother. He gets dumped by his uncle. He gets dumped by his father. He gets dumped by his mom. He gets dumped by his mother. He gets dumped by his dad. He gets dumped by his mom. He gets dumped by his dad. He gets dumped by his step-grandmother. He gets
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. She's been dating the same man for years. He's had an affair with her for years. Keith has a girlfriend. He has a lot of relationships with her. He's a good man. But now he's got a girlfriend. He's dating her. Keith has a girlfriend. He has a lot of relationships with her. He's a good man. But now he's got a girlfriend. He's getting dumped by his girlfriend. Keith has a girlfriend. He has a lot of relationships with her. He's a good man. But now he has a girlfriend. He's getting dumped by his girlfriend. Keith has a girlfriend. He has a lot of relationships with her. He's a good man. But now he's got a
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.The woman is in a coma and is unable to get back to her home.The man has been found dead inside of a car.The man has been found dead inside of a car.Keith's mother is dead.The man has been found dead inside of a car.The woman is in a coma and is unable to get back to her home.The man has been found dead inside of a car.Keith's brother has been found dead inside of a car.The man has been found dead inside of a car.The woman is in a coma and is unable to get back to her home.The man has been found dead inside of a car.The woman is in a coma and is unable to get back to her home.The man
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. He has been lost to a sea of sea creatures, and is no longer alive. The world is not happy here. Keith has been lost to the sea itself, but he is alive. Keith is now the sea's best mate.Keith has been lost to the sea itself, but he is alive. Keith is now the sea's best mate.Keith has been lost to the sea itself, but he is alive.Keith is now the sea's best mate.Keith has been lost to the sea itself, but he is alive.Keith has been lost to the sea itself, but he is alive. Keith is now the sea's best mate.Keith has been lost to the sea itself, but he is alive.Keith is now the sea's
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. Keith says he wants to get rid of her. Keith explains he is going to have to get her back. Keith says he has no idea why he is being dumped. Keith says he is not sure what happened to him. Keith says he had a bad night at work. Keith says he is not sure what happened to him. Keith says he has a bad night at the office. Keith says he has a bad night at home. Keith says he has a bad night at school. Keith says he has a bad night at home. Keith says he has a bad night at work. Keith says he has a bad night at work. Keith says he has a bad night at home. Keith says he has a bad night at home. Keith says he
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. She's been dating him since he was 13 and they are on a date. He's not the best girl in the world. He has a history of depression, which he's never reported to police. He's a drunk and is just too drunk to go on a date. He's just getting through the day and is going to do it. He's just going to do it. He doesn't want to be alone. He wants to go to some girls, but he's having to go through this life. He doesn't want to be alone. He wants to go to some girls. He wants to go to some girls. He's got a record of being in a bad mood. He's going to be in jail for some time
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.The girl with the keys to the house had the keys to the house.The girl with the keys to the house has the keys to the house.The girl with the keys to the house has the keys to the house.The girl with the keys to the house has the keys to the house.The girl with the keys to the house has the keys to the house.The girl with the keys to the house has the keys to the house.The girl with the keys to the house has the keys to the house.The girl with the keys to the house has the keys to the house.The girl with the keys to the house has the keys to the house.The girl with the keys to the house has the keys to the house.
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.Settled down by the police.Settled down by a family member.Settled down by a family member.Settled down by a family member.Settled down by a family member.Settled down by a family member.Settled down by a family member.Settled down by a family member.Settled down by a family member.Settled down by a family member.Settled down by a family member.Settled down by a family member.Settled down by a family member.Settled down by a family member.Settled down by a family member.Signature of a person found guilty of an offence in this country.Sell
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. That's not fun. [00:38:20]EMOTE: *no key*/(Runtime) : <b>Runtime</b> runs!
+
+[00:38:28]EMOTE: *no key*/(Runtime) : <b>Runtime</b> runs!
+
+[00:38:29]SAY: Cazz Miller/Uncle Bourbon : Momma's back.
+
+[00:38:30]SAY: D. Armitage Quinn Esq./MollyKristoph : I'll be back
+
+[00:38:32]EMOTE: *no key*/(crab) : <b>The crab</b> clacks.
+
+[00:38:33]
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. He said he was a little nervous because everything was so messed up. He really wanted his girlfriend to find it out. He asked her to come to his house. He asked her to take him to the zoo.He said that when he came home that he went to the zoo because he was scared. He yelled at his girlfriend to get out of here.She took the phone home. He went to the police. Keith had no idea what was going on. He told them that he was here to pick up his girlfriend.When he found out what happened he was really scared. He told his girlfriend to stay at the zoo. Keith told his girlfriend that he would try to find out what happened.He told his girlfriend that he had no idea
+---------------

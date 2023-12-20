@@ -1,0 +1,111 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Sandy fell off her bike.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Sandy fell off her bike. She wanted to go back to school. But the school was full of teachers that were upset. She reached out to the teacher's office and asked if they would let her go. The teacher came home and asked the teacher if he would be there. She said ok. The teacher said he will be there and will meet with the students tomorrow. When they arrived at the school, the teacher says they will get a tour. On the way there, the teacher tells the students that Sandy will be there. They went to the school and they saw the teacher. He told them about his plan to have a meeting with the students this afternoon. He told them that he is going to have kids in the afternoon. The teacher made the request but the students
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She's barely at the halfway point of her mission. This is all she needs to start over. She hits a tree, runs up to the side of the road, and picks up her bike. She's very tired, but she has a big heart. She's going to be a doctor. She has a job. She is going to make new friends. She is the only person she can trust. She's the one who can get a job. She's going to live a normal life. She has the sense of humor to do it. She's the very person you need to be. She will be a mother. She has the skill to make a living. She is the leader. She has the strength. She has the courage
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy sat on the side of the road and stared at the clouds.Sandy was on a trail.She looked down at her feet.Sandy's feet were black.Sandy's feet were blue.Sandy felt nothing.She was tired.Sandy's feet were soft.Sandy's feet were warm.Sandy's feet were warm.Sandy's feet were warm.Sandy's feet were warm.Sandy's feet were warm.Sandy's feet were warm.Sandy's feet were warm.Sandy's feet were warm.Sandy's feet were hot.Sandy's feet were hot.Sandy's feet were hot.Sandy's feet were hot.Sandy's feet were hot.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. The next day, she found that she wasn't alone. That afternoon, she awoke to find that her husband had invited her for dinner. She was quite shocked to learn that his wife had gone to the restaurant, but she was determined to go to her husband's house. There, she heard a pop. She looked down to see that he had gone to the front door of the house. He was wearing a red sweater, and had a pair of red shorts. She felt a strange sensation, but she didn't know how to explain it. That night, she remembered that he was in bed with her husband, and that he had been watching the news. After the video was back online, she was very excited and said she really wanted a
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. The man had put a shoe on her leg. Her ankle was sore. The man was wearing a shirt. He was walking. He was on the phone. He started crying. He was flustered. The man was sweating. He was getting dressed. He was ready for the day. The man was looking at the window. The man's eyes were watering. He was in the dark. The man was in his car. He was going to the hospital. The man was out. The man was tired. The man was sitting in the garage. The man's eyes were watering. He was in the dark. The man was in the car. He was looking at the window. The man's eyes were watering. He was in the
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She was tired, but still there. What is wrong with you? You're not going to the doctor.You're not going to the doctor.Sandy is a bad person. She was horrible. She tried to hurt you. She tried to hurt you more than you could bear. And your body hurt you more than you could believe.You're a bad person. You're a bad person.Sandy is a bad person. You're a bad person.Sandy is a bad person. You're a bad person.Sandy is a bad person. You're a bad person.Sandy is a bad person. You're a bad person.Sandy is a bad person. You're a bad person.Sandy is a
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She got up and walked to the hospital. She was fine."
+
+As the paramedics arrived, it turned out that the woman had been under the influence of alcohol.
+
+A paramedic took her to the emergency department at the hospital.
+
+She had been in a coma for over a week and was on morphine. After the ambulance landed, she began vomiting uncontrollably.
+
+A friend at the hospital, who helped, told her about the woman's ordeal.
+
+"She was in bed with her stomach up and her leg was back," the friend said.
+
+"She had blood in her hands and was in hospital with a little bit of soreness. She was bleeding and sore.
+
+"She was in
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She was on the verge of falling over, and it was hard to see her eyes open. But the doctor came to her rescue, so she fell back down. She was on the verge of falling over, and it was hard to see her eyes open. But the doctor came to her rescue, so she fell back down. She was on the verge of falling over, and it was hard to see her eyes open. But the doctor came to her rescue, so she fell back down. She was on the verge of falling over, and it was hard to see her eyes open. But the doctor came to her rescue, so she fell back down. She was on the verge of falling over, and it was hard to see her eyes open
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She struggled with the pain, but she was eventually able to catch her breath. She knew that if she gave her the time to go back to the house, then the world would find her back. This had always been her mantra for a long time. But now, she felt like it was finally coming true.She was so overwhelmed by the pain, her face was red. Everything was blurry. She ran to the bathroom, turned on the TV, and tried to clean the dishes. But it was too late. She heard a loud thud in the hallway. She ran to the door, but no one was there. She ran to the bathroom and tried to get out of there. But no one was there. She ran to the bathroom
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.She tried, only to be stopped by a police officer.She went to the police station.Her face lit up.She was a girl.She was a girl.Her body was on the ground."She's a girl," said a man who works for the police.He was in his early 20s.He and a woman were coming to work and got the girls involved in the situation.The man then asked if they could go in to the police station or to the police station in case they had any reason to be injured.The woman replied that she didn't want to go outside the police station.The man refused to go inside the police station.The woman told the man that she had to go to the police station to go to
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy felt a strange sensation of relief when a tall, blonde woman approached, greeted her with kisses.
+Sandy smiled and hugged her.
+Sandy smiled back and smiled back.
+Sandy smiled back and smiled back.
+Sandy smiled back and smiled back.
+Sandy smiled back and smiled back.
+Sandy smiled.
+Sandy was told to keep her feet dry.
+Sandy was told to sit up straight.
+Sandy was told to hold her breath.
+Sandy was told to take a shower.
+Sandy was told to leave the house.
+Sandy was told to go to sleep.
+Sandy was told to go to bed.
+Sandy was told to take a
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She woke up in the middle of the night and a hand came over her shoulder. She knew what it was. It was her mother's. She felt so bad.But she wasn't sure what to do. It was difficult. So she grabbed it and told her mother. But the moment she looked up at the sky, the moment she said, "Why is this happening?" she knew. She knew. And her mother told her to save her.But she couldn't do it. She couldn't. She just couldn't. It was the moment she felt the hand on her shoulder. And her mother told her to call 911.But it was too late. So she stopped at the store. She called her mom. And the police
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.She was alone.She couldn't help but moan.She did that to her brother.But it didn't turn out that way.Sandy's head hurt.She pulled back.She reached up.Sandy looked down at her sister.She felt a little tender.She could use a little of this.She wanted to touch her sister.Sandy said, "Stop."Sandy felt her sister pull away from her.Sandy kissed her on the cheek.They hugged.Sandy looked down at her sister.Her eyes were wide.She saw her sister look at her.Sandy's eyes widened.She pulled back.Sandy looked down at her sister.Her eyes were wide.Sandy said, "Please.Please
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She was crying and flustered. She ran to the doctor, who looked at her. She told him that she was fine. He looked at her. He gave her a lumpy looking lump. He put her down. He took her back to the hospital. She got some rest and went to bed.She had a fever. She passed out. She was very tired. She went to sleep.She called her husband. They both went to the hospital. She woke up and went to the hospital. She went to the doctor. The doctor told her that she was fine. He took her to a doctor. She went to the doctor and they talked. They talked about how to fix the bike. They talked about the bike. They
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She woke to find her legs were on the pavement. She went back to her room. She climbed over the wall. She saw a black cat. She looked around the room and saw the cat. She went back to her room. She looked around the room and saw the cat. She went back to her room. Sometime she asked to have her cat taken away. She had no idea what to do. She cried. She went to her room. She went home. She went to her car and drove to the doctor's office. She found the cat. Sometime she asked to have her cat taken away. She had no idea what to do. She cried. She went to her car and drove to the doctor's office. She
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.She was so tired, she took off running.Sandy's body trembled.Her mind was racing.Sandy was in total shock.Her heart was pounding.Sandy's head was racing.Sandy was in pain.Sandy's feet were shaking.Sandy's legs were shaking.Sandy's feet were shaking.Sandy's foot was shaking.Sandy's nose was shaking.Sandy's eyes were shaking.Sandy's mouth was shaking.Sandy's eyes were shaking.Sandy's stomach was shaking.Sandy's chest was shaking.Sandy's eyes were shaking.Sandy's stomach was shaking.Sandy's stomach was shaking.Sandy's eyes were shaking.Sandy's hands were
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. He then jumped on top of her. He did not know what happened. But he was too scared to move. He was tired. He was exhausted. He could not stand up. He did not know what to do. He was tired. He needed to be in control. He was tired. He needed to be at the center of the scene. He needed to be on the road. He needed to be in control of the situation. He needed to be in control of the situation.He did not know whether to scream or not. But he did not know. But he was tired. He needed to be in control. He was tired. He needed to be in control.He did not know whether to put his phone on the ground
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. It was cold.Sandy turned to look at the dog. The dog is a Labrador retriever.Sandy was so startled. She walked towards the dog. The dog is a dog.Sandy ran up to the dog, looking at the dog. The dog is a dog.Sandy ran up to the dog, looking at the dog. The dog is a dog.Sandy ran up to the dog, looking at the dog. The dog is a dog.Sandy sat back down on the couch.Sandy took a deep breath.Sandy was so startled. The dog is a dog.Sandy sat back down on the chair.Sandy was so startled. The dog is a dog.Sandy sat back down
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy is a baby with a very young, healthy body.Sandy is already exhausted.Sandy is in a hurry.Sandy is planning on spending a long weekend.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy is in a hurry.Sandy
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She had a sore back and a sore thumb. She walked to her car, took a shower, and got to work. She had a sore leg. She told her husband to put her in a hospital. She told him to take her to a doctor. He took her to the doctor.Sandy had a sore back and a sore thumb. She told her husband to put her in a hospital. She told his husband to fix the car. She told his husband to go to the doctor. He took her to the doctor.She told her husband to fix the bike. She told his husband to add the battery. She told his husband to replace the phone. She told his husband to call the police. She told her husband to tell her
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She was so sore that she couldn't sleep and couldn't even get to her desk. She made a call to her cousin but the cousin refused to talk to the doctor. Sandy was so angry that she broke the phone and grabbed the doctor. She called the doctor and told him that there was a problem with the phone. The doctor was very upset. He told Sandy to leave the office. Sandy started to go to the doctor. She was so angry that she broke the phone and grabbed the doctor. She called the doctor and told him that there was a problem with the phone. The doctor was very upset. He told Sandy to leave the office. Sandy started to go to the doctor. She was so angry that she broke the phone and grabbed
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She was in agony, she could barely breathe. She was unable to get out of bed.She felt a horrible sadness in her thoughts. She stood on the edge of the bed.She felt a strong urge to go to sleep.She tried to close her eyes. She woke up and knew she was alone.She turned to the side of the bed.A small piece of paper that she had written on the wall.She looked at it.She asked "Where is it?"The boy looked at the paper.The boy looked at the paper.He asked "Where is it?"The boy looked at the paper.He asked "Where is it?"The boy looked at the paper.The boy looked at the paper.He looked at the
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She doesn't know a thing about bicycling, but she is in the mood to get a bike. She is working at a convenience store. She is not looking for a place to get home. She is trying to be productive by going to a friend's place. She wants to go to the park. She is getting excited. She is feeling down.She is tired. She is sad.She is angry.She is upset.She is excited.She is sad.She is sad.She is upset.She is sad.She is sad.She is sad.She is sad.She is sad.She is sad.She is sad.She is sad.She is sad.She is sad.She is sad.She is
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She gave up her bike.She picked up her bike and ran to the bathroom. She put the bike back in the saddle.Sandy found the bike in the closet.She removed the bike.Sandy took a shower.Sandy went to the shower.Sandy grabbed the water bottle.Sandy took a shower.Sandy took a shower.Sandy took a shower.Sandy took a shower.Sandy went to the bathroom.Sandy took a shower.Sandy took a shower.Sandy took a shower.Sandy came home.Sandy took a shower.Sandy came home.Sandy took a shower.Sandy took a shower.Sandy went to the doctor.Sandy took a shower.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.I have to take her to the doctor."I told her about the cat.I told her about the dog.I told her about the man.I told her about the house.I told her about the man.I told her about the town.I told her about the city.I told her about the country.I told her about the city.I told her about the state.I told her about the nation.I told her about the nation.I told her about the nation.I told her about the nation.I told her about the nation.I told her about the nation.I told her about the nation.I told her about the nation.I told her about the nation.I told her about the nation.I
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She was bleeding profusely. She's unconscious. She's in a coma. Her parents can't get her to the hospital. She's going to the hospital. She's screaming. She's in a coma, but her parents can't get her to the hospital.It's too late.She needs the money. She needs to get a job. She needs to get to school. She needs to get a job.Her parents can't get her to the hospital. She's bleeding profusely. She's in a coma, but her parents can't get her to the hospital.She needs to get a job.She needs to get to school.She needs to get to work.She needs to get a job.Her parents
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.The girl looked the way she always looked.The girl looked at the girl.Sandy gave in.The girl looked at the girl.Sandy gave in.The girl looked at the girl.The girl gave in.The girl looked at the girl.Sandy gave in.The girl looked at the girl.Sandy gave in.The girl looked at the girl.Sandy gave in.The girl looked at the girl.Sandy gave in.The girl looked at the girl.Sandy gave in.The girl looked at the girl.Sandy gave in.The girl looked at the girl.Sandy gave in.The girl looked at the girl.Sandy gave in.The girl looked at the girl.Sandy
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy's eyes fell open.Sandy's face contorted.Sandy's jaw dropped.Sandy's eyes went wide.Sandy began to speak.Sandy's arms stopped shaking.Sandy's fingers began to open.Sandy's fingers opened.Sandy's fingers began to open.Sandy's hands began to open.Sandy's hands began to open.Sandy's eyes opened.Sandy's eyes opened.Sandy's eyes opened.Sandy's eyes opened.Sandy's eyes opened.Sandy's eyes closed.Sandy's eyes closed.Sandy's eyes closed.Sandy's eyes closed.Sandy's eyes closed.Sandy's eyes closed.Sandy's eyes closed.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. Her brother-in-law's wife and daughter were inside. They climbed into the car and opened the door. Sandy looked back at the sun. The window had been closed. She had fallen off her bike. They would have no idea what happened. The family was in a panic. They tried to open the door, but it was locked. Sandy had been on the streets. She was trying to find her bike. The police would have no way of knowing what had happened. Sandy had put the keys back in her car. She was going to be found. The car had been stolen. The car had been picked up. The wife was in the car. She was trying to find her bike. She was getting ready for the day.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She said he pushed her back and shoved her into the wall. He held her face down and then pulled her back to the ground.
+
+"He hit her on the head," the victim said.
+
+"I have no idea what happened to that dog. I have no idea what happened to it," the woman added.
+
+The woman said they took the dog home.
+
+"I'm just grateful she's alive," the woman said.
+
+"I'm thankful he didn't hurt my dog."
+
+The woman said she is sick because of the attack.
+
+"I'm really grateful that he's in the hospital. I'm really proud that I'm alive. I'm really grateful for my family,"
+---------------

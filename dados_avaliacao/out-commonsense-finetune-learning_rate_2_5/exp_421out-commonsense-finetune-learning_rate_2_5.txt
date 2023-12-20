@@ -1,0 +1,215 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Jane was driving home late one night.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Jane was driving home late one night. She wanted to see her car. [text]She's driving home late one night. [text]Jane is driving home late. [text]It's late. [text]Jane is driving home. [text]Jane is driving home. [text]Jane is driving home. [text]Jane is driving home. [text]Jane is driving home. [text]Jane is driving home. [text]Jane is driving home. [text]Jane is driving home. [text]Jane is driving home. [text]Jane is driving home. [text]Jane is driving home. [text]Jane is driving home. [text]Jane is driving home. [text]Jane is driving home. [text]Jane
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She got a car and went out to drive. She comes home and leaves. You are in a lot of trouble. Jane calls you back. You should be in a lot of trouble. You are in a lot of trouble. You are in a lot of trouble. you are in a lot of trouble. you are in a lot of trouble. your time is over. you are in a lot of trouble. your time is over. your time is over. go home. you is in a lot of trouble. your time is over. you are in a lot of trouble. your time is over. you are in a lot of trouble. your time is over. you are in a lot of trouble. your time is over. your time
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.She walked to the front door.At the back door.She's wearing no clothes.She's in no mood to be in a car.Jane is looking for something.A car is parked in front of the house.Jane is not in the car.Jane wants to go home.Jane wants to see her husband.Jane is not in the house.Jane wants to take a bath.Jane wants to visit another woman.Jane is a good girl.Jane wants to see Jane.Jane wants to be with her husband.Jane is a good girl.Jane wants to go to the doctor.Jane is an ache.Jane wants be with her husband.Jane is a good girl.Jane wants meet another woman.Jane is a good girl
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.You see her driving.You see her look at the car.You might have to ask her out.This is your home.You want to stay in it.You want to go back.You want to have a look at the book.You want to be able to see the movie.You want to sit down.You want to go to the store.This is your home.This is where you find a new car.This is your home.You want to go to the car.This is your home.You want to find the driver.This is your home.This is your home.You want to leave.This is your home.This is the place you go for a walk.This is your home.This is a
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.She is walking around.This is the place where you expect to find your own room.You will get an order for the next day.It is called a night.It is a house.You will be in the living room.You will have dinner.This is your bedroom.This is your bedroom.it is your room.it is your home.it is your home.it is home.it is home.it is home.it is home.it is home.it is home.it is home.it is home.it is home.it is home.it is home.it is home.it is home.it is home.it is home.it is home.it is home.it is home.it
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.When you open the door for the car, the car will stop. You will get a text from your friend.Your friend is a teacher at a school.<|endoftext|>This is a list of the available items.
+
+A large number of the properties of the universe are known.
+
+A large number of the properties of the universe are known.
+
+When a computer program is run, its memory is limited.
+
+A large number of the properties of the universe are known.
+
+A large number of the properties of the universe are known.
+
+When you are making a new puzzle, you try and calculate the number.
+
+A large number of the properties of the universe are known.
+
+A large number of the
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She got lost.
+f[r]h[e]i[s][m]o[r]s[l]i[s]s[m]s[d]s[d]s[o]r
+j[t]j[t]f[c]i[s][m]s[t]t[o]r[i]s[m]s[t]s[r]
+k[t]y[i]g[a]r[i]s[t]r[i]r[i]s[t]s[r]
+k[t]y[i]s[t]f[c]i[s
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.There was an accident.
+[MALE] calls the police. [FEMALE] is not interested.
+[MALE] is studying for a degree. [MALE] wants to study.
+[MALE] is good at something. [MALE] is motivated.
+[MALE] is very close. [MALE] wants to thank him for his help.
+[MALE] enters the house. [MALE] is worried.
+[MALE] stays behind. [MALE] wants to leave.
+[MALE] leaves the house. [MALE] is tired.
+[MALE] wants to go to work. [MALE] is angry.
+[MALE
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She noticed a car on the street.The car was a black car.Jane was scared.But she was prepared to go to the doctor.Jane got a prescription.She goes to the doctor.The doctor is going to take a lot of tests.Jane opens the lid.The doctor opens the lid.Jane becomes scared.But the doctor is there to help.Jane takes medication.The medicine is effective.Jane takes the medicine.Jane takes a picture.The picture is taken.Jane takes the picture.The picture is taken.The picture is taken.The picture is taken.The picture is taken.the picture is taken.the picture is taken.the picture is taken.the picture is taken.the picture is taken.the picture
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.She is not driving home.She does not want to go home.She wants to go back to work.She wants to take a shower.She is not staying late.She is not looking for work.She is not going out.She is not going to the store.She is not in need of money.She is not the one going to the mall.She is not buying groceries.She is not attending school.She is not doing homework.She is not caring.She wants to go to work.She is not hungry.She is not tired.She is not tired.She is not used to.She is not used to.She is not used to.She is not used to.She is not used to.She
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+you do not need to be of the right age to drive
+go to the store
+take a bath
+buy a new pair of shoes
+eat dinner
+eat all day
+go to a movie
+tell your parents
+go to the mall
+have a baby
+go to the beach
+go to the zoo
+eat cereal
+read a book
+have a snack
+cook a meal
+go to the grocery store
+have a meal
+get some snacks
+do things
+go out
+go to the movie
+be a good person
+get a job
+go to the mall
+stop your car
+read a book
+play a game
+go to the store
+get your insurance
+read a new book
+go to the mall
+
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.You've had an accident.I never would've thought of that.I'm sorry if I'm late.I will explain.I am sorry.I will be ok.I will be very thankful.I will be thankful.I will be happy.I will be good.I will make good money.I will be responsible.I will be brave.I will be caring.I will feel safe.I will be healthy.I will feel full.I will be satisfied.I will be strong.I will be happy.I will be peaceful.I will be peaceful.I will happy.I will be friendly.I will have fun.I will watch tv.I will get up.I will run away.I will think about
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.She was driving home late one night.She got a ticket.She got a ticket.She got a ticket.Jane was the only one who wanted to go home.She didn't need to go home.She wants to go home.<|endoftext|>On Tuesday, the new school year begins.
+The first and last day of school is upon us, and it is not your father's day.
+What is class?
+You might be doing homework.
+You might be on your way to the office.
+You might not be carrying a toy.
+You might have a question.
+You might be tired.
+You might be curious.
+You might have a good time.
+You might have a meeting.
+You might have a
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She was driving home from work. If you have a car, you can get your fix. If you are not in the mood, you can take a walk. If you do not want to go to jail, you can always go to the library. If you are not in the mood, you can go home.You are not allowed to drive a car. You are not allowed to take the bus.You are not allowed to drink alcohol.If you have a dog, you can walk it in the yard.If you are not on the fence fence, you can wait for the police. If you are not on the porch fence, you can wait for the police.If you are not on the bus, you can wait for the bus
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. you will be able to get up and open the door. You will receive a text message from the phone. this text will be in your drawer. your body will warm. you will be motivated to go outside. you will be proud. this text will be in your pocket. the book is in the drawer. this text will be in your pocket. this text will be in your shoe. you will be eager. this text will be in your hand. this text will be in your pocket. this text will be in your pocket. this text will be in your hand. this text will be in your hand. this text will be in your hand. this text will be in your hand. this text will be in your hand. this text
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.She was very tired.The car stopped.The driver was very drunk.The car was very crowded.The car was very popular.The driver was not happy.The car was very expensive.The driver was angry.The car was very expensive.The driver was angry.The car was expensive.The driver was angry.The car was expensive.The driver was angry.The car was expensive.The driver was angry.The car was expensive.The driver was angry.The car was expensive.The driver was angry.The car was expensive.The driver was angry.The car was expensive.The driver was angry.The car was expensive.The driver was angry.The car was expensive.The driver was angry.The car was expensive.
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. He was very tired. He woke up in a hospital. He was in his car. The doctor asked him if he was ok. he said no. He walked back to his car. There are no seats. he gets up and goes to bed.
+Jane is not interested in looking at pictures. She wants to see how he is doing. She wants to get the job.
+Jane is not interested in selling. She wants to be a better person.
+Jane is not interested in selling. She is bored.
+Jane is not interested in anything. She wants to be a good person.
+Jane is not interested in anyone. He is a good person.
+Jane is not interested in having a great time. He wants to be
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.She asked, "What is going on?"
+The following text within five sentences:Jane was in an office.She asked, "What is the job?"
+Jane was in an office.Jane asked, "What is the business?"
+Jane was in a meeting.Jane asked, "What is the meeting?"
+Jane was in a meeting.Jane asked, "What is the meeting?"
+Jane was in a meeting.Jane asked, "What is the meeting?"
+Jane was in a meeting.Jane asked, "What is the meeting?"
+Jane was in a meeting.Jane asked, "What is the meeting?"
+Jane was in a meeting.Jane asked, "What is the meeting?"
+Jane was in a meeting
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She was holding a baby with her husband. They were late for work.She said, 'Why don't you leave me alone. I'll hurt your feelings. I will stay with you.')
+(a) If you are under 18, take an exam. (b) If you are under 18, you will be employed. (c) If you are under 18, you will be able to apply for a position. (d) If you are under 18, you will be able to work. (e) If you are under 18, you will be able to have children. (f) If you are under 18, you will be able to buy a house. '(g) If you are under 18, you will be
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She had a bad day. She had a bad date. One day she will go to the grocery store. One day she will get something to eat. One day she will feel good. One day she will feel good. One day she will say hello. Jane has a bad day. One day she will be in a bad mood. One day she will be lonely. Jane has a good day. One day she wants to visit. One day she wants to go to a movie. One day she wants to take a walk. One day she wants to talk to someone. Someone needs to meet someone. One day she is tired. Someone needs to eat. One day he is tired. One day he is being friendly. One day he is
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She gets so mad. You are on your way home.You decide to go to school. You are looking for a job.Jane falls asleep.You wake up in the morning.You get up to go to bed.You find out that you have been sleeping. You head off to the mall.You get a job.You become friends.You are so happy.You go with your boyfriend.Jane runs into them. You are so tired.You use your phone to call.Jane is getting ready.You make a meal.You talk to the other person.You go to the grocery store.You give a gift.You get an order.You get arrested.You get arrested.You go to jail.You have an accident.
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She was in a tizzy.
+the following text within five sentences:Jane was driving home late one night.
+the following text within five sentences:Jane was drinking a lot.
+the following text within five sentences:Jane was driving home late one night.
+the following text within five sentences:Jane was on a phone.
+the following text within five sentences:Jane was on her way home.
+the following text within five sentences:Jane asked to see a doctor.
+the following text within five sentences:Jane asked to see a therapist.
+the following text within five sentences:Jane asked to call the office.
+the following text within five sentences:Jane was working at the store.
+the following text within five sentences:
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She doesn't know a thing about cars.She needs to go buy some snacks.She has been drinking a lot of water.She wants to go buy some food.She goes home.She is sad.Do you know what your problem is?Jane needs to go to a friend. She wants to go to the store.She wants to see what's in the store.She wants to go to the store.She has to go to the store.She is sad.Do you know what your problem is?Jane needs to go to a friend. She is sad.She is going to the store.She is going to go buy some food.She is going to the store.She is going to the store.She is going to
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She has a hard time keeping up with the traffic.
+(3)Wear a hat.
+(2)Run.
+(1)Put in the closet.
+(1)What is the matter with you?
+(0)Suffer for yourself.
+(1)Get a job.
+(0)Put on a suit.
+(0)Stop by the store.
+(1)No idea.
+(0)Firing the gun.
+(1)Go to a movie.
+(0)Run away.
+(1)What is wrong with you?
+(1)Don't see.
+(0)Get the key.
+(1)Get a new job.
+(
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.She says to herself.She doesn't have any money.She goes home.
+[MALE] wants to get a good job.MALE wants to work harder.
+[MALE] wants to go to college.MALE wants to earn money.
+[MALE] wants to pick up a car.MALE wants to feel better.
+[MALE] wants to get some work done.MALE [MALE] [FEMALE] is tired.
+[MALE] is very unhappy.MALE [MALE] is upset.
+[MALE] is tired.MALE [MALE] [FEMALE] wants to get up.
+[MALE] wants to help.M
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She was driving home to the apartment. She was about to go get coffee. [The sentence is "get coffee"]
+[The text is not needed to understand] [The sentence is needed to understand]
+[The sentence is needed to be understood] [The sentence is needed to be understood]
+[The text is needed to understand] [The sentence is needed to understand]
+[The title is not needed to understand] [The title is needed to be understood]
+[The text is needed to be understood] [The title is needed to be understood]
+[The sentence is needed to be understood] [The title is needed to be understood]
+[The text is needed to be understood] [The title is needed
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.The girl with the yellow jacket is driving home from work.<|endoftext|>The latest poll released by the Washington Post-ABC News poll finds Donald Trump in a dead heat with Hillary Clinton.
+
+WASHINGTON (AP) — Donald Trump has a commanding lead over Hillary Clinton in the latest Washington Post-ABC News poll.
+
+The Republican nominee is popular among voters over age 50, a new poll finds.
+
+The poll finds Trump has gained 1 point over Clinton in the latest poll, and that he is overperforming Clinton among African-American men.
+
+He is trailing Clinton by 15 points in the latest poll.
+
+"There is no question that Donald Trump has been underperforming last week in the polls," state director of the Washington Poll
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.Sugar is parked in the garage.Sugar is a lot of money.Sugar is not very happy.Jane is very upset.Sugar is in danger.Jane is being punished.Sugar is drunk.Jane is annoyed.Sugar is having a hard time.Jane is unhappy.Sugar is in need.Jane is having a hard day.Jane is tired.Jane is excited.Sugar is in need of money.Jane is happy.Sugar is needs money.Jane is in need of money.Sugar is in need of money.Jane is in need of money.Jane is good.Jane is in need of money.Jane is in need of money.Sugar is in need of money.Jane is in
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.She was drunk.I told her I was ok.She got off at the curb.I opened the door.I looked at her.I told her I was sorry.She got off.I told her it was hard.I was really upset.I asked if she was okay.She said she was fine.I walked back home.I saw her.I told her to go.I went to the car.I asked if she was okay.She said no.I told her she was right.She sat down.I asked if she was ok.She said no.I took her to the doctor.I gave her a blood test.I told her she was fine.She said ok.I told her we were going to
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She said he was a homeless man.
+Jane told the waitress that she really wanted to go to the store. She heard the noise.
+Jane told the waitress that she really liked him. She told the waitress that he was sweet.
+Jane told the waitress that she was tired. She told the waitress that she feels better.
+Jane told the waitress that the sun is shining. She told the waitress that it is true.
+Jane told the waitress that the sun is shining. She told the waitress that it is not true.
+Jane told the waitress that she was very dirty. She told the waitress that it is dirty.
+Jane told the waitress that she thought it was ok to put her purse on. She told the waitress that
+---------------

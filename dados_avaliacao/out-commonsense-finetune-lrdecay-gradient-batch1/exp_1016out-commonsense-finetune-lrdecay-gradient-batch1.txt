@@ -1,0 +1,233 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] will they have a new friend. [FEMALE] will happy. [FEMALE] wants to thank him. [FEMALE] will persony smiles. [FEMALE] wants to visit the theater. [FEMALE] will happy. [FEMALE] will the theater is open. [FEMALE] will happy.
+[MALE] reads the paper. [MALE] wants to read it.
+[MALE] gets persony's phone. [MALE] wants to call persony.
+[MALE] gives [FEMALE] an ovation. [FEMALE] will [FEMALE] gets a little more information.
+
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [MALE] needs to search for his parents. [MALE] is kind. [MALE] will content. [MALE] needs to be in a good place to be. [MALE] wants to be in good shape. [MALE] wants to be a good person. [MALE] wants to be a good person. [MALE] wants to be friendly. [MALE] wants to be friendly. [MALE] gets thanked. [MALE] wants to be in good shape. [MALE] needs to have a job. [MALE] wants to be happy. [MALE] wants to enjoy the day. [MALE] is happy. [MALE] needs to
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] will they can meet and greet him.
+[MALE] helps none through business. [MALE] needs to go to work.
+[MALE] is getting married. [MALE] will happy.
+[MALE] gets persony's friend. [FEMALE] will happy.
+[MALE] comes back to me. [MALE] wants to show gratitude.
+[MALE] uses none to help. [MALE] gets thanked.
+[MALE] is at work. [MALE] wants to go home.
+[MALE] makes a living. [MALE] needs to earn a living.
+[MALE] decides to adopt person
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [MALE] needs to go to the library.
+[MALE] is a stay at home mom. [MALE] wants to celebrate.
+[MALE] says [FEMALE] could help. [FEMALE] will [FEMALE] is thanked.
+[MALE] calls [FEMALE] over. [MALE] wants to tell them what to do.
+[MALE] takes none to the grocery store. [MALE] will grateful.
+[MALE] has to start over. [MALE] is stubborn.
+[MALE] looks none through persony's eyes. [MALE] wants to be helpful.
+[MALE] makes the list
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+[MALE] needs a new job. [MALE] wants to buy a new job.
+[MALE] takes the car to the mechanic. [MALE] needs to get a car.
+[MALE] is getting closer. [MALE] wants to get closer to people.
+[MALE] invites everyone to personx's house. [MALE] needs to get a friend.
+[MALE] is having trouble paying the bills. [MALE] needs to have gone to the store.
+[MALE] uses every day. [MALE] wants to use a new device.
+[MALE] starts another ___. [MALE] will capable.
+[MALE
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [MALE] wants to get drinks. [MALE] wants to talk to their friend. [MALE] needs to get drinks. [MALE] will happy. [MALE] gets excited for the upcoming event. [MALE] needs to know what they need. [MALE] wants to buy a drink. [MALE] wants to help someone. . . and [FEMALE] wants to do his own thing. [MALE] needs to get motivated. [MALE] needs to meet the needs of the needs. . . and [MALE] learns something new. . . and [MALE] goes to school. . . and [MALE] gets back to their normal position.
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+[MALE] decides to leave. [MALE] wants to go home.
+[MALE] is having a great time. [MALE] is happy.
+[MALE] raises the none to the level. [FEMALE] will happy..
+[MALE] takes the none to the museum. [MALE] needs get money.
+[MALE] gives [FEMALE] a present. [MALE] will proud..
+[MALE] looks at the clock. [MALE] wants to be informed.
+[MALE] loves to play golf. [MALE] wants to get healthy.
+[MALE] hears a noise. [MALE] wants to
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [MALE] wants to put on suit and tie.
+[MALE] gets really cold. [MALE] wants to stop going to the hospital.
+[MALE] takes it to the store. [MALE] is caring.
+[MALE] sees the world. [MALE] is wise.
+[MALE] never get ___. [MALE] is not prepared.
+[MALE] is getting married. [MALE] wants to share a life.
+[MALE] tells [FEMALE] where to go. [MALE] wants to tell [FEMALE] where to go.
+[MALE] takes none to the lake. [FEMALE]
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [MALE] needs to buy a costume. [MALE] wants to surprise someone.
+[MALE] gets hurt. [MALE] wants to go to a doctor.
+[MALE] takes [FEMALE] to a doctor. [MALE] is caring.
+[MALE] loves the idea. [MALE] wants to start a business.
+[MALE] takes [FEMALE] to the zoo. [MALE] wants to be cared for.
+[MALE] turns in persony's direction. [FEMALE] wants to be with personx.
+[MALE] goes to the pub. [MALE] is sociable.
+[MALE
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [MALE] is mean. [MALE] needs to be at the event.
+[MALE] puts none in a vase. [MALE] needs to get the vase out.
+[MALE] takes [FEMALE] to the doctor. [FEMALE] will bad and depressed.
+[MALE] is the best of friends. [MALE] is mean.
+[MALE] drives [FEMALE] crazy. [MALE] will bad.
+[MALE] takes the next step. [MALE] needs to go to the park.
+[MALE] keeps persony's none in check. [FEMALE] wants to know the truth.
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+[MALE] pays persony's debts. [MALE] needs to know what's going on.
+[MALE] takes personx's kids. [MALE] needs to go to school.
+[MALE] gives [FEMALE] idea. [MALE] is creative.
+[MALE] gets a big laugh from persony's friends. [MALE] is nervous.
+[MALE] has a friend over. [MALE] is friendly.
+[MALE] is still upset. [MALE] wants to make a point.
+[MALE] is a lot of fun. [MALE] wants to get a new job.
+[MALE] is
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] will they are thanked. [MALE] wants to do good.
+[MALE] has to pull the plug on persony. [MALE] is desperate.
+[MALE] takes the money. [MALE] wants to make a profit.
+[MALE] sets the alarm. [MALE] is responsible.
+[MALE] gets a good grade. [MALE] will proud.
+[MALE] helps another ___. [MALE] needs to be helpful.
+[MALE] wants to go to the store. [MALE] will excited.
+[MALE] tells [FEMALE] would. [FEMALE] will are told
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] wants to help. CALE is at the theater. [FEMALE] will person y laughs. [FEMALE] will [FEMALE] feels good. [FEMALE] will person y gets a new job. [FEMALE] wants to go to work. [FEMALE] will relieved. [FEMALE] wants to be nice. [FEMALE] wants to go home. [FEMALE] needs to know what to say. [FEMALE] needs to have the money. [FEMALE] wants to relax. [FEMALE] will happy. [FEMALE] will sad. [FEMALE] wants to cry. [
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] will annoyed. [FEMALE] will happy.
+[MALE] takes the day off. [MALE] wants to be productive.
+[MALE] is riding persony's bike. [MALE] needs to have a bike.
+[MALE] feels like a failure. [MALE] needs to figure out what to do.
+[MALE] is going to a party. [MALE] wants to relax.
+[MALE] watches the news. [MALE] needs to turn on the tv.
+[MALE] sends none to the principal 's office. [MALE] wants to help the students with problems.
+[MALE] loses
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [MALE] needs get ready to go forth.
+[MALE] sees a lot of people. [MALE] is active.
+[MALE] buys eggs. [MALE] is hungry.
+[MALE] moves persony's arms. [FEMALE] wants to do the same.
+[MALE] thinks of a way. [MALE] wants to plan a plan.
+[MALE] is fired up. [MALE] wants to get some job.
+[MALE] reads the paper. [MALE] is intelligent.
+[MALE] hears a knock at the door. [MALE] is startled.
+[MALE] knows personx's none
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [MALE] is mean. [MALE] needs to have read the book. [MALE] needs to get the book. [MALE] is understanding. [MALE] will like they did something good.. [MALE] is compassionate. [MALE] needs to be in a situation. [MALE] is cautious. [MALE] wants to be safe. [MALE] wants to avoid hurting persony. [MALE] needs to buy the item. . [MALE] is smart. [MALE] wants to help. . . person x has a new job. . . person x finds a new job. . . person x has a new job. . . person y has a
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] will angry. [MALE] wants to kill. [MALE] needs to take a break. [MALE] wants to relax. [MALE] is caring.
+[MALE] is a good student. [MALE] is determined. [MALE] needs to be learning.
+[MALE] is a teacher. [MALE] will accomplished. [MALE] is hard-working.
+[MALE] feels a little like a person. [MALE] wants to talk to someone.
+[MALE] gets the none right. [MALE] will accomplished.
+[MALE] is a really good cook. [MALE] is capable.
+
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] will sad. [FEMALE] wants to move on.
+[MALE] puts the none to work. [FEMALE] will happy.
+[MALE] puts [FEMALE] to the test. [MALE] wants to keep the test.
+[MALE] puts the none to the test. [MALE] is thoughtful.
+[MALE] spends the day with persony. [MALE] needs to go to persony's house.
+[MALE] makes a plan. [MALE] needs to have a plan.
+[MALE] tells [FEMALE] it was done. [MALE] is caring.
+[M
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] wants to go to the gym.
+[MALE] feels a little better. [MALE] needs to be in a good mood.
+[MALE] raises persony's hand. [MALE] wants to be polite.
+[MALE] is rushed to the hospital. [MALE] will relieved.
+[MALE] is n't paying attention. [MALE] wants rest.
+[MALE] goes to the store to buy. [MALE] wants to buy something.
+[MALE] gives [FEMALE] a ring. [MALE] is nice.
+[MALE] gives the person. [MALE] is social.
+[
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] will their money has been paid. ]
+[MALE] writes the paper. [MALE] will accomplished. ]
+[MALE] takes a photo. [MALE] wants to take a picture of it. ]
+[MALE] invites none to a party. [MALE] will comfortable. ]
+[MALE] brings [FEMALE] to a doctor. [MALE] wants to give a prescription.
+[MALE] pulls a none to persony's lips. [MALE] will kind.
+[MALE] needs a new computer. [MALE] is creative.
+[MALE] gets persony's hair cut. [MALE]
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [MALE] wants to play on the stage. [MALE] wants to be entertained. [MALE] needs to have fun.
+[MALE] gives [FEMALE] the opportunity. [MALE] wants to give person y something.
+[MALE] gets a new job. [MALE] is helpful.
+[MALE] is looking for a new car. [MALE] wants to drive a new car.
+[MALE] raises persony's hand. [MALE] wants to help person y.
+[MALE] gives [FEMALE] satisfaction. [MALE] needs to know persony.
+[MALE] finds a way. [MALE
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] wants to explain why they didn't have the opportunity to go for a walk. [FEMALE] will happy. [FEMALE] will they get a drink. [FEMALE] wants to see personx. [MALE] wants to go to the shop. [MALE] needs to be a leader. [MALE] wants to be helpful.
+[MALE] puts [FEMALE] to death. [MALE] wants to save person x. [FEMALE] will person y is grateful.
+[MALE] calls the police. [MALE] wants to get to the scene.
+[MALE] takes the bus. [MALE] wants
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] will gets tired. [FEMALE] wants to take a nap with personx.] [MALE] is calm and collected.
+[MALE] takes it to the store. [MALE] needs get a wallet.
+[MALE] is in the market for a new car. [MALE] wants to go shopping.
+[MALE] is a little hard on oneself. [MALE] is immature.
+[MALE] is really nice. [MALE] will content.
+[MALE] takes personx's girlfriend. [MALE] is curious.
+[MALE] goes to the store with personx's dad. [MALE] wants to
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] will receives a compliment. [FEMALE] wants to laugh. [FEMALE] will thanked. [FEMALE] will they are thanked. [FEMALE] will is thanked. [FEMALE] wants to give [MALE] a ride. [MALE] wants to get to the destination they wanted. [MALE] wants to be happy. [MALE] is social. [MALE] wants to be liked. [MALE] to be liked. [MALE] is outgoing. [MALE] is social. [MALE] is outgoing. [MALE] is content. [MALE] needs to make a plan. [MALE] is
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] will they get to see the movie. [FEMALE] will like they did the job well. [FEMALE] will happy. [FEMALE] will happy for the chance to see the movie...
+[MALE] drives home. [MALE] wants to go to the store.
+[MALE] gets a new job. [MALE] is hard working.
+[MALE] gets a good grade. [MALE] will accomplished.
+[MALE] takes the none for granted. [MALE] will like he was done.
+[MALE] makes persony's breakfast. [MALE] needs to put food on table.
+[M
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] will they get a new job. [FEMALE] will grateful. [MALE] needs to make an appointment. [MALE] wants to talk.
+[MALE] is playing basketball with personx's friend. [MALE] is fun. [MALE] needs buy a ball.
+[MALE] is a lot to ask. [FEMALE] will [FEMALE] is overwhelmed.
+[MALE] is a very good friend. [MALE] is helpful.
+[MALE] works in the mountains. [MALE] wants to get up in the morning.
+[MALE] gets persony's hair cut. [MALE] is
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] will the next day. [MALE] wants to be with someone. [MALE] needs to talk to personx.
+[MALE] drives to work. [MALE] is responsible. [MALE] needs to find a job.
+[MALE] gets a new phone. [MALE] wants to know how it works.
+[MALE] sees a movie with personx's friends. [MALE] wants to go to the movie.
+[MALE] has a great day. [MALE] wants to celebrate.
+[MALE] takes a detour. [MALE] wants to go to a different place.
+[MALE] goes to
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [MALE] wants to eat breakfast.
+[MALE] finds personx's way back home. [MALE] needs to get a car.
+[MALE] takes none to the grocery store. [MALE] needs to buy the food.
+[MALE] is a very nice person. [MALE] wants to be nice.
+[MALE] wins every race. [MALE] wants to go on again.
+[MALE] looks back at persony. [MALE] wants to give [FEMALE] [MALE] a gift.
+[MALE] never looked. [MALE] wants to ignore the person.
+[MALE] gives [FEM
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] wants to talk to him. [FEMALE] will [FEMALE] is listened to. [FEMALE] will gets a reward..
+[MALE] wants to be a scientist. [MALE] needs to have a career.
+[MALE] has a new pet. [MALE] wants pet their new pet.
+[MALE] gets a big award. [MALE] wants to call for awards.
+[MALE] gets a new haircut. [MALE] wants to look nice.
+[MALE] is a pretty face. [FEMALE] will looks good.
+[MALE] is driving a car. [MALE] wants
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [FEMALE] wants to meet him.
+[MALE] makes a pie. [MALE] wants to eat it.
+[MALE] goes to the gas station. [MALE] wants to have gas.
+[MALE] takes [FEMALE] to the vet. [MALE] wants to see if they are healthy.
+[MALE] goes fishing. [MALE] needs make a boat.
+[MALE] takes none to a restaurant. [MALE] needs to go to the restaurant.
+[MALE] starts a band. [MALE] needs to find a band to play.
+[MALE] plays frisbee. [MALE] is
+---------------

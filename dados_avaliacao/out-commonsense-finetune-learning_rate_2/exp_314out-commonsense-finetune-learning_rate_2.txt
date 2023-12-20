@@ -1,0 +1,173 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:John got a pet turtle when he was a kid.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He wanted to be a dog. He was always giving the right answer. John got a ticket to a movie. He went to work. He took an exam. He was good. He got permission from the manager. He went to visit his grandparents. he did not see the store. John was good. He was good. He asked the manager. he said yes. He asked the manager. they gave him a ticket. he was happy. They asked him to wear his shirt. he said yes. they asked him to go to the movie. they asked him to pick his shoes. they asked him to go to the store. they asked him to get a bag. he said yes. they gave him the bag. he was good.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He got a car for all his friends. John tried to go to the mall.John was a lot of fun.John died in a car accident.John has a lot of friends.John tried to use the restroom.John died in a car accident.John's girlfriend loves him.John was late for work.John's friends say he was always late.John's mom asks if he wants to go to the park.John's dad asks what he wants.John's girlfriend is worried that he is going to get hurt.John's mom looks around the house.John's dad is getting ready to leave.John's girlfriend wants to be the cook.John's mom wants to be a cook.John's mom wants to have a baby
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. John got a dog to play with. John wants to go to the gym.John finds some food.John gets lost.John gets a job.John gets a job.John gets a car.John gets a job.John gets a job.John gets a job.John gets a job.John gets a job.John gets a job.John gets a job.John gets a job.John gets a job.John gets a job.John gets enough food.John gets enough money.John gets enough money.John gets a job.John gets a job.John gets a job.John gets an extra job.John gets a job.John gets a job.John gets a job.John gets a job.John gets a job
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.You can't give him anything that you don't want to give to him.You're having a hard time.Get the job done.Take the job back.Don't go outside.See all around.Play the game.The job is done.Get a job.Get a job.Get money.Get money.Get a job.'s person.You're the only person capable of do anything.Make a plan.'s person.You're the only person capable of do what you want.Make a plan.''s person.You don't have to look at the mirror.Make a plan.''s person.You can't stay home.Watch a movie.Make a plan.''s person.You can't go to school.Go
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.Jack is a boy.Jack has a job.John got a job.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.When you get home from work the next day, you will find him in the bathroom.When the dog is asleep, your dog will get up.When you get a wife, you will want to tell her.When you get a daughter, you will want to give her her mommy.When you get a great-great-grandchild, you will want to help them.When you get sick, you will need to take your medicine.When you have a bad day, you will need to take a shower.When you have a big family, you will need to buy a new car.When you are lucky enough to lose a child, you will want to give them to a friend.When you have a housewarming party, you
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+He is back in the house.
+He really wants to go to the zoo.
+He has a good job.
+He has a lot of money.
+John has a bad day.
+He had to work at the store.
+He has the most money.
+John talks about the children.
+The church is getting ready.
+John has a lot of friends.
+A friend at the music club.
+He has a lot of friends.
+John has a lot of money.
+He has the best friends.
+John wants to be a writer.
+John is getting married.
+The dog is in the hospital.
+John is out of the house.
+John is a good student.
+John is in
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.There was a time when I hated you.Hear the song.We should not be living in the same world.We should live in different cities.We should have different jobs.We should have a roof over our heads.We should be parents to our children.We should like the music.The food is good.We should be good.We should never get sick.We are happy.We don't have problems.We think we are getting better.We think we are doing well.We think we are good.I have a dog.I'm going to love him.I need to get a dog.I don't like the way he is.I will not be good.I will be good.I will not be angry
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He's a huge turtle. He's a big turtle. You're going to like it. I'm going to let you like it. I know you want to. You like to enjoy it. How about it. Let's get your money. We're going to go to the bar. What are you going to do? You want to go there. You want to go to the bar. I'm going to tell you. You don't have to. You don't have to. You don't have to. You don't have to. We're going to go home. We're going to go home. We're going to play games. We're going to play them. We're going to be in a hurry. We're
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He always liked to play with it.He always wanted to work.He was always giving.He would be getting a check.He was always getting water.He always wanted to go to work.He was always taking care of stuff.She went to the zoo.She had a dog.She wanted to go out and get a bath.She always wanted to go out for a walk.She was always in a good mood.She wished she could make a purchase.He wanted to get his job.He was on a plane.He is a good person.He told his mom.He was on the bus.He was in a state of panic.He was always in a good mood.He was getting the job he wanted.He
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+you do not need to be obese to buy a toy.
+go to the store with your dog.
+you will never find a good wedding ring.
+eat all your meal under the tree.
+honey is a non-toxic salt.
+one person is not enough to get a dog.
+one person is not enough for a man.
+one person is not enough for a woman.
+one person is not enough for a dog.
+do things in order.
+go to the gym.
+go to the zoo.
+one person is not enough for a dog.
+you have to be super talented.
+you are not able to go to the gym.
+go to the store.
+go to the
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.I've had a pet turd when I was a kid. I've had a pet cat when I was a kid.I bought my first dog at the same time.I've had a pet a.I got a pet t.I got a pet i.I have a pet p.I got a pet i.I have a pet k.I get a pet i.I get a pet p.I get a pet j.I get a pet k.I get a pet k.I get a pet l.I get a pet r.I get a pet c.I get a pet d.I get a pet e.I get a pet f.I get a pet g.I get a pet h.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+bust the second part of the sentence to complete the sentence:it's not the first time you saw that.
+dance the second part of the sentence to complete the sentence:he was on the way home.
+a great big rock is where you find the highest point.
+a good and healthy diet is one of the things you need to be healthy.
+a good job is one of the things you should do at work.
+a good job is a good thing for your family.
+a good job is your personal way to feel good.
+a good job is a good thing for your friends.
+a good job is your job.
+a good job is a job.
+a good job is a job.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.John told his mom about the turtle he had.John told his brother.John told his friends.John told his wife.John said he wants to go to the zoo.John wants to spend time with his wife.John wants to build a house.John wants to go for a swim.John wants to take a shower.John wants to go home.John wants to get a haircut.John wants to go to the store.John wants to pick up a phone.John wants to be happy.John wants to be a good person.John wants to be loved.John wants to have fun.John wants to be a good person.John wants to be rich.John wants to be a good person.John wants to be successful.John
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+You got a pet turtle when you got a job.
+You got a pet turtle when you got a job.
+You got a pet turtle when you got a job.
+You got a pet turtle when you got a job.
+You got a pet turtle when you got a job.
+You got a pet turtle when you got a job.
+You got a pet turtle when you got a job.
+You got a pet turtle when you got a job.
+You got a pet turtle when you got a job.
+You got a pet turtle when you got a job.
+You got a pet turtle when you got a job.
+You got a pet turtle when you got a job.
+You got a pet turtle
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. It is supposed to be a nest. He got a gift for his dog.It is a little thing.He was at the zoo.He is not going to the zoo.He wanted to go to the zoo.He is not going to the zoo.He got a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a car.it is a
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He then went to find it.There is a dog named "John."John found his brother.John ran away from the dogs.John took a fishing boat.John stopped on a bench.John ran over to the dog.He was so happy.John took a flight.John sat on the ground.John had a new car.John took a nap.John took a shower.John got out of bed.John took a shower.John came home to his parents.John went to a movie.John was tired.John went to the bathroom.John told his mom.John went to the store.John took a pizza.John saw a tv show.John took a trip.John went shopping.John put his phone away.John
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. It was never a problem.
+C.
+The dog is the name of a character in the movie.
+The sun is the color of the moon.
+The moon is the color of the earth.
+The sky is a place of power.
+The sun is a star.
+The moon is a thing.
+A person is considered to be an animal.
+The moon is a thing.
+The moon is a thing.
+The sun is a thing.
+The person is considered to be bad.
+The person is considered to be a bad person.
+The person is considered to be a bad person.
+The person is considered to be a bad person.
+The person is considered to be a good person.
+
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. I will give you a dog. I will give you money. I will wear a hat. I will have fun. I will be good. I will be happy. I will get things done. I will be satisfied. I will be happy. I will be proud. I will be proud. I will be proud. I will be proud. I will be proud. I will be happy. I will be happy. I will be happy. I will be happy. I will be happy. I will be happy. I will be happy. I will be happy. I will be happy. I will be happy. I will be happy. I will be happy. I will be happy. I will be happy. I will be happy.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He also got a dog named Turtleneck.
+John got a dog named Turtleneck.He got his dog Turtleneck.
+John got his dog's dog Turtleneck.He got it.
+John got his dog's dog Turtleneck.He got it.
+John got his dog's dog Turtleneck.He got it.
+John got his dog's dog Turtleneck.He got it.
+John got his dog's dog Turtleneck.He got it.
+John got his dog's dog Turtleneck.He got it.
+John got his dog's dog Turtleneck.He got it.
+John got his dog's dog Turtleneck.He got it.
+John
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.John gets a job.John gets a divorce.John gets a new car.John gets a job.John gets a divorce.John gets a new job.John gets a new car.John gets to drink.John gets to eat.John gets to drink.John gets to know.John gets to love.John gets to be the best.John gets to get better.John gets to love.John gets to have fun.John gets to get better.John gets to have less work.John gets to be able to do better.John gets to be cool.John gets to get better.John gets to be nicer.John gets to sleep better.John gets to be better.John gets to be more efficient.John gets to be
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.John got a cat when he was a man.John got an umbrella when he was a woman.John got a hat when he was a man.John got a beard when he was a woman.John got a haircut when he was a man.John got a woman's attention when she was a girl.John got a picture of a horse.John got a horse's horn.John got a hot water heater when he was a boy.John got asked to play golf.John got a horse's name.John got a ball.John got a woman's name.John got a dog.John got a car.John got a woman's name.John got a home.John got a horse's name.John got a dog.John
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.John wants to be a king.John has a bad attitude.John has to use a wheelchair with a handicap.John is sick.John has a family.John is good.John has a job.John has to work overtime.John is happy.John is self-reliant.John wants to play in a club.John is good.John needs to get a new car.John is lucky.John has a great job.John needs to get more money.John is a good person.John is goody.John needs to carry a bag.John wants to go to a movie.John wants to get a ticket.John wants to be a musician.John wants to buy tickets.John wants to get a business license.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He has a lot of pet turtles. He deserves a reward for his work. John is a good person. He is not mad. He has a great idea. John is good. He has a good attitude. John is a good person. He has a good attitude. John is a good person. John is a good person.John is a good person. John is a good person. John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.I got a dog.Don't you have any idea what it is?If you don't like what you see it is ok.If you don't like what you hear it is ok.If you are angry you have more control.If you are not satisfied you have more control.If you are not feeling well you have more control.If you miss someone you have more control.If you have a boyfriend you have more control.If you are lonely you have more control.If you have a good job you have more control.If you are a teenager you have more control.if you like you have more control.if you are a teen you have more control.if you have a job you have more control.if you are old
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+sputnik.org/index.php/viewtopic.php?t=214710
+sputnik.org/index.php/viewtopic.php?t=210150
+sputnik.org/index.php/viewtopic.php?t=221177
+sputnik.org/index.php/viewtopic.php?t=231090
+sputnik.org/index.php/viewtopic.php?t=240152
+sputnik.org/index.php/viewtopic.php?t=254314
+sputnik.org/index.php/viewtopic.php?t=260110
+sput
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.The turtle was the turtle's only food.John got a gold ring.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance.The ring was John's last chance
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.Settled down to the ground in the backyard.Matched a movie with a friend.Matched a tv show.Matched a movie with a friend.Matched a movie with a pet turtle.Matched a tv show.Matched a movie with a pet turtle.Matched a movie with a dog.Matched a tv show.Matched a tv show.Matched a tv show.Matched a tv show.Matched a pet turtle.Matched a tv show.Matched a couch potato.Matched a movie.Matched a puppy.Matched a tv show.Matched a dog.Matched a tv show.Matched a tv show.Matched a pet turtle.Matched a tv
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.John got a cat from the vet.John got a dog.John got a cat.John got a dog.John got a dog.John got a dog.John got a dog.John got a dog.John got a cat.John got a dog.John got a dog.John got a dog.John gets a cat.John gets a dog.John gets a dog.John gets a dog.John gets a dog.John gets a cat.John gets a dog.John gets a cat.John gets a cat.John gets an animal.John gets a dog.John gets a cat.John gets a dog.John gets a dog.John gets a dog.John gets a cat.John gets a dog.John gets
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. It is a very nice turtle.John is going to college. He will be able to work. He needs to save their money.
+John is going to the prom. He will be busy.
+John is going to a wedding. He lives in a nice place.
+John is going to a party. He has to go somewhere.
+John is going to the beach. John is in a good mood.
+John is going to a baseball game. John is in good shape.
+John is going to the tv show. John is in good shape.
+John is going to a concert. John is in a good mood.
+John is going to a movie. John is in good mood.
+John is going to the doctor
+---------------

@@ -1,0 +1,112 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch16/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:John got a pet turtle when he was a kid.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He wanted it to be a little bigger.John got a pet snake when he was a kid. He wanted it to be a little bigger.John got a pet lizard when he was a kid. He wanted it to be a little bigger.John got a pet frog when he was a kid. He wanted it to be a little bigger.John got a pet shark when he was a kid. He wanted it to be a little bigger.John got a pet dog when he was a kid. He wanted it to be a little bigger.John got a pet horse when he was a kid. He wanted it to be a little bigger.John got a pet rat when he was a kid. He wanted it to be a little bigger.John
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. It's a great thing to have a Turtle. But the turtle is a very special thing in this world. The turtle is part of humanity, and the person that has it is the best. John's turtle is the person who will save the world from the evil's power.John makes the decision to save the world. He is the one who has the turtle, and the person who will save the world is the turtle.The turtle is a great thing to have a Turtle, and the person that has it is the best. John takes the decision to save the world. He is the one who has the turtle, and the person that will save the world is the turtle.But the turtle is a very special thing in this world. The
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. John's pet turtle is now named "John" because it's always been the same for John and his turtle.John's turtle is now named "John" because it's always been the same for John and his turtle.John's turtle is now named "John" because it's always been the same for John and his turtle.John's turtle is now named "John" because it's always been the same for John and his turtle.John's turtle is now named "John" because it's always been the same for John and his turtle.John's turtle is now named "John" because it's always been the same for John and his turtle.John's turtle is now named "John" because it's always been the same for
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. The turtle was pretty bad, but it wasn't pretty to look at. He told him to go back to the house, and he did. He told it to come back, but it was all over the place. He went back to the house, and it just went away.There was a dog at my house. I took it out and it was a great dog. I mean, it was pretty good. It was so good, and he had a good name. He was a big dog, and he was the type of dog I remember. He was the type that was, like, "You know, I'm the type of dog that just doesn't do what I think it should do. I don't know what the heck
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. The turtle had the impression that he was on his way to college. He was more relaxed than the rest of the turtle kids. He was a good kid. He started playing with a turtle. He was very excited about it.John got a pet turtle when he was a kid.The turtle had the impression that he was on his way to college. He was more relaxed than the rest of the turtle kids. He was a good kid. He started playing with a turtle. He was very excited about it.John got a pet turtle when he was a kid.The turtle had the impression that he was on his way to college. He was more relaxed than the rest of the turtle kids. He was a good kid. He started playing with
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.When my daddy died, he lost his turtle. It hurt.As the turtle died, my daddy asked my daddy "Do you want to go do it?"And I said yes.We said "yes, but don't you want to go do it?"And he said, "No, I'm not going to do it."So when he died, the turtle died.And when I got sick, I took him to the vet.He told me that it was really horrible. And it was so bad that it really hurts.When he died, his turtle was in the vet's office.The vet said, "It's a no-go. It's not going to happen."So I said, "No, I'm not
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He got a goldfish, but it's not really a pet. He got a kink in it.If you are looking for the best way to obtain the best gift to a friend, use the list below to find the best gifts. See the list of gifts below to find the best gift choices.A pet turtle is a creature that is placed into a cage, with a large mouth, that is attached to a string of string. This string is attached to the turtle's body. The turtle does not have to be able to move. It can be able to run, swim, walk, and if it is able to move, it can move. The snake is not able to eat. It's not able to sleep. It can
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. His aunt gave it to him and he gave it to her. He said he loved it. He said that is all he knows, so it is really good. He said that is why he loves it. John said he loves it. He said that is all he knows. John said that is all he knows. John said that is all he knows. John said that is all he knows. John said that is all he knows. John said that is all he knows. John said that is all he knows. John said that is all he knows. John said that is all he knows. John said that is all he knows. John said that is all he knows. John said that is all he knows. John said that is all he
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He's a huge turtle, so you can walk right away and see it. He'll turn around and take off, and you'll see the water. He's not a bad turtle, he's a good turtle. He's kind of an eel. He's a bit of a dog, and he's a little bit too small. But there's no way you can see him, and the things you see, you can't really be certain. So what he's got is a bunch of different things. He's a little weird, and he's weird because he wasn't born up. There's no way he's going to be just like you, and you don't really know that he's like me. He's also a
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. But, he only had three of them. Now he's a pet turtle. He has a pet turtle in his lap. He has a pet turtle in his mouth. He has a pet turtle in his mouth.
+
+He's a pet turtle. He has a pet turtle in his lap. He has a pet turtle in his mouth. He has a pet turtle in his mouth.
+
+He's a pet turtle. He has a pet turtle in his lap. He has a pet turtle in his mouth. He has a pet turtle in his mouth.
+
+He has a pet turtle. He has a pet turtle in his lap. He has a pet turtle in his mouth. He has a pet turtle in his mouth.
+
+
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. When he was a kid, he had a baby turtle.John got a dog when he was a kid. When he was a kid, he had a dog.John got a puppy when he was a kid. When he was a kid, he had a puppy.He got a dog when he was a kid.John got a dog when he was a kid.When he was a kid, he had a dog.He got a dog when he was a kid.John got a dog when he was a kid.When he was a kid, he had a dog.John got a dog when he was a kid.When he was a kid, he had a dog.He got a dog when he was a kid.John got a
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He eventually gave it to a friend when he was a kid. I've never seen a cat with a tail like that.I bought my first dog at the age of six. They have a cat in their living room. What kind of cat is it, John?My first cat is a white guy. He likes to play with my dog. I thought I'd put my cat in a toy box for him. He's really interesting.I went to school for a year and year. I was a great student. I was the only kid in the class. The first year was really fun. I knew my mom's mom was a really good teacher. I had to go to the park with my dad. I thought the first thing I
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He and his wife have grown to love the turtle, and he is well-known for his soft, sweet, and playful personality.John is a natural at being able to pick up and talk to people, and they will appreciate his soft, compassionate personality. John is also a great musician, and he and his wife enjoy playing together.John is a proud member of the family, and he has been the father to two children. John is also a proud member of a military unit.John is a very proud person, and he has been in the military for the past 5 years.John is a very proud member of the family, and he has been in the military for the past 5 years.John is a very proud member of the family
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.John told his mom that if he could catch one, he would be a better father.John's dad is a good guy.John is a good guy.John was a good boy.John was a good boy. John was a good boy.John's dad was a great guy.John's dad is a great guy.John's dad was a great man.John's dad is a great man.John's dad is a great man.John's dad is a great man.John's dad is a great man.John's dad is a great man.John's dad is a great man.John's dad is a great man.John's father is a great man.John's dad is a great man.John's father is
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. And the turtle was named T. So you need to be really careful about what you say to them. [E.g., "Did you see our little turtle?"]Here's the story. [E.g., "Did you see our little turtle?"] [1]
+
+[2] This was a typical way to use verb endings in many other contexts. This has not been done for the purposes of this article.
+
+[3] This is a common use of "one's time" when a person is talking about something he or she wants to talk about.
+
+[4] This is an example of a use of the verb "one's time" when the user wants to ask the person what he or
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. It was supposed to be a pet turtle, but John had a pet turtle.It was supposed to be a pet turtle, but John had a pet turtle.It was supposed to be a pet turtle, but John had a pet turtle.John got a pet turtle when he was a kid. It was supposed to be a pet turtle, but John had a pet turtle.It was supposed to be a pet turtle, but John had a pet turtle.John got a pet turtle when he was a kid. It was supposed to be a pet turtle, but John had a pet turtle.It was supposed to be a pet turtle, but John had a pet turtle.John got a pet turtle when he was a kid. It was supposed to be
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He then found it in a trunk. He gave it to a dog. A cat was born. He ran away from home and found that his dog had a baby inside. But John was still in the business of getting kids. But the pet turtle wasn't there and he didn't want to do that. He just wanted to go to the mall and buy his first home. But he never got home. He never got home to his new home.He went in the store. He picked up a new pair of socks. But he didn't like anything. He wanted to go to the mall.He walked up to the door and the owner of the store asked him to come in. They went inside and found that he had a new pair
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. It was never a problem, but the turtle was always going to be there forever. The turtle liked to be with John so John could get him a job. Then John started to build a new house. But the turtle didn't like the idea of a new job. It said the turtle was going to die at the end of his life.John started to live a life of his own. He became the turtle's best friend. He wanted to stay with John for the rest of his life. He loved John more than anyone else. He wanted him to be with John for the rest of his life. He wanted him to be a part of the family. But John was a selfish family man. When John got sick, he asked for a
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. I got a pet turtle with a name that I thought was pretty sweet. It's only now I've seen it grow a little. It's like a baby. My first dog was a little bit different. My second dog was a little bit different. My third dog was a little bit different. There was a time I was like, "I'm going to be a pet turtle." But now I'm like, "Oh, yeah. My dog is going to be a pet turtle." And it's like, "Yeah, yeah. I'll be a pet turtle." And it's like, "Wow." And it's like, "I think I'm going to be a pet turtle." And it's like, "Yeah, yeah
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He also got a pet blue turtle when he was a kid.
+
+What's the difference between this and the other two?
+
+This is the most important question in a good education. If you have a large learning curve, you will be learning more as you go. This is why students with little experience in a field like math will be eager to learn. This is why you want to be able to add the information you need.
+
+You need to know your students. This is one of the keys to success for any child. If you have a small learning curve, you will be learning more. This is why you want to be able to add the information you need.
+
+Some of the things you'll need to know
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. The turtle was named John. We call it John because it is a turtle. It is the only turtle in John's family.John was a good kid who was a very good kid. John is the only Turtle in his family.John is the only Turtle in John's family.John was a good kid who was a very good kid.John is the only Turtle in John's family.John was a good kid who was a very good kid.John was a good kid who was a very good kid.John was a good kid who was a very good kid.John is the only Turtle in John's family.John was a good kid who was a very good kid.John was a good kid who was a very good kid.John
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.John got a cat when he was a kid.John got an animal when he was a kid.John got a dog when he was a kid.John got a cat when he was a kid.John got a dog when he was a kid.John got a cat when he was a kid.John got a dog when he was a kid.John got a horse when he was a kid.John got a horse when he was a kid.John got a horse when he was a kid.John got a horse when he was a kid.John got a horse when he was a kid.John got a horse when he was a kid.John got a horse when he was a kid.John got a horse when he was a kid.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.John doesn't remember a name and has no idea that he is named John.John's mom isn't a scientist and says that John is a dead duck.John's mother gives him a toy duck.John gets a pet turtle by accident.John gets a pet turtle by accident.John gets a pet turtle by accident.John gets a pet turtle by accident.John gets a pet turtle by accident.John gets a pet turtle by accident.John gets a pet turtle by accident.John gets a pet turtle by accident.John gets a pet turtle by accident.John gets a pet turtle by accident.John gets a pet turtle by accident.John gets a pet turtle by accident.John gets a pet turtle by accident.John gets a pet turtle
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. Then he got a pet turtle as a kid.John got a pet turtle when he was a kid.John got a pet turtle when he was a kid.John got a pet turtle when he was a kid.John got a pet turtle when he was a kid.John got a pet turtle when he was a kid.John got a pet turtle when he was a kid.John got a pet turtle when he was a kid.John got a pet turtle when he was a kid.John got a pet turtle when he was a kid.John got a pet turtle when he was a kid.John got a pet turtle when he was a kid.John got a pet turtle when he was a kid.John got a pet turtle when he was
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. But it's a pet turtle now.John gets a dog from a cat. But it's a dog now.John gets a dog from a mom. But it's a mom now.John gets a dog from a dad. But it's a dad now.John gets a dog from a mom. But it's a mom now.John gets a dog from a dad. But it's a dad now.John gets a dog from a mom. But it's a mom now.John gets a dog from a dad. But it's a dad now.John gets a dog from a mom. But it's a mom now.John gets a dog from a dad. But it's a dad now.John gets a dog from a mom
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. He was a very good guy. He's probably the smartest turtle in the world. He has the best tongue. He's been doing it for a long time, and he's never turned it down. He's going to be very excited to be back on the boat and meet my brother. He's going to be proud of what he's got on his hands. He's going to be at a lot of music shows going. I'm really excited to be back on the boat with him.I'm going to be back to my old neighborhood.I want to tell all my friends, 'If you want your kids back, you must tell all your kids.' I'm going to be back to my old neighborhood. I want to tell all
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.The turtle was the only one the turtle had.His pet fell down the toilet and it gave the child a horrible headache.John said he was going to use the bathroom, but he went to the bathtub and saw he had a fish in the bathtub.He said he went back to the bathtub and the turtle was dead.John said he tried to kill the turtle when they were talking and it would have made it easier, but it was too late.John said he found the turtle in the lake, but it was dead.John said he went back to the bathtub in two days and it gave him headaches.John said he brought the turtle home but he didn't like it.John said he tried to kill the turtle but
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. His name is John. He's a great cook. But you don't get to cook him in the backyard.
+
+John has never worked with a dog.
+
+We want to hear what you think about this article. Submit a letter to the editor or write to letters@theatlantic.com.<|endoftext|>The "Red Book" will be out tomorrow in the UK, and it's available in the UK and Europe.
+
+In a recent article for the Bookseller, author Ryan Schulze argued that the book "is a classic" but that it doesn't "tell the story of the story of the revolution."
+
+In the article, Schulze described a narrative he's working on about the history of political protest.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. That's how they called it. I got a pet turtle in my attic. That's how they called it.
+
+We're the one who was born with a very special gift.
+
+How you can be a better dad
+
+I am sure you've seen the name of your own son.
+
+John got a pet turtle when he was a kid. That's how they called it. I got a pet turtle in my attic. That's how they called it.
+
+How you can be a better dad
+
+I am sure you've seen the name of your own son.
+
+John got a pet turtle when he was a kid. That's how they called it. I got a pet turtle in my attic
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. It's a very simple idea, but it still has a name. The turtle is a toy. He needs to be very careful about it. He will be very worried. He will be very mad at himself.He needs a new name. He will be very angry. He will be very scared.He needs to tell others about it. He has to be very kind.He needs to be very nice.He needs to be very helpful.He needs to be very kind.He needs to be very helpful.He needs to be very helpful.He needs to be very friendly.He needs to be very friendly.He needs to be very friendly.He needs to be very friendly.He needs to be very helpful.He needs to be
+---------------

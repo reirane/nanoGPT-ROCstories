@@ -1,0 +1,258 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_3_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.This is an item.There is a date.This is a sign.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a piece of jewelry.This is a thing. This is an item.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a thing.This is a
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. She wants to wear a pair. [FEMALE] will excited.
+[MALE] asks [FEMALE] [MALE] if they have a problem. [MALE] will happy.
+[MALE] takes [FEMALE] to the doctor. [MALE] will tired.
+[MALE] tells [FEMALE] they care. [MALE] will happy.
+[MALE] pulls out a knife. [MALE] wants to go to a store.
+[MALE] sends [FEMALE] some food. [MALE] is busy.
+[MALE] leaves [FEMALE] to herself. [MALE] is caring.
+
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.Today is the day she went to the doctor.Today is the time she was washing dishes.Today is the time she tried to go to the grocery store.Today is the time she made sandwiches.Today is the time she felt sick.Today is the time she got the energy to breathe.Today is the time she finally quit smoking.Today is the time she picked up their lunch.Today is the time they got tired of doing their job.Today is enough to make a pizza.Today is the time they have their beer in hand.Today is the time they went to the movies.Today is the time they were going to the store.Today is the time they got dressed.Today is the time they were walking home from work.Today
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.You're a pretty girl.Why am I not eating breakfast today. [sighs] you're having a good day. [sighs] it's the best breakfast ever. [sighs] you're enjoying yourself. [sighs] you're a good person. [sighs] you're safe. [sighs] you might even start a new relationship. [sighs] you're a good person. [sighs] you're caring. [sighs] you're good. [sighs] you're thoughtful. [sighs] you love being a bit of a gentleman. [sighs] you're a good friend. [sighs] you
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] needs to have a wife. [MALE] needs to be very affectionate towards persony.
+[MALE] puts two [FEMALE] things together. [MALE] needs to be knowledgeable.
+[MALE] buys a new car. [MALE] needs to prepare for the car ride.
+[MALE] takes the day off. [MALE] wants to go home.
+[MALE] plays [FEMALE] a game. [MALE] wants to get some practice.
+[MALE] takes [FEMALE] to a restaurant. [FEMALE] will be happy.
+[MALE] keeps [FEMALE] away
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] wants to be good. [MALE] wants to get better.
+[MALE] needs to get a car. [MALE] wants to get a car.
+[MALE] decides to play basketball. [MALE] wants to play basketball.
+[MALE] gets a kiss. [MALE] wants to be warmly touched.
+[MALE] writes a letter. [MALE] is careful.
+[MALE] gives [FEMALE] nothing. [FEMALE] wants to get a new letter.
+[MALE] goes to sleep. [MALE] wants to sleep well.
+[MALE] makes [FEMALE] feel
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] decides to leave [FEMALE] alone. [MALE] wants to talk to [FEMALE] about it.
+[MALE] sends [FEMALE] a message. [MALE] is loyal.
+[MALE] gets [FEMALE] to something. [MALE] will grateful.
+[MALE] gives [FEMALE] a gift. [MALE] is grateful.
+[MALE] plays [FEMALE] part. [MALE] wants to be a part of the team.
+[MALE] receives [FEMALE] education. [MALE] will motivated.
+[MALE] gives [FEMALE
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.Today was the day she decided to take her first kiss.Today was the day she decided to start the fire.Today was the day she was taking a shower.Today was the day she was getting a new pair of hair.Today was the day she had to take a break.Today was the day she was going to have a new job.Today was the day she was visiting the doctor.Today was the day she was meeting with people.Today was the day she took a picture.Today was the day she was caring for her family.Today was the day she was having a drink.Today was the day she was celebrating.Today was the day she was going to have a good day.Today was the day she was feeling good.
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] is caring. [MALE] needs to be nice to persony.
+[MALE] lets go. [MALE] will discouraged.
+[MALE] uses persony's time. [MALE] needs to make a choice.
+[MALE] takes personx's time. [MALE] will excited.
+[MALE] falls asleep. [MALE] needs to sleep.
+[MALE] gives [FEMALE] a hug. [FEMALE] will grateful.
+[MALE] is never again. [MALE] needs to be careful.
+[MALE] eats [FEMALE] food. [MALE] needs have a
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+Today, you will celebrate your birthday.
+I will work.
+Take my medicine.
+I will be safe.
+I will earn the money.
+I will have a good time.
+Tomorrow, I will go out with friends.
+I will be nice.
+I will make you happy.
+I will have a good time.
+I will think of new ways.
+I will get a new job.
+I will be happy.
+I will like you a lot.
+I will go to the theater.
+I will think of something.
+I will be a good person.
+I will put you to work.
+I will enjoy a good time.
+I will be the best teacher.
+I
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+you do not need to be of the right age to do so.
+you do not need to be of the right age to use a condom.
+you do not need to be of the right age to have sex with someone.
+you do not need to be of the right age to dress well.
+you do not need to be of the right age to make a party.
+you do not need to be of the right age to take a bath.
+you do not need to be of the right age to go to the shop.
+you do not need to be of the right age to eat breakfast.
+you do not need to be of the right age to get a new pair of shoes.
+you do not
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. [MALE] is kind. [MALE] is playful. [MALE] wants to thank [FEMALE] for the gift. [MALE] is grateful. [MALE] wants to be thanked. [MALE] wants to be grateful. [MALE] wants to hug [FEMALE] or kiss. [MALE] wants to be able to control [FEMALE] emotions. [MALE] is patient. [MALE] wants to help. [FEMALE] is satisfied. [MALE] is caring. [MALE] wants to be friendly. [MALE] is thoughtful. [MALE] gets a promotion. [MALE] wants to get promoted.
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] wants to help [FEMALE] to get their hair cut. [MALE] wants to be responsible.
+[MALE] plays basketball with [FEMALE] for a month. [MALE] wants to get his life back together.
+[MALE] finds another person to talk to. [MALE] wants to go to a theater.
+[MALE] runs across the street. [FEMALE] wants to be on the corner.
+[MALE] takes a course. [MALE] wants to catch up.
+[MALE] finds a new car. [FEMALE] wants to drive the car.
+[MALE] takes a walk.
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.I told you there was a problem.I have to go to my appointment.
+[MALE] takes [FEMALE] to the doctor. [MALE] wants to make the appointment.
+[MALE] wants to go to [FEMALE] house. [MALE] needs take the car.
+[MALE] sees [FEMALE] really well. [MALE] is helpful.
+[MALE] has [FEMALE] baby. [MALE] wants to be careful.
+[MALE] is kind to [FEMALE]. [MALE] is kind.
+[MALE] takes [FEMALE] to the library. [MALE] wants
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+You have to use the internet today.
+You have to be a student of a university.
+Re-evaluate your own past.
+You are capable of avoid another person.
+You are capable of return to the land of your dreams.
+You have a hard time understanding a concept.
+You are capable of learn something new.
+You are capable of express yourself.
+You are capable of play a game.
+You are capable of travel around the world.
+[MALE] wants to be successful.
+[MALE] sees something funny.
+[MALE] is good about themselves.
+[MALE] wants nothing to do with the other person.
+[MALE] is very smart.
+[
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.She was looking at her boyfriend.She wanted to do something.She didn't want to have a problem with a friend.She was getting ready for school.She was going to go see a movie.She was going to make a meal.She wanted to go to the mall.She was driving to work.She was hungry.She was at the mall.She wanted to get something to eat.She was cleaning her car.She was on the way home from work.She was having a great time.She wanted to get out of the car.She was doing a job.She was looking at the menu.She was not comfortable.She was taking a shower.She was driving to work.She wanted to be home with her husband
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+Now that you find your love, you will find yourself a new love.
+You must make a new love.
+The key is to find your home.
+See what others are thinking.
+Have a good day.
+There is a house in town.
+I am looking for you.
+Go to the mall.
+There is a room in the home.
+I am a man.
+the woman is at work.
+you is the person.
+leave your purse with a mirror.
+this is a big city.
+take a picture.
+I am on the subway.
+this is a big city.
+something is in the freezer.
+someone is at work.
+something is in the freezer.
+
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.Yesterday was the day she had a baby.Yesterday was the day you found the right medicine.Today was the day you made the dog.Today was the day you married your girlfriend.Today was the day you got your job.Today was the day you realized you were a good person.Today was the day you broke the bottle.Yesterday was the day you got a job.Yesterday was the day you wanted to go out to a movie.Yesterday was the day you saw the movie.Yesterday was the day you learned to read.Yesterday was the day you made money.Yesterday was the day you were born.Yesterday was the day you were in the hospital.Today was the day you found an apartment.Yesterday was the day you took a shower
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] takes a step back and asks [FEMALE] why they do it. [MALE] wants to say something positive.
+[MALE] gives [FEMALE] a gift. [MALE] wants to be grateful.
+[MALE] is [FEMALE]'s boss. [MALE] is proud.
+[MALE] makes [FEMALE] a friend. [MALE] wants to be nice to [FEMALE].
+[MALE] saves [FEMALE] from trouble. [FEMALE] will thankful.
+[MALE] is new to [FEMALE] lifestyle. [MALE] is social.
+[
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] becomes [FEMALE] [MALE]'s personal space. [MALE] wants to be a better person.
+[MALE] takes a photo. [MALE] wants to get a picture of themselves.
+[MALE] finds a new job. [MALE] is motivated.
+[MALE] pays attention. [MALE] wants to get a job.
+[MALE] gets a haircut. [MALE] wants to find a haircut.
+[MALE] gets [FEMALE] a haircut. [MALE] is motivated.
+[MALE] sees [FEMALE] friend. [MALE] is caring.
+[MALE
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. She gets the glasses. [MALE] looks at persony.
+[MALE] is a good actor. [MALE] will good.
+[MALE] is talking to persony. [MALE] will happy.
+[MALE] is learning new skills. [MALE] is talented.
+[MALE] finds persony's books. [MALE] will go to the bookstore.
+[MALE] wants to be a cook. [MALE] needs to make a meal.
+[MALE] wants to go to the zoo. [MALE] needs to bring things back to the zoo.
+[MALE] is very good. [MALE] will happy.
+
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] takes a walk. [MALE] wants to get some exercise.
+[MALE] plays poker with [FEMALE] . [MALE] wants to know how to play poker.
+[MALE] puts [FEMALE] down. [MALE] will worried.
+[MALE] is not happy. [MALE] needs to be upset.
+[MALE] plays the violin. [MALE] is happy.
+[MALE] goes to the store. [MALE] is grateful.
+[MALE] calls [FEMALE] back. [MALE] will angry.
+[MALE] gets [FEMALE] to a party
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.If you cannot read a word, you need to get a new one. You need to be with someone who is capable of understand you.You need to be with someone with good manners.You need to be with someone and have fun.You need to be satisfied.You need to have a good idea.You are a socialite.You want to have a good time.You have to be well paid. You want to be entertained.You get promoted.You get a new job.You get a new car.You go to work.You have a good time.You want to be in a good mood.You want to be with someone.You want to go to a good restaurant.You want to be in a good mood.
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] is engaged. [MALE] is engaged.
+[MALE] is happy. [FEMALE] wants to feel happy.
+[MALE] makes [FEMALE] a person. [MALE] wants to give [FEMALE] the gift.
+[MALE] tells [FEMALE] the truth. [FEMALE] will to go back to school.
+[MALE] gets an ear. [MALE] needs to look at ear.
+[MALE] plays cards. [MALE] wants to get a card.
+[MALE] takes [FEMALE] along. [MALE] is friendly.
+[MALE]
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.I was going to have a good time.I told you about the cat.I was going to have a good time.I told you about the cat.I was going to have a good time.I told you about the cat.I was going to have a good time.I told you about the cat.I was going to have a good time.I told you about the cat.I was going to have a good time.I told you about the cat.I was going to have a good time.I told you about the cat.I was going to have a good time.I told you about the cat.I was going to have a good time.I told you about the cat.I was going to have a
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+saint@dartmouth.edu
+a.s.e.g. has been elected president of the United States.
+w.m.s.b. has performed the duty of attending a funeral.
+a.s.e.g. will become president of the United States.
+a.s.e.g. will be a good president.
+a.s.e.g. will be famous.
+a.s.e.g. will happy.
+a.s.e.g. will be brave.
+a.s.e.g. will strong.
+a.s.e.g. will thoughtful.
+a.s.e.g. will healthy
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.The girl with the glasses looked the same as the one who fell asleep.The girl with the glasses is showing the truth.The girl with the glasses is trying to work out what happened.The girl with the glasses is on the run.The girl with the glasses is a danger to the community.The girl with the glasses is not satisfied.The girl with the glasses is a leader.The girl with the glasses is on the getaway vehicle.The girl with the glasses is wearing a good dress.The girl with the glasses is being watched.The girl with the glasses is getting drunk.The girl with the glasses is getting more money.The girl with the glasses is talking to someone.The girl with the glasses is watching TV.The girl
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.Suit yourself if you're successful.Sew the following text within ten sentences:Do something nice for us today.Sew the following text within twenty-one sentences:We were always successful.Sew the following text within thirty-six sentences:This was a great day.Sew the following text within forty-two sentences:You did it.Sew the following text within fifty-three sentences:I did it.Sew the following text within sixty-four sentences:I was the center of attention.Sew the following text within seventy-four sentences:I was the center of attention.Sew the following text within eighty-one sentences:I was the center of attention.Sew the following text within ninety-six
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.  She wants to take a walk.  She wants to be healthy.
+Yesterday was time to make a new order.  She was tired.
+Today was the day all the children of the world would be born.  She was happy.
+Today was the day the world will be safe.
+What is that thing that you are looking for?
+what is that thing that you are looking for?
+they is not in the world.
+you is not in the world.
+you is in the world.
+you is not in the world.
+he is in the world.
+this is not a picture.
+it is a book.
+this is not a picture.
+you is not in
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. It was a hot day.
+[MALE] tries to make [FEMALE] healthy. [MALE] will is lazy.
+[MALE] does [FEMALE] none together. [MALE] is good.
+[MALE] hits the bus. [MALE] is nervous.
+[MALE] is getting ready to go. [MALE] is excited.
+[MALE] wants to be a singer. [MALE] wants to be a singer.
+[MALE] wants to be [FEMALE] next. [MALE] is new.
+[MALE] is a good dog. [MALE] is loving.
+[MALE] is
+---------------

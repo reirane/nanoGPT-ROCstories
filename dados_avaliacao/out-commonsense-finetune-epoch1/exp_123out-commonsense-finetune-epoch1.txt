@@ -1,0 +1,443 @@
+Overriding: out_dir = out-commonsense-finetune-epoch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+have an orgasm.
+have a date.
+have a pet.
+have a date with.
+drive a car.
+play soccer.
+send a message.
+play soccer.
+get married.
+have a daughter.
+play baseball.
+have a baby.
+see a movie.
+have a baby.
+play basketball.
+play tennis.
+have a baby.
+have a baby.
+play with a friend.
+play sports.
+play basketball.
+have a baby.
+have a birthday.
+play basketball.
+have a baby.
+receive money.
+have a gift.
+take a child.
+play basketball.
+play sports.
+have a baby.
+have a baby
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] takes a bath.
+[MALE] leaves the room.
+[MALE] leaves the room.
+[MALE] takes a nap.
+[MALE] has a hard time.
+[MALE] will upset.
+[MALE] will sad.
+[MALE] is present for a meeting.
+[MALE] is friendly.
+[MALE] decides to work.
+[MALE] gets their car keys.
+[MALE] finds a new job.
+[MALE] is looking around.
+[MALE] is happy.
+[MALE] is walking to a friend's house.
+[MALE] gets a new phone.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[FEMALE] wants to meet and talk to the person.
+[FEMALE] wants to be good.
+[FEMALE] wants to have fun.
+[FEMALE] wants to know more about the person.
+[FEMALE] wants to know more about the person.
+[FEMALE] wants to be part of.
+[FEMALE] wants to be proud.
+[FEMALE] wants to leave.
+[FEMALE] wants to stay positive.
+[FEMALE] wants to have fun.
+[FEMALE] needs to be prepared.
+[FEMALE] will and [FEMALE] wants to relax.
+[
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.You're lucky he got sick.He wasn't eating well.he's not happy.he's not having a good day.he wants to celebrate.he wants to kiss his sister.he's sitting in a bus.he wants to go to work.he is in a hurry.he needs to go to work.it is too late.it is rude.it is in the car.it is in a store.it is fast.it is lonely.it is lonely.it is important.it is important for a relationship.it is needed for a job.it is in your purse.it is needed for clothing.it is important for a movie start up.it is important for a job.it is important for the family
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] needs to talk to [FEMALE] in persony's car.
+[MALE] wants to go back to school.
+[MALE] needs to come to [FEMALE]'s house.
+[MALE] buys [FEMALE] food.
+[MALE] wants to have a meal.
+[MALE] is at the house.
+[MALE] needs to go to the park.
+[MALE] has a problem with [FEMALE] over.
+[MALE] wants to go to the dentist.
+[MALE] wants to buy a new pair.
+[MALE] is looking for an instrument.
+[MALE
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] asks the question. [MALE] wants to know.
+[MALE] reads the book. [MALE] wants to go to a bookstore.
+[MALE] goes into the room. [MALE] needs to sit in the chair.
+[MALE] raises the thermostat. [MALE] needs to warm the thermostat.
+[MALE] runs away. [MALE] will angry.
+[MALE] takes the dog to the vet. [MALE] needs to find some vet.
+[MALE] runs away from the house. [MALE] wants to be home.
+[MALE] gets back to work. [M
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+He is in the store.
+He needs to visit the hospital.
+He is in the yard.
+He wants to wash the hair.
+He is in the house.
+He has a headache.
+He is in the car.
+he wants to go to the park.
+he is in the garden.
+he is in the car.
+he is at his house.
+he is in the car.
+he is in the car.
+he wants to go to the store.
+he is in the car.
+he is in the car.
+he is in the car.
+he is in the car.
+he is out of the car.
+he is in the car.
+he is in
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+Carl is a homeless person.
+[MALE] takes [FEMALE] to a park.
+[MALE] helps [FEMALE] along.
+[MALE] asks [FEMALE] their favorite question.
+[MALE] is married.
+[MALE] leaves [FEMALE] house.
+[MALE] takes [FEMALE] to the park.
+[MALE] is a good person.
+[MALE] stays behind.
+[MALE] puts [FEMALE] under surveillance.
+[MALE] gets [FEMALE] to go to the park.
+[MALE] keeps [FEMALE] away from each other
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] is caring.
+[MALE] is trying.
+[MALE] gets none back.
+[MALE] gives [FEMALE] none back.
+[MALE] takes [FEMALE] to the hospital.
+[MALE] gets none done.
+[MALE] spends [FEMALE] time with [FEMALE] family.
+[MALE] will none to the person.
+[MALE] is being truthful.
+[MALE] would be in denial.
+[MALE] takes none to the school.
+[MALE] wants to go to the gym.
+[MALE] gets none to have a laugh.
+[
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+have the following property:mell is a mason.
+take the following action:take the action is a good thing.
+take the following task:get a job is good.
+take the following action:take the action is good.
+a new car is at a car dealership.
+a new car is at a car dealership.
+a new car is at a car dealership.
+a new car is at a car dealership.
+a new car is at a car dealership.
+a new car is at a car dealership.
+a new car is at a car dealership.
+a new car is at a car dealership.
+a new car is at a car dealership.
+a new car is at a car dealership
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+you can't live longer than six months.
+you can't make a mistake.
+take a picture with your phone.
+go to the pub.
+eat healthy food.
+you should never do anything on the internet.
+you can't be able to get to the bathroom.
+you can't see the sun.
+something is in your pocket.
+you can't get good grades.
+you are a man.
+someone is in the house.
+someone is out of the way.
+you can't go to the shop.
+you can't build a house.
+you can't get a job.
+a girl is capable of love you.
+we have a problem.
+a dog is capable of eat
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] gets the most out of a good story.
+[MALE] begins to question their own religion.
+[MALE] will [MALE] wants to have a conversation.
+[MALE] wants to find a way.
+[MALE] begins to enjoy a hobby.
+[MALE] will is able to get a new job.
+[MALE] is curious about the person.
+[MALE] is capable of laugh.
+[MALE] wants to go to the store.
+[MALE] is interested.
+[MALE] will buys the property.
+[MALE] becomes [MALE] person's friend.
+[MALE] is happy
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+bust the second time you pick up a phone.
+bastard is a character from the television show "The Vampire Diaries."
+dance in the sea.
+eat a cake.
+eat delicious food.
+drink a lot of water.
+drink lots of water.
+dance in the air.
+eat good food.
+eat good food.
+leave the house.
+go back to your room.
+go to school.
+walk on the street.
+go to a park.
+take a walk.
+wait for your car.
+take a shower.
+get ready for a trip.
+travel.
+find a job.
+go to the store.
+buy a new car.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Advertisement
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+You have to pay the fee.
+You have to pay the cost.
+You have to pay the fee.
+You have to take action.
+You aren't capable of understand what you are about to say.
+You have to get a job.
+You have the right to live a life of peace.
+You have to have a dog.
+You have to pay the ticket.
+You have to go to the store.
+You have to have a dog.
+You have to get rid of a thing.
+You have to be at a dance.
+You have to visit an opera house.
+You have to go to the store.
+You have to have a dog.
+You have to order a meal
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+get the following text within five sentences:Carl was sick.
+get the following text within five sentences:Carl was at the hospital.
+get the following text within five sentences:Carl is sick.
+get the following text within five sentences:Carl is full.
+get the following text within five sentences:Carl is responsible.
+get the following text within five sentences:Carl is able.
+get the following text within five sentences:Carl is happy.
+get the following text within five sentences:Carl is thankful.
+get the following text within five sentences:Carl is satisfied.
+get the following text within five sentences:Carl is happy.
+get the following text within five sentences:Carl is sad.
+get the following text
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He needs to go find another job. He needs to buy a new computer. he is in the hospital. he needs to have another appointment. he is pregnant.he is on a mission.he is at a hospital.he is in the back seat of a car.he is looking for help.he is taking care of the dog.he is taking his bike home to the garage.he is taking some pictures.he is visiting the dog.he is in the grocery store.he is not happy.he is disappointed.he is in the mail.he is at a restaurant.he is making coffee.he is playing basketball.he is eating at a restaurant.he is reading a book.him is washing dishes.he is looking
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] thinks he is capable of take pictures.
+[MALE] wants to start a business.
+[MALE] calls [FEMALE] back.
+[MALE] is at a party.
+[MALE] is in a state of shock.
+[MALE] wants to buy another piece of equipment.
+[MALE] is at a bar.
+[MALE] pulls the car seat away.
+[MALE] wants to talk to [FEMALE] about something.
+[MALE] visits the grocery store.
+[MALE] gets a job.
+[MALE] is making a new family.
+[MALE] loses his temper.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] takes a step.
+[MALE] wants to get back into the business.
+[MALE] wants to spend the rest of her day.
+[MALE] is a man.
+[MALE] wants to be a good person.
+[MALE] will to become better.
+[MALE] receives a gift from a friend.
+[MALE] is a person.
+[MALE] gives [FEMALE] a gift.
+[MALE] asks [FEMALE] to take a walk.
+[MALE] is in school.
+[MALE] raises the person's hand.
+[MALE] keeps your mouth shut.
+[
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[FEMALE] will be able to call [FEMALE] out to the grocery store.
+[FEMALE] is going to [FEMALE] friend.
+[FEMALE] will be happy.
+[FEMALE] wants to go to another school.
+[FEMALE] starts to suspect [FEMALE] is [FEMALE] in the wrong place.
+[FEMALE] wants to tell [FEMALE] that [FEMALE] is getting beat up.
+[FEMALE] wants to meet [FEMALE] at the restaurant.
+[FEMALE] wants to get in touch.
+[FEMALE] wants to go
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.Carl gets the keys to the truck.Carl and Amy go to the store.Amy finds the keys.Carl gives away the keys.Amy finds out about the situation.Amy gives away the keys.Carl gets the keys.Carl returns to the store.Amy is concerned about the situation.Amy gets the keys.Carl gets the keys.Amy gets the keys.Amy is sad.Carl gives away the keys.Amy wants to go home.Amy gets the keys.Amy gets the keys.Amy takes the keys.Amy takes the keys.Amy takes the keys.Amy gets the keys.Amy gives the keys to Amy.Amy gives the keys to Amy.Amy goes to the store.Amy gets the keys.Amy finds the keys.Amy
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[NEW] the person needs to go see the doctor.
+[NEW] the person needs to find a friend.
+[NEW] the person needs to see a movie.
+[NEW] the person needs to see the movie.
+[NEW] the person needs to buy groceries.
+[NEW] [NEW] [NEW] [NEW] [NEW] [NEW] ] [NEW] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW] ] [NEW]
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] wants to go to a baseball game with [FEMALE] for baseball.
+[MALE] needs to finish the book.
+[MALE] wants to go to the park.
+[MALE] is very satisfied.
+[MALE] is determined.
+[MALE] wants to be a painter.
+[MALE] wants to relax.
+[MALE] puts [FEMALE] away.
+[MALE] is committed.
+[MALE] wants to get an education.
+[MALE] wants to stay.
+[MALE] is very proud.
+[MALE] goes to work.
+[MALE] gets [FEMALE
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] is talking to a person else.
+[MALE] is using the person's computer.
+[MALE] is walking in the park.
+[MALE] is starting a new business.
+[MALE] wants to give [FEMALE] some gift.
+[MALE] tells [FEMALE] to make [FEMALE] happy.
+[MALE] is starting [FEMALE] career.
+[MALE] wants to go to college.
+[MALE] is in charge.
+[MALE] buys a new car.
+[MALE] is very tired.
+[MALE] is going a bit crazy.
+[MALE
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+the first time you saw the tv show "The Big Bang Theory"
+the first time you saw the movie "The Last of Us"
+the first time you saw the movie "Fifty Shades of Grey"
+the first time you saw "Saturday Night Live"
+the first time you saw the movie "The Voice"
+the first time you saw the movie "Seinfeld"
+the first time you saw the movie "Game of Thrones"
+the first time you saw the movie "The Muppets"
+the first time you saw the movie "Hamilton"
+the first time you saw the movie "The Jinx"
+the first time you saw the movie "The Americans"
+the first time you saw the movie
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+sputnik.org/index.php/topic,2370.0,1719.0 [FEMALE] receives reply.
+sputnik.org/index.php/topic,2212.0,1602.0 [FEMALE] will be satisfied.
+sputnik.org/index.php/topic,2280.0,1656.0 [FEMALE] is at home.
+sputnik.org/index.php/topic,2212.0,1680.0 [FEMALE] wants to go to the store.
+sputnik.org/index.php/topic,2220.0,1599.0 [F
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.The doctor was the only one to listen.The doctor will be the one to talk with.The doctor wants to see the doctor.The doctor wants to use the bathroom.The doctor wants to get some food.The doctor wants to open the door.The doctor wants to be a good person.The doctor wants to be in the house.The doctor wants to go to a restaurant.The doctor wants to wait.The doctor wants to tell the nurse.The nurse wants to go to the restroom.The nurse wants to get a drink.The nurse wants to do something.The nurse wants to get the prescription.The nurse wants to make the prescription.The nurse wants to go out to the park.The nurse wants to be in a good
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+in a meeting with the waitress in the evening.
+take a bath.
+a great man.
+you are capable of change your mind.
+he wants to sell his house.
+he wants to put on a show.
+a great man.
+a great man.
+the first time.
+sad.
+lots of food.
+he was tired.
+he is not capable of say anything.
+he wants to pass the test.
+he needs to go back to work.
+he is a very good person.
+he wants to buy some gifts.
+he wants to eat dinner with his friends.
+sad.
+he is capable of do some good work.
+he is capable of work.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+The text is still under discussion.
+The text is in your possession.
+The text is not currently in your possession.
+The text is in a museum.
+The text is in the library.
+The text is no longer in your possession.
+The text is in the library.
+The text is in a bookstore.
+The text is being presented.
+The text is in a restaurant.
+The text is sitting in a restaurant.
+The text is not in the restaurant.
+The text is not in the restaurant.
+The text is on the shelf.
+The text is in a hotel.
+The text is in a theater.
+The text is in the dining room.
+The text is waiting.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+The following text within five sentences:Carl was told.
+The following text within five sentences:Carl and his son.
+The following text within five sentences:Carl and his son.
+The following text within five sentences:Carl and his son.
+The following text within five sentences:Carl and his son.
+The following text within five sentences:Carl and his son.
+The following text within five sentences:Carl and his son.
+The following text within five sentences:Carl and his son.
+The following text within five sentences:Carl and his son.
+The following text within five sentences:Carl and his son.
+The following text within five sentences:Carl and his son.
+The following text within five sentences:
+---------------

@@ -1,0 +1,400 @@
+Overriding: out_dir = out-commonsense-finetune-lowgradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tim was sick for school picture day.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tim was sick for school picture day.
+have an epileptic fit. [MALE] needs to have a lot of money.
+get a better grade. [MALE] needs to be good.
+stay up late. [MALE] needs to be late to work.
+go to work. [MALE] will good.
+see the sunset. [FEMALE] will happy.
+see the sunset together. [MALE] will joyful.
+start a fire. [MALE] wants to cook.
+go to party. [MALE] wants to impress other people.
+take a rest. [MALE] wants rest.
+take a walk. [MALE] will sweaty.
+go to the zoo. [MALE]
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. [MALE] needs go to the bathroom.
+[MALE] leads persony's none to victory. [MALE] wants to win the game.
+[MALE] gets a dog. [MALE] wants to play with their dog.
+[MALE] is playing tennis with persony's friend. [MALE] is friendly.
+[MALE] takes none to the doctor. [MALE] will good.
+[MALE] is playing football with persony's mom. [FEMALE] wants to see what's up.
+[MALE] brings [FEMALE] closer. [MALE] wants to enjoy y's social life.
+[MALE] is playing
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. [MALE] wants to talk to personx.
+[MALE] follows personx's lead. [MALE] is a good leader.
+[MALE] eats none carefully. [MALE] wants to get good results.
+[MALE] is playing catch with persony. [MALE] is brave.
+[MALE] pays none back. [MALE] wants to have extra money to pay for the rest of the trip.
+[MALE] gets none together. [MALE] wants to get ready for the day.
+[MALE] gives none a chance. [MALE] wants to have a dream.
+[MALE] brings [FEMALE] home.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. [MALE] needs to go to school.
+[MALE] gets [FEMALE] into a relationship. [MALE] wants to give [FEMALE] some time.
+[MALE] tells persony's mom. [MALE] needs to get the child.
+[MALE] gets a raise. [MALE] wants to start a new career.
+[MALE] comes back to personx's house. [MALE] needs to go to the house.
+[MALE] calls the police. [FEMALE] wants to know who was watching personx.
+[MALE] gets persony's back. [MALE] needs to be able to get a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] needs to have a wife..
+[MALE] gives [FEMALE] a gift. [FEMALE] will excited.
+[MALE] goes to a store. [MALE] needs to have their wallet.
+[MALE] calls the cops. [MALE] wants to get a report.
+[MALE] finishes the mission. [MALE] gets promoted.
+[MALE] runs out of steam. [MALE] needs get some water.
+[MALE] calls my boyfriend. [MALE] needs to call them.
+[MALE] takes personx's girlfriend. [MALE] wants to impress an audience.
+[MALE
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] asks the teacher. [MALE] wants to talk to persony.
+[MALE] is a teacher at a school. [MALE] is caring.
+[MALE] is really tired. [MALE] is tired.
+[MALE] is playing poker. [MALE] is bored.
+[MALE] gives none a taste. [MALE] wants to go home.
+[MALE] decides to get some work done. [MALE] is competent.
+[MALE] becomes [FEMALE] example. [FEMALE] wants to be someone else.
+[MALE] is driving home with persony. [MALE] is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+walk is at the mall.
+all people has property capable of hate one another.
+run has prerequisite for have a good time.
+a table is at a restaurant.
+a room is at a house.
+sitting in a chair is used for watching tv.
+a desk is used for keeping things orderly.
+a table is at a table.
+a sofa chair is at a sofa.
+a television is at a television.
+a table is at a table.
+a chair is at a table.
+a cupboard receives action used for holding things.
+a blanket is at a blanket.
+a pocket calculator is at a pocket calculator.
+a bookcase is at a book.
+a toilet is at
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. x was looking for something. y was distracted. [MALE] will happy.
+[MALE] is at school. [MALE] needs to have a job.
+[MALE] is too late. [MALE] is late.
+[MALE] is playing poker. [MALE] needs to buy a ticket.
+[MALE] takes personx's eyes off persony. [MALE] is scared.
+[MALE] has a bad day. [MALE] is responsible.
+[MALE] gives [FEMALE] answer. [MALE] needs read personx's answers.
+[MALE] invites none to stay. [MALE] needs to be
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] is playing basketball. [MALE] is trying to get warm.
+[MALE] gets none from the store. [MALE] wants buy some.
+[MALE] takes [FEMALE] to a baseball game. [MALE] wants to see if they can win.
+[MALE] calls persony's mom. [MALE] wants to give her a hug.
+[MALE] takes persony's kids to the movies. [FEMALE] wants to be in the same place.
+[MALE] takes no chances. [MALE] goes to a party.
+[MALE] takes none to the hospital. [MALE] needs to
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+have a cigarette is motivated by you get a good night's sleep.
+a computer is used for learning new software.
+a person is capable of be in heaven.
+clean your room has prerequisite for find a bathroom.
+see a movie has prerequisite for look at pictures.
+a computer is used for reading and writing.
+a person desires to attend the circus.
+a person desires go to the zoo.
+a person desires to be in a relationship.
+a person desires to be a good friend.
+a person desires a great day.
+a person desires good food.
+an electrician is capable of put a wrench in the crankcase.
+a person desires eat dinner.
+a person desires a relaxing environment.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+you is capable of place a hold on a screw.
+a person has property capable of work hard.
+you is capable of buy furniture.
+you is capable of play chess.
+you is capable of have an argument.
+you is capable of buy a new television.
+a person does not desire to be hit by lightning.
+someone is at a party.
+you is capable of get out of bed.
+you is at a party.
+you is capable of make good decisions.
+you is at a party.
+a person desires something.
+someone buys a new shirt.
+you is capable of leave the house.
+a person does not desire to go into coma.
+a person does not desire to be
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. [MALE] needs to buy something nice.
+[MALE] raises personx's hand. [MALE] is confident.
+[MALE] gets [FEMALE] a haircut. [FEMALE] wants to tell [MALE] what they want.
+[MALE] makes persony's lunch. [MALE] is helpful.
+[MALE] is playing poker with persony's friends. [MALE] is smart.
+[MALE] gets a puppy. [MALE] is curious.
+[MALE] gives [FEMALE] a ring. [FEMALE] will smiles.
+[MALE] gets a haircut. [MALE] is smart
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+bust has prerequisite for have a clean room.
+go to a movie is motivated by it has a wonderful view.
+do a physical examination is motivated by you have a headache.
+meet people is motivated by you are beautiful.
+someone is capable of make something.
+examine something has prerequisite for get a good look at it.
+a toothbrush is used for clean your tooth.
+someone is capable of buy a new computer.
+a chair is used for sit on.
+go to a bar has prerequisite for get in the car.
+someone is capable of give a speech.
+someone is capable of wear a suit.
+someone is capable of dress.
+something is at the fridge.
+a bicycle is used
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. [MALE] needs to be in uniform.
+[MALE] takes [FEMALE] picture. [FEMALE] will feels responsible.
+[MALE] plays the none in the process. [MALE] wants to have fun.
+[MALE] buys personx's home. [FEMALE] will gets a gift.
+[MALE] gets personx's cat. [MALE] wants to take it for a walk.
+[MALE] starts the car. [MALE] will satisfied.
+[MALE] gives none advice. [MALE] wants to be helpful.
+[MALE] rides the bike home. [MALE] needs to get out of
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+You have to pay the fee.
+You can be president for a thousand years.
+[MALE] wants to get married. [MALE] wants to have a baby.
+[MALE] gets a haircut. [MALE] wants to get a haircut.
+[MALE] writes [FEMALE] a letter. [MALE] wants to tell [FEMALE] what he wants.
+[MALE] gets personx's dog. [MALE] wants to get a new dog.
+[MALE] wants to make a better world. [MALE] will smart.
+[MALE] tells none of the problems. [FEMALE] wants to keep quiet.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+get the ball is at the ball field.
+eat breakfast is motivated by it tastes good.
+snow is at the sky.
+going to work is motivated by you get paid.
+go to the opera has prerequisite for go to the theatre.
+play poker has prerequisite for pay your bills.
+get up early has subevent get up early.
+go to a concert has first subevent of get up early.
+play hockey has prerequisite for practice at your school.
+buy tickets has prerequisite for buy tickets.
+buy a ticket has subevent buy tickets.
+take pictures has subevent move them.
+go to the zoo has prerequisite for get out of your car.
+go to school has prerequisite for learn about animals
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+celebrate with laughter causes increase in number of people.
+go to work has prerequisite for make checkup.
+go for walk has prerequisite for get a haircut.
+buy a ticket causes get into trouble.
+go to market has prerequisite for go to mall.
+joe is at baseball game.
+lose weight causes desire of have exercise.
+go see a movie has prerequisite for make dinner.
+breathe has prerequisite for eat something.
+person does not desire be a monster.
+go to church has prerequisite for go to church.
+walk has prerequisite for get on the sidewalk.
+eat has prerequisite for turn off your tv.
+person does not desire be a hero.
+person does not desire be scared of
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+play lacrosse is at a sport.
+get some rest has prerequisite for take a nap.
+an ice cream cone is at a restaurant.
+a clock is used for putting a date.
+a baseball diamond is at a family home.
+a refrigerator is used for keeping food cold.
+a person does not desire die.
+a fish is at a restaurant.
+a person does not desire be in jail.
+a person does not desire be in prison.
+a person does not desire be in danger.
+a person does not desire be in a car accident.
+a person does not desire be in a fight.
+a chair is used for sitting down.
+a person does not desire fall asleep.
+a person
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.com.
+[MALE] asks [FEMALE] if they can get together.
+[MALE] loves the fact that personx's family. [FEMALE] will happy.
+[MALE] runs personx's none from the library. [MALE] is clumsy.
+[MALE] takes none to the hospital. [MALE] is happy.
+[MALE] leaves personx's none behind. [MALE] is responsible.
+[MALE] gets [FEMALE] dose. [MALE] needs to take one dose.
+[MALE] sees persony's favorite tv show. [FEMALE] will nice.
+[MALE] sees a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a person desires a fairytale.
+a person desires read books.
+a person desires go out to dinner.
+a person desires a good time.
+a person desires see a movie.
+a person desires a great night.
+a person desires a bad idea.
+a person desires a long night.
+a person desires a good night's sleep.
+a person desires a great night.
+a person desires more money.
+a person desires a nice person.
+a person desires a good night's sleep.
+a person desires to have fun.
+a person desires a good day.
+a person desires sleep well.
+a person desires a good friend.
+a person desires a good job.
+a person
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. [MALE] wants to make friends.
+[MALE] gives [FEMALE] a ride home. [FEMALE] wants to get home..
+[MALE] is driving home from work. [MALE] wants to rest.
+[MALE] provides none for personx's family. [FEMALE] will personx is thankful.
+[MALE] runs to the store. [FEMALE] wants to buy something to eat.
+[MALE] eats persony's lunch. [MALE] is sociable.
+[MALE] invites none into persony's home. [MALE] wants to help them.
+[MALE] finds the none in person
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] takes persony's keys. [FEMALE] will glad they were able to find keys.
+[MALE] takes the water. [MALE] will thirsty.
+[MALE] gets persony's food. [FEMALE] will hungry.
+[MALE] meets the girl. [FEMALE] wants to invite the girl to a party.
+[MALE] plays a none in the school. [MALE] wants to be a leader.
+[MALE] makes persony's dream come true. [MALE] needs to have a plan.
+[MALE] gets personx's groceries. [MALE] wants to buy food.
+[
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] tells [FEMALE] not to worry. [MALE] is caring.
+[MALE] calls none to let the none know. [FEMALE] wants to be helpful and helpful.
+[MALE] takes persony's none to the vet. [MALE] needs to have the vet come.
+[MALE] plays baseball with persony's friends. [MALE] wants get a game.
+[MALE] puts on persony's shoes. [FEMALE] will relieved.
+[MALE] gets personx's phone. [MALE] wants to check if it has been charged..
+[MALE] sees none in the distance. [
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] is driving home from work. [MALE] wants to leave work.
+[MALE] invites [FEMALE] to personx's house. [MALE] will relaxed.
+[MALE] catches the dog. [MALE] wants raise the puppy.
+[MALE] tells [FEMALE] to move. [FEMALE] will grateful.
+[MALE] is playing tennis in front of persony's house. [MALE] wants to be alone.
+[MALE] brings none to personx's attention. [MALE] wants to get a reaction.
+[MALE] spends none in the bathroom. [MALE] wants to be
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+get paid by the hour.
+get a haircut.
+eat some popcorn.
+go to a movie.
+go somewhere.
+go on vacation.
+get a job.
+play the violin.
+get a pet.
+talk to someone.
+have a bath.
+play a game.
+play a none in the world.
+buy something.
+get a divorce.
+get a new job.
+go to a movie.
+go to a friend's house.
+play sport.
+take a break.
+wait in line for someone.
+watch a play.
+drink coffee.
+play a sport.
+go to a party.
+play the none at home.
+watch tv.
+get a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+satisfy hunger has prerequisite for go to cook.
+a machine is used for hold food.
+a cat is capable of lie down on the floor.
+breathe has prerequisite for open your mouth.
+a dog is capable of get away.
+a person is capable of sleep in the hospital.
+a toothbrush is used for toothbrush.
+a book is used for sit on.
+a person is capable of eat right.
+a person is capable of go to school.
+a person is capable of eat a hamburger.
+a horse is capable of run.
+a person is capable of get up early.
+a person is capable of move up.
+a horse is at a park.
+a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] calls the cops. [MALE] is prepared.
+[MALE] wants to go home. [MALE] wants to go home.
+[MALE] talks to personx's girlfriend. [FEMALE] will happy.
+[MALE] comes home after work. [MALE] wants to celebrate.
+[MALE] finds persony's car. [MALE] needs to know where persony is driving.
+[MALE] tells [FEMALE] was dead. [MALE] wants talk to persony.
+[MALE] takes a nap. [MALE] needs to take a nap.
+[MALE] calls persony's mother
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.Sugar is sticky.
+[MALE] runs a marathon. [MALE] is not fit.
+[MALE] never worked. [MALE] is lazy.
+[MALE] provides none to the children. [MALE] wants to help them.
+[MALE] gives [FEMALE] a dose. [MALE] will happy.
+[MALE] uses persony's money. [MALE] wants to put the money down.
+[MALE] tells [FEMALE] would be. [FEMALE] will grateful.
+[MALE] takes a hike. [MALE] wants to go hiking.
+[MALE] feels like ___. [
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+toy car is at garage.
+a cupboard has property a decorative area.
+a cat is capable of eat a human.
+a human is capable of smell the roses.
+a cupboard has property a decorative area.
+a cat is capable of eat a human.
+a cupboard has property a decorative area.
+a human is capable of smell the roses.
+a cupboard has property a decorative area.
+a cupboard has property a decorative area.
+a human is capable of smell the roses.
+a human is capable of smell the roses.
+a human is capable of smell the roses.
+a human is capable of smell the roses.
+a human is capable of smell the roses.
+a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. [MALE] wants to make the picture big. [MALE] needs to be at their mom.
+[MALE] gives [FEMALE] the choice. [FEMALE] wants to have the option of going to a concert..
+[MALE] puts on personx's glasses. [FEMALE] will has to look at the glasses.
+[MALE] is at the beach with persony. [MALE] is social.
+[MALE] has a none in the house. [MALE] wants to sleep.
+[MALE] has a really bad day. [MALE] is unorganized.
+[MALE] is wearing none on the beach with persony
+---------------

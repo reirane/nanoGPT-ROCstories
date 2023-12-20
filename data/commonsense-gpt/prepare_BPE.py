@@ -8,10 +8,10 @@ import pandas as pd
 
 # download the tiny shakespeare dataset
 input_file_path = os.path.join(os.path.dirname(__file__), 'train.txt')
-if not os.path.exists(input_file_path):
-    data_url = 'https://github.com/reirane/nanoGPT-ROCstories/blob/master/datasets/sentencas.txt'
-    with open(input_file_path, 'w') as f:
-        f.write(requests.get(data_url).text)
+#if not os.path.exists(input_file_path):
+#    data_url = 'https://github.com/reirane/nanoGPT-ROCstories/blob/master/datasets/sentencas.txt'
+#    with open(input_file_path, 'w') as f:
+#        f.write(requests.get(data_url).text)
 
 with open(input_file_path, 'r') as f:
     data = f.read()

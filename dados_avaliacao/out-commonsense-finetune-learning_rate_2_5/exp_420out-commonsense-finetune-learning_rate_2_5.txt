@@ -1,0 +1,189 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tim was at the bar.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tim was at the bar. He wanted to go to the club. He wanted to go to a restaurant.He wanted to take a shower.Tim wanted to go to the gas station. He was at Walmart.He wants to help.He wants to be a good citizen.He wants to get in line.He will be charged.He will get the ticket.He wants to win.He wants to take the test.He wants to be seen.He wants to be treated with respect.Tim will go to his friend's house.He wants to go to bed.He wants to take the test.He wants to get the credit.He wants to be recognized.He wants to get paid.Tim will get a refund.He wants to be compensated for the work
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was very happy with it.But he has a very sad face.He is also in a lot of trouble.
+
+[MALE] is holding a dog. [MALE] is nice.
+
+[MALE] has a problem. [MALE] wants to help.
+
+[MALE] is playing basketball. [MALE] is talented.
+
+[MALE] is taking the test. [MALE] wants to know.
+
+[MALE] sends the package. [MALE] is friendly.
+
+[MALE] is taking the tests. [FEMALE] wants to know what they were looking for.
+
+[MALE] takes the test. [M
+---------------
+Complete the following text within five sentences:Tim was at the bar.Sooo is a friend.Andie is at the beach.Crazy is a bad friend.We were friends.You made a mistake.We will regret it.Good is not good.When you are sick,you will get better.You will be able to sleep in the hospital.You will be able to pick up your phone.You will be in a car accident.You will not have to pay the bills.We will fight for you.You will be a good person.We will thank you.You will be grateful for all our work.We will kill you.We will thank you for the money.We will be the best.We will be the one to do it.We will feel good.You will be brave
+---------------
+Complete the following text within five sentences:Tim was at the bar.You were at the restaurant.Why did it happen?It was a big event.You were out of town.Is it alright to talk to someone else?It is fine.Is it ok to talk to a friend?It is fine.What do you do now?You want to get a job.What do you do now?You want to buy something.You want to make a friend.What do you do now?You want to pass the test.What do you do now?You want to give a speech.What do you do now?You want to go on vacation.What do you do now?You want to spend the night.What do you do now?You want to get in shape.What do you do
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+The 'MILL'
+The 'MILL' is the part of the person.
+The 'MILL' is a person.
+The 'MILL' is a house.
+The 'MILL' is a place.
+The 'MILL' is a person.
+The 'MILL' is a horse.
+The 'MILL' is a boy.
+The 'MILL' is a girl.
+The 'MILL' is a woman.
+The 'MILL' is a person.
+The 'MILL' is a person.
+The 'MILL' is a horse.
+The 'MILL' is a person.
+The 'MILL' is a person.
+
+---------------
+Complete the following text within five sentences:Tim was at the bar.When you open the door for the bar, you will be greeted by the bartender.When you open the door for the bar, you will be thanked.When you have a drink with your friend, there is usually a party.When the sun sets, you will enjoy your meal.When you are in the middle of the night, you will be in a storm.When you are in a hard situation, you will be in a bad mood.When you have a bad day, you will be frustrated.When you sleep, you will feel a little sick.When you get a call, it will be answered by the person you call.When someone calls you, you will be in a rage.When you leave a house, you will be
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+He is back.
+[A-Z] begins the process of completing the task.
+[A-Z] feels great.
+[A-Z] is satisfied.
+[A-Z] becomes very happy.
+[A-Z] does not feel sad.
+[A-Z] has done a great job.
+[A-Z] is relieved.
+[A-Z] gives the man.
+[A-Z] sees [A-Z].
+[A-Z] wants to go home.
+[A-Z] takes a nap.
+[A-Z] is nice.
+[A-Z] is not in need.
+[A-Z] sees [
+---------------
+Complete the following text within five sentences:Tim was at the bar.Tim was looking for something.Tim was in a hurry.Tim was in need.Tim was a star.Tim was in love.Tim was in danger.Tim was in danger.Tim was in a hurry.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was very hungry.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was in need.Tim was
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was a perfect example of how you could be someone who is not the only person who is caring for others. He was like a father. He loved his children.He was a son. he was a good person.He was a man. He was a great person.He was a good person.He was a good person.He was a good person.He was a good person.He was a good person.He was a good person.He was a good person.He was a good person.He was a good person.He was a good person.he was a good person.He was a good person.He was a good person.He was a good person.He was a good person.He was a good
+---------------
+Complete the following text within five sentences:Tim was at the bar. He is not here for a date. You will not be able to find him in the bar.He is not here for a date. You will not be able to find him in the bar.Do not give him food. He will not be able to eat anything.He is not here for a date. You will not be able to give him food.If you want to wait in line, you can go to your house. You will be welcome and have a good time.He is not here for a date. You will not be able to give him food.Put your wallet in the car. He is not here for a date. You will not be able to find him in the car.He is not here for a date
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+you was at the bar. xxxxxx was sick.
+you was sick. xxxxxx was at the mall.
+you was at the mall. xxxxxx would be at the mall.
+you was at the mall. xxxxxx would be at the mall.
+someone was at the mall. xxxxxx would be in the mall.
+someone was at the mall. xxxxxx would be at the mall.
+someone was at the mall. xxxxxx would be at the mall.
+someone was at the mall. xxxxxx would be at the mall.
+someone was at the mall. xxxxxx would be at the mall.
+someone was at the mall. xxxxxx would be
+---------------
+Complete the following text within five sentences:Tim was at the bar.You've had a great day.You're enjoying yourself.You're enjoying your day.You're enjoying life.You're enjoying your family.You're enjoying your country.You're enjoying your country.You're enjoying your family.You're enjoying your career.You're enjoying your family.You're enjoying your career.You're enjoying your vacation.You're enjoying your family.You're enjoying your home.You're enjoying your work.You're enjoying your party.You're enjoying your home.You're enjoying your health.You're enjoying yourself.You're enjoying your home.You're enjoying your work.You're enjoying your work.You're enjoying your work.You're enjoying your work.You're enjoying your work.You're
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+bust the second time you pick up a phone.
+bastard is a man.
+fear is love.
+trouble is sadness.
+suddenly your body is hurt.
+you is able to feel it.
+withers is something.
+ruth is love.
+you is good.
+go to the store.
+sit for a few minutes.
+give a letter.
+a cow is a cow.
+have a good day.
+a person is a person.
+you is a person.
+someone is able to see.
+a man is a man.
+take a course.
+careful is capable.
+a person is capable.
+someone is capable.
+a person
+---------------
+Complete the following text within five sentences:Tim was at the bar.I told him to take a photo of me.He told me to.I told him to.I told him to.I said it's fine.I said it's too late.I told my mom I will never.I told my mom I never will.I told my mom I will never.I told my mom I will never.I told my mom I will never.I told my mom I will never.I told my mom I will never.I told my mom I will never.I told my mom I will never.I told my mom I will never.I told my mom I will never.I told my mom I will never.I told my mom I will never.I told my mom I will never.
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+You have to pay the fee.
+You must be in your 20s.
+It's the first time you've watched a movie.
+You're a weirdo.
+You're a dork.
+You's a good kid.
+You's a good person.
+You wants to go to therapy.
+You's a bad person.
+You's a loser.
+You wants to play video games.
+You wants to go to the movie.
+You's not a good mother.
+You's a loser.
+You's a loner.
+You's a rockstar.
+You's mad.
+You's not a good leader.
+You doesn't want to hurt anybody.
+You's a good
+---------------
+Complete the following text within five sentences:Tim was at the bar.She was looking for something.I asked if she was okay.I looked at them.I asked if they were ok.Tim took it.I smiled at them.I asked if they would like it.Tim took it.I asked if they needed it.Tim took it.I asked if they needed it.Tim took it.I told them to move.Tim took it.I gave them a gift.Tim took it.I asked if they wanted to buy it.Tim took it.I asked if they wanted to pay for it.Tim took it.I asked if they wanted to wait for the wait.Tim took it.I asked if they liked it.Tim took it.I told them they should not wait.I
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was thirsty. He wanted to go for a walk. He was tired. He wanted to make a new start. He wanted to go to a restaurant. Tim was tired. He was hungry. Tim was waiting. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last chance. This is your last
+---------------
+Complete the following text within five sentences:Tim was at the bar.You asked him to come over.You asked him to stop.You asked him to pay the bill.You feel bad about your situation.You asked him to go.You want to talk to him.You can't.You need to go somewhere else.You are not happy with the situation.You want to go pick up your keys.You want to go to the store.You want to go to the pub.You want to talk to the waiter.You want to buy a cup of tea.You want to make a reservation.You want to go to the store.You want to go for a run.You want to check in the store.You want to get a new pair of shoes.You want to try out a new
+---------------
+Complete the following text within five sentences:Tim was at the bar.com.
+A.M.H. is the organization for people to report problems.
+A.M.H. has a good job.
+A.M.H. is a supercomputer.
+A.M.H. is a person.
+A.M.H. is a person.
+A.M.H. is a project.
+A.M.H. has a good job.
+A.M.H. is a person.
+A.M.H. is a person.
+A.M.H. is a project.
+A.M.H. is a project.
+A.M.H. is a person.
+A.M.H. is
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was happy. However, he had lost his focus. He wanted to go home. However, he had to sign a contract. He was working. However, he was pregnant. However, he was an alcoholic. Therefore, he was staying at home. However, he was an important person. Therefore, he was a good person. Therefore, he was a good friend. However, he was in trouble. Therefore, he was un-productive. Therefore, he was a person. Therefore, he was a good person. However, he was angry. Therefore, he was careless. Therefore, he was careless. However, he was not happy. Therefore, he was unhappy. Therefore, he was a person. However, he was in trouble
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was having a good time.He was dancing.
+You are in a bad mood. You are looking for someone to talk to.You want to get the other person's attention.
+[a]maintain a high standard. You will achieve your dream.
+[a]maintain a good attitude. You will be the best.
+[a]maintain a sense of humor. You will enjoy the laugh.
+[a]maintain a steady state. You will be getting better.
+[a]maintain a good schedule. You will have fun.
+[a]maintain a steady condition. You will get into good health.
+[a]maintain a decent attitude. You will get some rest
+---------------
+Complete the following text within five sentences:Tim was at the bar.He was in a tuxedo.He was in the morning.He was in the way.He was in the way of the work.He was in the way of the family.He was in the way of the family.He was in the way of the mall.He was in the way of the mall.He was in the way of the horse.He was in the way of the horse.He was in the way of the book.He was in the way of the horse.He was in the way of the horse.He was in the way of the horse.He was in the way of the horse.He was in the way of the horse.He was in the way of the horse.He was in the
+---------------
+Complete the following text within five sentences:Tim was at the bar.The bar is too close.You are going to get a break.I wanted to go home with you.If you are going to get a job and not be late.I am not going to miss you.You are going to find your way home.I am going to see you.Get the children to show.You are going to be sick.I'm going to break you.I will take care of you.Get the children to get together.I will not leave you alone.You are going to be happy.I will help you.I is going to make you happy.I will think about you.I is going to be a really good person.I is going to have a good time.I am going to be
+---------------
+Complete the following text within five sentences:Tim was at the bar. He has a gun. He put the gun away. He is a bad guy. The police say they are here to find him. He has a headache. They arrive. The person asks what is wrong. The person says he is not aware of the situation. The person says you are dangerous. The person says he is not sick. The person says they have a good night. The person says they will be fine. The person says they is busy. The person says they is happy. The person says they is happy. The person says they is happy. The person says they is happy. The person says they is happy. The person says they is happy. The person says they is happy. The person says they is happy. The person
+---------------
+Complete the following text within five sentences:Tim was at the bar.I asked him if he wanted to come over.I was about to get out.I looked like a fool.I wanted to come home.I was about to go.I was about to eat something.I took my glasses off.I was about to leave.I wanted to thank my mom.I was about to get paid.I was about to be a waitress..I was about to have a date.I was about to hit the road.I was about to go out.I was about to go to a concert.I was about to get shot.I was about to have my son arrested..I was about to have a baby.I was about to be in the hospital.I was about to be a family.I
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+sputnik.org/index.php/topic,2370.msg1517643.html (successful) [Link] [<a href="http://www.politico.com/articles/2014/06/trump-is-taking-a-bail-on-a-trump-victim/>" target="_blank">[Trump is taking a bail on a Trump victim]</a>]
+sputnik.org/index.php/topic,2370.msg1215379.html (successful) [Link] [<a href="http://www.politico.com/articles/2014/06/trump-is-taking-a-bail-on-
+---------------
+Complete the following text within five sentences:Tim was at the bar.The man with the keys to the bar had the keys to the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys
+---------------
+Complete the following text within five sentences:Tim was at the bar.Settled down to the ground.Sewing a lot.Milled for a job.In the newsroom.Mining.Falling asleep.Tired of it all.Makes friends.Makes a family.Makes money.Makes a name for himself.Makes a living.Makes a good friend.Makes money.Makes it back up.Makes a lot of money.Makes a new home.Makes a new job.Makes the money back.Settled down to the ground.Shed to a tree.Moved to town.Mined a ticket.Mined a drink.Mined a steak.Mined a cup of tea.Mined a cup of
+---------------
+Complete the following text within five sentences:Tim was at the bar.The bar-goer wants to go home.Is that true?How is it that the bar-goer is not at home?The bar-goer needs to find the person.The bar-goer wants to hear the person.The bar-goer has a lot of money.The bar-goer is in need of a job.The bar-goer needs to be on the right side of the road.The bar-goer needs to be over the person.The bar-goer is in need of an appointment.The bar-goer is in need of a new car.The bar-goer is in need of a gift.The bar-goer is in need of a visit.
+---------------
+Complete the following text within five sentences:Tim was at the bar. He said he loves to go to the bar.I wanted to make a note or something that says I love you.I was about to leave.Before I got to the computer. I will not be able to make the note.The computer is on. I will not be able to make the note.I went to the game. I was playing chess.The game is on.I will not be able to make the note.I was not at the store.I will not be able to make the note.My friend was with me.I sat down.I will not be able to make the note.I is not at the bar.I will not be able to make the note.I is not at the bar.I
+---------------

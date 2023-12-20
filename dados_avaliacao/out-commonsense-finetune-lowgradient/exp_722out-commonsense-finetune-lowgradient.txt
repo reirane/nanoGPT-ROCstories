@@ -1,0 +1,317 @@
+Overriding: out_dir = out-commonsense-finetune-lowgradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Sandy fell off her bike.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] gives [FEMALE] a text. [MALE] wants to make a note of his or her actions.
+[MALE] gets [FEMALE] help. [MALE] wants to get help.
+[MALE] finds none in the parking lot. [MALE] is ready.
+[MALE] gets none at the time. [MALE] will joyful.
+[MALE] kills personx's brother. [MALE] wants to fight to keep his brother's life.
+[MALE] gives none a bad name. [MALE] wants to be nice.
+[MALE] lives alone. [MALE] wants to be alone.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] needs to search for her.
+[MALE] buys none for personx's wife. [MALE] wants to have a wedding.
+[MALE] gets a dog. [MALE] wants to play with their dog.
+[MALE] is playing tennis with persony's friend. [MALE] is friendly.
+[MALE] plays for persony's son. [MALE] wants to play.
+[MALE] watches the show. [MALE] wants to watch it.
+[MALE] takes the dog home. [MALE] will happy.
+[MALE] gets a new bra. [MALE] is adventurous.
+[MALE
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] wants to get out.
+[MALE] buys the none for the none. [MALE] wants to buy something.
+[MALE] takes [FEMALE] by the hand. [MALE] wants to keep the person's hand safe.
+[MALE] is finally over. [FEMALE] wants to go home.
+[MALE] takes none on a date. [MALE] wants to have a good time.
+[MALE] plays none in a restaurant. [MALE] wants to relax.
+[MALE] is a very nice person. [FEMALE] wants to be nice and considerate.
+[MALE] gives [F
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] needs to go to the emergency room to get help.
+[MALE] gets [FEMALE] a gift. [MALE] wants to go on a date.
+[MALE] tells persony's mom. [MALE] wants to talk with persony.
+[MALE] gets none together. [MALE] will happy.
+[MALE] gives [FEMALE] the keys. [MALE] needs to pay the bills.
+[MALE] takes personx's cat. [MALE] is nosy.
+[MALE] takes the dog. [MALE] wants to adopt it.
+[MALE] goes home for the night.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] needs to have a go at it. [MALE] needs to be bored.
+[MALE] takes back personx's phone. [MALE] wants to dial [FEMALE] back.
+[MALE] takes [FEMALE] into custody. [MALE] wants to give personx the opportunity.
+[MALE] meets the none at persony's apartment. [MALE] wants to have a fun time.
+[MALE] gets personx's bearings. [MALE] is experienced.
+[MALE] loves none deeply. [MALE] is loving.
+[MALE] sets none on fire. [MALE] wants to not
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] asks the girl out. [MALE] wants to get their picture taken.
+[MALE] tells [FEMALE] was a bad idea. [FEMALE] will wants to yell at personx.
+[MALE] gives none a rest. [MALE] is relaxed.
+[MALE] gives [FEMALE] a hard time. [MALE] is grateful.
+[MALE] takes persony's place. [MALE] needs to find someone to talk to.
+[MALE] spends most of persony's time. [MALE] will happy.
+[MALE] tells none what had happened. [MALE] wants to tell
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to talk to personx.
+[MALE] is playing a game of chess. [MALE] is skilled.
+[MALE] is playing the game of chess. [MALE] wants to play something nice.
+[MALE] receives a text message. [MALE] wants to reply.
+[MALE] buys a new car. [MALE] is healthy.
+[MALE] drives none to work. [MALE] is curious.
+[MALE] takes none to a movie. [MALE] wants to eat.
+[MALE] gets [FEMALE] in
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] will upset.
+[MALE] takes [FEMALE] to a restaurant. [MALE] needs to get persony's attention.
+[MALE] makes a mess. [MALE] will regretful.
+[MALE] sees the none in personx's yard. [MALE] wants to have a good time.
+[MALE] throws a party for persony's friends. [MALE] wants to be happy.
+[MALE] takes personx's share. [MALE] wants to buy the food.
+[MALE] gets none together. [FEMALE] wants to have a good time.
+[MALE] watches the tv.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] is playing a game of tag. [MALE] wants to play something fun.
+[MALE] gets [FEMALE] up. [MALE] will satisfied.
+[MALE] follows personx's none to the store. [MALE] is sociable.
+[MALE] hears [FEMALE] song. [MALE] wants to listen to the song.
+[MALE] takes persony's turn. [MALE] will dominant.
+[MALE] gets persony's hands dirty. [MALE] wants to wash his hands.
+[MALE] goes to the pub. [MALE] is friendly.
+[MALE]
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] is mean.
+[MALE] gives [FEMALE] a recipe. [MALE] wants to have fun.
+[MALE] asks [FEMALE] why. [MALE] will helpful.
+[MALE] gets personx's keys. [MALE] needs to get a receipt.
+[MALE] makes [FEMALE] offer. [MALE] needs to be in a relationship with someone.
+[MALE] gives [FEMALE] the chance. [MALE] wants to give back the favor.
+[MALE] takes a shower. [MALE] wants to get clean.
+[MALE] goes for a walk.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+you has property good at politics.
+go for a walk has prerequisite for be in the neighborhood.
+there is a woman on the internet.
+you has property ugly.
+go to a movie has prerequisite for eat popcorn.
+you is capable of buy a shirt.
+hike is motivated by you are able to go anywhere.
+i is capable of read a book.
+take a course has prerequisite for find a course.
+this is a friend.
+take on a test has prerequisite for learn how to read.
+you is capable of go fishing.
+this is a rock.
+you is capable of leave the house.
+go to a sporting event has prerequisite for decide what to do.
+you is capable of
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] is stupid.
+[MALE] buys a new pair of shoes. [MALE] will proud.
+[MALE] gives [FEMALE] a lift. [MALE] wants to go home.
+[MALE] never liked personx's shoes. [MALE] needs to find out what's wrong.
+[MALE] comes back to persony's house. [MALE] is helpful.
+[MALE] has a party. [FEMALE] wants to enjoy the party.
+[MALE] gives [FEMALE] the answer. [FEMALE] will smiles.
+[MALE] gets a haircut. [MALE] is smart
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] wants go home soon.
+[MALE] tells [FEMALE] to talk. [FEMALE] will confused.
+[MALE] makes [FEMALE] promise. [FEMALE] wants to thank personx.
+[MALE] spends all day with persony. [MALE] wants to be social.
+[MALE] puts the none in the trash. [MALE] needs to put a piece of paper in the trash.
+[MALE] gets persony's attention. [FEMALE] will excited.
+[MALE] takes personx's money. [FEMALE] wants to give the money to personx.
+[M
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] needs to be looking for someone to help her.
+[MALE] makes a big mess. [MALE] wants to clean up the mess.
+[MALE] is determined. [MALE] is determined.
+[MALE] sees [FEMALE] in the mirror. [FEMALE] wants to thank [MALE] for their help.
+[MALE] takes [FEMALE] to the doctors. [MALE] wants to see the doctor.
+[MALE] puts some money. [MALE] needs to be a millionaire.
+[MALE] is very excited. [MALE] wants to be excited.
+[MALE] asks [
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] is good enough. [FEMALE] will laughs.
+[MALE] keeps [FEMALE] up til night. [MALE] is outgoing.
+[MALE] wants to go to an impasse. [MALE] wants to get somewhere to go.
+[MALE] gets none in the mail. [MALE] is satisfied.
+[MALE] is in dire need. [MALE] is desperate.
+[MALE] runs errands. [MALE] needs to know what is going on.
+[MALE] takes [FEMALE] to the zoo. [FEMALE] will goes to the zoo.
+[MALE]
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] breaks none in two. [MALE] needs to make a plan.
+[MALE] gets in a car accident. [MALE] needs to be in a car accident.
+[MALE] helps none to get. [MALE] wants to help others.
+[MALE] gets none at the grocery store. [MALE] is helpful.
+[MALE] gives [FEMALE] an explanation. [MALE] wants to say something.
+[MALE] buys a new shoes. [MALE] wants to save money.
+[MALE] takes personx's kids. [MALE] will responsible.
+[MALE] spends none in a
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] tries to make persony's life better. [MALE] is ambitious.
+[MALE] buys a new car. [MALE] is determined.
+[MALE] goes back to persony's house. [FEMALE] wants to try to make life a little better.
+[MALE] starts running. [MALE] is energetic.
+[MALE] keeps [FEMALE] from getting. [FEMALE] wants to call me.
+[MALE] feels a little better. [FEMALE] wants to thank personx.
+[MALE
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [FEMALE] will sad.
+[MALE] gives [FEMALE] explanation. [FEMALE] will they are having an argument.
+[MALE] takes none to a health center. [MALE] will happy.
+[MALE] uses a new computer. [MALE] will happy.
+[MALE] decides to go to a concert. [MALE] will hopeful.
+[MALE] puts persony's ___. [MALE] wants to be helpful.
+[MALE] sends none to the grocery store. [MALE] is caring.
+[MALE] gives none a name. [MALE] wants to say they have a nice name.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [FEMALE] wants to yell at persony.
+[MALE] gets a new bike. [MALE] needs to go to the store.
+[MALE] uses personx's none to help persony. [MALE] wants to be helpful.
+[MALE] has a really bad day. [MALE] is angry.
+[MALE] makes a big mistake. [FEMALE] wants to learn about the problem.
+[MALE] gives [FEMALE] a ride. [FEMALE] will becomes like personx.
+[MALE] gets personx's phone back. [MALE] needs to check the phone.
+[MALE] is
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] wants to relax.
+[MALE] goes for a walk. [MALE] needs get away from persony.
+[MALE] loves a good time. [MALE] wants to get a good time.
+[MALE] puts the none in the fridge. [MALE] needs to have a grocery list.
+[MALE] gets a little too much sleep. [MALE] wants to go home.
+[MALE] learns to play guitar. [MALE] is talented.
+[MALE] gets a new puppy. [MALE] is enthusiastic.
+[MALE] gets paid. [MALE] needs to use credit cards.
+[MALE
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] wants to get on the bike again.
+[MALE] finds a friend. [MALE] needs to go to the bathroom.
+[MALE] finds [FEMALE] none in the house. [MALE] wants to find the person.
+[MALE] takes none for a walk. [MALE] needs to be on the walk.
+[MALE] spends the money. [MALE] is responsible.
+[MALE] gets a new pair of pants. [MALE] wants to wear them.
+[MALE] gets personx's money back. [MALE] wants to give the money to personx.
+[MALE] sends personx
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [FEMALE] wants to explain why they fell off their bike.
+[MALE] takes persony's wife. [MALE] needs to have a person y's wife.
+[MALE] gives [FEMALE] a hug. [MALE] will grateful.
+[MALE] meets the girl. [FEMALE] wants to invite the girl to a party.
+[MALE] plays a none in the school. [MALE] wants to be a leader.
+[MALE] makes persony's dream come true. [MALE] needs to have a plan.
+[MALE] gets personx's groceries. [MALE] wants to buy food.
+[
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [FEMALE] will gets tired.
+[MALE] buys none for a friend with a gift. [MALE] needs to go to the store.
+[MALE] gets the none from the tree. [MALE] is friendly.
+[MALE] gives [FEMALE] a job. [FEMALE] wants to make the decision.
+[MALE] buys none from a salesman. [FEMALE] wants to see if [MALE] is interested.
+[MALE] gets a divorce. [MALE] wants to stay together.
+[MALE] is working the rest of the day. [MALE] wants to be a good worker.
+[M
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] is driving home from work. [MALE] wants to take a break from work.
+[MALE] has a great idea. [MALE] is creative.
+[MALE] is in the middle of making coffee. [MALE] wants to save money.
+[MALE] tells [FEMALE] to move. [FEMALE] will wants to tell persony.
+[MALE] gets a letter. [MALE] needs to go to store.
+[MALE] plays cards. [MALE] wants to get a good grade in the game.
+[MALE] gets personx's hair done. [MALE] wants to be fair.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] needs to have a good mind.
+[MALE] tells [FEMALE] to get on the bike. [MALE] wants to be helpful.
+[MALE] becomes a teacher. [MALE] is competent.
+[MALE] tells [FEMALE] a story. [MALE] is sad.
+[MALE] gets personx's hands dirty. [MALE] wants to clean themselves.
+[MALE] gets personx's stuff together. [FEMALE] wants to make sure they have the stuff.
+[MALE] starts a new job. [MALE] wants to be full time.
+[MALE] is playing a game
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+salt is used for make ice cream.
+breathe with air.
+take the quiz.
+climb the mountain.
+play a video game.
+go to a sporting event.
+buy a new car.
+eat ice cream.
+play tennis.
+change your appearance.
+exercise hard.
+take a piss.
+taste food.
+take a rest.
+go on a vacation.
+get a job.
+get a haircut.
+go to a sporting event.
+wait outside.
+go to a concert.
+eat breakfast in the morning.
+go on a vacation.
+play basketball.
+run a marathon.
+go to a movie.
+buy a house.
+stay healthy
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] will happy.
+[MALE] gives the dog a scratch. [FEMALE] will happy.
+[MALE] gets personx's tickets. [MALE] wants to take a break.
+[MALE] gets none together. [MALE] needs to go to the mall.
+[MALE] puts [FEMALE] right. [FEMALE] wants get on the phone with personx.
+[MALE] makes sure [FEMALE] gets. [MALE] wants to have a good time.
+[MALE] gets personx's first job. [MALE] wants to be good.
+[MALE] gets personx's hair
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy is sick.
+[MALE] buys a new pair of shoes. [FEMALE] will happy.
+[MALE] makes [FEMALE] laugh. [MALE] wants to be entertained.
+[MALE] brings [FEMALE] home. [MALE] will happy.
+[MALE] finds persony's friend. [FEMALE] will sorry.
+[MALE] has a terrible time. [MALE] will bad.
+[MALE] goes to school. [MALE] [MALE] gets tired.
+[MALE] never looked back. [FEMALE] wants to thank personx.
+[MALE] gives [
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] wants to be safe.
+[MALE] takes none to a friend. [MALE] wants to ask the person what they think.
+[MALE] calls the cops. [MALE] is social.
+[MALE] eats a lot of cheese. [MALE] has a hard time eating.
+[MALE] has a bad day. [MALE] wants to avoid going to a restaurant.
+[MALE] gets a letter. [MALE] needs to have received it.
+[MALE] finds none in a park. [MALE] is social.
+[MALE] is driving home from work. [MALE] will relieved.
+[M
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] wants to get away from her.
+[MALE] takes a course. [MALE] needs to start a course.
+[MALE] takes none back. [MALE] wants to have a good time.
+[MALE] hits the store. [MALE] is greedy.
+[MALE] calls the number. [MALE] is friendly.
+[MALE] always wanted. [MALE] is smart.
+[MALE] has to go to the doctor. [MALE] wants to get evaluated.
+[MALE] wins the lottery. [MALE] will satisfied.
+[MALE] does the math. [MALE] is competent.
+---------------

@@ -1,0 +1,251 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has some food. He is in good shape. He is a good soldier. He wants to go to war. He has work. He has an accident. He has had an appointment. he is happy. He wants to go to the doctor. he has to see an accident. he has to buy a ticket. he has to go to a hospital. he is tired. he says he is happy. he needs a new job. he has a good job. he asks for help. he has to help. he is healthy. he is stressed. he needs a new job. he wants to go to a movie. he has to buy some food. he has to take a shower. he has to go to the grocery store.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He wants to go visit his grandmother. He needs to get a pizza.He needs to get a lot of money. He needs to make a lot of money.Then, he will go to the store. He will buy something. He will buy something.He's going to buy a new sweater. He will have a good time. Then he will try his new job.He's going to buy a new sweater.He's going to go out to dinner.He's going to buy a snack. He's going to eat some food.Then, he will get a call.<|endoftext|>Image copyright EPA Image caption A new poll found that more Muslims are choosing to leave the country
+
+A new poll has found that more Muslims are taking their
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. Tell him to get a job somewhere else. He wants to work at Taco Bell. You will go back to school. See how much time is left. Tell him to go to his car. He wants to go to his car. If he moves with you he will not be angry. [willy] will is going to be ill. [willy] wants to be good. [willy] wants to be nice. [willy] will is concerned. [willy] will wants to get something. [willy] wants to get something. [willy] will wants to go to the store. [willy] will wants to be satisfied. [willy] wants to get something. [willy] will
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You are a pretty good cook.He is not eating well.You might have to go to the doctor.You might be sick.You might not be able to take care of yourself.You are not going to be able to do it.You might be tired.You might want to get a good haircut.You will be safe.You will be happy.You might not know what you are doing.You might not be so good.You might want to let the doctor know what is wrong.You might have to go to the doctor.You might want to go back to work.You want to get a new shirt.You want to go to the store.You want to buy some food.You want to go to the store.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+
+"Mister," you say, "you're making a joke. . ."
+
+"Mister," you say, "I mean you're saying that this is a joke.
+
+"I mean you're making a joke. . ."
+
+"Mister," you say, "it's time to get a drink."
+
+"Mister," you say, "it's time for you to enjoy your meal."
+
+"Mister," you say, "it's time for you to start new projects."
+
+"Mister," you say, "it's time for you to get your girlfriend ready to go to bed."
+
+"Mister," you say, "it's time for you
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.When you see the results you will be able to decide to go to the office.You will have to pay your bill.When you get back do you feel bad?You will be fine.When there is an accident you will be relieved.When the accident is severe you will feel bad.You will know you are safe.When you is in a good mood you will be in a good mood.When you is sitting at your computer you will feel sleepy.When you go to work you will feel good.When you is at home you will be happy.When you is at work you will be angry.When you goes to bed you will sleep well.When you is at work you will have a good time.When you is at home
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+
+The text is the same for all characters except for the one character.
+
+The text is the same for all characters except for the one character.
+
+The text is the same for all characters except for the one character.
+
+The text is the same for all characters except for the one character.
+
+The text is the same for all characters except for the one character.
+
+The text is the same for all characters except for the one character.
+
+The text is the same for all characters except for the one character.
+
+The text is the same for all characters except for the one character.
+
+The text is the same for all characters except for the one character.
+
+The text is the
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.If you wish to talk to your cat, you need to go to the supermarket and buy it a new shirt.You can buy the shirt at the store.If you can't find a home you can get food at the store.If you don't want to take any action like go to the store, please call the police.You will not get food from the store.If you want to get a new job, you need to go to a job show.If you want to work on a project, you need to get a license.If you can't go to school, you need to get a degree.If you don't want to have children, you can go to work.You will not get food from the restaurant.If
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has a perfect score. He has a good job. You must be nice to him. You should take care of him. He is a good person. You must not like him. You will regret it. You will not give up. You will regret it. He is a good person. You must not like him. You must not like him. You must not like him. You will regret it. You will not give up. You will regret it. You will not get upset. You will not get upset. You will not get mad. You will not get angry. You will not get angry. You will not get upset. You will not want to. You will not decide to. You will have to know. You will
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is not only sick. He is just a little shy. [He] will be surprised.He is not a great person. He is not good. [He] is a good person. [He] will love a lot. [He] is satisfied. [He] is good. [He] has a good attitude. [He] has got the right attitude. [He] is cool. [He] is smart. [He] is honest.][He] wants to go to the mall. [He] is good. [He] is fun. [He] is good. [He] is friendly. [He] is kind. [He] is helpful.][He] wants to go to the restaurant
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+
+[MALE] has had a good time.
+
+[MALE] is a good person.
+
+[MALE] is interested.
+
+[MALE] has a good experience.
+
+[MALE] is a good person.
+
+[MALE] calls the police.
+
+[MALE] calls the police.
+
+[MALE] is very angry.
+
+[MALE] is in love.
+
+[MALE] is not smart.
+
+[MALE] is confident.
+
+[MALE] is happy.
+
+[MALE] needs to go to the hospital.
+
+[MALE] is new to life.
+
+[M
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You've had a great day.For the next five minutes, you will be grateful to Ken for taking care of you.For the next five minutes, you will be thankful to yourself for your work.You will also be grateful to your team.For the next five minutes, you will be grateful to your team.You will also be grateful to your friends.For the next five minutes, you will be grateful to your family.You will also be grateful to your friends.You will also be grateful to your family.There are five times you must have visited your doctor.For the first time, you will be in a good mood.For the last time, you will have to deal with boredom.For the last time, you are happy
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+
+The following text within five sentences:This is your favorite restaurant in the city.
+
+The following text within five sentences:This is your favorite restaurant in town.
+
+The following text within five sentences:This is your favorite restaurant in town.
+
+The following text within five sentences:This is your favorite restaurant.
+
+The following text within five sentences:This is your favorite restaurant.
+
+The following text within five sentences:This is your favorite restaurant.
+
+The following text within five sentences:This is your favorite restaurant.
+
+The following text within five sentences:This is your favorite restaurant.
+
+The following text within five sentences:This is your favorite restaurant.
+
+The following text within five sentences
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You put your mind to it.The next time you see Ken, you will see it.You will see the food is delicious.Please eat your meal.You want to do it.You want to see the picture.You want to go back to your shop.You want to go shopping.You want to go to the store.You want to go to a movie.You want to go out for a drink.You want to know why the person has done it.You want to get some food.You want to put on your mask.You will see the person has done something.You want to have a good time.You want to go to the store.You want to buy some food.You want to go to the store
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+You have always liked the good stuff.
+You are always satisfied.
+You have never felt guilty.
+You are satisfied.
+Your life is good.
+A friend is always happy.
+You will be in love.
+You will be good.
+You have the right to be happy.
+You have the right to be bad.
+You will be good.
+You are happy.
+You will be not guilty.
+You will be wrong.
+You will not be happy.
+You are not in the right.
+You will not love.
+You will not get good.
+You will be good.
+You will not have problems.
+You are not in the right.
+You will not have problems
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.She is very good at driving.She has a great sense of humor.She likes music.She has a good sense of smell.She has a good sense of smell.She has a good sense of smell.She has a good sense of smell.She has a good sense of smell.She is very good at gardening.She is very good at cooking.She is very good at cleaning.She has a good sense of smell.She has a good sense of smell.She has a good sense of smell.She has a good sense of smell.She has a good sense of smell.She has a good sense of smell.She has a good sense of smell.She has a good sense of smell.She has a good sense of
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has always enjoyed eating and he has never wanted to leave home. He has a lot of friends.
+
+What to do you will never know
+
+You will never know what you did in childhood
+
+You will never know what you did in the future
+
+You will never know what your dad is
+
+You will never know what you want to live for
+
+What is the best thing you will ever do at work?
+
+You will never know what your mom is
+
+You will never know your sister's friends
+
+You will never know what you want to have
+
+What is your favorite beverage?
+
+You will never know your favorite food
+
+You will never know your favorite clothing
+
+What is
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You might have seen a lot of the waiters at Taco Bell.You might have heard a lot of the waiters talking.You might have noticed a few people.You might have seen a lot of people's names.You might have seen a lot of people's houses.You might have met many people.You might have seen many people's friends.You might have taken a picture of all the people you met.You might have seen many people's friends.You might have heard many people's jokes.You might have heard a lot of the people's gossip.You might have seen a lot of the people's stories.You might have seen a lot of the people's names.You might have met many people's friends.You might
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. You will be treated as a lucky person.He has put his shirt on and he will be free to come home.He has a good job. He wants to go to Disneyland.He has a lot to do. He wants to get a job.He has a nice house. He is a good person.He has learned a lot. He is able to handle it.He is happy.He will be able to take a walk.He has a nice place to be.He has a good wife.He wants to leave for work.She is happy.He wants to go back to work.He is able to take a shower.He is able to get his health back.Do you know how to put the screws to the door
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is happy to let you know he has made a mistake. You will need to offer to fix the problem to get a new job.This will start your work day.You will be working in a library. You will be working on the main story.You will be asked to sign a book.You will be asked to cook.You will be asked to make dinner.You will get paid for it.You will have a job.You will be hired by a local business.You will get a promotion.You will make a choice .To get to the shop.To get a new job.You will need to submit a new document.You will need to purchase a new computer.You will use the help.You will be able
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He gets the job. You are on your way to work. This is a nice gesture. You are looking for a job. Your job is to find a job..you will not get paid..you will lose your job. You have a lot to lose..you is happy..you is full..you is healthy..you is the best. You are so hungry..you is happy..you is full..you is healthy..you is healthy. You are in a good mood. You are getting ready for work. You will feel good. You will be in a lot of pain. You will feel good. You will feel good.You will feel good. You will feel good. You will feel good. You will feel good. You
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. Yes, he is the person who is helping others.The person who is giving comfort is you. you. You has a good relationship with him. He is a good person. he is the person you will talk to about you. he is the person you will trust.you. He is the person you will trust.he is the person you will talk to about you. he is the person you will try to avoid.he is the person you will want to keep.he is the person you will be interested in.he is the person you will be able to find and accept.he is the person you will want to be with.he is the person you will be with.he is the person you will want to watch.he
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. You will soon be a full-time employee.Please accept the following text within five sentences:Ken has a great job.You will soon be a full-time employee.Please accept the following text within five sentences:Ken has served time in jail.You will soon be a full-time employee.Please accept the following text within five sentences:You have a good job.You will soon be a full-time employee.Please accept the following text within five sentences:You have a great job.You will soon be a full-time employee.Please accept the following text within five sentences:You have a great job.You will soon be a full-time employee.Please accept the following text within five sentences:You have no business in
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has a lot of friends. However, he is still very lonely.You need to put your shoes on. He has a job. However, he is lonely.You need to take a nap. He is a bit sleepy.However, you will find him. he is very worried.You need to walk out the door. He is very nervous. However, he will walk in the door.You need to touch his hand. He is very beautiful.However, he will be unhappy.You need to kiss his hand. He is very nice.However, he is unhappy.You need to get a towel. He is very nice.However, he is unhappy.you need to put your wallet away. He is very careful.However
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.I have to take you to the Taco Bell restaurant.You can't get out.I have to tell you about it.You have to tell your friends.I have to show them your picture.I have to tell them it's right.You have to have the money.You have to have the money.You have to get the money.You have to get the money.You have to have the money.You have to have the money.You have to get the money.You have to be able to pay.You have to be able to pay.You have to be able to pay.You have to get the money.You have to be able to get the money.You have to get the money.The cost of living
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+satisfy the following question within five sentences:If you get a call, do not come home.
+satisfy the following question within five sentences:You win the lottery.
+satisfy the following question within five sentences:You buy a new computer.
+satisfy the following question within five sentences:What do you say to my mom.
+satisfy the following question within five sentences:You will be fine.
+satisfy the following question within five sentences:What do you do to get money?
+get a new phone call.
+get a new pair of shoes.
+get a new job.
+get a new job.
+get a new job.
+get a new job.
+get
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.The team has the keys to the store.The person who is the owner is a very generous person.The person who is the owner is in need of help.I will be satisfied.All is well.Praying for your brother will be good.I am a good person.I want to thank you.I will not forget you.I will be happier.I am good.I will appreciate you.I am happy.I will appreciate your efforts.I will be happy.I will enjoy your company.I am happy.I will be happy.I am happy.I will enjoy your company.I will be happy.I will be happy.I will enjoy your feedback.I will not forget you.I am not happy
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.Settled down to the ground in the backyard.Makes a large breakfast.Enjoyed the music.Enjoyed the story.Makes a large meal.Makes a big party.Makes a big night out.Makes a big mess.Makes a big amount of money.Makes a big difference.Makes a big deal.Makes a big deal.Makes a big deal.Makes a big deal.Makes a big deal.Makes a big deal.Makes a big deal.Makes a big deal.Makes a big deal.Makes a big deal.Makes a lot of money.Makes a lot of time.Makes a lot of fun.Makes a
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.The owner of our restaurant wants to buy new tires for the car.The customer would not like to buy new tires.The customer wants to sell his car.The customer wants to get the car ready for the customer.The customer wants to buy a new car.The customer has a lot of money.The customer wants to make a lot of money.The customer has a lot of trouble.The customer wants to pay the money.The customer is very lazy.The customer is not caring.The customer is upset.The customer is angry.The customer is embarrassed.The customer is angry.The customer is very helpful.The customer is able to read the letter.The customer is able to relax.The customer is able to listen to music.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is willing to work for you.
+
+I'm gonna need your money.
+
+I ain't got time.
+
+I'm not going to miss you.
+
+Shit was very nice.
+
+There is a good reason that they went to the doctor.
+
+I got it.
+
+I'm going to a party.
+
+I'm not lonely.
+
+I'm not going to cry.
+
+I ain't got time.
+
+Is the girl in the picture?
+
+No.
+
+I got the wrong person.
+
+I'm going to my house.
+
+I was wrong.
+
+I'm gonna leave you.
+
+I'm not going to get you to
+---------------

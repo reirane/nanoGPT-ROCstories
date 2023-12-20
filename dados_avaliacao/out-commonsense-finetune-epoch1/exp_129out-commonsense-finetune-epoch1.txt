@@ -1,0 +1,240 @@
+Overriding: out_dir = out-commonsense-finetune-epoch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:I was playing catch with some friends outside.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:I was playing catch with some friends outside.I wanted to be a cop.You have to be a firefighter.You are a good friend.I got a promotion.You work hard.You get more cash.You have an appointment.You have a great time.I am very satisfied.I am a good person.I respect you.I want to meet you.I am ready.You have a great day.I am caring.I will do my job.I will be happy.I will make a statement.I will be happy.We are happy.I will be excited.We will be good.We will be in the restaurant.We will be happy.I want to talk to you.I want to buy you a ticket to the game.I want to make
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I got a car with all the seats.I tried to grab something to go to the store.I found a bag.I went to the store.I got a receipt.I got the package.I ran away.I go to the library.I get a license.I get a new cell phone.I call my brother.I was always late.I got the phone.I was sick.I ate a pizza.I saw a tv show.I was in the store.I did not drink the beer.I have a bag.I was in the car.I didn't know what was on the counter.I walked somewhere.I was walking by a tree.I was in the yard.I was asleep.I was
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I would like to see all the things.I am more worried about the situation than anything.I want to do something good.I am smart.I would like to have a happy life.I am successful.I will be doing good.I would like to get some work done.I wants to make money.I is happy.I want to be in a good place.I is good.I wants to be social.I is lazy.I wants to have a good time.I is good.I wants to stay positive.I wants to be more productive.I is healthy.I wants to be a good person.I is good.I wants to be accepted.I would like to get a job.I is motivated.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I wanted to give it a try.I am pretty sure it will be great.I am very satisfied.I will be very satisfied.I will be too tired.I will be tired.I will be very tired.I will be too tired.I will be more careful.I will be more cautious.I will be safe.I will be grateful.I will be happy.I will be healthy.I will be helpful.I will be helpful.I will be helpful.I will be helpful.I will be helpful.I will be helpful.I will be helpful.I will be helpful.I will be helpful.I will be helpful.I will be helpful.I will be helpful.I will be helpful.I will
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] needs to talk to [FEMALE] in persony's car.
+[MALE] wants to go back to school.
+[MALE] needs to use a [FEMALE] card.
+[MALE] wants [FEMALE] to do something else.
+[MALE] wants to go shopping.
+[MALE] wants to check the mail.
+[MALE] wants to get [FEMALE] to take care of it.
+[MALE] wants to be a teacher.
+[MALE] takes a shower.
+[MALE] is kind.
+[MALE] tells [FEMALE] an idea.
+[MALE
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.When my friends come by for the evening, they will be greeted by the red robed man.I have a lot of friends.Good luck.Have fun.This is a lesson.I have been studying for my degree.I have a lot of fun.Good luck.This is a lesson.I am the child of an unhappy family.Good luck.I will be in high school.This is a lesson.I will be a teacher.This is a lesson.I will enjoy my time.This is a lesson.I will be a good teacher.This is a lesson.I will be in good health.This is a lesson.I will be free from hunger.This is a lesson.I will be a good teacher.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+I was playing with some friends outside.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with some friends.
+I was playing with
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I was looking for something.I was curious.So, you are in the game.It is the right time.I was looking for a job.I was bored.I was lucky.I was nervous.I was sad.I wanted to thank you.I was in the wrong place at the wrong time.I got my license.I am responsible.All goes well.I wanted to be a good person.I was proud.I was happy.I was relieved.I was sad.I was proud.I was responsible.I was happy.I was sad.I was happy.I was happy.I was happy.I was happy.I was happy.I was happy.I was happy.I was happy.I
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] is playing catch with some friends.
+[MALE] tells the truth. [MALE] is a liar.
+[MALE] wants to find the house. [MALE] wants to find a house.
+[MALE] becomes an expert. [MALE] becomes a master.
+[MALE] gets the job. [MALE] needs to get the job.
+[MALE] is not in charge. [MALE] wants to be responsible.
+[MALE] receives an award. [MALE] wants to get the award.
+[MALE] wants to go to the gym. [FEMALE] wants to be in the gym.
+[
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] sees the right thing. [MALE] to make a statement.
+[MALE] is capable of. [FEMALE] will to be a good parent.
+[MALE] needs help. [MALE] needs to find someone else.
+[MALE] has no idea. [MALE] needs to go to the nearest store.
+[MALE] is able to see a lot. [MALE] will to be a good person.
+[MALE] meets the needs. [MALE] needs to have a lot of friends.
+[MALE] hears the news. [MALE] will be surprised.
+[MALE] is a poet. [
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+you is at a place.
+you is a person.
+you is at your computer.
+a person is at a place.
+a person is at a place.
+a person is at a place.
+the person is at a place.
+one is capable of.
+someone is capable of.
+someone is capable of.
+a person is at a place.
+a person is capable of.
+something is at a place.
+something is capable of.
+a person is at a place.
+a person is capable of.
+someone is capable of.
+a person is able to.
+a person is capable of.
+a person is capable of.
+a person is capable of.
+a person
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I've had an accident.I didn't know how to handle it.I was having a party.I thought that something was off.I'm confused.I can't help but feel guilty.I don't know how to say something.I want to be a good person.I feel good about myself.I don't know what to do.I need to write something.I see a friend.I notice something.I want to save time.I have a great time.I is curious.I want to find out how this happened.I'm tired.I think about something.I am happy.I feel good.I really want to help.I can't help but feel guilty.I feel ashamed.I feel bad.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] wants to help someone else.
+[MALE] is a writer.
+[MALE] wants to be a writer.
+[MALE] says to [FEMALE] 's mom.
+[MALE] becomes a teacher.
+[MALE] wants to get paid.
+[MALE] buys [FEMALE] a new car.
+[MALE] wants to leave.
+[MALE] wants to be a good person.
+[MALE] wants to get [FEMALE] into a restaurant.
+[MALE] starts to feel sick.
+[MALE] goes for a walk.
+[MALE] asks [FEMALE]
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I was playing with someone.I was going to meet someone.I was going to have a good time.I is feeling sick.I is feeling tired.You are having a great time.I is enjoying the day.I is feeling happy.I is happy that you are capable of do the right thing.I is not feeling well.I is proud.I am happy.I is content.I is caring.I is helpful.I is grateful.I is satisfied.I is happy with my life.I is happy.I is happy with the job.I is satisfied.I is satisfied.I is happy.I is satisfied.'s father.I is happy.'s mother.I is happy.'s child.I is
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+You have to use the name "Romeo" in your name.
+[MALE] needs to take the bath.
+[MALE] wants to see a movie.
+[MALE] gets a haircut.
+[MALE] puts [MALE] in a coma.
+[MALE] throws a party.
+[MALE] wants to save [FEMALE] money.
+[MALE] wants to call [FEMALE] in person.
+[MALE] is at work.
+[MALE] is out of town.
+[MALE] eats lunch.
+[MALE] is a genius.
+[MALE] wants to go to the park.
+
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] calls [FEMALE] for help.
+[MALE] leaves [FEMALE] alone.
+[MALE] is the first person to leave the tent.
+[MALE] leaves [FEMALE] alone.
+[MALE] begins to sing.
+[MALE] carries [FEMALE] across the world.
+[MALE] becomes [FEMALE] friend.
+[MALE] watches TV.
+[MALE] buys [FEMALE] a shoe.
+[MALE] loves to play.
+[MALE] works hard.
+[MALE] gets to know [FEMALE] better.
+[MALE]
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+Now read the following text within five sentences:I will be lucky to have found my brother.
+I will be lucky to have found my brother.I will be lucky to find my brother in the future.
+I will be lucky to be able to be in school.
+I will be able to be in school.I will have my parents ready.
+I will be able to be in school.I will be able to be with my friends.
+I will be able to be in school.I will be able to stay in school.
+I will be able to be in school.I will be able to be more comfortable.
+I will be able to be in school.I will be able to do my job nicely
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I asked what happened.I was the one who got the ticket.I is a pretty girl.I asked if my boyfriend is in the car.I had to do some research.My boyfriend is a jerk.I is in a family.I went to the store.I got the money.I is a nice guy.I got the car keys.I went to the restaurant.I did a good job.I had a good time.I is pretty.I was playing with my friends.I told my brother.He asked me to give him a ride.I told him.He took the car.I gave him a hug.I told my brother what was going on.I called my sister with my phone.I picked her
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. I was holding a knife with my right hand, and I wanted to use my right hand to cut something.I was playing catch with some friends outside. I needed food.I was playing catch with some friends.I was hungry.I was thirsty.I was naked.I was too drunk.I was in a hurry.I was in pain.I was in trouble.I was angry.I was sad.I was sad.I was happy.I was loved.I was loved.I was loved.I was loved.I was loved.I was loved.I was loved.I was loved.I was loved.I was loved.I was loved.I was loved.I was loved.I was loved.I was
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I want to play catch with their friends.I will be fine.You need to stop playing catch with friends.You are not good at it.You are lazy.You need to change.You need to be a good person.You will be successful.You will be helpful.You will be happy.You will be loved.You will be beautiful.You will be fulfilled.You want to be in the job.You will give.You will be thankful.You will use the money.You want to be a good person.You will be in a situation.You will get a reward.You want to be happy.You want to have fun.You want to be fun.You want to be successful.You want to be good
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.<|endoftext|>The first attempt to get a girlfriend is not an easy task.
+The first time you is a customer.
+The first date is a good time for you..
+the first job is a bartender.
+the first game is to play basketball.
+the first thing is learn to read.
+the first thing is change your hair.
+the first thing is call customer service.
+the first thing is cook breakfast.
+the first thing is make a new computer.
+the first thing is put a new tire on.
+the first thing is a game.
+the first thing is a great adventure.
+the first thing is an adventure.
+the first thing is a new house.
+the first thing is a great trip.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] takes a picture of the person in the picture.
+[MALE] takes a trip to the mall.
+[MALE] takes the person's dog.
+[MALE] gives [FEMALE] a gift.
+[MALE] takes a trip to the mall.
+[MALE] is holding persony's hand.
+[MALE] is not in the area.
+[MALE] asks persony's wife.
+[MALE] is talking to the other [FEMALE]..
+[MALE] gives [FEMALE] a gift.
+[MALE] gets personx's groceries.
+[MALE] brings [FEMALE]
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I'm a little frustrated.I want to be in a good mood.I want to be with my boyfriend.I want to go to the park.I want to go to a movie.I want to be in a good mood.I'm happy.I want to be with my family.I want to be with my kids.I want to be in a good mood.I want to be in a good mood.I want to be with my family.I want to be in a good mood.I want to go to the park.I want to go to a movie.I want to be in a good mood.I want to be really sad.I want to be loved.I want to be in a good mood.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] is engaged.
+[MALE] is very close to persony.
+[MALE] is in the area.
+[MALE] wants to take a walk.
+[MALE] is not aware of persony.
+[MALE] is confident.
+[MALE] will personx's needs.
+[MALE] is curious.
+[MALE] needs to get persony's attention.
+[MALE] wants to go to a store.
+[MALE] is able.
+[MALE] is a bit needy.
+[MALE] personx's needs.
+[MALE] wants to go to a movie.
+[MALE]
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I was making a sandwich.I was getting drunk.I was talking to someone.I was about to get lost.I was not feeling well.I is out of shape.I is not tired.I wants to talk more.The doctor is in the office.I is ready.I is working.I is a successful person.I wants to be successful.I wants to be in the right place at the right time.The doctor gives an appointment.I is interested.I is working.I is happy.I wants to talk to the doctor.The doctor gives the appointment.I wants to go on vacation.I wants to be in a good mood.I wants to have a good time.I is not happy.I is
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+sick of the game of chance is not a good thing.
+sick of the game of chance is not a good thing.
+sick of the game of chance is not a good thing.
+sick of the game of chance is not a good thing.
+sick of the game of chance is not a good thing.
+sick of the game is not a good thing.
+sick of the game is not a good thing.
+sick of the game is not a good thing.
+sick of the game is not a good thing.
+sick of the game is not a good thing.
+sick of the game is not a good thing.
+sick of the game is not
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.The girl with the yellow hat is a black cat.It fell asleep with a scratch on her head.I was playing catch with some friends in the park.I got a gift.I was thinking about my gift.The girl with the black hat is a black cat.I got a phone.I am playing catch with some friends in the park.I was trying to catch a game.The girl with the yellow hat is a black cat.I had a bad day.The girl with the yellow hat is a black cat.I was playing catch with some friends in the park.I was trying to catch a game.The girl with the yellow hat is a black cat.I was playing catch with some friends in the park.I was
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.Suit yourself up.I am in the middle of a lot of trouble.I will succeed in my job.I will get the best deal.I will have some time to rest.I will get a new job.I will be able to take care of myself.I will have a nice day.I will be doing my job well.I will be thankful to be back home.I will be on time.I will like them to pass.I will be satisfied.I will be understanding.I will like what they have been through.I will like they are working harder.I will be in good spirits.I will be happy.I will know the truth.I will be glad.I will do my duty.I will
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.The door was locked. [FEMALE] will not answer. [FEMALE] will needs to make a decision. [FEMALE] will has a very good understanding. [FEMALE] is interested. [FEMALE] is willing. [FEMALE] will is open to new ideas. [FEMALE] will needs to use their imagination. [FEMALE] will eager to get better. [FEMALE] is talented. [FEMALE] will strong. [FEMALE] will is capable. [FEMALE] will would will eager to learn. [FEMALE] will looks good. [FEMALE] is responsible. [FEMALE] will is
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.My wife told me to go get some things.I wanted to go get some coffee.I got a nice cup of coffee.I get my phone in my hand.I get to talk to my wife.I have a great time.I feel great.I buy some food.I get to relax.I need to go somewhere.I was playing chess with my mom.I was playing with my mom.I felt great.I make a decision.I get a new job.I choose a new toy.I get a new phone.I get a new computer.I get to go somewhere.I want to be a teacher.I got a job.I want to be successful.I get a good job.I want to be
+---------------

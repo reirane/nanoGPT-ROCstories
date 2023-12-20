@@ -1,0 +1,116 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tim was at the bar.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tim was at the bar. He wanted to sit down. He was in the store.Tim wants to go to the store.The clerk comes.Tim has no problem with the clerk.The clerk gets good.Tim wants to help.He needs to help the clerk.Tim is at home.The clerk comes.The bar is empty.The clerk is in the store.The bar is empty.The clerk wants to help.The clerk is at work.Tim is exhausted.The clerk has a job.The clerk needs to go to work.The clerk is at the store.The clerk wants to go to work.Tim is happy.The clerk is at the store.The clerk needs to go to work.Tim is proud.The clerk is at the store.
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was very happy with it. He's going to the gym. He's not going to work out. The person is going to do a good job. He's a good person. He's going to the gym. He's going to work out. The person is going to do a good job. He's a good person. He's going to the gym. The person is going to do a good job. He's a good person. He's go to the gym. The person is going to do a good job. He's a good person. He's going to the gym. The person is going to do a good job. He's a good person. He's a good person. He's go to the gym.
+---------------
+Complete the following text within five sentences:Tim was at the bar.Sooo . . .soo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+---------------
+Complete the following text within five sentences:Tim was at the bar.You were at the restaurant.You were at the hotel.You were at the store.You were at the store.You were at the library.You were at the movie theater.You were at the restaurant.You were at the store.You were at the hotel.You were at the store.You were at the restaurant.You were at the restaurant.You were at the store.You were at the store.You were at the store.You were at the store.You were at the store.You were at the store.You were at the store.You were at the store.You were at the store.You were at the store.You were at the store.You were at the store.You were at the store
+---------------
+Complete the following text within five sentences:Tim was at the bar. He is not the type of person to be on the hook for an event. . . And the person you are is the same as the person you are dating. . . You will become better. The person you are dating is not the type of person to be in a relationship. . . you do not need to go to the bar. . . You are able to go to the bathroom. . . You will become better.<|endoftext|>A new tool is being developed that can help researchers to find the cause of a number of common ailments and take action to correct them.
+
+The tool is called a 'gift-machine' that is being developed by a team at the University of North Carolina at Chapel Hill.
+
+The tool is
+---------------
+Complete the following text within five sentences:Tim was at the bar.When you open the door for the bar, you will be greeted by the bartender.When you go to the store, you will get a discount.When you go to a store, you will be there.When you walk, you will get credit.When you get in the car, you will be happy.When you go on a date, you will get on the couch.When you shop, you will find it.When you go to your car, you will go to the store.When you pick up a phone, you will receive a call.When you get a job, you will get a job.When you go to a concert, you will get to see how they played.When you leave a house, you will be
+---------------
+Complete the following text within five sentences:Tim was at the bar. He got his wallet. You want to buy some butter. You are going to eat breakfast.You want to take the bus. You want to go to a movie.You are ready. You want to go home to bed.You want to see your friends.You want to go to the gym.You want to go to your family's house.You want get a job.You want to get a job.You want to go to the doctor.You want to buy a car.You want to get a haircut.You want to go home.You want to go to the park.You want to get in shape.You are ready.You want to go to a play.You want to go to the concert.You want to
+---------------
+Complete the following text within five sentences:Tim was at the bar.Tim was looking for something.Tim was curious.So, the next day, Tim was at a club.Tim was bored.Tim was sick.So, Tim was at the bar.Tim was a weirdo.So, Tim took the elevator.Tim was a good guy.So, Tim took the elevator.Tim was very lucky.So, Tim left the place.Tim was happy.So, Tim found a way to get out of the house.Tim was relieved.So, Tim took a shower.Tim was sad.So, Tim left the car.Tim was very tired.So, Tim got a new car.Tim was very tired.So, Tim is having a good time.So, Tim gets a new clothes.
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was a good person. He was a good person. You were the good person.You were the good person.He was a good person.He got paid.He got paid.You were the good person.You were the good person.You were the good person.He is a good person.He is a good person.He is a good person.You were the good person.You were the good person.You were the good person.You were the good person.You were the good person.You were the good person.You were the good person.You were the good person.You were the good person.You were the good person.You were the good person.You were the good person.You were the good
+---------------
+Complete the following text within five sentences:Tim was at the bar. He is not here to buy something.He is not here to get to work.He is not here to be a good Samaritan.He is not here to lose his job.He is not here to give a good report.He is not here to be a bad guy.He is not here to beat the shit out of the other person.He is not here for a drink.He is not here to hang out with a friend.He is not here to be embarrassed.He is not here with the kids.He is not here to have sex.He is not here to be a good person.He is not here to think.He is not here for a date.He is not here to have a normal day.He
+---------------
+Complete the following text within five sentences:Tim was at the bar.Lloyd was at the beach.Mia was at the grocery store.I was at the mall.Wendy was at the store.Mia was at the pool.I was at the airport.Wendy was at the mall.Mia was at the pool.Wendy was with the kids.I was at the grocery store.Wendy was at the store.Mia was at the car.Wendy was with his friends.I am at the mall.Mia was at the mall.I was at the hospital.Mia was at the hospital.Wendy was with his friends.Wendy was with the family.Mia was with the family.I am at the mall
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was a good kid.He had nice things to say.He was a good friend.He was at the doctor.Tim was at the doctor's office.He was a good friend.He was at the gas station.Tim was at the grill.He was good.He was at the mall.Tim was at the mall's security.He was at the mall's post office.Tim was at the mall's office.He was a good friend.He was at the mall's office.Tim was at the office's.He was a good friend.She was at the library.She was at the library's office.Her husband was at the office's.Tim was at the store.He was at the store's.He
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was going to meet the girl soon. Then he would go to the hotel room.Then he would talk with his mother.Then he would have a good time. Then he would go to bed.Tim is at the kitchen. He is going to pick up a cup of coffee.Then he would get up.Then he would get back to work.Tim is at the store. He is going to buy some groceries. Then he would go to the gym.Tim is in the car. He is going to walk.Then he would get to the door.Then he would say goodbye.Tim is at the store. He is going to pick up a new item. Then he would leave.Tim is in the car. He is going
+---------------
+Complete the following text within five sentences:Tim was at the bar.I told him there was a problem.He said, 'Yes, you do.'I asked him what he was doing.He said, 'I am going for the beach.'I told the waiter my order.I asked him how long had it been,he said, 'a few minutes.'I asked him how much he wanted to pay.He said, 'I don't really know.'I told him how much he wanted to know why I gave him the order.He said, 'I love you.'I told the waiter my number.He said, 'I'm so sorry.'I asked.He said, 'I'm fine.'I told the waitress she had to call the local police.She said, 'Yeah, but
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+You have to pay the fee.
+You must be in good health.
+You are in the party.
+You are getting ready for work.
+You are enjoying your life.
+You are a good person.
+You have good things to say.
+You have the right to be a member of the club.
+You are home free.
+You are happy.
+You are very happy.
+You are not in need.
+You are happy.
+You are not disappointed.
+You are always a great friend.
+You have a job.
+You are glad.
+You want to be able to support yourself.
+You are excited.
+You are not getting old.
+You are sure.
+You are
+---------------
+Complete the following text within five sentences:Tim was at the bar.She was looking for something.I asked her to do so.I didn't want to ask a dumb question.I was wrong.I wanted to see what she was talking about.I looked for something close to her.I was right.I asked her to walk.I wanted to see her.I was on the telephone.I was at the bar.I wanted to get something.I was at the store.I was at the bar.I asked her to buy a drink.I asked her to go to the bathroom.I asked her to go to bed.I asked her to go to the office.I asked her to get some rest.I said no to the offer.I said no to the offer.I said no
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was thirsty. He wanted to go to a movie. He was tired. He wanted to be home with his wife. He was tired. He wanted to go back to work. He was tired. He wanted to go to bed. He was tired. He wanted to go to the gym. He was tired. He wanted to go to the park. He was tired. He wanted to go to the store. He was tired. He wanted to go to the park. He was tired. He wanted to go to the park. He was tired. He wanted to return to his job. He was tired. He wanted to be more active. He was tired. He wanted to take a nap. He was tired. He wanted to take
+---------------
+Complete the following text within five sentences:Tim was at the bar. He asked what happened. He was the one behind the counter. He is the one you should have an appointment with.Your phone is on the other side of the table. The person at the counter is not going to be happy. You should go outside.
+
+[F2P]The person is at the bar. You got a good idea.
+
+[F2P]the person is at the bar. You are happy.
+
+[F2P]the person is at the bar. You were at the bar.
+
+[F2P]the person is at the bar. You have a good idea.
+
+[F2P]the person is at the bar. The person is at the bar
+---------------
+Complete the following text within five sentences:Tim was at the bar.com.
+Tim was at the bar.com. [FEMALE] wants to do something about the situation.
+Tim was at the bar.com. [FEMALE] wants to be more assertive.
+Tim was at the bar.com. [FEMALE] is relaxed.
+Tim was at the bar.com. [FEMALE] is relaxed.
+Tim was at the bar.com. [FEMALE] wants to be able to find something.
+Tim was at the bar.com. [FEMALE] asks for help.
+Tim was at the bar.com. [FEMALE] is helpful.
+Time is an object. [FEMALE] is happy.
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was happy. However, he had lost his focus. He wanted to go home to his mom. However, he wanted to go to sleep.
+Tim was at the ball. He was very happy. However, he needed to go to school. However, he wanted to go to his school.
+Tim was at the tv. He was very happy. However, he needed to get up. However, he wants to go to the beach.
+Tim was at the tv. He was very happy. However, he needed to go to the movies. However, he wants to go to the store.
+Tim was at the tv. He was very happy. However, he needs to go to the movie. However, he wants to
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was having a good time.He was not satisfied yet.He wanted to get on with the day.He wanted to get the job done.It feels good..but I miss you so much.I want to be able to have a few drinks.I want to wash my face..it feels good.I want to go to the store.I want to call customer service.I want to leave the house.I want to look for a job.I want to have a good time.I want to make a good impression.I want to be able to have some fun.I want to be able to work.I want to sleep well.I want to go to the doctor.I want to do my homework.I want
+---------------
+Complete the following text within five sentences:Tim was at the bar.He was in the car.Tim was in the car seat.He was out of the way.He was in the way.He was in the way.He was inside.He was the one.He was right.He was inside.He was outside.He was not doing anything wrong.He was not on drugs.He was going to eat.He was going to go to bed.He was not getting the job done.He was not getting back into the habit.He was not going to be able to go to the doctor.He was not going to be able to go home.He was not going to be able to do anything.He was not going to be able to relax.He was not going to be able to
+---------------
+Complete the following text within five sentences:Tim was at the bar.He was wearing a shirt.He had a mustache.He had a mustache.He needed to wash his face.He would get sick.He would fall.He would fall.He would hurt himself.He would look and feel better.He would tell his mom.He would see the doctor.He would find out what was wrong.He would come home and pick up the phone.He was out of town.He had to get him a cab.He was in a car.He was on the way to the doctor.He was in an accident.He had to go to the hospital.He was in the middle of a traffic accident.He really wanted to go see the doctor.He had to get a doctor.He was in
+---------------
+Complete the following text within five sentences:Tim was at the bar. He ate lunch. He was shopping. He was a friend. He heard a scream. he was going to the hospital. he was on the phone. he was at the mall. he was at the pharmacy. he was in the house. he was in the car. he wanted to go to the store. he was in the car. he was walking. he wanted to put his hands around his neck. he was doing a job. he was playing in the park. he was having a party. he wanted to leave. he wanted to get into his car. he was going to a party. he was dating a girl. he was going to work. he was driving. he was at work. he was at a restaurant. he
+---------------
+Complete the following text within five sentences:Tim was at the bar.I asked him what happened.I told him he looked bad.He said he was fine.I tell the reader to go see the movie.I told the reader to buy the movie.He told me he wants to buy it.The reader says "no" to the act.I tell the reader to pick the act.He tells me he will miss the movie.I tell the reader to go to the hotel.I told the reader to go home.He said he will come back soon.I told the reader to go to the hotel.He said he will go to the store.He said he will buy the product.I tell the reader to go to the store.He said he will go to the shop.He said he
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was tired of smoking. He wanted to go to the restaurant.He was tired of driving.He was worried.He wanted to ask.He needed to see a doctor.He saw the doctor.he had a headache.he was too tired to go.he cried.he was angry.he was the person.he wanted to get a job.he had a lot to eat.he needed to go to the grocery store.he was getting some food.he gave a good answer.he was disappointed.he was excited.she got home.she was very happy.she was going to go to the store.she was happy.she was tired.she was tired.he was angry.he went to the store.he was
+---------------
+Complete the following text within five sentences:Tim was at the bar.The man with the keys to the bar had the keys to the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys to the bar was at the bar.The man with the keys
+---------------
+Complete the following text within five sentences:Tim was at the bar.Settled down to the ground.Sewing a lot.Milled for a job.In the newsroom.Mining.Filling a tank.Milling a house.Filling a cupboard.Mining for a meal.Mining a box.Milling for a hamburger.Mining for a baseball game.Mining for a beer.Mining for a cup.Mining for a sandwich.Mining a shirt.Mining for a sweater.Mining the cup of coffee.Mining for a beer.Mining for a drink.Mining for a drink.Mining a ticket.Mining the bus.Mining for a ride.Mining for a car.Mining for a bicycle
+---------------
+Complete the following text within five sentences:Tim was at the bar.Amy was at the store.They were going to get lunch.They were going to buy a new car.They were going to buy a new home.They had a very good time with all the friends.They were going to go to a movie.They were going to make a movie together.They were going to have a good time.They were going to be friends.They were going to be social.They were going to be sad.They were going to be having fun.They were going to be giving their all.They were going to be happy.They were going to be in a good mood.They were going to be relieved.They were going to be happy about it.They were going to be getting ready for the vacation
+---------------
+Complete the following text within five sentences:Tim was at the bar. He said he heard a noise. He was sitting in the parking lot. He saw his brother. He got his hair done.He called the police. They found the car.Tim was walking to the bar.He said he is going to the store. He got a cup of coffee. The store clerk yelled at him to take a seat. Tim said they took the money. The store clerk gave him the money. He said he will thank me. He got the book. He put the book in the drawer. The clerk stood with them. He took the book out of the drawer. He took it along with them. The clerk was angry. He said he thought it was a good sign. Tim said it is. He said he
+---------------

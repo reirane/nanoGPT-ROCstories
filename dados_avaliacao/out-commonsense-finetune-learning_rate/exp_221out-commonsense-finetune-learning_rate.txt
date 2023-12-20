@@ -1,0 +1,314 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Jane was driving home late one night.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Jane was driving home late one night. She wanted to sit down.
+[MALE] is curious.
+[MALE] will persony's friend.
+[MALE] has a good day.
+[MALE] leaves. [MALE] wants to go home.
+[MALE] finds out the truth. [MALE] is responsible.
+[MALE] is having a party. [MALE] is friendly.
+[MALE] becomes a politician. [MALE] is successful.
+[MALE] sees [FEMALE] coming. [MALE] wants to get to know the person better.
+[MALE] wants to throw away the hat. [MALE] wants to be liked.
+[
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She got a car ticket. [Unable to find the ticket]
+[FEMALE] is a friend. [MALE] wants to talk to [FEMALE]
+[MALE] is going to the movie. [MALE] wants to be entertained.
+[MALE] will tired. [MALE] wants to try another way to get through the day.
+[MALE] is playing sports. [FEMALE] wants to help.
+[MALE] is in the yard. [MALE] is running very slowly.
+[MALE] wants to buy new clothes. [MALE] needs to find a new wardrobe.
+[MALE] takes a shower. [M
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+[MALE] will they is aroused and wants to go to gym.
+[MALE] wants to impress [FEMALE] [MALE] with his/her success.
+[MALE] wants to get [FEMALE] attention.
+[MALE] wants to make [FEMALE] career.
+[MALE] is running.
+[MALE] wants to have a good time. [MALE] wants to see what they did on the trip.
+[MALE] needs to be tired for [FEMALE] to go home.
+[MALE] wants to get a job. [MALE] will eager to work.
+[MALE] is on the
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.You are walking home.You need to look for the car.Your dog is watching you.Get your wallet.Get your keys.Get your key.You are driving home.You are a newbie.You want to be a good person.You need to buy more alcohol.There is a break at the door.You get a ticket.You are walking to the mall.You drive home.You find a new car.You are eager.you want to get home.you will happy.hear what he said.you has a good time.it is a good time.you will happy.you is motivated.you wants to be a good person.you is motivated.you is good.your mind is clear.you is
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+[MALE] needs to have a wife.
+[MALE] is capable of hear personx's voice.
+[MALE] puts two [FEMALE] together.
+[MALE] is a nanny.
+[MALE] buys a new car.
+[MALE] wants to get a new job.
+[MALE] takes the day off.
+[MALE] takes a long time.
+[MALE] walks [FEMALE] to work.
+[MALE] finds a way to raise money.
+[MALE] loves none deeply.
+[MALE] feels a strange sting.
+[MALE] moves to an apartment.
+[MALE
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+[MALE] asks the question. [MALE] wants to know.
+[MALE] makes the plan. [MALE] wants to go to a store.
+[MALE] gives the person. [MALE] will hopeful.
+[MALE] gives [FEMALE] permission. [MALE] wants to give [FEMALE] permission.
+[MALE] provides [FEMALE] information. [FEMALE] needs to give information to [MALE]..
+[MALE] takes none in stride. [MALE] is good.
+[MALE] takes the shower. [MALE] is satisfied.
+[MALE] goes about the business
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+the following text within five sentences:Jane is really nervous.
+the following text within five sentences:Jane is really nice.
+the following text within five sentences:Jane is loving.
+the following text within five sentences:Jane is a good person.
+the following text within five sentences:Jane is intelligent.
+the following text within five sentences:Jane is tired.
+the following text within five sentences:Jane is drunk.
+the following text within five sentences:Jane is lonely.
+the following text within five sentences:Jane is a good person.
+the following text within five sentences:Jane is a good person.
+the following text within five sentences:Jane is good person.
+the following text within five sentences:Jane
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.There was an accident.
+[MALE] wants to go to sleep. [MALE] is more nervous.
+[MALE] is really unhappy. [MALE] wants to laugh.
+[MALE] is having a hard time. [MALE] is miserable.
+[MALE] is very upset. [MALE] wants to thank him for his help.
+[MALE] enters the house. [MALE] is worried.
+[MALE] stays up late. [MALE] is relieved.
+[MALE] leaves the store. [MALE] is tired.
+[MALE] wants to stop playing. [MALE] needs to get out of the car.
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+[MALE] is caring.
+[MALE] is angry.
+[MALE] gets none back.
+[MALE] gives [FEMALE] none away.
+[MALE] takes [FEMALE] to the hospital.
+[MALE] gets none out of the way.
+[MALE] gives [FEMALE] a gift.
+[MALE] gives [FEMALE] a new job.
+[MALE] pays [FEMALE] a visit.
+[MALE] makes [FEMALE] comfortable.
+[MALE] buys none for people.
+[MALE] is very helpful.
+[MALE] calls [FEM
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+[MALE] sees [FEMALE] heartwarming.
+[MALE] buys tickets.
+[MALE] goes to the store.
+[MALE] wants to save money.
+[MALE] takes [FEMALE] to the doctor.
+[MALE] puts [FEMALE] on the spot.
+[MALE] becomes [FEMALE] partner.
+[MALE] wants make a new one.
+[MALE] is with [FEMALE] for a while.
+[MALE] is friendly.
+[MALE] does [FEMALE] nothing.
+[MALE] takes [FEMALE] to the airport.
+[
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+you has to be at the same address as a person who has to be at your house.
+a man has to marry a woman who has to be at the same place.
+you has to do some work.
+you has to be able to talk to a woman.
+a person has to be in shape.
+a person has to be at a party.
+a person has to be at a party.
+you has to feel something.
+a person has to be at the right place.
+a person has to be in shape.
+a person has to be at your place.
+a person has to be at your place.
+a person has to be at your place.
+a person has to be in
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.You've had a difficult day.You're worried.She's home on the other side.You feel like you've been injured.You don't think much of it.You're too tired.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.Get a new computer.
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+[MALE] wants to impress [FEMALE] to go somewhere.
+[MALE] gets [FEMALE] a new phone. [FEMALE] wants to have a new phone.
+[MALE] wants to buy a new car. [MALE] wants to get a good price.
+[MALE] is not working. [MALE] wants to get a job.
+[MALE] wants to pay a bill. [MALE] wants to have a bill.
+[MALE] is caring. [MALE] is caring.
+[MALE] is curious. [MALE] will curious.
+[MALE] wants to go to a concert. [
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She told her boyfriend of the accident. [FEMALE] is guilty.
+[MALE] takes [FEMALE] to the grave. [MALE] wants to stop the person.
+[MALE] runs away from a [FEMALE] for driving. [MALE] wants to be safe.
+[MALE] finds a needle. [MALE] needs to find the needle.
+[MALE] receives a letter. [MALE] wants to mail the letter.
+[MALE] takes a shower. [MALE] is wet.
+[MALE] takes a shower. [MALE] wants to be clean.
+[MALE] opens the door. [M
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+You have to pay the fee to open the door.
+The moon is not a full circle.
+There is a dog in my yard.
+You don't have to feel guilty.
+I was hungry.
+I was not good.
+You have to have a good tooth.
+This is your first time.
+go to work.
+go to the movies.
+be satisfied.
+this is your last date.
+you is at the bar.
+this is the day.
+you is always tired.
+you is in love with someone.
+you is glad.
+you is lonely.
+it is time.
+you is excited.
+you is not happy.
+you is not sure.
+you is
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.She was looking for something. [MALE] wants to talk to you.
+[MALE] turns to another person for help. [MALE] is the one who needs to be helping.
+[MALE] leaves them alone. [MALE] wants to go home.
+[MALE] is responsible for it. [MALE] wants to get a job.
+[MALE] pulls the plug. [FEMALE] will at the door.
+[MALE] drives to the mall. [MALE] wants to go to the mall.
+[MALE] sees none on the road. [MALE] wants to take a picture.
+[MALE] gets a new car.
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+[MALE] will angry. [MALE] wants to kill everyone.
+[MALE] takes none to the store. [MALE] needs to have a cart.
+[MALE] is not interested. [MALE] wants to be friendly.
+[MALE] has none in the morning. [MALE] needs to get home to a place.
+[MALE] wants to be married. [MALE] needs to be married.
+[MALE] is always at the grocery store. [MALE] wants to order a new one.
+[MALE] wants to turn the lights on. [MALE] needs to turn off the light.
+[MALE] loses
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+[MALE] thinks about the person behind the wheel.
+[MALE] wants to go to the store.
+[MALE] gets a ticket.
+[MALE] is ready to play.
+[MALE] is close to becoming a dancer.
+[MALE] is a nice person.
+[MALE] drives to the restaurant.
+[MALE] is getting ready for work.
+[MALE] writes a letter.
+[MALE] is happy to see people.
+[MALE] gets money.
+[MALE] is working.
+[MALE] is in the middle of doing something.
+[MALE] is going with persony's friends.
+
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+[MALE] takes none to the park. [MALE] wants to go to the park.
+[MALE] sees the none at the park. [MALE] wants to visit the park.
+[MALE] is a lawyer. [MALE] needs to know how to file a suit.
+[MALE] wants to play football. [MALE] needs to be able to take a punt.
+[MALE] is a good boy. [MALE] will happy.
+[MALE] is learning to read. [MALE] is good.
+[MALE] gets none from the store. [MALE] needs to check the merchandise.
+[MALE] is
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+[MALE] becomes [FEMALE] [MALE] proud of [FEMALE] for [FEMALE] and for [FEMALE] to give [FEMALE] a chance.
+[MALE] makes [FEMALE] an offer. [MALE] will grateful.
+[MALE] sees [FEMALE] [MALE] in the mirror. [MALE] will amused.
+[MALE] is not happy. [MALE] will sad.
+[MALE] gives [FEMALE] a present. [MALE] will satisfied.
+[MALE] plays a game. [MALE] will satisfied.
+[MALE]
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She gets so mad. You are capable of save time.You are capable of get on the phone with someone.you is responsible.you is good.you is happy.you is proud.you is content.you is helpful.you is healthy.you is generous.you is considerate.you is helpful.you is responsible.you is capable of do your job.you is capable of think.you is responsible.you is motivated.this is the best.you is capable.you is determined.you is capable.you is accomplished.you is capable.you is motivated.this is the best.this is the best.this is the best.this is the best.this is the best.this is the best.this
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.She was driving home late one night.You see the window.You see the window. you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see the window.you see
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+[MALE] wants to go. [MALE] wants to get to a destination with personx.
+[MALE] is not interested. [MALE] is not content.
+[MALE] is playing basketball. [MALE] is active.
+[MALE] is sitting in a chair. [MALE] wants to go sit down.
+[MALE] is in the car. [MALE] wants to go to the car.
+[MALE] is getting ready. [MALE] is excited.
+[MALE] gets in the car. [FEMALE] wants to get in the car.
+[MALE] takes [FEMALE] to the doctor
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.Jill is playing football.Gail is having a hard time.Gail is angry.Maggie is in charge.Maggie is being abusive.Maggie is out of town.Maggie is not in touch.Maggie is in need.Maggie is taking the bus.Maggie is holding family in place.Maggie is frustrated.Maggie is lonely.Maggie is tired.Maggie is bored.Maggie is very sad to be absent.Maggie is angry.Maggie is tired.Maggie is desperate.Maggie is curious.Maggie is eager.Maggie is loving.Maggie is motivated.M
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.I have to go to the store.I get rejected by the store manager.
+[MALE] wants to get a good job. [MALE] wants to be happy.
+[MALE] becomes drunk. [MALE] wants to go home.
+[MALE] keeps the [FEMALE] close. [MALE] needs to get to the door.
+[MALE] writes [FEMALE] an essay. [MALE] wants to show [FEMALE] they have written a letter.
+[MALE] buys a bicycle. [FEMALE] will excited.
+[MALE] gives [FEMALE] a chance. [MALE] is aggressive.
+
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.
+sarah is a person of interest.
+a person of interest with interest is capable of desire the object of interest
+sarah is capable of desire the object of interest
+a person of interest is at a restaurant.
+a person of interest with interest is capable of desire the object of interest
+a person of interest with interest is capable of desire the object of interest
+a person of interest with interest is capable of desire the object of interest
+a person of interest with interest is capable of desire the object of interest
+a person of interest with interest is capable of desire the object of interest
+a person of interest with interest is capable of desire the object of interest
+a person of interest with interest is capable of desire the object of interest
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.The girl with the yellow ponytail is a teenager.Jane fell asleep with a wish.She is sad.Jane has a baby.The girl with a flower flower is a girl.Jane has some friends.The girl with the blue ribbon is a girl.Jane has a baby.She is tired.The girl with the short hair is a girl.Jane is proud.The girl with the long hair is a girl.Jane has a son.Jane has a son.The girl with the long hair is a boy.Jane has a son.Jane is a good person.The girl with the long hair is a girl.Jane is strong.The girl with the short hair is a girl.Jane is not fit.The girl with the short
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.Sugar is driving home.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is responsible.
+[S]o person wears a mask.
+[S]o person is a scientist.
+[S]o person is a person.
+[S]o person has a pet.
+[S]o person is a person.
+[S]o person has a friend.
+[S]o person is a person.
+[S]o person takes a shower.
+[S]o person is a good person.
+[S]o person is a person.
+[S]o person is a person.
+[S]
+---------------
+Complete the following text within five sentences:Jane was driving home late one night.She walks upon her car.She needs to walk on the sidewalk.She is angry.She wants to go home. [MALE] wants to tell friends.
+[MALE] calls the police. [MALE] wants to keep up.
+[MALE] is late for work. [MALE] needs to walk through the door.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to call the doctor.
+[MALE] asks [FEMALE] to marry. [MALE] is friendly.
+[MALE] gets a new car. [MALE] looks for a new car.
+[MALE] gives [FEMALE] a
+---------------
+Complete the following text within five sentences:Jane was driving home late one night. She said he was a police officer.
+[MALE] sees the truth. [MALE] needs to be very experienced.
+[MALE] feels good. [MALE] will grateful.
+[MALE] comes in persony's way. [MALE] is relaxed.
+[MALE] leaves none on the floor. [MALE] wants to leave.
+[MALE] receives no interest. [MALE] needs to meet personx's needs.
+[MALE] goes to the doctor. [MALE] needs to get a medical examination.
+[MALE] takes the dog sled. [MALE] needs to go to the zoo.
+[MALE] breaks into
+---------------

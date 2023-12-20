@@ -1,0 +1,204 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:John was at the bar with friends.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:John was at the bar with friends. He wanted to go to the movies. He wanted to go to a restaurant with friends. He was going to buy a new pair of shoes. He was really enjoying the store. He was coming home from work. He was happy. He had a cup of coffee. He was going to have a good day. He was going to eat. John felt good. He enjoyed the drink.
+[F4M] [Cocky] [FEMALE] [FEMALE] [FEMALE] [FEMALE] [MALE] [FEMALE] [MALE] [MALE] [FEMALE] [MALE] [MALE] [FEMALE] [MALE] [F
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was very happy with all the friends. John tried to grab something from the fridge. John asked the bartender for a drink. The bartender gave John a drink. John took the drink. John tried to use the restroom. John told the bartender he was going to be late. The bartender gave John a drink. The bartender gave John the money. John left the bar. The water was boiling. John was drinking. The water was warm. The water was refreshing. John thanked the bartender for his hospitality. The bartender gave John a drink. The bartender gave John a very good drink. The bartender gave John a drink. The bartender gave John a drink. The bartender gave John a drink. The bartender gave John a drink. The bartender gave John
+---------------
+Complete the following text within five sentences:John was at the bar with friends. John would be hungry. Don't try to blame John for the situation.
+John was at the bar with friends. John would be hungry. Don't try to blame John for the situation.
+John was at the bar with friends. John would be hungry. Don't try to blame John for the situation.
+John was at the bar with friends. John would be hungry. Don't try to blame John for the situation.
+John was at the bar with friends. John would be hungry. Don't try to blame John for the situation.
+John was at the bar with friends. John would be hungry. Don't try to blame John for the situation.
+John was at the bar with friends. John would be hungry. Don
+---------------
+Complete the following text within five sentences:John was at the bar with friends. The next day he came home from work. He went to work. He felt bad. He wanted to go home to his wife. He was tired. He wanted to go to sleep. He wanted to make a good impression on the other person. He was upset. He was unhappy. He was sick. He was lonely. He wanted to go over and make a mess. He wanted to go home. He wanted to go back to sleep. he wanted to let the other person know. He wanted to be safe. He wanted to help the other person. he wanted to be able to look at the house. he wanted to go to the store. he wanted to buy a new dress. he wanted to get rid of their clothes. he
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+John had the urge to have sex.
+John had the courage to take the medicine.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the bar.
+John was at the
+---------------
+Complete the following text within five sentences:John was at the bar with friends.When they went home, he says they were having a good day.John is mad now.John is the new owner.John is the one to return to the office.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the one you need.John is the
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He got his wallet. John would like to see his dad.
+Note: The text will be displayed as a separate text within five sentences.<|endoftext|>The world's largest cryptocurrency exchanges will soon be offering a free trial to anyone who wants.
+
+The U.S. exchange Coinbase announced on Monday that it will sell its digital currency for a fee of $5.99 a coin.
+
+The move comes as the U.S. exchange UBS is now offering a free trial for anyone who wants to exchange their digital currency for a certain amount of money.
+
+"We feel this is a good way of getting more people to use our platform," said the CEO of Coinbase. "In fact, we are offering a trial for an
+---------------
+Complete the following text within five sentences:John was at the bar with friends.There was some talk about how he was going to kill his girlfriend.We should not be drinking beer and watching TV.We should not be playing pingpong.People can't handle people's emotions.We should not be walking their dogs.They should be able to look at the camera and see you.We need to be able to be helpful to others.All of us should have some kind of job.We should have a house and a place to live.Everyone should be happy.People should be able to be independent.We should have a good job.We should have a good home.We should have a good job.We should have a good job.We should have good jobs.We should have good jobs.We should have
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was a perfect example of how you should be able to be yourself. He was a good example of what you should do. He was a good example of how you should like your job. John was a lonely man. He is not an ideal man. He is not a good man. John is a liar. He is not the person you want to be. He is not capable of do the things you would want to. John is a very good person. He is a very good husband. John is a beautiful person. He is very intelligent. He is very good with children. He is very good with the children. He is a good person. He is a great man. He is a great man. John is a good man
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He tried to sneak into the store.John was a student. [He] went to the bar with a friend.John was drunk.John was a student. [He] went to the store.John is a student. [John] went to the bar with the friend.John is a student.John has a girlfriend. [John] is a girl. [John] has a job. [John] is a person.John goes to school.John makes a dinner.He tells someone.John is on drugs. [John] is drunk.John is a student.John is a student. [John] is a person. [John] is a person.John is a student. [John] is a person.John
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+you are at the bar with friends.
+you are at the bar with friends.
+take the following question:What does it mean to be a drug addict?
+take the following question:What do you mean if you were a drug addict?
+take the following test:What is your intelligence?
+take the following test:What is your intelligence?
+take the following test:What is your intelligence?
+take the following test:What is your intelligence?
+take the following test:What is your intelligence?
+take the following test:What is your intelligence?
+take the following test:What is your intelligence?
+take the following test:What is your intelligence?
+take the following test:What is your intelligence?
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was about to go to the arcade.
+On the 10th of November 2010, John was sitting at the computer. The computer was playing games.
+On the 10th of November 2010, John received the mail from his father. He was very hungry.
+On the 1st of September 2010, John received the phone call from his wife. Her husband is doing well.
+On the 9th of September 2010, the dog was barking. John was sitting next to her.
+On the 28th of February 2011, the phone was vibrating. It was ringing.
+On the 25th of April 2011, the mail arrived. It was from your neighbor.
+On the 21st of November 2011, the mail arrived. John
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was going to meet some friends soon. Then he would go to the restaurant and pick up their order. After he has finished that, John will pick them up and start going. John is going to go to the store and buy food. John will pick up a bottle of wine. John will put his glasses back on. John will buy a new one. Then he will return home. John is going to go to the store and buy food. John will pay a lot of money for the food. John will walk away. John is going to the store to buy food. John will take the food and go to the food court. John will pay a lot of money for the food. John is going to pay the money back. John
+---------------
+Complete the following text within five sentences:John was at the bar with friends.John told his mom.Jane told his dad.John told his brother.John told his friends.John told his sister.Jane said it's raining.JOHN said the sky is blue.JOHN said this is the name of the city.JOHN said it's the first day for the holidays.JOHN said he has to go to the beach.JOHN said he wants to buy some clothes.JOHN said they will be the first thing he sees.JOHN said he has to go to the store.JOHN said they will have to get the groceries on time.JOHN said he is a good guy.JOHN said it is a big world out there.JOHN said he has to go to the store.JOHN said he will be at the store.JOHN said
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+You have to pay the fee.
+You must be in good health.
+You are in the hospital.
+You are getting ready for work.
+You are doing well.
+You are safe.
+You are in the hospital.
+You have a new car.
+You are getting a job.
+You have a new job.
+You are a writer.
+You spend time with your children.
+You are in the hospital.
+You went to the school.
+You have a job.
+You are in the hospital.
+You are a good person.
+You are good about yourself.
+You are in the hospital.
+You are working.
+You are in the hospital.
+You are happy.
+
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was supposed to pick up the mail. He was so horny he didn't want to go.
+John was there at the bar with friends. He was a good kid.
+John was there with some friends. He was bored.
+John was there for a movie. He wanted to see something.
+John was there for a family reunion. He wanted to thank his parents.
+John was at the store. He was selling his equipment.
+John was at the store. He had a bad day.
+John was at the grocery store. He went to the store.
+John was at the office. He was out of the office.
+John was at the office. He had a difficult day.
+John was at the
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was thirsty. He looked over to see if they were thirsty. John did not have to go to the restaurant. John went to the bar. He drank. He stopped. John was not in the mood. John would not be in the mood for the night. John would not be in the mood for the day. John made a decision. He decided. John took action. He wanted to make a decision. John took action. he wanted to know the answer. John would not be in the mood for the night. John would not be in the mood. John would not be in the mood. John took action. he would not be in the mood for the night. John would not be in the mood. John takes action. he
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He asked what happened. He was shocked.
+The following text within five sentences:I was at an airport. I was very nervous.
+The following text within five sentences:He said he was going to play golf.
+The following text within five sentences:I was in the middle of the road. I was shocked.
+The following text within five sentences:I was in a place where no one was walking. he was going to try and get back to his car.
+The following text within five sentences:I was walking on the trail.
+The following text within five sentences:I was sitting at the computer. I was very tired.
+the following text within five sentences:I was sitting with my wife.
+the following
+---------------
+Complete the following text within five sentences:John was at the bar with friends. I asked for a soda with a soda. He said no. I asked if he was drunk. He said no. I asked for a gift. He said no. I asked for a job. He said no. I asked for a place to live. He said no. I asked for a day off. He said no. I asked to buy a beer. He said no. I asked to watch the football game. He said yes. I asked to look at the television. He said yes. I asked to take a picture. He said yes. I asked for a ride home. He said yes. I asked for a place to live. He said yes. I asked for a bike ride. He said yes. I asked to
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was happy.
+1. John has a date. He is happy, but sad.
+2. John has a new car. He is bored.
+3. John has a job. He is a good worker.
+4. John has a girlfriend. John wants to have a girlfriend.
+5. John has a new apartment. He wants to make it better.
+6. John has a job. He wants to get a job.
+7. John has a girlfriend. He is a good girl.
+8. John has a job. He is a good guy.
+9. John has a boyfriend. John wants to have a relationship.
+10. John has a new car. John wants to get a new
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was having a good time.He was not satisfied yet.
+John was a good guy. He would be kind to one another.But he was not happy..
+John was a good man. He would be good to everyone.
+John was a good dog. He was very happy.
+John was a good guy. He would be good to everyone.
+John was a good person. He would be easy to talk to.
+John was a good guy. He would be happy to see a new person.
+John was a good person. He would be happy to get some help.
+John was a good guy. He would be good to everyone.
+John was a good man. He would be happy to see a
+---------------
+Complete the following text within five sentences:John was at the bar with friends.John was in the car with friends.John was in the grocery store.John was driving.John was in the back seat.John was in the car with friends.John was in the back seat.John was in the restaurant.John was in the parking lot.John was in the corner.John was in the driveway.John was in a car.John was in the car with friends.John was in the apartment.John was in the office.John was in the kitchen.John was in the garage.John was in the store.John was in the car.John was in the office.John was in the office.John was in the office.John was in the office with friends.John was in the office.John was
+---------------
+Complete the following text within five sentences:John was at the bar with friends.John wants to go to the bar.John is nervous.John wants to go to a restaurant with friends.John is at the bar with friends.John wants to go to the restaurant.John is sad.John wants to go home.John is happy.John is active.John wants to go on vacation.John is excited.John is motivated.John wants to go to the beach.John is excited.John wants to go to the beach.John is relaxed.John wants to go home.John is confident.John wants to go to the park.John is in charge.John wants to feel good.John wants to go to the store.John is happy.John wants to go home.John is proud.John wants to go
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He has a lot of friends. John is overjoyed.
+John wants to leave the bar. John wants to go to the store.
+John wants to go to the restaurant. John wants to walk to the restaurant.
+John is doing well. John wants to thank them.
+John is tired. John is tired.
+John thinks about what he should do. John is curious.
+John thinks about the problem. John is tired.
+John is happy. John is satisfied.
+John is at the store. John has lunch.
+John wants to go to the store. John wants to get something in the store.
+John is very tired. John is working.
+John thinks a lot. John is tired.
+
+---------------
+Complete the following text within five sentences:John was at the bar with friends.I asked him if he was ok.I found his car.I put out the car.I tell the car to be put on the line.I get out of the car.I get the car for the trip.I get back to town.I have the car repaired.I go to the store.I pick up the package.I get the item.I put it in the garbage.I pick up the item.I put it in the bin.I put the bin in the bin.I wash the dishes.I take care of the dishes.I go to the store.I pick up the items.I wash the dishes.I take care of the dishes.I take care of the dishes.I get the items.
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He was tired of smoking marijuana. John's friends asked him to get a cup of coffee. John accepted the cup. John returned to the bar. John got a new job. John turned the lights on. He took a walk. John went to the store. John was drunk. He asked the person in the store where they were getting their coffee. A customer told them about the bar. The person asked what they were going to buy. The person stated they needed to buy something. The customer agreed. The person apologized. The person gave a cup of coffee. The person took the cup. The person handed the cup back. The person gave a card to say thanks. The person gave the card to the person. The person thanked them.
+---------------
+Complete the following text within five sentences:John was at the bar with friends.The girl was the only one to go.John asked the girl to sit down.John gave the girl a hug.John smiled.The girl looked at the book.John took the book out of the drawer.John took the book to his office.John asked the girl to keep the phone.John gave the girl the phone.John took the phone to the bathroom.John took the phone to the bathroom.John told the girl to relax.John told the girl to come back to the kitchen.John gave the girl a hug.John spoke to the girl.The girl was upset.John told the girl to take the phone.John grabbed the phone from the counter.John took the phone back.John took the girl to the kitchen.
+---------------
+Complete the following text within five sentences:John was at the bar with friends.Settled down to the ground.Sewing a lot of water on the floor.Suffered a lot of colds.Suffered a lot of boils.Suffered the flu.Suffered the car.Suffered the wind.Suffered the tornado.Suffered the storm.Suffered the river.Suffered the wind.Suffered the wind.Suffered the wind.Suffered the storm.Suffered the river.Suffered the river.Suffered the wind.Suffered the wind.Suffered the moon.Suffered the moon.Suffered the sun.Suffered the sun.Suffered the moon.
+---------------
+Complete the following text within five sentences:John was at the bar with friends.John was drunk.John was a drunk.John was motivated.John was ready.John was happy.John was proud.John was the one motivated.John is a very good person.John is a good person.John is a good person.John is an entrepreneur.John is a person to do business with.John is a good person.John is a good friend.John is a friend.John is a good friend.John is a good person.John is an expert.John is an expert.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person.John is a good person
+---------------
+Complete the following text within five sentences:John was at the bar with friends. He said he heard a noise. He went upstairs. John came to the bed. His right arm is hurting. John is unconscious.
+John is in the same class. He said he is sorry. John is in the middle of a conversation.
+John went to the doctor. John was in the hospital.
+John fell asleep. He was playing chess. John said he is sorry.
+John went to the hospital. John was ill.
+John went to the doctor. He said he will be fine.
+John goes to the doctor. He sat down.
+John went to the doctor. He said he wants to get the medication.
+John goes to the doctor. He said he is tired.
+John goes to the doctor
+---------------

@@ -1,0 +1,517 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tim was sick for school picture day.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tim was sick for school picture day.
+have an examination has last subevent of be informed.
+a person does not desire be made to feel bad.
+a person does not desire an accident.
+something is capable of move.
+a person desires be respected.
+a person does not desire be in debt.
+people does not desire take a vacation.
+a person does not desire be hurt.
+a person does not desire be a victim.
+a person does not desire be cheated.
+a person does not desire have a bad day.
+a person does not desire be a liar.
+a person does not desire be a thief.
+something is capable of grow.
+a person does not desire be poor.
+a person does not desire be bored.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+theater is at at theatre.
+some people has a a different opinions.
+the wind is at at the ocean.
+theater is at at a hotel.
+the weather has property nice.
+the sun is at at the sky.
+the sun is at at the sky.
+the sun is at at the sky.
+the earth is at at the sky.
+the sun is at at the sky.
+the sky is at at the sky.
+the sun is at at the sky.
+the sun is at at the sky.
+the sun is at at the sky.
+the sun is at at the sky.
+the sun is at at the sky.
+the sun is at at the sky.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a person does not desire be in prison.
+a person does not desire be in jail.
+a person does not desire be attacked.
+an object is used for hold.
+a person desires have a friend.
+a person desires have a good relationship.
+a person does not desire be in debt.
+a person does not desire have a bad reputation.
+a person desires to have some money.
+a person desires a good relationship.
+a person desires to be a teacher.
+a person desires a vacation.
+a person desires to make a difference.
+a person does not desire be a threat.
+a person does not desire be in debt.
+a person does not desire feel insecure.
+a person does
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+the devil is capable of eat person.
+the devil is capable of have a conversation.
+the devil is capable of listen.
+the devil is capable of take pictures.
+the devil is capable of have a party.
+the devil is capable of watch tv.
+the devil is capable of love..
+the devil is capable of eat food.
+the devil is capable of drive.
+the devil is capable of sleep.
+the devil is capable of leave the room.
+the devil is capable of help others.
+the devil is capable of look at people.
+the devil is capable of buy new clothes.
+the devil is capable of cook.
+the devil is capable of see.
+the devil is capable of drink
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a book is defined as a collection of information.
+a book is at a library.
+a book is at any book store.
+a book is at the library.
+a book is at a library.
+a book is at a storage area.
+a book is at a classroom.
+a book is at the shelf.
+a book is at the shelf.
+a book is at the book store.
+a book is at a small book store.
+a book is at a bookstore.
+a book is at a bookstore.
+a book is at a small book store.
+a book is at a small book store.
+a book is at the small book store.
+a book is at a small book
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a man is capable of sit on a chair.
+a person is capable of take a trip.
+a person is capable of get a haircut.
+this is a large project.
+a person is capable of walk on a road.
+a person is capable of take a break.
+a person is capable of eat.
+a person is capable of sit on a chair.
+a person is capable of go to the store.
+a person is capable of go to the store.
+a person is capable of talk to a stranger.
+a person is capable of smell.
+a person is capable of write a poem.
+a person is capable of wear jewelry.
+a person is capable of buy a book.
+a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+something is at the refrigerator.
+a barber shop owner is at the kitchen.
+a person is capable of go to work on time.
+a person is capable of move a car.
+a person is capable of learn.
+a barber shop owner is capable of clean.
+a person is capable of make a purchase.
+a person is capable of help someone.
+a person is capable of look over boxes.
+being in charge of a project causes a project.
+a person is capable of talk to a friend.
+a person is capable of drink.
+a person is capable of go back to the garage.
+a person is capable of eat.
+a person is capable of be injured.
+a person
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. x was looking for something. y was hungry. y was angry. y was not hungry. x was not hungry. x was not hungry. x was not hungry. x was not hungry. x was not hungry. x was not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x is not hungry. x
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+the nyc is defined as place where the ocean meets the sea.
+the nyc is defined as place where the ocean meets the sea.
+the nyc is defined as place where the ocean meets the ocean.
+the nyc is defined as place where the ocean meets the sea.
+the nyc is defined as place where the ocean meets the sea.
+the nyc is defined as place where the ocean meets the sea.
+the nyc is defined as place where the ocean meets the sea.
+the nyc is defined as place where the ocean meets the sea.
+the nyc is defined as place where the ocean meets the sea.
+the nyc is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+have a heart attack.
+the water is a clothe.
+a hand is capable of touch a person.
+a person is capable of play a game.
+a person is capable of play a game.
+a person is capable of get drunk.
+a person is capable of make a phone call.
+a place is used for eat food.
+a person is capable of learn the alphabet.
+a person is capable of laugh.
+a person is capable of help a bear.
+a person is capable of play a game.
+a person is capable of put up the cash register.
+a person is capable of think.
+a person is capable of find an apple tree.
+a person is capable of make a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+you is capable of place the object in a specific place.
+you is capable of take a photo.
+you is capable of use a calculator.
+you is capable of buy a gift.
+you is capable of make a phone call.
+you is capable of find a bike.
+you is capable of watch a movie.
+you is capable of feel pain.
+you is capable of get out of the woods.
+you is capable of smell the roses.
+you is capable of put up a sign.
+you is capable of have a conversation.
+you is capable of see the sky.
+you is capable of wear a hat.
+you is capable of listen to music.
+you is capable of take a trip
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. [FEMALE] wants to go home.
+[MALE] runs for personx's life. [MALE] wants to be responsible.
+[MALE] wants to have a party. [MALE] wants to go to party.
+[MALE] gets personx's money 's worth. [MALE] is grateful.
+[MALE] comes back to my room. [MALE] gets yelled at.
+[MALE] helps another ___. [MALE] needs to be helpful.
+[MALE] wants to go to the store. [MALE] wants to have a good time.
+[MALE] makes [FEMALE] breakfast. [MALE]
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+breathe some fresh air.
+go to the mall.
+a person is capable of speak english.
+a person is capable of use a computer.
+a person is capable of play a game.
+a person is capable of travel.
+a person is capable of use a phone.
+a person is capable of read.
+a person is capable of play a game.
+a person is capable of drink coffee.
+a person is capable of go on vacation.
+a person is capable of walk.
+a person is capable of eat.
+a person is capable of sit.
+a person is capable of see.
+a person is capable of lose weight.
+a person is capable of read.
+a person
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+cat is at play.
+person is capable of sit down.
+person is capable of sleep.
+person is capable of eat vegetables.
+person is capable of get up early.
+person is capable of walk.
+person is capable of smell the coffee.
+person is capable of get away.
+person is capable of see.
+person is capable of drive.
+person is capable of walk.
+person is capable of know.
+person is capable of use.
+person is capable of smell the coffee.
+person is capable of see.
+person is capable of smell the coffee.
+person is capable of stand.
+person is capable of smell the coffee.
+person is capable of look at.
+person is capable
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+toyota is at the gym.
+person is capable of say something to their friend.
+someone is capable of wash their hands.
+go to a restaurant has first subevent of give your wallet a shake.
+a person does not desire be a prisoner.
+a person desires be a good friend.
+a person does not desire be a slave.
+drum has property messy.
+a man does not desire be put in a position to wrong.
+a man does not desire be hurt.
+a person does not desire have an accident.
+a person does not desire be a slave.
+a person does not desire be caught.
+people is capable of run errands.
+a person desires keep quiet.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a woman is capable of be a woman.
+a person is capable of drink coffee.
+a person desires another way to live.
+a person desires a quiet place.
+a person desires be close to others.
+a person desires have a good time.
+a person desires the world to be a better place.
+a person desires be with his family.
+a person is capable of be in a relationship.
+a person is capable of cry.
+a person is capable of move.
+a person desires a new home.
+a person is capable of live with his family.
+a person is capable of get away.
+a person is capable of look at a picture.
+a person is capable of love.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+my friend is capable of help me.
+my friend is capable of give a massage.
+my friend is capable of play music.
+my friend is capable of read.
+my friend is capable of sleep.
+my friend is capable of listen to music.
+my friend is capable of call me.
+my friend is capable of look at my tv.
+my friend is capable of make a sandwich.
+my friend is capable of drive to work.
+my friend is capable of watch tv.
+my friend is capable of smile.
+my friend is capable of help me.
+my friend is capable of tell me more about the project.
+my friend is capable of tell me about the project.
+my friend is capable
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+play lacrosse is motivated by you like to play.
+joe is a good friend.
+an ice cream cone is at a restaurant.
+a person does not desire be rejected.
+i is capable of feel guilty for looking at a mirror.
+go to a dance class is motivated by you are having a good time.
+a fish is at a restaurant.
+a person does not desire be rejected.
+a person does not desire be rejected.
+a person does not desire be rejected.
+a person does not desire be rejected.
+a person desires be in a relationship.
+a person does not desire be rejected.
+a person does not desire be rejected.
+a person does not desire have sex.
+a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+the boy is at the store.
+the boy is at the office.
+the boy is at the gym.
+the boy is at the kitchen.
+the boy is at the mall.
+the boy is at the beach.
+the boy is at the back of the car.
+the boy is at the beach.
+the boy is at the store.
+the boy is at the kitchen.
+the boy is at the back of the car.
+the boy is at the beach.
+the boy is at the beach.
+the boy is at the beach.
+the boy is at the store.
+the boy is at the gym.
+the boy is at the gym.
+the boy is at the beach.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a person desires a fair trial.
+a person desires a good job.
+a person desires be a good student.
+a person desires a good job.
+a person desires be in touch with an agent.
+a person desires a good job.
+a person desires an important job.
+a person desires a good job.
+a person desires a good job.
+a person desires be in touch with an agent.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+person has a many activities to do.
+person is capable of see a lot.
+person is capable of drink water.
+person is capable of eat.
+person is capable of get something to drink.
+person is capable of drink water.
+person is capable of learn.
+person is capable of get something.
+person is capable of ride.
+person is capable of be near.
+person is capable of stand.
+person is capable of move.
+person is capable of like.
+person is capable of like.
+person is capable of speak.
+person is capable of keep things.
+person is capable of sleep.
+person is capable of go to sleep.
+person is capable of eat.
+person is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a person does not desire be in charge of the affairs of another.
+a person does not desire be a prisoner in a prison.
+a person does not desire be an expert in the arts.
+a person does not desire be forced to work hard.
+a person does not desire fall asleep.
+a person does not desire be a leader.
+a person does not desire be in a bad position.
+a person does not desire be involved in a crime.
+a person does not desire be in a bad position.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+stay healthy and a stay in shape.
+go for a walk has subevent a short walk will make you feel better.
+a person does not desire be late.
+you has a a nice dress.
+someone is at the bathroom.
+something is at the other side of the road.
+a person desires a big job.
+someone is at the ocean.
+a person desires a hot dog.
+a person does not desire get a divorce.
+go to the store has subevent look for the right item.
+you is at the car wash.
+someone is at the store.
+a person is capable of do many jobs.
+a person does not desire be sad.
+a person desires a nice home.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] is a little late to the party.
+[MALE] calls the police. [MALE] needs call the police.
+[MALE] calls the cops. [MALE] wants to be safe.
+[MALE] takes a picture of persony. [MALE] wants to share the picture with others.
+[MALE] feels much better. [MALE] needs get exercise.
+[MALE] uses persony's debit card. [MALE] wants to call persony.
+[MALE] always found ___. [MALE] needs to get the bike.
+[MALE] is working late. [MALE] wants to leave the office.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+the first time you saw the sun was in the morning.
+the first time you saw the moon was in the evening.
+the first time you saw the sky was in the evening.
+the first time you saw the moon was in the morning.
+the first time you saw the sky was in the morning.
+the first time you saw the sun was in the evening.
+the first time you saw the sky was in the afternoon.
+the first time you saw the sky was in the afternoon.
+the first time you saw the moon was in the evening.
+the first time you saw the sky was in the afternoon.
+the first time you saw the sky was in the evening.
+the first time you saw the
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+satisfy hunger with minimum effort.
+a piece of paper with a handle is used for holding items.
+a carafe is used for getting water from a tap.
+play a game is motivated by you like to read.
+a tablecloth is used for holding things.
+a person does not desire be in debt.
+a person does not desire be lonely.
+a person does not desire be alone.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a person does not desire the use of a false alarm.
+a person desires have a good time.
+a person desires read a book.
+a person does not desire waste money..
+a person desires a more quiet environment.
+a person does not desire a physical injury.
+a person does not desire be in a trance.
+a person desires a new job.
+a person does not desire the use of a false alarm.
+a person desires a new hobby.
+a person does not desire a personal injury.
+a person does not desire a crime.
+a person does not desire be in a trance.
+a person does not desire a lack of money.
+a person does not desire be in a trance.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a ball is used for holding a ball.
+a person desires be social.
+a person does not desire be dependent on somebody else.
+a person desires be good.
+a person does not desire be angry.
+a person does not desire be a victim.
+a person desires become a scientist.
+a person desires be an astronaut.
+a person does not desire be depressed.
+a person does not desire be lonely.
+a person does not desire be the victim.
+a person does not desire be a slave.
+a person does not desire be poor.
+a person does not desire be lonely.
+a person does not desire be the object of a person's desire.
+a person does not desire be lonely
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+t-bone is at a metal detector.
+theater is at a theatre.
+theater is at a theater.
+a person desires to understand the situation.
+theater is at a theatre.
+theater is at a theatre.
+theatre is at a theater.
+theater is at a theatre.
+theater is at a theatre.
+theater is at a theatre.
+theater is at a theatre.
+theater is at a theatre.
+theater is at a theatre.
+theater is at a theatre.
+theater is at a theatre.
+theater is at a theatre.
+theater is at a theater.
+theater is at a theatre.
+theater
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a large group of people is at a big city.
+a small town is where people live. it is a large town.
+a large group of people is at a community.
+a small town is at a large city. it is a small town.
+a large group of people is at a small town. it is a large city.
+a large group of people is at a small town. it is a large city.
+a large group of people is at a small town. it is a large city.
+a large group of people is at a small town. it is a small town.
+an action to be has property evil. it is evil.
+a large group of people is at a large city
+---------------

@@ -1,0 +1,487 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:John was at the bar with friends.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:John was at the bar with friends.
+a room is used for a private place.
+a room is used for a bedroom.
+a room is used for a sleeping pad.
+a room is used for a bathroom.
+a room is used for a bedroom.
+a room is used for bedrooms.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+theater is at at theatre.
+some people has a a different opinions.
+the wind blows a person.
+some people has a a different opinions.
+a person desires play.
+a person desires be in charge.
+some people has a different opinions.
+some people has a a different opinions.
+a person desires be loved.
+an author is someone who has a knowledge.
+a person desires have a good time.
+a person desires a good job.
+a person desires be thanked.
+a person desires be part of the community.
+an author is someone who has a knowledge.
+a person desires be respected.
+a person desires have a nice time.
+a person desires make a new friend.
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a person does not desire be in prison.
+a person does not desire be in jail.
+a person does not desire be attacked.
+an object is used for hold.
+a person desires be free.
+a person does not desire be judged.
+a person does not desire be ignored.
+a person does not desire be told things.
+a person does not desire be in pain.
+a person does not desire be left alone.
+a person desires be alone.
+a person does not desire be in a state of panic.
+a person desires live a life.
+a person does not desire be in pain.
+a person does not desire be hurt.
+a person does not desire be in debt.
+
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+the devil is at the graveyard.
+the lion is at a zoo.
+the sun is at the sky.
+the sun is behind the clouds.
+the sun is in the sky.
+the sun is in the sky.
+the sun is in the sky.
+the sun is on the horizon.
+the sun is in the sky. Matthew is the king of heaven.
+the sun is on the horizon.
+the sun is on the horizon.
+the sun is on the sky.
+the sun is on the sky.
+the sun is in the sky.
+the sun is on the sky.
+the sun is on the sky.
+the sun is in the sky. Matthew is the king of heaven.
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a book is defined as a collection of information.
+a book is at a library.
+a book is at any book store.
+a book is at the library.
+a book is at a library.
+a book is at a storage area.
+a book is at a classroom.
+a book is at the shelf.
+a book is at the shelf.
+a book is at the book store.
+a book is at a small book store.
+a book is at a bookstore.
+a book is at a bookstore.
+a book is at a small book store.
+a book is at a small book store.
+a book is at the small book store.
+a book is at the small book
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a man is capable of sit on a chair.
+a person is capable of take a break.
+a person is capable of get a haircut.
+this is a large project.
+a person is capable of walk on a road.
+a person is capable of take a break.
+a person is capable of eat.
+a person is capable of sit on a chair.
+a person is capable of go to the store.
+a person is capable of go to the store.
+a person is capable of talk to a stranger.
+a person is capable of smell.
+a person is capable of write a poem.
+a person is capable of wear jewelry.
+a person is capable of buy a book.
+a
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a is for the person.
+a is for the person.
+the is for the person.
+a is for the person.
+a is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the persons.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is
+---------------
+Complete the following text within five sentences:John was at the bar with friends. x was looking for something. x got dirty. x is angry. x is not happy. x is a good person. x is lonely. x is unhappy. x is responsible. x is helpful. x is carefree. x is good. x is caring. x is caring. x is caring. x wants to be. x needs to know. x needs to be. x is knowing. x needs to know what. x is in need. x is worried. x wants to be alone. x is lonely. x is lonely. x needs to have something. x needs to know what. x needs to have something. x needs to have something. x needs to be. x wants to. x needs to know. x needs
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] is going on a walk. [MALE] will happy.
+[MALE] gives one. [MALE] is helpful.
+[MALE] gets none back. [MALE] is happy.
+[MALE] runs a none through persony's head. [MALE] needs to see persony.
+[MALE] holds persony's heads. [MALE] will guilty.
+[MALE] throws none on the subject. [MALE] needs to have knowledge about the subject.
+[MALE] is the best of friends. [MALE] wants to go to the beach.
+[MALE] gets a new friend. [MALE]
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+have a heart attack has prerequisite for get a heart attack.
+take an exam has prerequisite for not be a hard worker.
+a bowl of cereal has a a bowl.
+see a particular program has first subevent of check the program.
+a large bank is at the city.
+a person does not desire be in debt.
+a person is capable of write a review.
+a person is capable of be in a situation.
+a person is capable of like.
+a person is capable of sit.
+a person is capable of eat.
+a person is capable of sleep.
+a person does not desire be sick.
+a person is capable of find.
+have a physical examination has prerequisite for get a doctor
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+you is capable of place a bouquet in a cabinet.
+you is capable of take a bus.
+you is capable of buy furniture.json
+you is capable of call a friend.json
+you is capable of get a telephone.json
+you is capable of wear shoes.json
+you is capable of drive a car.json
+you is capable of make a fool of yourself.
+you is capable of run a marathon.json
+you is capable of shop on the internet.
+you is capable of wash dishes.
+you is capable of move a car.json
+you is capable of call a friend.json
+you is capable of buy a shirt.
+you is capable of learn to play.json
+you
+---------------
+Complete the following text within five sentences:John was at the bar with friends. [MALE] is kind.]
+[MALE] is on the stage with friends. [MALE] is friendly.]
+[MALE] buys [FEMALE] a present. [FEMALE] wants to thank personx.]
+[MALE] gets a letter. [MALE] wants to send a letter.]
+[MALE] plays video games. [MALE] wants to watch video games.]
+[MALE] is getting tired. [MALE] is tired.]
+[MALE] is a new student. [MALE] wants to be a good student.]
+[MALE] makes [FEMALE] breakfast. [FEMALE
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+bust has subevent get a clean bill of health.
+it has property very cold outside.
+lose weight has subevent you feel healthier.
+a person does not desire a broken bone.
+a book is at the kitchen.
+a person does not desire a lost tooth.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a book is at the shelf.
+a person desires a broken leg.
+a person does not desire a broken leg.
+a person does
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a cat is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a dog is at a
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a person does not desire be left alone.
+a person desires a wife.
+a person does not desire a spouse.
+a person desires companionship.
+a person does not desire be alone.
+a person does not desire be alone.
+a person does not desire be in jail.
+a person does not desire be ill.
+a person desires companionship.
+a person does not desire be in jail.
+a person desires companionship.
+a person does not desire be in jail.
+a person does not desire have an accident.
+a person does not desire be in jail.
+a person does not desire be in prison.
+a person does not desire be in jail.
+a person does not desire
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a woman is capable of be a woman.
+a person is capable of drink coffee.
+a person desires another way to live.
+a person desires a better life.
+a person desires be close to others.
+a person desires a good job.
+a person desires a peaceful life.
+a person is capable of be a person.
+a person is capable of travel.
+a person is capable of enjoy himself.
+a person is capable of lose their life.
+a person is capable of be in a relationship.
+a person is capable of feel lonely.
+a person is capable of feel sad.
+a person is capable of be the ruler of a city.
+a person is capable of work hard.
+
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a person does not desire fall across a table.
+a person does not desire be in the wrong place at the wrong time.
+a person does not desire be accused of having a heart attack.
+a person does not desire be in trouble.
+a person desires change the way he walks.
+a person does not desire be angry.
+a person does not desire a sore throat.
+a person desires a toy.
+a person does not desire be the center of attention.
+a person does not desire be a victim of bullying.
+a person does not desire a dirty diaper.
+a person does not desire be the center of attention.
+a person does not desire be a victim of a crime.
+a person does
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] thinks was the best thing ever. [MALE] will curious.
+[MALE] asks none to dinner. [FEMALE] will happy.
+[MALE] puts [FEMALE] in the freezer. [MALE] wants to keep the food.
+[MALE] puts the none to the test. [MALE] is hardworking.
+[MALE] pulls the none apart. [MALE] is curious.
+[MALE] is getting older. [MALE] will tired.
+[MALE] gets [FEMALE] some money. [MALE] wants help.
+[MALE] takes none with personx's family. [
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] is in good shape. [MALE] wants to get better.
+[MALE] loves the game. [MALE] will happy.
+[MALE] puts one foot in front of the other. [MALE] needs to get something.
+[MALE] makes [FEMALE] report. [MALE] wants to have a report.
+[MALE] has to go to the store. [MALE] is eager.
+[MALE] uses the none to help. [MALE] needs to be capable.
+[MALE] lets persony's stay. [MALE] wants to stay with persony.
+[MALE] is at school
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a person desires a fair trial.
+a person desires a good job.
+a person desires be entertained.
+a person desires something to do.
+a person does not desire be in jail.
+a person does not desire be in debt.
+a person desires a better life.
+a person does not desire be in debt.
+a person does not desire be in trouble.
+a person desires a good job.
+a person desires a new haircut.
+a person does not desire be in jail.
+a person desires a new haircut.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+john has a many activities.
+a person is capable of buy candy.
+a person is capable of eat a snack.
+the internet is capable of make a person sick.
+a person is capable of change his hair color.
+the internet is capable of make a person sleep.
+the internet is capable of change a person's hair color.
+the internet is capable of change a person's appearance.
+a person is capable of go to the bookstore.
+a person is capable of take a bath.
+a person is capable of eat a snack.
+the internet is capable of change a person's appearance.
+the internet is capable of change a person's appearance.
+a person is capable of eat a snack.
+
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a person does not desire be left out of the loop.
+a person does not desire be punished.
+a person does not desire be punished.
+a person does not desire be left behind.
+a person does not desire be forced to work hard.
+a person does not desire fall asleep.
+a person does not desire be a victim.
+a person does not desire be hated.
+read the newspaper.
+a person does not desire be embarrassed.
+a person does not desire be left out.
+a person does not desire be left out.
+a person does not desire be left behind.
+a person does not desire be hurt.
+a person does not desire be left out.
+buy something.a person
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] is a very good basketball player. [MALE] is a skilled basketball player.
+[MALE] takes none to a store. [MALE] wants to buy something.
+[MALE] is making breakfast. [MALE] wants to go to the store.
+[MALE] keeps [FEMALE] in check. [MALE] smiles.
+[MALE] tells [FEMALE] that [FEMALE] is going. [FEMALE] will they get an answer.
+[MALE] wants to stay. [MALE] is curious.
+[MALE] goes to the store with persony's dad. [MALE] wants to
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] is a little late. [MALE] needs to head to the car.
+[MALE] asks the waitress. [MALE] wants to help out.
+[MALE] eats personx's head off. [MALE] is cruel.
+[MALE] shows [FEMALE] why. [MALE] wants to get the person to understand them..
+[MALE] is still in love. [MALE] wants to go to a party.
+[MALE] has a great time. [MALE] wants to get a good night's sleep.
+[MALE] is in a bad mood. [MALE] will bad.
+[MALE
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+the first time you saw the moon was in the summer of 1981.
+the first time you saw the moon was in the fall of 1981.
+the first time you saw the moon was in 1981.
+the first time you saw the moon was in 1981.
+the first time you saw the moon was in 1981.
+the first time you see the moon is in 1981.
+the first time you see the moon is in 1981.
+the first time you see the moon is in 1981.
+the first time you see the moon is in 1981.
+the first time you see the moon is in 1981.
+the first time you see the moon is in 1981.
+the first time you see the moon is in 1981.
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+satisfy hunger with minimum effort.
+a piece of paper with a handle is used for holding items.
+a carafe is used for getting water from a tap.
+play a game is motivated by you like to read.
+a tablecloth is used for holding things.
+a person does not desire be in debt.
+a person does not desire be lonely.
+a person does not desire be alone.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a person does not desire the use of drugs.
+a person does not desire have children.
+a person does not desire have a heart attack.
+a person desires be satisfied.
+a person does not desire be hit by a car.
+a person does not desire be in hot water.
+a person desires have a change of clothes.
+a person does not desire be in court.
+a person does not desire be in debt.
+a person does not desire be bored.
+a person does not desire be sick.
+a person does not desire be lonely.
+a person does not desire be confused.
+a person does not desire be in jail.
+a person does not desire be lonely.
+a person does
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a ball is used for holding a ball.
+a person is capable of move a ball.
+attaching a torch to a person's body has subevent they burn their clothes.
+a person is capable of sleep at night.
+a person is capable of write a poem.
+a person is capable of get into a fight.
+a person is capable of pay a fee.
+a person is capable of look at a map.
+a person is capable of find a toy.
+a person is capable of walk on a sidewalk.
+a person is capable of look at a map.
+a person is capable of read a book.
+a person is capable of relax.
+a person is capable of move a car.
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+t-shirts has a button.
+a cupboard has a a desk.
+a person does not desire a problem.
+a person does not desire be a prisoner.
+a person is capable of drink soda.
+a person does not desire be an enemy.
+a person is capable of look after himself.
+a person is not capable of move his hand.
+a person is not capable of enjoy being around other people.
+a person desires a friend.
+a person does not desire be a loser.
+a person has an idea.
+a person desires do something.
+a person desires a reward.
+a person does not desire be a prisoner.
+a person is not capable of eat.
+a person does
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a large group of people is at a big city.
+a large group of people is at a big city.
+a lot of people is at big cities.
+a large group of people is at the big city.
+a large group of people is at a big city.
+a large group of people is at a big city.
+a large group of people is at a big city.
+a large group of people is at a big city.
+a large group of people is at a big city.
+a large group of people is at a big city.
+a large group of people is at a big city.
+a large group of people is at a big city.
+a large group of people is at
+---------------

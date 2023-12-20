@@ -1,0 +1,192 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.This text immediately follows the previous one.text.caleb.caleb.caleb.d.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.caleb.
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Beth. has a new baby.Dyman comes home.Finn is the president.Carol is a member.Kate is a queen.Marge is a whore.Marge is a whore.Marge is a bad person.Marge is a bad person.Marge rides a motorcycle.Marge is jealous of this guy.Marge is a good person.Marge is a bad person.Marge is friendly.Finn is a person.Gina is a person.Hannah is a person.Marge is friendly.Marge is a good person.Marge is a bad person.Marge is a bad person.Marge is a nice person.Marge is a good person.Marge
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Sylvia walks to the subway.Ricky asks for the keys.Lena finds some candy.Lily is visiting friends.MALE: Hey!MALE: Hey.MALE: Hey I'm sorry.MALE: You know what? MALE: Yeah, you know.MALE: Where are you going?MALE: To the movies.MALE: MALE: It's time to watch the movie.MALE: What are you doing there?MALE: MALE: It's in my backyard.MALE: [kisses girlfriend] MALE: [sighs] you know how to kiss.MALE: You never will..MALE: [kisses girlfriend] MALE:
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.You see, you are a good person. You will be treated as such.However, you will not be able to make your way home. You will just end up at the store.Caleb is going to the store for groceries.You put something in your mouth.You want to get a good bite.You will remember your goodbyes.You make a decision.you make a decision.you make a decision.you make a decision.you decide.you choose.you choose.you decide.you decide.you decide.you choose.you decide.you decide.you decide yourself.you decide yourself.you decide.you choose.you decide.you decide.you choose.you choose.your choice.you choose.
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+Caleb is sitting on a chair.
+Caleb is holding a notebook.
+Caleb is playing.
+Caleb is playing with friends.
+Caleb is driving.
+Caleb is having a party.
+Caleb is getting dressed.
+Caleb is playing basketball.
+Caleb is playing.
+Caleb is talking to personx.
+Caleb is thinking about the future.
+Caleb is watching tv.
+Caleb is talking about persony.
+Caleb is talking to personz.
+Caleb is playing with personx.
+Caleb is wearing a cape.
+Caleb is playing with persony.
+Caleb is doing research.
+Caleb is wearing a costume.
+
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Caleb has his own set of tools.Caleb will hate him.Caleb wants to live forever.Caleb needs to get his car.Caleb needs to find a car.Caleb has a new toy.Caleb wants to be the persony.Caleb wants to stay with one person.Caleb wants to get something to eat.Caleb wants to keep his job.Caleb wants to go to school.Caleb wants to have a nice day.Caleb is good.Caleb has a lot of things to do.Caleb wants to buy a new laptop.Caleb wants to be the guy.Caleb wants to keep his job.Caleb wants to be in the back of a bus.C
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+Caleb has a german accent.
+Caleb is not a citizen.
+Caleb is not a soldier.
+Caleb is not a member of the military.
+Caleb is a person.
+Caleb is not a farmer.
+Caleb is a human.
+cahoots the horse.
+cahoots the horse.
+cahoots the horse.
+cahoots the horse.
+cahoots the horse.
+cahoots the horse.
+cahoots the horse.
+cahoots the horse.
+cahoots the horse.
+cahoots the horse.
+cahoots the horse.
+cahoots the horse.
+cahoots the horse.
+
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.There was an active state of the universe.Hence, the subject of the game was really good.After the game has completed, Caleb is free to go to the store.The store owner asks a question.Caleb takes a walk.Caleb is at the store.The store owner asks Caleb to please leave.Caleb takes a walk.Caleb is at the store.The store owner asks Caleb to help.Caleb takes a walk.The store owner asks Caleb to go to the bar.The store owner asks Caleb to go to the bar.Caleb takes a walk.The store owner asks Caleb to tell the truth.Caleb takes a walk.The store owner asks Caleb to go to the store.The store owner
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+Caleb was very afraid of the dark.
+Caleb is extremely nice to everyone.
+Caleb was the one who saved the world.
+Caleb was a fan.
+Caleb was a good person.
+Caleb was a teacher.
+Caleb is an expert.
+Caleb is a good person.
+Caleb is a good person.
+Caleb is a good person.
+Caleb is a good person.
+Caleb is a good person.
+Caleb is a good person.
+Caleb is a good person.
+Caleb is a good person.
+Caleb is a friend.
+Caleb is a good friend.
+Caleb is a good friend.
+Caleb is
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.The audience, along with the actors and the audience member, is inescapable.Caleb is not a hero.The audience is in danger.It is not clear why the audience is in danger.The audience will be in danger.Caleb is going to prison.The audience is in danger.The audience has to be in the state to see the crime.Caleb is going to jail.The audience is in danger.The audience is in danger.The audience is in danger.The audience is in danger.The audience is in danger.The audience has to be in the state to see the crime.Caleb is going to prison.The audience is in danger.The audience is in danger.The audience is in danger.The
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+you do not need to be of the right age to do so.
+you are capable of do so many things at once.
+you are capable of do so many things at once.
+you do not have to be wealthy.
+you do not have to be capable of raise money.
+you does not have to be self-sufficient.
+you do not have to be physically fit.
+you do not have to be at the right time.
+you do not have to be at the right time.
+you do not have to have a heart attack.
+you do not have to be injured.
+you do not have to be involved.
+you do not have to be engaged.
+you do not have to be
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.You've had an awesome time.You're a man of action.You're a man of authority.You're a man of duty.You're a man of honor.You're a man of strength.You're a man of adventure.You're a man of luck.You're a man of love.You're a man of strength.You're a man of strength.You're a man of adventure.You're a man of duty.You're a man of strength.You're a man of honor.You're a man of beauty.You're a man of honor.You're a man of adventure.You're a man of desire.You're a man of comfort.You're a man of power.You are a
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.<|endoftext|>One of the most common and effective ways to keep your blood pressure in check is to take your blood pressure medication. The doctor will check the blood pressure and find that your blood pressure has reached a certain level.
+
+You would like to know how to prevent a stroke or heart attack. Here is a list of how to do it.
+
+1. Stop your blood pressure by taking a blood pressure test.
+
+a) Take a blood pressure test.
+
+b) Take a blood pressure test.
+
+c) Use your phone to call the doctor.
+
+2. The doctor will check your blood pressure.
+
+a) Take a blood pressure test.
+
+b) Take a blood pressure test.
+
+
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.I told you there was a reason he didn't wear a hoodie.I told you he's a man.I told you my life is over.I tell you my family is fine.I told you I will never be able to pay a mortgage,this is for forgiving me.I told you my family is not safe.I told you I will never buy anything.I told you I will never have another child.I told you I will never do it again.I told you I love you.I told you my children will love you too.I told you I will never live in a house full of trash.I told you I will never be in a car accident.I told you my own children will never love you
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+You have to use the name "Batman" in the current sentence.
+[F4M] [FEMALE] gives you a date.
+[F4M] [FEMALE] wants to see you at a movie.
+[F4M] [FEMALE] breaks your jaw.
+[F4M] [FEMALE] wants to spend the night.
+[F4M] [FEMALE] would have to go to the hospital.
+[F4M] [FEMALE] wants to get treatment.
+[F4M] [FEMALE] wants to go back to sleep.
+[F4M] [FEMALE] needs to have a
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Caleb can't breathe.Caleb is old.Caleb is tired.Caleb is a thief.Caleb is a bad person.Caleb is a villain.Caleb is a bad person.Caleb is a scammer.Caleb is a criminal.Caleb is a hero.Caleb is a lawyer.Caleb is a scientist.Caleb is a thief.Caleb is a gambler.Caleb is a lawyer.Caleb is a lawyer.Caleb is a car dealer.Caleb is a fisherman.Caleb is a doctor.Caleb is a farmer.Caleb is a good cook.Caleb is a doctor.Caleb is a nurse.Caleb is a nurse.Caleb
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He then takes the money and head across the street.Caleb goes to his car and takes the car with him.Caleb goes to his house to get some sleep.Caleb goes to the grocery store.Caleb goes to the store.Caleb sees a girl.Caleb gets a call from the police.Caleb calls the police.Caleb asks the girl to go somewhere.Caleb asks the girl to come back.Caleb goes to the store.Caleb uses a magic wand.Caleb sees a baby.Caleb sees a baby.Caleb is attacked by the kids.Caleb has to be the owner.Caleb is in a car accident.Caleb is a great man.Caleb is looking
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Caleb is a teen.Caleb is a bad guy.Caleb is a monster.Caleb is a bad man.Caleb is a bad man.Caleb is a bad man.Caleb is a bad man.Caleb is a bad man.Caleb is a bad man.Caleb is a bad creature.Caleb is a bad wild animal.Caleb is a bad wild animal.Caleb is a bad wild animal.Caleb is a bad wild animal.Caleb is a bad wild animal.Caleb is a bad wild animal.Caleb is a bad wild animal.Caleb is a bad wild animal.Caleb is a bad wild animal.Caleb is a bad wild animal.Caleb
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.com. [FEMALE] asks [FEMALE] if they can get him to buy a ticket.
+[MALE] continues to play with [MALE] for a while.
+[MALE] gives [MALE] a gift. [MALE] needs to ask [FEMALE] if they can buy a ticket.
+[MALE] gives [MALE] a ride. [MALE] needs to ask [FEMALE] if they can be in the car.
+[MALE] looks really happy. [MALE] needs to be able to smile.
+[MALE] goes back to the store. [MALE] is nice.
+[MALE] sees [
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Caleb is dressed in blue T-shirt.Caleb is walking in the park.Caleb is playing video games.Caleb is happy.Caleb is a good friend.Caleb is a good friend.Caleb is able.Caleb is happy.Caleb is fast.Caleb is skilled.Caleb is smart.Caleb is caring.Caleb is talented.Caleb is fun.Caleb is happy.Caleb is caring.Caleb is smart.Caleb is a good friend.Caleb is a good friend.Caleb is a good friend.Caleb is a good friend.Caleb is a good friend.Caleb is a good friend.Caleb is a good friend.Caleb
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Caleb has a crush on Ruby.Caleb has a crush on Catwoman.Caleb is a genius.Caleb is the star.Caleb feels good.Caleb is a fool.Caleb is a good person.Caleb is funny.Caleb is good.Caleb is a good person.Caleb is the star.Caleb is a good person.Caleb is a genius.Caleb is a good person.Caleb is a genius.Caleb is a good person.Caleb is a good person.Caleb is a genius.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Caleb is reading the book.Caleb has the books.Caleb is going for a walk.Caleb has a good relationship.Caleb needs to have a person.Caleb has a boyfriend.Caleb wants to be a good person.Caleb is happy.Caleb is happy for the day.Caleb wants to be a leader.Caleb is good.Caleb is a good person.Caleb is not a good person.Caleb wants to feel happy.Caleb is happy.Caleb is good.Caleb is not a good person.Caleb needs to get a car.Caleb is not at home.Caleb is home alone.Caleb is at work.Caleb is at home.
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.The audience is too busy to attend the event.Please accept the following text within five sentences:Caleb dressed as Superman for halloween.The audience is too busy to attend the event.Please accept the following text within five sentences:Caleb dressed as Batman for halloween.The audience is too busy to attend the event.Please accept the following text within five sentences:Caleb dressed as Batman for halloween.The audience is too busy to attend the event.Please accept the following text within five sentences:Caleb dressed as Batman for halloween.The audience is too busy to attend the event.Please accept the following text within five sentences:Caleb dressed as Batman for halloween.The audience is too busy
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Caleb is a student.Caleb is overjoyed.Caleb wants to leave.Caleb wants to be with friends.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a good person.Caleb is a
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.I'm going to have a party with my mom.Caleb is going to have dinner with her.I'm going to see my mom.I'm going to have a date with my sister.I'm going to have a coffee.I'm going to have a great time.I'm going to have a car.I'm going to have a meal.I'm going to have a book.I'm going to have a book bag.I'm going to have a party.I'm going to have a drink.I'm going to have a look.I'm going to have a cup.I'm going to have a drink.I'm going to have a drink.I'm going to have a look.I'm going to
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+Caleb is trying to go to class and is doing errands with friends.
+caleb needs to go to the library.
+caleb needs to get a ride on a bike.
+caleb gets a haircut.
+caleb is wearing a suit.
+caleb needs to get a good haircut.
+caleb is bored.
+caleb is bored.
+caleb is a good person.
+caleb is a good guy.
+caleb is a good guy.
+caleb is a bad guy.
+caleb is in trouble.
+caleb is a good person.
+caleb is a star in the sky.
+caleb is in trouble.
+caleb is trying to play soccer with his
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.The team has the keys to the building.The cat will leave the house.The next door is the kitchen.The cat is in bed.Caleb is alone.The cat is in the house.The next door is the bedroom.The cat is in the car.The next door is the bathroom.The cat is in the house.The next door is the garage.The next door is the closet.The next door is the bathroom.The next door is the bathroom.The cat is in the bathroom.The next door is the garage.The cat is in the garage.The next door is the bathroom.The cat is in the garage.The next door is the lounge.The next door is the bathroom.The next door is
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Settled down in the rain.Sewing a lot.Milled for a job.In the desert.In the sun.Sewing a lot.Working on an automobile.Milled for a raise.Milled for a job.Milled for the day.Milled for a job.Milled for the day.Milled for the day.Milled for the day.Milled for the day.Milled for the day.Milled for the day.Milled for the day.Milled for the day.Milled for the day.Milled for the day.Milled for the day.Milled for the day.Milled for the day.Milled for the day.Milled for
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Caleb goes to the bathroom.Balda is not in the room.Balda comes back to the room.Caleb gives a letter to Bart.Caleb comes back with all the supplies.Funny how she never forgets.Bart asks if he has seen the letter.Caleb has a heart attack.Caleb is upset.Bart is sick.Caleb puts some candy on the table.Bart wants to play.Caleb is having fun.Caleb is working hard.Funny how it is so easy.MALE (male): do not have sex.MALE (female): be able to get a job.MALE (male): relax.MALE (female): you're an adult
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Caleb told Amy that the cat is okay.I wanted to make sure it was working right.I got some pizza.I got a pizza.Caleb asked for assistance.I was busy.I wasn't ready.There is a clock in the room.I am working.I was tired.I should go home.I was tired.I is doing ok.I went to the grocery store.I get some food.Caleb was not my first choice.I will fight for my rights.I will be the best.I will live in peace.I will be able to breathe.I will be capable of do my job.I will be a good citizen.I will be healthy.I will be happy.I will be
+---------------

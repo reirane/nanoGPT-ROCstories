@@ -1,0 +1,390 @@
+Overriding: out_dir = out-commonsense-finetune/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:John was at the bar with friends.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] gives [FEMALE] a text.
+[MALE] finds persony's car.
+[MALE] has to go to the park.
+[MALE] gives personx's daughter.
+[MALE] gives [FEMALE] a ring.
+[MALE] gives persony's wallet.
+[MALE] says they needed to do something.
+[MALE] makes a call.
+[MALE] is an avid reader.
+[MALE] takes personx's dog to the vet.
+[MALE] takes persony's son to the zoo.
+[MALE] eats a slice of pizza.
+[MALE] is taking
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] takes none to the doctor. [MALE] will satisfied with his work.
+[MALE] meets none in persony's home. [MALE] needs to have a home.
+[MALE] gets persony's picture. [MALE] will impressed.
+[MALE] is never really bad. [MALE] will satisfied.
+[MALE] loves the music. [MALE] will good.
+[MALE] drives to personx's house. [MALE] wants to get home.
+[MALE] talks to persony's girlfriend. [FEMALE] will they tell personx's friends.
+[MALE] decides to go to
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] will none at the same time. [MALE] needs get some money.
+[MALE] gets none at the first thing. [MALE] needs get a first aid kit.
+[MALE] moves none toward the person. [MALE] wants to help.
+[MALE] gives none to persony's girlfriend. [MALE] wants to visit with friends.
+[MALE] decides to quit school. [MALE] wants to get a job.
+[MALE] is determined. [MALE] wants to get stronger.
+[MALE] spends none with personx's family. [FEMALE] will jealous.
+[MALE] takes
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+the devil is at the lake.
+the word 'carnival' is defined as 'the place where people live.'
+the word 'snow' is defined as 'the snow that falls on the earth.'
+the word 'exodus' is defined as 'the city of the dead.'
+the world is defined as 'the world of the present.'
+the word 'love' is defined as 'a love.'
+the word 'dope' is defined as 'the sport of dope.'
+the word 'chicken' is defined as 'the word for chicken.'
+the word 'sport' is defined as 'the sport of soccer.'
+the word 'santa' is defined as 'the symbol of
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] needs to have a wife. [MALE] wants to be happy.
+[MALE] wants to go back to school. [MALE] will relaxed.
+[MALE] walks personx's dog. [MALE] will outgoing.
+[MALE] finds none on the shelf. [FEMALE] wants to go to the store.
+[MALE] gets one of the ___. [MALE] wants to have something to eat.
+[MALE] is late to work. [MALE] wants to go home.
+[MALE] takes none to the zoo. [FEMALE] will happy.
+[MALE] talks to persony's
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] asks the person next to them for directions. [MALE] has the right to ask the person.
+[MALE] gets the person to take the boat. [MALE] wants to get to the boat.
+[MALE] gives none a rest. [MALE] is relaxed.
+[MALE] gives [FEMALE] a hard time. [MALE] is bad.
+[MALE] thinks persony's head was spinning. [MALE] is unsure.
+[MALE] becomes [FEMALE] hero. [MALE] is heroic.
+[MALE] sees the none in persony's eyes. [MALE] wants to be
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+theater has prerequisite for make it a movie.
+a person is capable of go see a movie.
+a person is capable of sit down at a table.
+a person is capable of see a movie.
+satisfy a person's hunger.
+a person is capable of come to terms with their past life.
+a person desires a movie.
+a person desires a new car.
+a person desires a new car.
+a person is capable of buy a new shirt.
+a person desires a new toy.
+a person desires a new bicycle.
+a person is capable of get in shape.
+a person is capable of make a show of their talents.
+a person is capable of sleep in the bed
+---------------
+Complete the following text within five sentences:John was at the bar with friends. x was looking for something. x was not satisfied with the outcome. x thought about something else. x wanted to find what was inside. x is unsure. x was trying to find something to eat. x is hungry. x is curious. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x is capable. x
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] likes to get a good haircut. [MALE] wants to be happy.
+[MALE] is running late for work. [MALE] is not fit.
+[MALE] buys none from an online store. [MALE] wants to get more of the product.
+[MALE] takes [FEMALE] to the dentist. [MALE] wants to go to the dentist.
+[MALE] gives [FEMALE] a big kiss. [MALE] wants to feel good.
+[MALE] is the recipient of the none 's most recent offer. [MALE] will grateful.
+[MALE] sees a television show. [M
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] sees [FEMALE] heart. [FEMALE] will happy.
+[MALE] looks around. [MALE] will surprised.
+[MALE] loses the none. [MALE] needs to go to the store.
+[MALE] gives [FEMALE] the none. [FEMALE] will excited.
+[MALE] makes [FEMALE] laugh. [MALE] will embarrassed.
+[MALE] buys groceries. [MALE] wants to eat.
+[MALE] brings none back. [MALE] wants to make the experience.
+[MALE] takes [FEMALE] to the doctor. [M
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+you is at a place.
+a person receives a reward.
+the person receives the gift.
+there is a room with a chair.
+you is at the pool.
+you is at the beach.
+the person receives the gift.
+you is at the beach.
+someone calls you.
+you is at the corner.
+a person receives the gift.
+a person receives the gift.
+a man receives the gift.
+japanese people does not receive the gift.
+you receives the gift.
+a person receives the gift.
+a person receives the gift.
+a person receives the gift.
+a person receives the gift.
+a person receives the gift.
+a person receives the gift.
+---------------
+Complete the following text within five sentences:John was at the bar with friends. [FEMALE] wants to go home.
+[MALE] raises the alarm. [MALE] will relieved.
+[MALE] gives [FEMALE] a job. [MALE] wants to make money.
+[MALE] walks away from the issue. [MALE] is unhappy.
+[MALE] sees [FEMALE] for a long time. [MALE] wants to meet new people.
+[MALE] has a lot of fun. [MALE] is good.
+[MALE] is really excited. [MALE] will more excited.
+[MALE] puts another ___. [MALE] will relaxed.
+[MALE] keeps
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] wants to impress someone. [MALE] needs to be a writer.
+[MALE] is at the store. [MALE] gets lost.
+[MALE] is still in school. [MALE] needs to get school supplies.
+[MALE] finds another person. [MALE] is curious.
+[MALE] gives [FEMALE] an opportunity. [MALE] needs to get a job.
+[MALE] meets persony's boyfriend. [MALE] is sociable.
+[MALE] is tired of being in charge. [MALE] wants to concentrate.
+[MALE] gets persony's phone. [MALE
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] loves to do things. [MALE] wants to get better.
+[MALE] is none on the market. [MALE] will happy.
+[MALE] gives [FEMALE] a lift. [MALE] wants to relax.
+[MALE] gives [FEMALE] a new one. [MALE] is content.
+[MALE] takes none to the zoo. [MALE] wants to be entertained.
+[MALE] gives [FEMALE] some money. [MALE] needs to be a salesman.
+[MALE] is very proud. [MALE] wants to be happy.
+[MALE] asks [
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] is good enough. [MALE] wants to have a good time.
+[MALE] loves [FEMALE] so much. [FEMALE] will happy.
+[MALE] gives [FEMALE] a hard time. [MALE] will bad.
+[MALE] gives none a call. [MALE] is mean.
+[MALE] finds none on the street. [MALE] gets yelled at.
+[MALE] gets none back. [MALE] needs to get out of the car.
+[MALE] takes none to the doctor. [FEMALE] will excited.
+[MALE] takes none to a doctor
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+a woman has to take the medicine.
+a person has a heart.
+a person is possessed.
+a person is capable of live.
+a person has a desire.
+a person has a desire.
+a person has a property.
+a person has a property.
+a person has a property.
+a person has a property.
+a person is capable of live.
+a person has a property.
+a person has a property.
+a person is capable of move.
+a person desires a new home.
+a person desires a new home.
+a person has a property.
+a person desires a home.
+a person desires a new home.
+a person desires a new home.
+a
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] returns to persony's room. [MALE] wants to be in persony's room.
+[MALE] goes to the restroom. [MALE] needs to use restroom.
+[MALE] buys some ice. [MALE] wants try to make ice.
+[MALE] runs towards the door. [MALE] wants to be there.
+[MALE] takes persony's car. [FEMALE] will like they are going to go see a movie.
+[MALE] takes a nap. [MALE] needs to put on a napkin.
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] thinks of the person behind the counter.
+[MALE] wants to go out.
+[MALE] finishes the job.
+[MALE] keeps persony's hands.
+[MALE] wants to go to the zoo.
+[MALE] gets a new puppy.
+[MALE] gets lost.
+[MALE] gets personx's phone number.
+[MALE] buys personx's food.
+[MALE] wants to go see personx.
+[MALE] gets personx's license.
+[MALE] has a great time.
+[MALE] is making a meal together.
+[MALE] loses persony's tooth
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] throws none at [FEMALE] so they can get back into the game.
+[MALE] sees the none at the mall.
+[MALE] decides to take a picture.
+[MALE] starts driving.
+[MALE] is a good student.
+[MALE] gives [FEMALE] the benefit of the doubt.
+[MALE] is a great person.
+[MALE] goes to the store.
+[MALE] uses the none to help people.
+[MALE] becomes a good citizen.
+[MALE] sees the none at the zoo.
+[MALE] takes [FEMALE] to the hospital.
+
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+John was waiting at the counter.
+John is in the kitchen.
+John is in the kitchen.
+John is in the car.
+John is in the car.
+John is in the hospital.
+John is in the car.
+John is in the car.
+John is in the car.
+John is driving.
+John is in the car.
+John is driving.
+John is in the car.
+John is in the car.
+John is driving.
+John is driving.
+John is driving .
+John is driving.
+John is driving.
+John is driving.
+John is driving.
+John is driving.
+John is in the house.
+John is in the house.
+
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+john has a head.
+soda and drink is used for entertainment.
+soda is a beverage.
+soda is used for drinking.
+soda is a drink.
+soda drink is at a bar.
+soda is at a bar.
+salad is a restaurant.
+soda is a drink.
+salad is a dinner.
+salad is a restaurant.
+salad is at a restaurant.
+salad is at a restaurant.
+salad is at a restaurant.
+salt is a drink.
+salt is used for heating.
+salad is used for cooking.
+salad is used for cooking.
+salad is used for cooking.
+salad is
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] takes none to the park. [MALE] is hungry.
+[MALE] takes none on the way home. [MALE] is prepared.
+[MALE] makes [FEMALE] promise. [MALE] needs to make a promise.
+[MALE] meets none at the bar. [FEMALE] wants to be like personx.
+[MALE] plays the none in the game. [MALE] wants to be fun.
+[MALE] gets none for christmas. [FEMALE] will sad.
+[MALE] makes none at home. [MALE] wants to be together.
+[MALE] watches television.
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] will personx's children. [MALE] needs to be in with personx.
+[MALE] makes the trip. [MALE] is determined.
+[MALE] asks persony's boyfriend. [MALE] wants to see the girl.
+[MALE] gives [FEMALE] a [FEMALE] award. [MALE] needs to be in the country.
+[MALE] takes [FEMALE] to the doctor. [MALE] is friendly.
+[MALE] gets [FEMALE] to the doctor. [MALE] will very sad.
+[MALE] drives none to the mall. [MALE]
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] makes [FEMALE] noise. [MALE] wants to be kind.
+[MALE] finds none in the trash. [MALE] is impatient.
+[MALE] does not have a car. [MALE] is lazy.
+[MALE] shows [FEMALE] the way. [MALE] is friendly.
+[MALE] spends none with others. [MALE] is happy.
+[MALE] makes a lot of money. [MALE] is wealthy.
+[MALE] gives none to a friend. [MALE] will good.
+[MALE] spends none in the backyard. [MALE] wants to be
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+the first time you saw the moon was in the summer of 1969.
+the first time you saw the moon was on the moon.
+the first time you saw the moon was on the moon.
+the first time someone hit you had a bad accident.
+people is capable of make a pretty face.
+the first time you saw the sun was when you were in the sunmoon.
+the first time you saw the sun hit the ground.
+the first time you saw the moon go.
+the first time you saw the sun go.
+the first time the sun reaches the earth.
+the first time the people of the land.
+the first time the first thing you see at the zoo.
+the first time you
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+sputnik.org is a tool for people to find information.
+gazelle.com is a media company.
+saltwater.com is a website for people to find information.
+mall.net is a place to buy things.
+santana.org is a social media site.
+gazelle.org is a place for people to find information.
+mall.net is a place for people to find information.
+gazelle.com is a place for people to get information.
+saltwater.com is a resource for people.
+gazelle.com is a resource for people to find information.
+saltwater.com is a resource for people.
+s
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] calls the cops. [MALE] is prepared.
+[MALE] wants to go home. [MALE] wants to go home.
+[MALE] buys none for personx. [MALE] needs to eat and relax.
+[MALE] buys none by the pound. [MALE] is rich..
+[MALE] lays off persony. [MALE] needs to know personx.
+[MALE] pushes the none out of persony's hands. [MALE] is angry.
+[MALE] becomes extremely drunk. [MALE] is high.
+[MALE] gets personx's order. [MALE] is generous.
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] writes [FEMALE] a riddle. [MALE] will happy.
+[MALE] asks [FEMALE] to come back home. [MALE] wants to try their luck.
+[MALE] is the first to get picked. [MALE] will excited.
+[MALE] is the first one to get. [MALE] will satisfied.
+[MALE] comes home. [MALE] [MALE] is in charge.
+[MALE] takes [FEMALE] to the hospital. [MALE] will happy.
+[MALE] has the hardest time. [FEMALE] will disappointed.
+[MALE
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] [MALE] speaks for none. [MALE] needs to know that it's a problem.
+[MALE] gets none. [MALE] needs to make a decision.
+[MALE] gets none in court. [MALE] is considered.
+[MALE] keeps none in the house. [MALE] needs to be in a house.
+[MALE] does a favor for the ___. [MALE] wants to make something good.
+[MALE] takes none for a test. [MALE] wants to be helpful.
+[MALE] works the rest of the day. [MALE] needs a job.
+[MALE]
+---------------
+Complete the following text within five sentences:John was at the bar with friends.
+[MALE] has none in between the two.
+[MALE] takes none to the store.
+[MALE] wants to go to the store.
+[MALE] tells [FEMALE] is going to be ok.
+[MALE] puts on personx's glasses.
+[MALE] invites [FEMALE] back.
+[MALE] is at the beach.
+[MALE] takes personx's dog to the beach.
+[MALE] goes to the store.
+[MALE] has none to eat.
+[MALE] is not at the water.
+[MALE] sees persony's friend.
+[MALE] moves to
+---------------

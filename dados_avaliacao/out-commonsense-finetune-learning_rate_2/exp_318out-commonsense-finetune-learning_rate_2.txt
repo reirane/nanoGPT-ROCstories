@@ -1,0 +1,193 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tim was sick for school picture day.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tim was sick for school picture day. He wanted to see his friends. He was sick for the picture day. He wanted to go to work.He wanted to see his friends. He was really sick.Did you want to follow him around.He was really sick.We were really sick.The doctor was very good.The doctor was very good.The doctor was very good.We were really sick.The doctors were very good.The doctor was very good.The doctor was very good.The doctor was very good.The doctor was very good.The doctor was very good.We were really sick.The doctor was very good.The doctor was very good.The doctor was very good.The doctor was very good.The doctor was very good.The doctor was very
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. She got up at 8:30am.She tried to grab something.She went to the store.She got a book.Tim was really upset.He asked her if she wanted to talk to him.She said yes.Tim grabbed the book.He took a picture.He took the picture.Tim will be sleeping.He will be really tired.He will ask the doctor.She will say yes.Tim will get the phone.She will put the phone away.He will get a phone.She will take the picture.She will call the doctor.She will call the doctor.Tim will be on his way home.He will get his car.He will fix the car.Tim will be on his way home.He will
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.Sooo is going to make you a holiday.Sooo is not going to pay for the trip.Sooo is doing everything in a hurry.Sooo is not going to take care of the dog.Sooo is not doing anything fun.Sooo is not good for the job.Sooo is not going to be happy.Sooo is not in a good place.Sooo is not in a bad place.Sooo is not in a good place.Sooo is not on vacation.Sooo is not in a good place.Sooo is not in a good place.Sooo is not at the mall.Sooo is working in a office.Sooo is not at the grocery store.Sooo is at the
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.You should take the following action:1. Press the button.2. Take the required action.3. Leave the room.You should follow the directions.4. Go to the store.You should check the item (list or book).5. You should buy more food.There is a good chance that you will be able to buy more food.6. In the next room you will find a book.You will be able to read what you are reading.7. Move your gaze from side to side.You will be able to understand what is going on in the room.8. You will be able to see the story.9. You will start reading.10. You will see what you are talking about.11.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+The 'MILL'
+The 'MILL' is an abbreviation for the 'MILL' in English. It is used for people to help each other through their lives.
+The 'MILL' is a word used to refer to the weight of a person.
+The 'MILL' is the most beautiful part of town.
+The 'MILL' is the home of the most interesting person in the world.
+The 'MILL' is the world's most beautiful city.
+The 'MILL' is a nickname for the 'MILL' in English.
+The 'MILL' is a person's first job.
+The 'MILL' is an adult talking to a child.
+The
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.When my daddy is sick for the day.He is not well.I will get better.But he is not well.I will get better.But he is not well.I will get better.but he is not well.I will get better.but he is not well.I will get better.but he is not well.I will get better.but he is not well.I will get better.but he is not well.I will get better.but he is not well.I will get better.but he is not well.I will get better.but he is not well.I will get better.but he is not well.I will get better.but he is not well.I will get better
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+He is back in the house.
+He is going to the library.
+He will get it.
+He wants to go to the park.
+He is going to pick up food.
+He is going to the store.
+He is going to the store.
+He is going to the store.
+He is going to the store.
+He is going to the store.
+He is going to the store.
+He is going to the store.
+He is going to the store.
+He is going to the store.
+He is going to the store.
+He is going to the store.
+He is going to the store.
+He is going to the store.
+He is going to the
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.Tim was tired for work.Tim was distracted.So, the next day, Tim was really sick and wanted to come home.Tim was sick.So, Tim was sick and wanted to buy some pizza.So, Tim was sick.So, Tim is ill.So, the next day, you see a person you know.So, you know how to get to a doctor.So, the next day, you go to the park.So, the next day you walk around the place.So, the next day you go to your local grocery store.So, you know how to open your refrigerator.So, you read a book.So, you are busy.So, you know how to clean the house.So, you
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. He went to the office. He went to my room. He is trying to buy a new car. [PST Would like to continue...]
+
+917 494 JAMES HITCHHOLD (from "The Last of Us") (writer: "I've seen his mother. I've seen his father. I've seen his friends. I've seen his family. I've seen the things they're good at. I don't have to be good at anything. But I'm being good at something.") (writer: "I've seen his mom. I've seen his dad. I've seen his friends. I've seen his family. I don't have to be good at anything. But I'm being good at
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. He always takes his sick.He is just a good student. [He] will be relieved to not be sick.He will be satisfied. [He] will lose.He is good. [He] is good. [He] will be happy.I was really lucky. [He] will like it. It's not the first time.I got the right job. [He] is cool. [He] is smart. [He] is honest. [He] will have fun. [He] is good. [He] is good. [He] is fun.]I am a good student. [He] has a good. [He] will be grateful. [He] is good. [He] is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+you are a good person.
+my friend is sick.
+go to the bathroom.
+your friend is sick.
+go to the store.
+i want to buy a new pair.
+go to the mall.
+i want to go to the park.
+i want to get a new pair of shoes.
+i want to go to the movies.
+i want to go to the movie theatre.
+i want to get a new pair of shoes.
+i want to sleep at home.
+i want to go to bed.
+i want to be active.
+you want to have a good time.
+a girl wants to do well.
+i want to learn.
+i want to learn more about.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.I've had a difficult day.For the next five minutes, I will be grateful to you for your assistance.But what if you were to tell me that you can't wait to have your cat in a shelter for you.I have to tell you about the cat's condition.I will take you to a veterinarian.I'll be able to look at your condition.You need to see a doctor.I will do a check for you.I will need to find out about your condition.You need to get in bed.I will take you to the doctor.I will go to the store.I will pay more money.I will be able to watch tv.I will get some sleep.I will get help from the doctors.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+b) read it
+tim went to the bathroom after reading the book.
+b) listen to it
+tim was looking at the book.
+b) look at the book
+tim was on the couch.
+tim would never leave the house.
+b) drive the car
+tim would get in the car.
+b) take the bus.
+tim would return home.
+b) get a new computer.
+tim will be on the bus.
+b) take the bus.
+tim will leave the house.
+b) go to the store.
+b) find a book.
+tim will wear a suit.
+b) pick up the phone.
+tim will call the police.
+b) go
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.I told my mom.I told my mom.I told my mom.I told my mom.I told my mom.I told my mom.I told my mom.I told my mom.I had a good time.I had a good time, mom.I had a good time.I had a good time, mom.I had a good time.I had a good time.I had a good time, mom.I had a good time.I had a good time.I had a good time.I had a good time.I had a good time.I had a good time.I had a good time.I had a good time.I had a good time.I had a good time.I had
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+You have to pay the fee to the local hospital.
+The bank will not accept a loan.
+You have to use another person's name.
+You will not vote for the candidate you like.
+You will not hold a referendum.
+You will not have a vacation.
+You will not have a promotion.
+You will have a vacation.
+You will not have a car accident.
+You will not have a crash.
+You will not have a family member in need.
+You cannot buy a new car.
+You will not have a birth control pill.
+You will not have a divorce.
+You will not have a divorce.
+You will not have a wedding.
+You will not have a party
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.She was really sick.He took a shower.The doctor examined his side.He was very sick.The doctor was at the hospital.The person who cared for the person died.The person died.The person took the shower.The person looked at the water.The person saw the person.The person took the shower.The person was at the hospital.The person was healthy.He gave the person his medication.The person took the medication.The person took the medication.The person took the medicine.The person took the medicine.The person took the medication.The person took the medicine.The person took the medicine.The person took the medicine.They said they knew he was sick.The person said they looked at the bathroom.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. He then read the newspaper and woke up in a hospital. He also read the books. The doctor asked him if he was ok. he said no.he then gave him a ride. Thereafter the therapist got up to take the medication. The therapist decided to pull up the car. The car was parked. the therapist asked if he was okay. he said no.the therapist was so friendly. the therapist asked if he was sick. he said no.he then went to the emergency room. he was in pain.the therapist wanted to talk to him.the therapist asked if he was ok. he said no.he then put the car on the road. the therapist told him to go to the emergency room. the therapist asked if
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.Tim asked what happened.Tim was the one behind the red tape.Tim is a good person.Tim asked for the red tape.Tim has done nothing wrong.Tim does not care.Tim is a good person.Tim is a family friend.Tim is caring.Tim is the person to help.Tim is nice.Tim is the person to talk to.Tim is a good person.Tim is the person to talk to.Tim is the person to keep from getting hurt.Tim is the person to love.Tim is the person to go home.Tim is the person to come back to.Tim is the person to talk to.Tim is the person to help.Tim is the person to talk to with.Tim is the one to
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.com/tobiascomedy
+I took the photo of Tim on my phone.
+He will have fun.
+I need to go to the dentist.
+This person will be a good person.
+He will be good.
+This person will be a good person.
+He is going to be a good person.
+He will be good.
+He is good.
+I was going to see my father.
+He has a great job.
+He is a good person.
+I thought he is a good person.
+This is a good person.
+I will be good.
+I will be good.
+I will be good.
+I will be good.
+I will be good.
+I will
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. He needs to get a new computer.He needs to go to the doctor.He needs to fix his computer.Tim is not a good person.He needs to leave the house.He is not a good person.He is not a good person.The man has a bad attitude.He needs to go to the doctor.He needs to get a new computer.the man has a bad attitude.He needs to leave the house.the man has a bad attitude.He is not a good person.He is not a good person.The man is being punished.he is being punished.the man is being punished.the man has a bad attitude.he is getting punished.the man has a bad attitude.the man is being punished
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. She gets the picture. You are on your way to the doctor. He has a appointment. You are looking for a doctor. Tim is a good guy. He is very good at business. He is getting ready to go to the store. You are going to the store. He is getting ready to get the check. You are going to the store. You are getting ready to go to the restaurant. You are getting ready to eat. You are eating. He is going to the restaurant. You are going to the restaurant. You are going to the restaurant. You are going to the restaurant. You are going to the restaurant. You are going to the restaurant. You are going to the restaurant. You are going to the restaurant. You
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.He was in poor health.He was in pain.The doctor didnt believe him.The doctor was sick.The doctor called the doctor.The doctor tried to talk to the doctor.The doctor didnt take medication.The doctor ignored the doctor.The doctor ran away.The doc was always there for the doc.The doc was in a hurry.The doc was concerned.The doc wanted to know what the doc was doing.The doc was in pain.The doc was crazy.The doc was sick.The doc was in the car.The doc was bored.The doc was in need.The doc was in need.The doc wanted to know.The doc wanted to be with the doctor.The doc wanted to have a beer.The
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.He wants to go to the doctor.He is in a wheelchair.Someone else is trying to help.You can't help them.You need to buy the medicine.He is going to have a stroke.Do you need to help him?You need to tell the doctor.You need to go on vacation.You need to buy your own groceries.You need to make the purchase.You need to have a baby.You need to tell the police.You need to buy water.You need to go on the bike ride.You need to carry a bag.You need to go to the grocery store.You need to pay your bills.You need to take a taxi.You need to get money to pay your bills.You need to
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. Then he ran to the gym. Tim went over to the bathroom and picked up his phone to call 911. Tim was not mad at the person. Tim came to the bathroom. Tim was so angry. Tim is a good person.Tim went to the gym. The next day, the doctor gave a diagnosis. The doctor took Tim to the doctor's office. Tim went to the doctor's office. The doctor told Tim to go to the doctor's office. Tim went to the doctor's office. The doctor told Tim to go to the doctor's office. Then he went to the doctor's office. Tim went to the doctor's office. The doctor told Tim to go to the doctor's office. Tim ran to the doctor's office.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.I asked him what happened.I told him he needs to go to his doctor.I looked at his eyes.He is in pain.I smiled and told him to relax.I asked him to continue for the day.I told him to keep quiet so he could get good sleep.I asked him to pick the right drink.I asked him to eat.I told him to take care of himself.I told him he needs to be quiet.I asked him to go to the doctor.I will get him some help.I told him to go to the doctor.I asked him to go to the police.I gave him a massage.I gave him a card.I gave him a message.I told him to go to the
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+sick for school picture day. Use the following text within five sentences:Tim had a nightmare.
+suddenly had a nightmare. Use the following text within five sentences:I saw you.
+suddenly had a nightmare. Use the following text within five sentences:It is too late.
+suddenly had a nightmare. Use the following text within five sentences:I is not in love.
+suddenly had a nightmare. Use the following text within five sentences:I is not in love.
+suddenly had a nightmare. Use the following text within five sentences:I is not in love.
+suddenly had a nightmare. Use the following text within five sentences:I is not in love.
+suddenly had a nightmare
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.The girl was the parent of the child.The person who was the parent of the child gave the child a blanket.The person who was in charge of the area where the child was born was the person to whom the child was born.The person who was to the point where the child was born got the money.The person who was to the point where the child was born bought a new bicycle.The person who was to the point where the child was born gave the person a coat.The person who was to the point where the child was born got a new coat.The person who was in charge of the area where the child was born was the person to whom the child was born.The person who was to the point where the child
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.Sugar is sick for the time.Sugar is a lot of trouble.Tim is a bad person.Sugar is so tired.Sugar is tired.Tim is a liar.Tim is a thief.Tim is a thief.Sugar is so smart.Sugar is good.Tim is a fool.Sugar is hot.Tim is nice.Sugar is kind.Tim is even.Sugar is good.Tim is a liar.Tim is a thief.Tim is a liar.Tim is good.Sugar is hard.Tim is pretty.Sugar is beautiful.Tim is a good person.Tim is a good person.Tim is a friend.Tim is a friend.Tim is a family.Tim is a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.  He started to cry.  He turned off the tv and went to bed. . .and for the rest of the night, Tim was fine.
+(2) (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) (31) (32) (33) (34) (35) (36) (37) (38
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. He said he will read the book.
+The following text within five sentences:Tim was sick for mommy's hair. She said she saw the dog.
+The following text within five sentences:Tim wasn't in the car when he heard the bell.
+The following text within five sentences:Tim had to go to the hospital.
+The following text within five sentences:Tim was able to get a refund for his tickets.
+The following text within five sentences:Tim was so stressed.
+The following text within five sentences:The doctor wants to see the doctor tomorrow.
+The following text within five sentences:Tim is not the one that gave the order.
+The following text within five sentences:Tim was not happy to see his
+---------------

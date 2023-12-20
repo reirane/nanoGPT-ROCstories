@@ -1,0 +1,387 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Irene is an extreme right winger.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is a good day. [MALE] wants to go to work.
+[MALE] gives [FEMALE] a gift. [MALE] wants to help.
+[MALE] brings [FEMALE] to tears. [MALE] wants to tell [FEMALE] they are sorry.
+[MALE] calls the cops. [MALE] will scared.
+[MALE] tells personx's grandma. [MALE] wants to bring [FEMALE] up to speed.
+[MALE] wants to hang out. [MALE] needs to talk to persony.
+[MALE] tries to stop. [MALE] needs
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.she is a great athlete.she is a great athlete.she is a great athlete.she has a perfect body.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.she is a great athlete.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] has a great time at the beach. [MALE] wants to go back to school.
+[MALE] walks to work. [MALE] needs to have a job.
+[MALE] gets none with the help. [MALE] [MALE] walks to work.
+[MALE] takes [FEMALE] to the store. [MALE] wants to buy a new purse.
+[MALE] eats none on personx's birthday. [MALE] wants to celebrate.
+[MALE] asks [FEMALE] to teach. [MALE] needs to have been told by person y.
+[MALE] needs a new car.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] has a personx's back to. [MALE] is determined.
+[MALE] sees the rainbow. [MALE] wants to go outside.
+[MALE] puts none in persony's hands. [MALE] needs to get the money.
+[MALE] is a huge success. [MALE] will happy.
+[MALE] is running late. [MALE] wants to get paid.
+[MALE] finds a new job. [MALE] needs to apply for employment.
+[MALE] makes some soup. [MALE] needs gather supplies.
+[MALE] goes back to persony's house. [MALE]
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] gives the class. [MALE] wants to test them.
+[MALE] has a long way to go. [MALE] wants to get there faster.
+[MALE] decides to go to college. [MALE] wants to have a good life.
+[MALE] is a good student. [FEMALE] will happy and happy.
+[MALE] has a big surprise for persony. [FEMALE] will excited.
+[MALE] takes a break. [MALE] is sad.
+[MALE] gets a new tv. [MALE] wants to watch tv.
+[MALE] gets back to work. [M
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+a is for the person.
+a is for the person.
+the is for the person.
+a is for the person.
+a is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+a is for the person.
+the is for the person.
+the is for the person.
+the is for the persons.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+a person does not desire be hit by a car.
+a person desires not be cheated.
+a person does not desire be cheated.
+a person desires a job well done.
+a person desires a good company.
+a person does not desire be cheated.
+a person does not desire to be cheated.
+a person does not desire have a criminal record.
+a person does not desire be found guilty.
+a person does not desire be found guilty.
+a person desires a good job.
+a person does not desire be found guilty.
+a person does not desire be cheated.
+a person does not desire be punished.
+a person does not desire be found guilty.
+a person does not desire be cheated
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is playing basketball. [MALE] is athletic.
+[MALE] gets none back. [MALE] needs to find out what happened.
+[MALE] takes persony's dog for a walk. [MALE] is mean.
+[MALE] gets none from personx's parents. [MALE] needs to go to the grocery store.
+[MALE] changes persony's mind. [MALE] wants to change person y's mind.
+[MALE] gives none to children. [FEMALE] will grateful.
+[MALE] goes to the beach. [MALE] is adventurous.
+[MALE] finds none on the ground
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] sees persony's daughter. [MALE] wants to make sure their daughter is okay.
+[MALE] gets a phone call. [MALE] needs to get a phone.
+[MALE] tells [FEMALE] to go. [MALE] needs to ask persony to drive to persony.
+[MALE] makes [FEMALE] answer. [MALE] wants make a decision.
+[MALE] gets a new job. [MALE] is intelligent.
+[MALE] eats persony's lunch. [MALE] wants to be nice.
+[MALE] puts none in personx's car. [MALE] smiles
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+you is capable of place a bouquet of flowers in your closet..
+you is capable of make a large patchwork quilt.
+you is capable of find all the books under the bed.
+you is capable of get a small break.
+you is capable of see the stars.
+you is capable of drive a car.
+you is capable of read a book.
+you is capable of sleep.
+you is capable of feel tired.
+you is capable of make a pie.
+you is capable of go to the shop.
+you is capable of sleep.
+you is capable of remember.
+you is capable of sleep.
+you is capable of listen to music.
+you is capable of look at a
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] buys some ice cream. [MALE] wants to eat it.
+[MALE] has a great time. [MALE] wants to eat good food.
+[MALE] tells persony's kids. [MALE] wants to ask them to take care of things.
+[MALE] makes [FEMALE] laugh. [MALE] is friendly.
+[MALE] gets some money. [MALE] wants to make money.
+[MALE] is a good student. [MALE] is smart.
+[MALE] goes to the doctor. [MALE] will happy.
+[MALE] pays for the service. [MALE]
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] wants to impress someone. [MALE] needs to be a successful artist.
+[MALE] brings [FEMALE] to tears. [MALE] needs to be in pain.
+[MALE] gets [FEMALE] idea. [MALE] wants to make sure they get their idea accomplished.
+[MALE] asks persony's friends. [MALE] wants to get some friends to pay a visit.
+[MALE] meets persony's needs. [MALE] is caring.
+[MALE] is going to a party. [MALE] wants to have a party.
+[MALE] loves to play. [MALE] needs
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] loves personx's mother. [MALE] is caring.
+[MALE] is feeling sick. [MALE] will sick.
+[MALE] sees my favorite show. [MALE] wants to have fun.
+[MALE] loses personx's balance. [MALE] is frustrated.
+[MALE] throws [FEMALE] away. [MALE] is determined.
+[MALE] has a baby girl. [MALE] is caring.
+[MALE] tells the truth. [MALE] wants to have a conversation.
+[MALE] gives [FEMALE] a gift. [FEMALE] will grateful.
+
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is very upset. [MALE] wants to talk to their friend.
+[MALE] loves [FEMALE] so much. [FEMALE] will [FEMALE] is proud.
+[MALE] watches [FEMALE] play. [MALE] needs to look at persony.
+[MALE] has to take a break. [MALE] wants to rest.
+[MALE] gets some money. [MALE] needs to go to the bank.
+[MALE] makes a better world. [MALE] will smart.
+[MALE] is a big deal. [MALE] wants to be a big deal.
+
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+a woman is capable of be a mother.
+a person is capable of drink coffee.
+a person desires be at the zoo.
+a person desires a good job.
+a person desires be close to his parents.
+a person desires a good job.
+a person desires the world to be a better place.
+a person desires be with his family.
+a person is capable of be in a relationship.
+a person is capable of cry.
+a person is capable of move.
+a person desires a good job.
+a person is capable of live a long time.
+a person is capable of get away.
+a person is capable of look at a picture.
+a person is capable of love.
+
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+my friend is an extreme left winger.
+my friend is an extreme right winger.
+my friend is an extreme left winger.
+my friend is an extreme right winger.
+my friend is an extreme left winger.
+my friend is an extreme right winger.
+my friend is an extreme right winger.
+my friend is an extreme left wing.
+my friend is an extreme right wing.
+my friend is an extreme right wing.
+my friend is an extreme left wing.
+my friend is an extreme right wing.
+my friend is an extreme left wing.
+my friend is an extremely right wing.
+my friend is an extreme left wing.
+my friend is an extreme right wing.
+my friend is an extreme
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is a lot. [MALE] needs to be in the right place.
+[MALE] takes none to the store. [MALE] will happy.
+[MALE] is feeling lonely. [MALE] is lonely.
+[MALE] gets a new puppy. [MALE] wants to ride the puppy.
+[MALE] spends the night. [MALE] needs to go to bed.
+[MALE] gets persony's number. [MALE] needs to take a phone call.
+[MALE] goes on a date. [MALE] wants to have a good time.
+[MALE] is a great cook. [MALE
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is in the car with persony. [MALE] will they are glad.
+[MALE] sees a doctor. [MALE] needs get in a car.
+[MALE] runs a marathon. [MALE] needs to have a running shoe.
+[MALE] says to persony's parents. [MALE] is friendly.
+[MALE] leaves personx's none behind. [MALE] is responsible.
+[MALE] says [FEMALE] was sorry. [MALE] will like they are sorry for persony's behaviour.
+[MALE] learns how to skate. [MALE] needs to put on skates.
+
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+a person desires a fair trial.
+a person desires a good job.
+a person desires be a follower.
+a person desires be a father.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires to be a teacher.
+the sun rises over the ocean.
+japan is a country.
+the moon is a great star.
+the sun is one of the planets.
+a person desires a good job.
+a person does not desire to go to the doctor.
+a person does not desire to go to the doctor.
+a person does not desire to get sick.
+a person
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+person has a many activities to do. they is capable of travel to various locations.
+if a person does not find one the person has a to go to the nearest one.
+a person desires drink alcohol. they has to have a lot of alcohol.
+a person desires have a good time. they has to have a good time.
+a person desires have a good career. they has to go to the career.
+a person desires be part of a group. they has to be part of a group.
+a person desires to learn something new. they is learning.
+a person desires give a gift. they has to give a gift.
+someone desires a new look. they has to give them a new look.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] takes a walk in the woods. [MALE] needs go to the woods.
+[MALE] puts none in persony's pocket. [FEMALE] wants to thank x.
+[MALE] puts none in the refrigerator. [MALE] will happy.
+[MALE] loses a lot of weight. [MALE] needs to add weight.
+[MALE] plays a none in the process. [MALE] wants to be helpful.
+[MALE] gets none for christmas. [MALE] needs to get presents.
+[MALE] takes it to the store. [MALE] is caring.
+[MALE] makes a mess
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is a very good basketball player.
+[MALE] gets personx's ring. [MALE] needs to go to the ring.
+[MALE] gets the none together. [MALE] needs get to the place where the other members are.
+[MALE] has a big party. [MALE] is social.
+[MALE] is a little hard on oneself. [MALE] is immature.
+[MALE] is really funny. [MALE] will content.
+[MALE] takes personx's girlfriend. [MALE] is curious.
+[MALE] goes to the store to buy. [MALE] wants to buy the food
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is a little late to the party.
+[MALE] calls the police. [MALE] needs call the police.
+[MALE] calls the cops. [MALE] wants to be safe.
+[MALE] takes a break. [MALE] wants to get some rest.
+[MALE] provides [FEMALE] opportunity. [FEMALE] will others are supported..
+[MALE] comes home today. [MALE] wants to go to the bathroom.
+[MALE] puts personx's none in order. [MALE] personx's thoughts.
+[MALE] is in an accident. [FEMALE] will worried
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+the first time you play the game is at the finals.
+the first time you play the game is at the finals.
+the first time you play the game is at the finals.
+the first time you play the game is at the finals.
+the first time you play the game is at the finals.
+the first time you play the game is at the finals.
+the first time you play the game is at the finals.
+the first time you play the game is at the finals.
+the first time you play the game is at the finals.
+the first time you play the game is at the finals.
+the first time you play the game is at the finals.
+the first time you play the
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+satisfy hunger with minimum effort is motivated by you enjoy your meal.
+write a program is motivated by you are new to programming.
+meet people is motivated by you need to make a living.
+drill a hole is motivated by you like to drill.
+meet people is motivated by you have a hard time.
+write a program is motivated by you like to write.
+get a job is motivated by you like to work.
+get a divorce is motivated by you are divorcing.
+go to the mall is motivated by you want to buy something.
+write a program is motivated by you have a lot of time.
+drill a hole is motivated by you are skilled.
+get a job is motivated by
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] goes the store. [MALE] is prepared.
+[MALE] wants to go to the bar. [MALE] wants to buy drinks.
+[MALE] gets personx's first bite. [MALE] wants to be satisfied.
+[MALE] finds the key. [MALE] is determined.
+[MALE] needs a new haircut. [MALE] needs to know how to apply.
+[MALE] is having a hard time. [MALE] is unhappy.
+[MALE] puts none in the microwave. [MALE] wants to clean up.
+[MALE] turns the page. [MALE] wants to reread
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+a ball is used for holding a ball.
+a person desires be left alone.
+a person desires be recognized as a hero.
+a person desires an education.
+a person desires be free.
+a person desires have a clean house.
+a person desires be understood.
+a person desires a dog.
+a person desires a new pair of shoes.
+a person desires be rewarded.
+a person desires a new pair of shoes.
+a person desires a great job.
+a person desires a new pair of shoes.
+a person desires a puppy.
+a person desires be in touch with others.
+a person desires a new pair of shoes.
+a person desires a dog.
+a person desires be respected
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] wants to be a teacher. [MALE] is educated.
+[MALE] is a good student. [MALE] is intelligent.
+[MALE] looks at [FEMALE] with eyes. [MALE] wants to smile..
+[MALE] gives [FEMALE] a reason. [FEMALE] will [FEMALE] understands personx's reasons.
+[MALE] meets the man. [MALE] wants to thank the man.
+[MALE] asks persony's friends. [FEMALE] will they agree with personx.
+[MALE] gives [FEMALE] a clue. [FEMALE]
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+a large portion of the population shares a common ancestor.
+a well-known health care industry is a health care industry.
+a large portion of the population shares a common ancestor.
+a large portion of the population is not capable of move freely.
+a large portion of the population is not capable of move freely.
+a large portion of the population is not capable of move freely.
+a large portion of the population is not capable of move freely.
+a large portion of the population is not capable of move freely.
+a large portion of the population is not capable of move freely.
+a large portion of the population is not capable of move freely.
+a large portion of the population is not capable of move freely.
+---------------

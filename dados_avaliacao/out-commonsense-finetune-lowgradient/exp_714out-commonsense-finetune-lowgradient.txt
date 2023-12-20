@@ -1,0 +1,336 @@
+Overriding: out_dir = out-commonsense-finetune-lowgradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:John got a pet turtle when he was a kid.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+have an epileptic fit. [MALE] needs to have a lot of heartburn.
+have a baby. [MALE] needs to have a baby.
+have a heart attack. [MALE] needs to have a heart attack.
+have a baby. [MALE] wants to meet personx's parents.
+go to a restaurant. [FEMALE] wants to order something.
+get a divorce. [MALE] wants to go into a divorce.
+go to the bar. [MALE] wants to drink.
+play basketball. [MALE] wants to play basketball.
+kiss somebody. [FEMALE] will [FEMALE] wants to be close to persony
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [MALE] will loved.
+[MALE] breaks into persony's room. [MALE] is curious.
+[MALE] gets rid of persony's none. [MALE] wants to collect.
+[MALE] loves a dog. [MALE] needs to be with a dog.
+[MALE] gets a job. [MALE] needs to have a job.
+[MALE] gets personx's hair done. [FEMALE] wants to go see their dad.
+[MALE] gives [FEMALE] a hug. [FEMALE] wants to thank person x.
+[MALE] brings none up on a date. [MALE
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [MALE] wants to be pet.
+[MALE] buys the none for the none. [MALE] wants to buy something.
+[MALE] takes none from the fridge. [MALE] needs to look in the fridge.
+[MALE] makes [FEMALE] choice. [MALE] wants to gain knowledge.
+[MALE] takes none to the doctor. [MALE] wants to have a physical exam.
+[MALE] gets none to eat. [MALE] wants to eat more food.
+[MALE] gives [FEMALE] time. [FEMALE] will excited.
+[MALE] brings [FEMALE] home.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [MALE] needs to feed it to his dog.
+[MALE] makes a very good living. [MALE] wants to earn more money.
+[MALE] plays all day. [MALE] wants to be productive.
+[MALE] works like a king. [MALE] needs to be in charge of a throne.
+[MALE] loves the dog. [MALE] is loving.
+[MALE] loses a lot of money. [MALE] wants to take a vacation.
+[MALE] shows [FEMALE] how to make. [FEMALE] wants to listen to personx.
+[MALE] finds [FEMALE] a
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] needs to have a wife. [MALE] gets more work.
+[MALE] comes soon. [MALE] wears shoes.
+[MALE] sends none to schools. [MALE] wants to impress other students.
+[MALE] plays football for a living. [MALE] wants to go out playing.
+[MALE] loves [FEMALE] so much. [MALE] is generous.
+[MALE] is really scared. [MALE] wants to be a good person.
+[MALE] drops the none on the table. [MALE] is unwell.
+[MALE] never thought. [MALE] is not
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] asks the teacher. [MALE] wants to talk to the teacher.
+[MALE] is a teacher at a school. [MALE] wants to learn.
+[MALE] decides to play basketball. [MALE] wants to play basketball.
+[MALE] takes a lot of piss. [FEMALE] will they will not be able to take any.
+[MALE] loves [FEMALE] well. [MALE] needs to be a good friend.
+[MALE] becomes [FEMALE] hero. [MALE] needs to be a hero.
+[MALE] tells none about persony's new job. [FEMALE
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+walk is at the edge of town.
+a horse is at the back of the house.
+a horse is at the back of the house.
+a person is capable of move his hand.
+a person is at the top of their lungs.
+a person is capable of drive the car.
+a person is at the back of the house.
+a person is at the back of the house.
+a person is at the bottom of their lungs.
+a person is capable of go to a movie.
+a person is at the back of the house.
+a person is at the back of the house.
+a person is at the front of the house.
+a person is capable of buy a hamburger.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. x is responsible for his turtle.
+[MALE] takes persony's money. [MALE] is greedy.
+[MALE] gives none to the children. [MALE] asks [FEMALE] their names.
+[MALE] throws [FEMALE] away. [MALE] is rude.
+[MALE] goes swimming for the sharks. [MALE] wants to go swimming.
+[MALE] takes personx's none on a trip. [MALE] is adventurous.
+[MALE] puts persony's none in the refrigerator. [MALE] is negligent.
+[MALE] is having a party. [MALE] gets drunk.
+[
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] is playing a game of tag. [MALE] wants to play something fun.
+[MALE] gets persony's wallet. [MALE] wants to make money.
+[MALE] sends personx's none to a school. [MALE] is good.
+[MALE] spends none there. [MALE] wants to be entertained.
+[MALE] makes [FEMALE] laugh. [MALE] wants to be funny.
+[MALE] brings none in. [MALE] is observant.
+[MALE] gets persony's friends together. [MALE] needs to call them.
+[MALE] brings forth the __
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] always carried [FEMALE] away. [MALE] needs to not be alone.
+[MALE] gets personx's wallet. [MALE] wants to have a good time.
+[MALE] goes to the store. [MALE] will prepared.
+[MALE] leaves the none at home. [MALE] needs to go to the store.
+[MALE] drives [FEMALE] none back. [FEMALE] wants to have a good time.
+[MALE] has a lot of fun. [MALE] wants to do something fun.
+[MALE] puts the none away. [MALE] wants to make sure
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+you has property good at politics.
+go for a drive has prerequisite for leave your car.
+a man desires be in love.
+a woman desires be in love.
+a person desires his wife.
+a person desires see a movie.
+a person desires to be in charge.
+a person desires be able to play the piano.
+a person desires make money.
+a man desires eat hamburgers.
+a person desires take his friend.
+a woman desires be in love with him.
+a man desires a new book.
+a man desires have a pet cat.
+a woman desires a more life.
+a man desires buy a new car.
+a man desires a better life.
+a woman
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [MALE] is kind.
+[MALE] buys a new car. [MALE] needs to buy a new car.
+[MALE] buys [FEMALE] a gift. [FEMALE] wants to give it to person x.
+[MALE] wants to be a singer. [MALE] is interesting.
+[MALE] comes up with a solution. [MALE] wants to solve the problem.
+[MALE] makes a lot of noise. [MALE] is obnoxious.
+[MALE] gives [FEMALE] a job. [MALE] is thoughtful.
+[MALE] makes [FEMALE] breakfast. [MALE]
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] wants to impress someone else. [MALE] wants to impress other people.
+[MALE] brings [FEMALE] closer. [MALE] is confident.
+[MALE] gives [FEMALE] a new one. [MALE] wants to thank him.
+[MALE] makes a bed. [MALE] wants to sleep.
+[MALE] gives [FEMALE] a job. [MALE] is competent.
+[MALE] gets persony's attention. [MALE] wants to be entertained.
+[MALE] gets none back. [FEMALE] will sad.
+[MALE] puts none in persony
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] loves to play. [MALE] is playful.
+[MALE] takes [FEMALE] to the zoo. [MALE] wants to watch the zoo.
+[MALE] runs away. [MALE] wants to go home.
+[MALE] plays none for the rest of the day. [MALE] is caring.
+[MALE] is in an accident. [MALE] is irresponsible.
+[MALE] gets none in the mail. [MALE] needs to find the mail.
+[MALE] tells [FEMALE] to go home. [MALE] wants to call the local police.
+[MALE] asks [
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] is good enough. [MALE] wants to have a party.
+[MALE] is very good. [MALE] wants to complete a project.
+[MALE] gets personx's hair done. [MALE] needs to be in a salon.
+[MALE] throws none to the side. [MALE] wants to be disrespectful.
+[MALE] finds personx's keys. [MALE] gets yelled at.
+[MALE] gets personx's dog. [MALE] is playful.
+[MALE] sets none in motion. [MALE] wants to practice.
+[MALE] gives none to persony. [MALE
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+get the ball to play has prerequisite for get some money.
+have a drink has last subevent of get out of the water.
+play basketball has first subevent of get in shape.
+drive a car has prerequisite for get a car.
+take a shower has prerequisite for put some deodorant on.
+get clean has prerequisite for wash the house.
+stay healthy has first subevent of get fit.
+run for office has prerequisite for get a passport.
+tell a lie causes you can't believe it.
+kill someone has subevent someone will get hurt.
+get a divorce has subevent you get divorce.
+get clean has prerequisite for get rid of your clothes.
+take a walk causes you feel tired
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] tries to make persony's life better. [MALE] is ambitious.
+[MALE] buys a new car. [MALE] is determined.
+[MALE] asks [FEMALE] to join. [MALE] wants to try to make a difference.
+[MALE] makes [FEMALE] noise. [MALE] wants to help.
+[MALE] buys none today. [MALE] needs to buy things.
+[MALE] takes persony's hand. [MALE] wants to go shopping.
+[MALE] gives [
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+play lacrosse is at a sport.
+get some rest has prerequisite for take a nap.
+an ice cream cone is at a restaurant.
+a table is used for eat.
+a person desires play with a toy.
+a person desires a relationship.
+a person desires a job.
+a person desires a place to live.
+a person desires a good restaurant.
+a person desires an environment.
+a person desires a safe place.
+a person desires a life.
+a person desires a good job.
+a person desires a place to call home.
+a person desires a place to go to.
+someone is at a party.
+a person desires an escape.
+a person desires a vacation.
+
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] cleans personx's bedroom. [MALE] wants to get rid of the house.
+[MALE] takes none to the bank. [MALE] wants to make a check.
+[MALE] loves none for the rest of their life. [MALE] will happy.
+[MALE] asks [FEMALE] out. [MALE] wants to talk to personx.
+[MALE] gives [FEMALE] a chance. [MALE] will grateful.
+[MALE] asks none for directions. [FEMALE] will grateful.
+[MALE] makes personx's way home. [MALE] wants to make sure none are
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] goes to the store. [MALE] needs to go to the store.
+[MALE] gives [FEMALE] a kiss. [FEMALE] will happy.
+[MALE] gives none a refund. [MALE] wants to make sure they don't lose their money.
+[MALE] makes all the plants grow. [MALE] is skilled.
+[MALE] gets a great deal. [MALE] wants to pay for the good work.
+[MALE] gives [FEMALE] a present. [MALE] is generous.
+[MALE] plays personx's none in persony's life. [FEMALE]
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [MALE] wants to play with it.
+[MALE] takes a break. [MALE] wants to be the rest of the time.
+[MALE] finds the none to drink. [MALE] wants to take some rest.
+[MALE] provides none for personx's family. [FEMALE] will personx is thankful.
+[MALE] runs to the store. [FEMALE] wants to buy something to eat.
+[MALE] eats persony's meal. [MALE] is sociable.
+[MALE] invites none into persony's home. [FEMALE] wants to be alone.
+[MALE] gets none together with
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] takes none to the park. [MALE] is careful.
+[MALE] takes none on a date. [MALE] needs to have a date.
+[MALE] lets persony's cat. [MALE] needs to go to the cat's house.
+[MALE] opens personx's none to the public. [FEMALE] wants to see [MALE] grow.
+[MALE] takes personx's first steps. [FEMALE] will gets closer to personx.
+[MALE] sells persony's none to another. [MALE] wants to earn money.
+[MALE] returns none to persony's car.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] tells [FEMALE] not to worry. [MALE] is being a mean boss.
+[MALE] becomes the first person to make a new home. [MALE] is hopeful.
+[MALE] leaves the house. [MALE] wants to find someone to help with the cleaning.
+[MALE] has a big party. [FEMALE] will excited.
+[MALE] watches none on the tv. [MALE] is tired.
+[MALE] goes to the store. [MALE] is excited.
+[MALE] is working hard. [MALE] wants to be successful.
+[MALE] gives [FEM
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] is at the bar having a drink.
+[MALE] calls the police. [MALE] is callous.
+[MALE] tells personx's friends. [MALE] is playful.
+[MALE] gives [FEMALE] the gift. [MALE] will grateful.
+[MALE] gives none to persony's wife. [FEMALE] will be satisfied..
+[MALE] comes home after school. [MALE] is tired.
+[MALE] gives none to persony's sister. [MALE] is outgoing.
+[MALE] plays soccer with personx's friends. [MALE] wants to be a good
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] is none at the time. [MALE] will happy.
+[MALE] runs [FEMALE] away. [FEMALE] will scared.
+[MALE] gives [FEMALE] a kick. [MALE] is needy.
+[MALE] gets paid by personx's employer. [MALE] wants to receive their pay.
+[MALE] gets personx's hair done. [MALE] wants to be nice.
+[MALE] takes the none for a walk. [MALE] wants to go on a walk.
+[MALE] is bored. [MALE] is determined.
+[MALE] provides [F
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+satisfy your hunger is motivated by you have more meat.
+satisfy your curiosity is motivated by you're curious.
+wish people would help you is motivated by you love them.
+a good sign is used for an orderly action.
+an apple is used for eating.
+a person is capable of say anything.
+one tooth is used for chew on.
+a person is capable of laugh at a joke.
+a person is capable of look at a map.
+a person desires to be good.
+a person is capable of tell a story.
+a person does not desire be late for work.
+some people are capable of go on a vacation.
+a person is capable of play a game.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] wears the none every day. [MALE] is observant.
+[MALE] gives none to people. [MALE] wants to help them.
+[MALE] gives none to a friend. [FEMALE] will [MALE] wants to congratulate them.
+[MALE] takes none to a veterinarian. [MALE] needs to go to the vet.
+[MALE] sends persony's none to the doctor. [MALE] wants to help persony.
+[MALE] gives persony's none a raise. [MALE] wants to be charitable.
+[MALE] gets persony's order. [MALE] is generous.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+peter is a musician.
+a person is capable of look up information.a person is capable of think.
+a person does not desire be seen.a person is capable of be the center of attention.
+a person is capable of take the hand off the pot.a person is capable of talk to people.
+a person does not desire be left out.a person is capable of get on the wrong side of history.
+a person desires have a bath.a person is capable of relax.
+another person does not desire be caught up in a crime.a person is capable of learn new things.
+a person desires go to the zoo.a person is capable of walk in the park.
+a person does not
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] wants to play. [MALE] wants to play with friends.
+[MALE] takes a stand. [MALE] is assertive.
+[MALE] gets rid of all the ___. [MALE] is mean.
+[MALE] comes to persony's aid. [MALE] wants to be helpful.
+[MALE] buys none for persony's mother. [MALE] needs buy something.
+[MALE] asks [FEMALE] to marry. [MALE] wants to do something.
+[MALE] watches none on television. [MALE] is bored.
+[MALE] is going to do something. [M
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [MALE] wants to give the turtle away.
+[MALE] takes a course. [MALE] needs to start a course.
+[MALE] takes none back. [MALE] wants to have a good time.
+[MALE] hits the store. [MALE] is desperate.
+[MALE] calls the number. [MALE] wants to give the phone back.
+[MALE] gives the key. [MALE] wants to pay the bills.
+[MALE] wants to be a scientist. [MALE] needs to be a scientist.
+[MALE] takes none to the dog park. [MALE] wants to make sure the dog is safe
+---------------

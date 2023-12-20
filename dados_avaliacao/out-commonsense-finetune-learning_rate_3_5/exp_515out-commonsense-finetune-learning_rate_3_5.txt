@@ -1,0 +1,346 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_3_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Anna was spending all her money on drugs.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Anna was spending all her money on drugs. She wanted to go to a movie.
+[MALE] wants to go to a friend's house. [MALE] is curious.
+[MALE] gets good grades. [MALE] will satisfied.
+[MALE] gets a bill for the house. [MALE] wants to meet the bill.
+[MALE] is a good cook. [MALE] will happy.
+[MALE] stops the car. [MALE] needs to get an exit.
+[MALE] is excited. [MALE] is more playful.
+[MALE] learns something new. [MALE] is clever.
+[MALE] gets some candy. [MALE] needs to
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She was very lucky.
+[MALE] continues to see [FEMALE] in a lot of ways.
+[MALE] walks the dog.
+[MALE] gets [FEMALE] a new pair of shoes.
+[MALE] gives [FEMALE] a free ride.
+[MALE] tells [FEMALE] they are happy.
+[MALE] is the only person in the universe to go on a date.
+[MALE] is in awe of [FEMALE]..
+[MALE] makes [FEMALE] return the favor.
+[MALE] leaves behind a friend.
+[MALE] is a talented musician.
+[
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. Just like you.Dawn was shopping. Maybe you should bring your dog.It's late today. I'm late.I'm late.Dawn is looking.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.Good.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.You were lucky enough to be friends with her.You were looking for something new.You could go to the store.You want to get some candy.You are hungry.You want to eat.You are very close to someone.You is very hungry.You are more careful.You want to be at a restaurant.You like to go to the restaurant.You might be in a bar.You are not good at hockey.You could go to the grocery store.You are happy.You might be at a concert.You is good at sports.You want to lose weight.You look good in a dress.You want to stay active.You just want to do whatever it takes.You plan to take the train.You is a
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] needs to have a wife.
+[MALE] is capable of hear personx's voice.
+[MALE] puts two pieces together.
+[MALE] is very generous.
+[MALE] is comfortable.
+[MALE] takes a walk.
+[MALE] wants to give persony's opinion.
+[MALE] is in a relationship.
+[MALE] is caring.
+[MALE] [MALE] is active.
+[MALE] gets a new car.
+[MALE] takes [MALE] to a restaurant. [MALE] will] will they will get food.
+[MALE] is in a coma.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] asks the question. [MALE] wants to know.
+[MALE] makes dinner. [MALE] wants to eat dinner.
+[MALE] gives [FEMALE] permission. [FEMALE] will appreciated.
+[MALE] keeps [FEMALE] together. [MALE] wants to help.
+[MALE] puts [FEMALE] down. [MALE] will relieved.
+[MALE] takes [FEMALE] to the doctor. [MALE] wants to see therapist.
+[MALE] goes to sleep. [MALE] wants to sleep.
+[MALE] changes the subject. [MALE]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+theres some food for thought.
+hurt yourself.
+theatre is fun.
+a good time.
+get the job done.
+get a job.
+go to a movie.
+the dance is fun.
+a barber shop.
+some fun.
+a beautiful person.
+play chess.
+have a good time.
+a good time.
+some fun.
+a great time.
+go to a restaurant.
+it's time.
+take a bath.
+the world is a place.
+someone needs to talk to someone.
+a good time.
+work.
+laid back.
+going on a date.
+the sun is shining.
+go to sleep.
+a
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[AYF] wants to go and buy ice cream.
+[AYF] is sitting still.
+[AYF] gets a new car.
+[AYF] is too late.
+[AYF] wants to take a break.
+[AYF] leaves.
+[AYF] wants to get away.
+[AYF] gets none back.
+[AYF] is going to make a move.
+[AYF] is drunk.
+[AYF] is feeling unhappy.
+[AYF] sees nothing.
+[AYF] wants to stop playing.
+[AYF] is not enjoying the game.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] is caring.
+[MALE] is trying.
+[MALE] gets none back.
+[MALE] gives [FEMALE] none away.
+[MALE] takes [FEMALE] to the hospital.
+[MALE] gets none out of the way.
+[MALE] calls [FEMALE] upon [FEMALE] to apologize.
+[MALE] is looking for something to eat.
+[MALE] keeps [FEMALE] in school.
+[MALE] lives with [FEMALE] for the rest of the year.
+[MALE] has no friends.
+[MALE] finds none on the highway
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] sees [FEMALE] heartwarming [FEMALE] story.
+[MALE] eats [FEMALE] pizza.
+[MALE] becomes [FEMALE] girlfriend.
+[MALE] goes to the store.
+[MALE] gives [FEMALE] the gift.
+[MALE] gets [FEMALE] to the mall.
+[MALE] wants [FEMALE] to help.
+[MALE] gets food.
+[MALE] sees [FEMALE] every day.
+[MALE] gets a new job.
+[MALE] will [FEMALE] has none.
+[MALE]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+you is at a party.
+you is a writer.
+you is at your car's ignition.
+you is at the beach.
+you is at the park.
+you is at the park.
+you is at the theatre.
+have a baby.
+get a job.
+do something productive.
+play a song.
+get a job.
+cook a meal for dinner.
+make a good impression.
+a person has a friend.
+play on a musical instrument.
+make a new friend.
+take a course.
+go for a walk.
+play a movie.
+play a game.
+take a shower.
+dance.
+have a great time.
+a great man.
+
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. [MALE] is stupid. [MALE] is determined. [MALE] wants to thank someone. [MALE] wants to get along with persony. [MALE] will satisfied. [MALE] wants to apologize. [MALE] wants to ask the person. [MALE] needs ask the person to give him/her response. [MALE] will gets to know persony better. [MALE] wants to talk to persony. [MALE] gets the person to go home. [MALE] is motivated. [MALE] receives reward. [MALE] is responsible. [MALE] needs to have a person to approach. [MALE] persony is happy
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] wants to impress [FEMALE] to go somewhere else. [MALE] gets angry.
+[MALE] is at [FEMALE] home. [MALE] wants to go to the kitchen.
+[MALE] is having a party. [MALE] wants to talk to their friends.
+[MALE] buys [FEMALE] something. [MALE] is helpful.
+[MALE] is on the toilet. [MALE] is sweaty.
+[MALE] wants to be a musician. [MALE] is talented.
+[MALE] leaves [FEMALE] alone. [MALE] is lonely.
+[MALE
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She wanted to make money.
+[MALE] kisses the girl. [MALE] wants to get some food.
+[MALE] goes to the store. [MALE] wants to see the goods.
+[MALE] is the leader. [MALE] wants to be a leader.
+[MALE] makes a big deal. [MALE] wants to impress his friends.
+[MALE] gives the person a gift. [MALE] wants to thank them.
+[MALE] gets a ticket. [MALE] wants to get onto the train.
+[MALE] goes to the store. [MALE] wants to buy a new pair of shoes.
+[M
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+You have to pay the fee.
+You have to bring your dog to the veterinarian.
+You have to take the bath.
+You will be grateful for the money.
+You will be safe.
+You will be proud.
+You will be very happy.
+Find a good job.
+Read the book.
+go to work.
+go to the movies.
+be satisfied.
+play a game.
+pay attention.
+go to school.
+play chess.
+take a walk.
+go to the mall.
+go to the store.
+play basketball.
+get an appointment.
+go to the store.
+go to a movie.
+go to the movies.
+take a shower.
+take
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.She was really good at it.Anna was sick.Her parents were really sick.Anna was a thief.She was at the mall.Anna was not going to the store.She wanted to go home.Anna was good at taking care of herself.She was having a good time.Anna was a good friend.She was playing tennis.Anna was working.She wanted to get dressed.Anna was at the store.Anna was walking home.Anna was in the car.Anna was in the car.Anna was walking.Anna was at the park.Anna was doing a job.It was nice.Anna was putting a sweater on.She was having a great time.The car was getting late.Anna wanted to go to the bathroom.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] will angry. [MALE] wants to make everyone happy.
+[MALE] gets a new computer. [MALE] needs to have a new computer.
+[MALE] gets a new girlfriend. [MALE] needs to meet someone.
+[MALE] is at the mall. [MALE] is spending money.
+[MALE] is at the movies. [MALE] is on the way to the theater.
+[MALE] gets a new car. [MALE] is eager.
+[MALE] turns away. [MALE] needs to close the door.
+[MALE] sees a guy. [MALE] is friendly.
+
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] will sad.
+[MALE] has a baby. [MALE] wants to go home.
+[MALE] wants to marry. [MALE] is married to someone.
+[MALE] is a good person. [MALE] wants to be a good person.
+[MALE] gets lost. [MALE] will exhausted.
+[MALE] drives a new car. [MALE] is responsible.
+[MALE] becomes more beautiful. [MALE] wants to be beautiful.
+[MALE] gets the best. [MALE] is talented.
+[MALE] finds a new job. [MALE] wants to get a job
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.com.
+[MALE] asks [FEMALE] if they can get together.
+[MALE] decides to move back to town.
+[MALE] gives [FEMALE] a new friend.
+[MALE] gives [FEMALE] a hard time.
+[MALE] is bored.
+[MALE] will get out of bed.
+[MALE] is a little sad.
+[MALE] makes [FEMALE] feel good.
+[MALE] receives [FEMALE] offer.
+[MALE] will excited.
+[MALE] is always new.
+[MALE] is a nice person.
+[MALE] is
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] becomes [FEMALE] [MALE]'s personal assistant.
+[MALE] is not a girl.
+[MALE] will to put [FEMALE] to sleep.
+[MALE] makes [FEMALE] an important person.
+[MALE] plays a part.
+[MALE] takes the [FEMALE] along.
+[MALE] desires a person.
+[MALE] is not happy.
+[MALE] takes [FEMALE] to the hospital.
+[MALE] does not know what [FEMALE] wants.
+[MALE] teaches [FEMALE] to read.
+[MALE
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She was having a hard time getting by. She was getting ready to leave the house.
+[MALE] buys the food. [MALE] feels good..
+[MALE] is toying with [FEMALE] body. [MALE] is happy.
+[MALE] is healthy. [MALE] wants to enjoy themselves.
+[MALE] has a birthday party. [MALE] will tired.
+[MALE] gives [FEMALE] a new job. [MALE] needs to be promoted.
+[MALE] receives [FEMALE] satisfaction. [MALE] gets a nice medal.
+[MALE] wants to go to the park. [
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She was a poor woman. She was hungry. [The title of this sentence causes the title to play.] [The title of this sentence causes the title to play.] [The title of this sentence causes the title to play.] [The title of this sentence causes the title to play.] [The title of this sentence causes the title to play.] [The title of this sentence causes the title to play.] [The title of this sentence causes the title to play.] [The title of this sentence causes the title to play.] [The title of this sentence causes the title to play.] [The title of this sentence causes the title to play.] [The title of this sentence causes the title to play.] [The title of this sentence causes the
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She wants to go a better place.you is curious.
+[MALE] kisses persony's hand.[MALE] wants to go home.
+[MALE] takes persony's clothes off.[MALE] wants to be clean.
+[MALE] is determined.[MALE] needs to get personx's attention.
+[MALE] wants to go to a store.[MALE] wants get a gift.
+[MALE] is leaving.[MALE] needs to get in an accident.
+[MALE] wants to stay.[MALE] is curious.
+[MALE] goes to the park.[MALE] wants to get a ride home.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She has no idea what is wrong with her.
+[MALE_WOMAN] leaves the house. [MALE_MALE] needs to get something.
+[MALE_MALE] is a person. [MALE_MALE] needs to be cool.
+[MALE] is not satisfied. [MALE] is mean.
+[MALE] wants to be a composer. [MALE] will fun.
+[MALE] is a person. [MALE] wants to be a composer.
+[MALE] always knows. [MALE] needs to be a person.
+[MALE] gets the job. [MALE] wants to succeed.
+[M
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+the first time you saw the tv show "The Big Bang Theory" was at the cinema.
+there is nothing more good than watching television.
+a dog is a person.
+a person is a person.
+a person is a person.
+a person is a person.
+you is a person.
+a person is a person.
+jelly is a thing.
+a person is a person.
+a person is a person.
+a person is a person.
+a person is a person.
+a person is a person.
+a person is a person.
+a person is a person.
+a person is a person.
+a person is a person.
+a person is a person.
+a
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She wanted to be a better person. She was hungry.
+[MALE] continues to pray the word of god. [MALE] wants to give thanks.
+[MALE] visits an internet cafe. [MALE] wants to buy a new computer.
+[MALE] leaves the house. [MALE] wants to leave.
+[MALE] takes [FEMALE] to the hospital. [MALE] needs to be in a coma.
+[MALE] causes a rift. [MALE] wants to take part in a fight.
+[MALE] keeps [FEMALE] company. [MALE] wants to be nice.
+[MALE] gives [FEM
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.The girl was the only one to go.The girl was not hungry.The girl was wearing a dress.The girl was in the kitchen.The girl was alone.The girl was eating breakfast.The girl was caring.The girl was drunk.The girl was tired.The girl was in pain.The girl was hungry.The girl was drunk.The girl was leaving.The girl was hungry.The girl was selling something.The girl was trying to make it.The girl was having fun.The girl was giving a speech.The girl was doing a good job.The girl was helping.The girl was tired.The girl was proud.The girl was happy.The girl was loving.The girl was lonely.The girl was caring
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.Sitting on the couch, she will be having a hard time.Marrying a girl is hard.You are responsible for your actions.You have a family.Have a good time.Marrying a girl is fun.You have a big family.Marrying a girl is worthwhile.You are loved by your family.You get paid.Marrying a girl is fun.You get a promotion.You get employment.You pass all tests.You have a great day.You are a good person.You have a good family.You are a good person.You have a great time.Marrying a girl is fun.You have a happy home.You get a wedding reception.You have fun.Marry
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. That's not fun. [FEMALE] will not like you. is angry. [FEMALE] wants to protect their daughter. [FEMALE] will happy.
+[MALE] sends [FEMALE] a shirt. [MALE] will happy.
+[MALE] gives [FEMALE] a baby. [MALE] wants to give baby back.
+[MALE] takes a bath. [MALE] is sore.
+[MALE] goes to the bar. [MALE] wants to buy drink.
+[MALE] takes a shower. [FEMALE] will looks like a fool.
+[MALE] is a lawyer. [MALE]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She said he was a whore.
+[MALE] presses [FEMALE] right. [MALE] needs to start a conversation.
+[MALE] takes [FEMALE] to the movie. [MALE] wants to enjoy the experience.
+[MALE] gives [FEMALE] a ride. [MALE] wants to go home.
+[MALE] asks [FEMALE] to teach. [MALE] wants to get the grades.
+[MALE] keeps with the story. [MALE] will refreshed.
+[MALE] gives [FEMALE] a gift. [MALE] wants to thank [FEMALE] for giving to him.
+---------------

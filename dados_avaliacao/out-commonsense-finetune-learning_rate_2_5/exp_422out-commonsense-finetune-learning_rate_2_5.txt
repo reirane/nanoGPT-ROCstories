@@ -1,0 +1,280 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Sandy fell off her bike.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Sandy fell off her bike. She wanted to go to the gym.
+[MALE] wants to go to the gym. [MALE] will has no problem with the person.
+[MALE] goes to the doctor. [MALE] wants to see the doctor.
+[MALE] wants to be good. [MALE] wants to be good.
+[MALE] tells the truth. [MALE] needs to prove they are right.
+[MALE] asks for help. [MALE] is helpful.
+[MALE] wants to stay. [FEMALE] wants to help.
+[MALE] goes for a walk. [MALE] wants to get to the park.
+[MALE
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She's very tired.Sandy's hair is long.Sandy's friend is the one who is caring for her.Sandy is really upset.Sandy is a good person.Sandy is in control.Sandy is determined.Sandy isn't a bad person.Sandy knows how to make a sandwich.Sandy is really concerned.Sandy is understanding.Sandy is caring.Sandy is making the choices.Sandy is thinking.Sandy is tired.Sandy is in the mood.
+
+RAW Paste Data
+
+[MALE] is not in the mood. [MALE] wants to be in the mood. [MALE] wants to be in the mood. [MALE] wants
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy is pregnant with twins.Sandy wants to go to the gym.Sandy is a bad mother.Sandy is a big shot.Sandy wants to have a baby.Sandy wants to go to the grocery store.Sandy wants to buy something.Sandy wants to do his homework.Sandy is happy.Sandy is a good kid.Sandy wants to get ready for the holidays.Sandy is a good teacher.Sandy wants to spend time with his friends.Sandy wants to stay home for a while.Sandy wants to relax.Sandy is lazy.Sandy is in the wrong place.Sandy wants to get his wallet and keys.Sandy is a good student.Sandy
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.You're lucky you got a good one.Mentions of happiness.Pilot's license is up.You need to go to the library.Mentions of satisfaction.Wake up.Mentions of satisfaction.The rain is coming.Mentions of happiness.There is a light at the end of the tunnel.You find another light.Mentions of good times.You've found a better way.Mentions of good times.Mentions of getting the car.You're going to a party.Mentions of going to a party.You look up at the stars.You're going to see the stars.Mentions of being in action.You get in the car.Mentions
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+sandy fell off her bike. sandy is not a person.
+sandy is not a person. sandy's husband has a heart attack.
+sandy's husband has a heart attack. sandy is a dog.
+sandy is a dog. sandy is a man.
+sandy is a man. sandy is a woman.
+sandy is a man. sandy is a woman.
+sandy is a woman. sandy is a woman.
+sandy is a woman. sandy is a woman.
+sandy is a woman. sandy is a woman.
+sandy is a woman. sandy is a woman.
+sandy is an instrument. sandy is not
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy is in love with a man.
+Sandy is in a hurry.
+Sandy is having dinner.
+Sandy is tired.
+Sandy is in bed.
+Sandy is drunk.
+Sandy is in a rush.
+Sandy is in an alley.
+Sandy is in a crowd.
+Sandy is in a mood.
+Sandy is in love.
+Sandy is leaving.
+Sandy is in a rage.
+Sandy is in the middle of a conversation.
+Sandy is in a hurry.
+Sandy is tired.
+Sandy is in love.
+Sandy is in a hurry.
+Sandy is in a hurry.
+Sandy is in
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy picked up the phone.
+Sandy left the house.
+Sandy will get it.
+Sandy will be gone.<|endoftext|>The world's largest cryptocurrency exchanges has released a new wallet service called "Visa" and a new mobile app called "Signal Wallet".
+
+The new wallet service will make your transactions more efficient. The 'signal wallet' will use the built-in bitcoin wallet to store your transactions.
+
+It will be in the service store.
+
+Signal Wallet will be available for mobile devices.
+
+The 'signal wallet' will be made in China.
+
+The new wallet service will make your money.
+
+The new wallet service will be made in Taiwan.
+
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy is a homeless person.MALEHOMEM is a homeless person.MALEMALE is mentally ill.MALEMALE is in love.MALEMALE is in need.MALEMALE is ready.MALEMALE is in need.MALEMALE is in need.MALEMALE is in need.MALEMALE is in need.MALEMALE is in need.MALEMALE is in need.MALEMALE is in need.MALEMALE is in need.MALEMALE is in need.MALEMALE is in need.MALEMALE is in need.MALEMALE is in need.MALEMALE is in
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[Karen] is going to a friend's house.
+[Karen] sends a letter to her friend.
+[Karen] gives a gift.
+[Karen] becomes a fulltime driver.
+[Karen] cleans the house.
+[Karen] gets some rest.
+[Karen] visits her teacher.
+[Karen] feels good.
+[Karen] gives [her] boyfriend a ride.
+[Karen] gets some work done.
+[Karen] is very happy.
+[Karen] lives with [her own] husband.
+[Karen] is not happy.
+[Karen] starts a new business.
+[Karen] gets
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy fell off her bike. You were a student. [sigh]
+you were a student. [sigh] You were the best. [sigh]
+sans-sant-sant [an] [an] [a] [an] [an] [an] [an]
+sans-sant-sant [an] [an] [an] [an] [an] [an] [an]
+sans-sant-san [an] [an] [an] [an] [an] [an] [an]
+sans-sant-san [an] [an] [an] [an] [an] [an
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+you do not need to be obese.
+you are not capable of be married.
+some women may be flattered by the fact that you are women.
+some women may be annoyed by you.
+some women may be proud.
+some women may be proud.
+some women may be embarrassed.
+some women may be not satisfied.
+some women may be happy.
+some women may be frustrated.
+some women may be satisfied.
+some women may be on the verge of tears.
+some women may be excited.
+some women may be happy.
+some women may be ashamed.
+some women may be jealous.
+some women may be proud.
+some women may be curious.
+some women may be
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [Sandy closes the notebook.] [MALE] is a fool. [MALE] needs to keep this notebook. [MALE] is a liar. [MALE] is a thief. [MALE] needs to have a new pen. [MALE] wants to make good grades. [MALE] is good. [MALE] is helpful. [MALE] is popular. [MALE] wants to save money. [MALE] is capable. [MALE] is careful. [MALE] is curious. [MALE] is friendly. [MALE] is understanding. [MALE] works harder. [MALE] wants to eat. [MALE] is good. [
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.<|endoftext|>One of the most common and effective ways to get your favorite movie is to get a phone call from your favorite movie star.
+But some people may find it difficult to get a call from a movie star.
+"You would never have to call to buy a ticket or buy tickets!" said one person.
+"If you get a ticket you will be very popular." said another.
+"We have to decide if we want to go to the gym or a swim in the pool." said another.
+"If you get a phone call the star will be very popular." said another.
+"If you call a friend you will get your ticket." said another.
+"You will have to go to the store to buy something
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She was in a coma.
+The next time you see me, you will see the same things.
+I thought I was a beautiful person.
+I am the first person you will meet.
+Enjoy the rest of your day.
+I have never known a woman.
+I will get your name.
+You are the first one to be touched.
+I will not forget you.
+You will never miss me.
+You are the first person you will meet.
+I will not forget you.
+You will never lose hope.
+You will never regret it.
+I will not forget you.
+You will never miss me.
+I will not forget you.
+You will never forget me.
+You will never
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+You have to pay the fee.
+You are a victim.
+You will get arrested.
+Re-evaluate your situation.
+Your life is different.
+A friend is not a target.
+You will miss someone.
+You will be loved.
+You have the right to be a millionaire.
+You will be recognized.
+Doing your job is not a crime.
+You will not regret your decision.
+Being in a good mood.
+You will like the way things are going.
+You will relax.
+You will be successful.
+You will be happy.
+You will be able to support yourself.
+You will have a nice time.
+You will find happiness.
+You will love your job
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.She is very good at it.Sandy wants to be close to you.She is very good at it.Sandy gets in a car accident.She is very good at it.Sandy gets in a car accident.She gets in a car accident.She falls.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy is very bad.Sandy gets in
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.<|endoftext|>On Sunday morning, my boyfriend and I did a few things. One of them was to make a new set of socks for you. It's great to see that you're having fun with your friends.
+I took my new set of socks to the grocery store and gave it to my boyfriend. He went ahead and got a new set.
+The first thing he did was wash his hands. I told him that it was normal to wash your hands, but my boyfriend would not like it.
+Then he went to the grocery store. It was a great deal. I was happy to see that he had a new set.
+We sat on the couch. I told him what we went to the store for.
+He went to
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy is a teen.Sandy is a bad person.Sandy is a troublemaker.Sandy is in love.Sandy is having an affair. [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39]
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy is a great dancer.Sandy is loving.Sandy wants to go back to class.Sandy has a problem.Sandy is a bitch.Sandy is an asshole.Sandy is a man.Sandy wants to marry someone.Sandy needs to have a boyfriend.Sandy will be sad.Sandy is a good person.Sandy wants to have sex with someone.Sandy is a good person.Sandy is a good person.Sandy is a good person.Sandy is a good person.Sandy is a good person.Sandy wants to have a movie.Sandy wants to get a ticket.Sandy is a good person.Sandy is a good person.Sandy is
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy fell off her bike. Put the rest of the information in order.
+Sandy fell off her bike. You will find it.
+Sandy's husband is a serial killer.
+Sandy's husband is a serial killer. Get information about the case.
+Sandy's husband is a serial killer.
+Sandy's husband is a serial killer. [MALE] wants to get a job.
+Sandy's husband is a serial killer.
+Sandy's husband is a serial killer. [MALE] wants to be a lawyer.
+Sandy's husband is a serial killer. [MALE] needs to get a job.
+Sandy's husband is a serial killer. [MALE]
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She gets so sore. You are on your way to the hospital.You are a model. You are looking for a job.Her boyfriend is out of town.She wanted to ask you for something to drink.Your boyfriend is looking for a job.She wants to buy you a new car.The car is empty.Your friend is home from work.Your friend is playing soccer with your friends.Her boyfriend is just giving you a look.The car is full.Your friend is getting ready to go home.Her boyfriend is playing basketball.Her boyfriend is talking to someone.Your friend is getting ready for the day.Your friend is in a restaurant.Your boyfriend is looking for a pizza.Your friend is playing soccer with your friends.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She's not breathing.
+[FEMALE] opens her mouth, but she can't speak.
+[FEMALE] puts the phone on the line.
+[FEMALE] calls the police.
+[FEMALE] puts the phone on the line.
+[FEMALE] gets a picture.
+[FEMALE] asks the person to come.
+[FEMALE] hangs out with friend.
+[FEMALE] gives [FEMALE] a gift.
+[FEMALE] takes the guy's hand.
+[FEMALE] leaves the office.
+[FEMALE] gets a new car.
+[FEMALE] brings [FEMALE]
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.The mother is too tired.Please do not touch this child.Sandy needs to be in a hospital.Please do not touch this child.Sandy needs to be with her parents.Please do not touch this child.Sandy needs to be with her mom.Please do not touch this child.Sandy needs to be with her friends.Please do not touch this child.Sandy needs to be with her friends.Please do not touch this child.Sandy needs to be with her husband.Please do not touch this child.Sandy needs to be with her husband.Please do not touch this child.Sandy needs to be with her husband.Please do not touch this child.Sandy needs to be with her father.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Jenny ran to the store.Ebony is still alive.Jenny runs to the doctor.Ebony is in a coma.Jenny hugs Ebony.Ebony sees her.Jenny is a good friend.Ebony wants to give her a ride home.Jenny is a little scared.Ebony thinks about what she should do.Jenny feels good.Ebony needs to get up.Jenny wants to play the game.Ebony is very sad to be away.Jenny is a little scared.Ebony wants to get a job.Jenny is a little person.Ebony is in a coma.Jenny is an actress.Ebony wants to be
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.I'm sorry. You will have to wait for the paramedics.Sandy must have lost consciousness.I must have been on my bike.I will lose my wallet.I will lose my wallet.I will lose my wallet.I will lose my wallet.It is very difficult to drive.Riding a bike is a great way to get away from the traffic.I am sure you will like your friend.I am too scared to hit the brakes.You will be too tired.I will go to my car.I will get back to work.It is very difficult to dress.I will not go on my bike.I will be too nervous.I will not be able to wear a bra.I will not be able to go
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+sandy lost her eye.
+sandy is doing well.
+sandy is in the hospital.
+sandy is tired.
+sandy is tired.
+sandy has a baby.
+sandy receives help.
+sandy is sorry.
+sandy is in the hospital.
+sandy is in the hospital.
+sandy is in the waiting room.
+sandy is in love.
+sandy is in need.
+sandy is looking for something.
+sandy was at school.
+sandy is getting ready.
+sandy is looking for something.
+sandy is bored.
+sandy is tired.
+sandy is getting ready.
+sandy is in need.
+s
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy needs the keys to the house.Jokes will be made.Jokes will be told.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will be made.Jokes will
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy's mom is in the hospital.Sandy's mom is sick.Sandy is in need.Sandy is sad.Sandy is proud.Sandy is in danger.Sandy is a good student.Sandy is a good teacher.Sandy is in need.Sandy is in a position to make a decision.Sandy has a pet.Sandy wants to be in bed.Sandy is tired.Sandy is in need.Sandy needs help.Sandy needs a room.Sandy needs a car.Sandy needs a job.Sandy needs a job.Sandy is a good person.sandy is happy.sandy is in love with.sandy is in need.sandy
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. That's not fun. [FEMALE] will not like you. [FEMALE] needs to make a decision. [FEMALE] needs to be very helpful. [FEMALE] needs to be thoughtful. [FEMALE] is mean. [FEMALE] wants to help. [FEMALE] will upset. [FEMALE] needs to be agreeable. [FEMALE] will sad. [FEMALE] will happy. [FEMALE] needs to have good company. [FEMALE] is helpful. [FEMALE] needs to be cooperative. [FEMALE] needs to be responsible. [FEMALE] is helpful. [FEMALE]
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She said he was a police officer.
+Sandy wanted to make a movie. She got a ticket.
+Sandy was having a great day.
+Sandy wanted to get a haircut.
+Sandy wants to have a baby.
+Sandy went to the mall.
+Sandy got it all together.
+Sandy wants to go to school.
+Sandy was playing games.
+Sandy is married.
+Sandy wants to be in the next movie.
+Sandy tells the story.
+Sandy is married.
+Sandy wants to go to a party.
+Sandy is in the hospital.
+Sandy is a friend.
+Sandy wants to be in the car.
+Sandy is
+---------------

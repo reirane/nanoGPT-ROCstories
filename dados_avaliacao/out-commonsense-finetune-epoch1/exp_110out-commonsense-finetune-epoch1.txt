@@ -1,0 +1,348 @@
+Overriding: out_dir = out-commonsense-finetune-epoch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tom ate out at a new restaurant.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tom ate out at a new restaurant.Tom wanted to sit down.
+tommy.me is a domain name for a person who practices yoga
+tommy.me is a data storage system for a person who follows an online program
+tommy.me is a domain name for a person who has a pet
+tommy.me is a data storage system for a man who is a person with autism
+tommy.me is a data storage system for a man with a pet
+tommy.me is a data storage system for a man who is a person with autism
+tommy.me is a data storage system for a man who has a pet
+tommy.me is a data storage system for a man who has autism
+tommy.me is a data
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Tom wants to go out at night.Tom needs to get a pizza.Tom needs to get a lot of pizza.Tom needs to make a new life.Tom wants to be the best.Tom needs to have a good relationship.Tom needs to put things on a list.Tom wants to be famous.Tom wants to live life of luxury.Tom wants to have a great time.Tom wants to have a great time.Tom wants to have a great time.Tom wants to be more than a person.Tom wants to be happy.Tom wants to be good.Tom wants to be good.Tom wants to be happy.Tom wants to be good.Tom wants to be good.Tom wants to be pleasant.Tom wants to be safe
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Tom is on a break.Tom is in need.I wish they would never have to see this.I wish they would never be able to go home to their families.I wish they would have a better relationship.I wish they would have enough energy.I wish they would have a better relationship.I wish they would be happy.I want to be in a different place.I want to be in a different city.I want to be in a different town.I want to be on my way home.I want to be in a different neighborhood.I want to be a good parent.I want to be in the right place.I want to be in the right place.I want to be a good friend.I want to
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.You're tired.You're overworked.You're lonely.You might have a cold.You need to get a massage.You want to celebrate.You are self-sufficient.You need to be in a good mood.The price is high.You've just finished a job.The next thing you know, you're headed to work.You are feeling great.You know what you are doing.You're ready for the day.You are so motivated.You want to go out.You want to have a drink.You're tired.You're tired.You want to go to the mall.You're feeling great.You're determined.You want start your day.You want to plan.You are determined.You want a
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] needs to talk to [FEMALE] about [MALE] thingy.
+[MALE] takes back to [FEMALE] home.
+[MALE] wants to go to the bar.
+[MALE] buys [FEMALE] food.
+[MALE] plays baseball.
+[MALE] plays baseball.
+[MALE] wants to make [FEMALE] laugh.
+[MALE] goes home.
+[MALE] wants to go to a movie.
+[MALE] doesn't want to see their father.
+[MALE] feels guilty.
+[MALE] wants to go to an art gallery.
+[M
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] wants to cook. [MALE] wants to cook for their kids.
+[MALE] is a teacher. [MALE] wants to help someone.
+[MALE] wants to play hockey. [MALE] wants to get into the game.
+[MALE] gets a kiss. [MALE] wants to help someone.
+[MALE] wants to go to the doctor. [MALE] needs to go to the doctor.
+[MALE] gets a new car. [MALE] wants to buy a new car.
+[MALE] makes a new friend. [MALE] wants to be a new friend.
+[MALE] loves to play
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+He is engaged to the woman.
+He is a person.
+He is in need.
+The man is having a difficult time.<|endoftext|>The world's largest cryptocurrency market has been hit by a surprise attack on the internet.
+
+The attack has affected the site of the largest cryptocurrency exchange in the world, Bitfinex.
+
+The attack began on the morning of 16th November 2012 at the same time as Bitfinex was operating under the name Crypto-coin.
+
+The attack caused a major outage at the site.
+
+the attack has affected the website of a major cryptocurrency exchange in the world.
+
+the attack has caused a huge outage at the world's largest cryptocurrency exchange.
+
+the attack has caused
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.There was a large cloud.it was raining.it is warm.it is not hungry.it is more curious.it is caring.it is learning.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is caring.it is
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[F4M] puts on a disguise to make their appearance.
+[F4M] gets a new girlfriend.
+[F4M] decides to get a job.
+[F4M] takes a shower.
+[F4M] runs away from home.
+[F4M] starts a new project.
+[F4M] asks another person.
+[F4M] receives a new boyfriend.
+[F4M] feels the love of someone else.
+[F4M] gives a lecture.
+[F4M] takes no classes.
+[F4M] is still.
+[F4M] starts a new business.
+[F4M]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] sees a new thing. [MALE] to make yourself famous.
+[MALE] is looking for a new place. [MALE] is a good looking person.
+[MALE] wants to come back to the house. [MALE] is in need of a bath and a place to sleep.
+[MALE] gets excited. [MALE] is having fun.
+[MALE] is a bit nervous. [MALE] is cautious.
+[MALE] is able to get away. [MALE] is eager.
+[MALE] wants to do something. [MALE] wants to get into the car.
+[MALE] hears more of
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+you do not need to be obese.
+you are not capable of be depressed.
+take the following test:You have a girlfriend.
+eat a sandwich.
+go to the park.
+go to the mall.
+pass the test.
+you have a cat.
+run.
+do something.
+eat cereal.
+eat.
+have a snack.
+go to the park.
+go to the park.
+a person has a friend.
+play on the field.
+play with friends.
+a person has a family.
+go to the park.
+play basketball.
+go to the park.
+take a test.
+go to the park.
+enjoy a ride.
+pay your taxes
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.You've had a great time.You're a loyal citizen.You enjoy the company of your friends.You feel that you have become a good person.You don't want to miss your job.Get a job or get a new job.Get a mortgage.Get a house.Get a good education.Get a new job.Go to a meeting.Get in touch with your loved ones.Get a job.Get a house.Go to a baseball game.Get a computer.Get a new computer.Get a new job.Get a divorce.Get a job.Get a new job.Get a new job.Get a new job.Get a new job.Get a new job.Get a new job.Get a new job
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] wants to impress [FEMALE] with his appearance.
+[MALE] gets [FEMALE] a nice new shoe.
+[MALE] is going on vacation.
+[MALE] gets [FEMALE] something.
+[MALE] finds [FEMALE] in the car.
+[MALE] buys [FEMALE] something.
+[MALE] will [FEMALE] to find the thing.
+[MALE] gets [FEMALE] to sing.
+[MALE] is very satisfied.
+[MALE] gets [FEMALE] to work.
+[MALE] gets the [FEMALE] to
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom eats out at a new restaurant.
+Tom bites a lot.
+Tom bites a lot.
+Tom has a bad day.
+Tom has a bad day.
+Tom is scared.
+Tom gets yelled at.
+Tom gets punished.
+Tom gets yelled at.
+Tom shoots a deer.
+Tom gets yelled at.
+Tom eats lunch.
+Tom eats lunch.
+Tom eats lunch.
+Tom goes to church.
+Tom eats lunch.
+
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+1.10.1.2.5.0.0.1.0.2.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.32.33.34.35.36.37.38.39.40.41.42.43.44.45.46.47.48.49.50.51.52.53.54.55.56.57.58.59.60.61.62.63.64.65.66
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. He then found a new car.
+the doorbell rings again.
+the door is open.
+the door is unlocked.
+the door of the home is open.
+the door is in the closet.
+the door is in the back yard.
+the door is open.
+the door of the house is open.
+the house is in the back yard.
+the house is in the yard.
+the house is in the yard.
+the house is in the yard.
+the house is in the yard.
+the house is in the yard.
+the house is in the yard.
+the house is in the yard.
+the house is in the yard.
+the house is in the yard.
+the
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Tom asked what he ate.
+Tom asks the waitress.Tom asks the waitress.
+Tom asks an employee.Tom asks an employee.
+Tom is in charge.Tom asks an employee.
+Tom is driving.Tom is driving.
+Tom takes a shower.Tom takes a shower.
+Tom is at the bar.Tom is at the bar.
+Tom is watching tv.Tom is watching tv.
+Tom is having a shower.Tom is having a shower.
+Tom is back.Tom is back.
+Tom is at the park.Tom is at the park.
+Tom is working.Tom is working.
+Tom is getting ready.Tom is getting ready.
+Tom is getting prepared.Tom is getting prepared.
+
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.com.
+[MALE] asks [FEMALE] if they can get together.
+[MALE] decides to get a new car.
+[MALE] gives [FEMALE] a new car.
+[MALE] gives [FEMALE] a new name.
+[MALE] takes [FEMALE] to bed.
+[MALE] gives [FEMALE] a new phone.
+[MALE] plays the piano.
+[MALE] calls [FEMALE] to the restaurant.
+[MALE] gives [FEMALE] a new job.
+[MALE] opens the [FEMALE] up.
+[MALE] becomes [
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[FEMALE] will be in a relationship with [FEMALE] .
+[FEMALE] is in a relationship with [FEMALE] .
+[FEMALE] is playing a game.
+[FEMALE] is in a relationship with [FEMALE] .
+[FEMALE] wants to go to the movies. [FEMALE] grabs the bottle.
+[FEMALE] wants to go to a movie. [FEMALE] will is in a hurry.
+[FEMALE] is playing tennis. [FEMALE] is exhausted.
+[FEMALE] wants to go to bed. [FEMALE] will is relaxed.
+[
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.<|endoftext|>The first attempt was yesterday, on the day that the government decided to impose a new rule to protect the environment.
+We found out that the government had stopped the oil company from developing the new oil.
+The government has to have a lot of money to make an investment.
+We could go to the mall.
+I was curious.
+I bought a new car.
+The government has to go to the store.
+The government has to use money.
+We had a lot of fun.
+We would have to pay the price.
+The government has to get the money.
+The government has to bring the money.
+We would have to go to a movie.
+The government has to have the items.
+
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[NEW] the person needs to go see the dentist.
+[NEW] the person needs to find a friend.
+[NEW] the person needs to see a movie.
+[NEW] the person needs to see an artist.
+[NEW] the person needs to buy a bicycle.
+[NEW] the person wants to take a shower.
+the person wants to make a good impression.
+the person wants to celebrate the birthday.
+the person wants to get a new car.
+the person has to go to the beach.
+the person wants to go to the park.
+the person wants to enjoy the party.
+the person needs to go to a restaurant.
+the person needs to go to a party
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+Tom is in a coma.
+Tom is in a coma.
+Tom is in a coma.
+Tom is in a coma.
+Tom is not in a coma.
+Tom is not in a coma.
+Tom is not in a coma.
+Tom is in a coma.
+Tom is not in a coma.
+Tom is not in a coma.
+Tom is not in a coma.
+Tom is not in a coma.
+Tom is not in a coma.
+Tom is not in a coma.
+Tom is not in a coma.
+Tom is not in a coma.
+Tom is not in a coma.
+Tom is not in a coma.
+Tom is not in a coma.
+Tom is
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Jenny is lonely.Someone put a blanket over the door.It's raining.Carrie is not happy.A person has to call the emergency number.Good thing they got good grades.What is the best part of a good job?You never work for a job.Someone's going to ask you how you did.Papa is going to turn up in the oven.Lucky number.You are going to have a good time.Dr. Watson is an evil scientist.Kung fu movie is to be watched.Someone has to get into the car.A house is a place of recreation.What is in the house?You are in the best state of health.You are at the beach.You are in a boat.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.I asked him to come over.I have no idea what he is doing.
+[MALE] wants to get a good job. [MALE] wants to be happy.
+[MALE] becomes drunk. [MALE] wants to go home.
+[MALE] keeps the [FEMALE] close. [MALE] will very comfortable..
+[MALE] gives you a nappy. [MALE] wants to put it in the bag.
+[MALE] wants to go shopping. [MALE] needs make plan.
+[MALE] wants [FEMALE] to be proud. [MALE] wants to celebrate.
+[MALE] wants to win a tennis
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+satisfy the following question within five sentences:If you get a call, do not panic.
+satisfy the following question within five sentences:If you win the lottery, you will be rewarded.
+satisfy the following question within five sentences:Theres plenty of free food in the house.
+satisfy the following question within five sentences:Theres a new car.
+satisfy the following question within five sentences:Theres a new product.
+satisfy the following question within five sentences:the new thing.
+satisfy the following question within five sentences:you have a new job.
+satisfy the following question within five sentences:you get married.
+satisfy the
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.The girl with the cat is the one who liked Tom.<|endoftext|>The latest issue of Game Informer magazine is the first of two issues in a new series called Game Informer Presents.
+
+The game developer, developer, publisher, publisher of Game Informer is working on a new game.
+
+In the first issue of Game Informer magazine, the publisher of Game Informer is working on a new game.
+
+The magazine has a issue called "Game Informer Presents."
+
+The developer, developer, publisher, publisher of Game Informer is working on a new game.
+
+The magazine has a issue called "Game Informer Presents."
+
+The magazine has a issue called "Game Informer Presents."
+
+The
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.Settled down to the ground.Sewing a lot of water on the floor.Suffered a lot of colds.Suffered a lot of boils.Suffered the flu.Sewing the needle.Sewing the needle in the pot.Sewing the needle to the outside.Sewing the needle in the window.Sewing the needle in the garage.Sewing the needle to the bedroom.Sewing the needle to the garage.Sewing the needle in the car.Sewing the needle onto the floor.Sewing the needle along the floor.Sewing the needle in the home.Sewing the needle in the yard.Sewing
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.The doorbell rang.Tom's friends and family were inside.The fact is, they don't know what's going on.Tom wants to go home.He needs to find the person.One of them needs to be the one who looks up.The person is in the room.The door is open.One has to take the car.The person needs to leave the car.The person is not happy.The person is sitting in the car.The person is having a good day.the person is giving a talk.the person has an idea.the person is the most important person.the person is able to win.the person is talking to the person.the person is talking to the person.the person is able to get
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+The following text within five sentences:Tom was in a good mood.
+The following text within five sentences:Tom is married.
+The following text within five sentences:Tom's body is cold.
+The following text within five sentences:Tom is in the hospital.
+The following text within five sentences:Tom has a heart attack.
+The following text within five sentences:Tom is in a coma.
+The following text within five sentences:Tom's cell phone is dead.
+The following text within five sentences:Tom is with a family.
+The following text within five sentences:Tom's cat is in danger.
+The following text within five sentences:Tom's dog is at the zoo.
+The following text within five sentences
+---------------

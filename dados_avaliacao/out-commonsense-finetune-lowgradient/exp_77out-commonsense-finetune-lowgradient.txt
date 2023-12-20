@@ -1,0 +1,308 @@
+Overriding: out_dir = out-commonsense-finetune-lowgradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Susie was tired of her cell phone plan.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She wanted to call her boss. [MALE] needs to talk to someone.
+[MALE] finds personx's work. [MALE] wants to tell them something they need to know.
+[MALE] brings the none together. [MALE] wants to have a good relationship.
+[MALE] makes friends. [FEMALE] will they have a good time.
+[MALE] becomes exhausted. [MALE] will tired.
+[MALE] sees none in personx's own home. [MALE] wants to rest.
+[MALE] tells persony's daughter. [MALE] needs to be in school.
+[MALE] takes personx's
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She would be at the hospital. [MALE] wants to get her car repaired.
+[MALE] leaves the house early. [MALE] wants to get on the train.
+[MALE] drives home. [MALE] will nervous.
+[MALE] knows how to play guitar. [MALE] wants to try his instrument.
+[MALE] makes none last night. [MALE] will ecstatic.
+[MALE] is watching movies. [MALE] wants to have fun.
+[MALE] shows up on time. [MALE] is nervous.
+[MALE] eats breakfast together. [MALE] wants to eat breakfast.
+[MALE]
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] wants to talk to her.
+[MALE] takes none for a drive. [MALE] wants to get home.
+[MALE] takes none from school. [MALE] wants to get good grades.
+[MALE] brings the none to the attention. [MALE] is helpful.
+[MALE] pays none for her time. [MALE] wants to get their money.
+[MALE] is dating at the bar. [MALE] is in love.
+[MALE] takes a break. [MALE] wants to relax.
+[MALE] takes a break from work. [MALE] needs to feel tired.
+[MALE
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] needs to text persony.
+[MALE] gets personx's stuff together. [MALE] needs get their stuff together.
+[MALE] goes on strike. [MALE] is angry.
+[MALE] is at a party. [MALE] wants to go to a party.
+[MALE] gets a new pair of shoes. [MALE] will good.
+[MALE] runs for the hills. [MALE] wants to win the race.
+[MALE] gets a haircut. [MALE] wants to decorate his hair.
+[MALE] gets persony's back. [FEMALE] will happy.
+[M
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.
+[MALE] needs to have a wife..
+[MALE] gives [FEMALE] a gift. [FEMALE] will excited.
+[MALE] goes to a store. [MALE] needs to have their wallet.
+[MALE] calls the cops. [MALE] wants to talk to the person.
+[MALE] plays none in the game. [FEMALE] wants to play the game.
+[MALE] has a really hard time. [MALE] wants to get better.
+[MALE] takes a sip of water. [MALE] is full.
+[MALE] throws none into the trash. [MALE] is not
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.
+[MALE] asks the girl out. [MALE] wants to get their picture taken.
+[MALE] tells [FEMALE] to let go. [MALE] gets a laugh.
+[MALE] has a party at ___. [MALE] wants to celebrate.
+[MALE] gives [FEMALE] the gift. [MALE] is generous.
+[MALE] takes none for christmas. [MALE] is outgoing.
+[MALE] changes persony's appearance. [MALE] is outgoing.
+[MALE] goes to sleep. [MALE] wants to be warm.
+[MALE] gets back to work. [M
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to talk to [FEMALE] about what they need to do.
+[MALE] brings none to the dance floor. [MALE] wants to make dinner.
+[MALE] follows the none around. [MALE] will happy.
+[MALE] gives [FEMALE] a call. [MALE] is grateful.
+[MALE] gives [FEMALE] the money. [FEMALE] will relieved.
+[MALE] gives [FEMALE] a massage. [MALE] wants to massage the body.
+[MALE] gives [FEMALE
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. x was tired of how much money was being spent. x was bored. x was hungry. x was curious.
+[MALE] invites persony's parents. [MALE] wants to ask [FEMALE] their opinion.
+[MALE] causes [FEMALE] problems. [MALE] is stubborn.
+[MALE] goes swimming for the sharks. [MALE] wants to go swimming.
+[MALE] takes personx's dog. [MALE] is caring.
+[MALE] causes none to die. [MALE] wants to die peacefully.
+[MALE] gets none to eat. [MALE] wants to eat.
+[MALE] takes
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.
+[MALE] is playing a game of tag. [MALE] wants to beat his opponent.
+[MALE] gets a divorce. [MALE] is responsible.
+[MALE] takes [FEMALE] to a pub. [MALE] is friendly.
+[MALE] loves the idea. [MALE] wants to start a business.
+[MALE] takes [FEMALE] to the zoo. [MALE] wants to be cared for.
+[MALE] pays personx's debt. [FEMALE] will grateful.
+[MALE] goes to persony's house. [MALE] wants to fix the broken tv.
+[MALE
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] is frustrated. [MALE] needs to be at work.
+[MALE] opens the door. [FEMALE] will confused.
+[MALE] throws rocks. [MALE] wants to throw rocks at people.
+[MALE] opens the door. [MALE] is orderly.
+[MALE] sells the none to the world. [FEMALE] wants to thank [MALE] for the purchase.
+[MALE] hits the road. [MALE] is dangerous.
+[MALE] puts the none on the table. [MALE] needs to be in the mood.
+[MALE] lays the none on the table. [M
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.
+you has property good at politics.
+go for a drive has prerequisite for leave your car.
+a man desires be in love.
+a woman desires be friendly.
+a boy desires eat things.
+a man desires be funny.
+a girl desires have a child.
+a man desires have a shower.
+a woman desires have a baby.
+a man desires keep the good times.
+a woman desires run.
+a person desires love his friends.
+a person desires sleep well.
+a person desires go to a movie.
+a man desires be active.
+a woman desires have children.
+a man desires sleep well.
+a man desires play basketball.
+a man desires to play.
+a woman
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] is annoyed.
+[MALE] buys a new pair of shoes. [MALE] will proud.
+[MALE] gives [FEMALE] a rest. [MALE] wants to go back to work.
+[MALE] wipes the toilet. [MALE] needs to get a towel.
+[MALE] drives home from work. [MALE] is tired.
+[MALE] does a lot of research. [MALE] gets a list of things.
+[MALE] is a little late. [MALE] will embarrassed.
+[MALE] finds none in the attic. [MALE] wants to find the thing.
+[MALE
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] wants go to the store to buy something.
+[MALE] raises personx's eyebrows. [FEMALE] will person x nods in satisfaction.
+[MALE] does something wonderful. [MALE] wants to do something new.
+[MALE] spends all day with persony. [MALE] wants to spend time with their friends.
+[MALE] feels none in personx's neck. [MALE] is tired.
+[MALE] plays the piano. [MALE] is sociable.
+[MALE] puts none in personx's mouth. [MALE] wants to say thank you..
+[MALE] loves [FEMALE]
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] needs to ask [FEMALE] to help.
+[MALE] receives none for every time. [MALE] wants to be productive.
+[MALE] is determined. [MALE] is ambitious.
+[MALE] sees none on the stage. [MALE] needs have a seat.
+[MALE] gives [FEMALE] a hug. [MALE] is friendly.
+[MALE] has a baby girl tonight. [MALE] needs to get ready.
+[MALE] opens the door. [MALE] is excited.
+[MALE] gives [FEMALE] a gift. [FEMALE] will grateful.
+
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] wants to tell you something.
+[MALE] tells [FEMALE] persony's story. [MALE] wants to keep [FEMALE] from going to a party.
+[MALE] gives none to personx's parents. [MALE] will happy.
+[MALE] gives none a call. [MALE] is friendly.
+[MALE] finds personx's keys. [MALE] gets yelled at.
+[MALE] invites persony's friends over. [FEMALE] wants to invite friends over.
+[MALE] plays none every day. [MALE] is social.
+[MALE] takes personx's money
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She was looking for something. [MALE] wants to talk to personx.
+[MALE] saves another person's life. [MALE] is caring.
+[MALE] drives to the mall. [MALE] is friendly.
+[MALE] loves the fact. [MALE] wants to be happy with his life.
+[MALE] makes persony's room. [MALE] needs to have a computer.
+[MALE] asks personx's friend 's permission. [MALE] wants to do something.
+[MALE] sees the none in the sky. [MALE] wants to go to a movie.
+[MALE] gets a new book.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [FEMALE] will angry. [FEMALE] wants to quit.
+[MALE] takes none to the beach. [MALE] needs to walk on the beach.
+[MALE] gets personx's money back. [MALE] is determined.
+[MALE] goes back to persony's house. [MALE] is friendly.
+[MALE] uses [FEMALE] excuse. [MALE] wants to leave.
+[MALE] improves personx's confidence. [MALE] wants to be a good person.
+[MALE] makes [FEMALE] noise. [MALE] wants to go to a party.
+[MALE]
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [FEMALE] will sad.
+[MALE] gives [FEMALE] explanation. [FEMALE] wants to listen to [MALE] explain.
+[MALE] takes none to a veterinarian. [MALE] needs to come to a veterinarian.
+[MALE] takes none to a party. [MALE] wants to entertain people.
+[MALE] puts none to use. [MALE] wants to make money.
+[MALE] sends none to the doctor. [MALE] will responsible.
+[MALE] finds none on the floor. [MALE] wants to get rid of the room.
+[MALE] makes none with ingredients. [M
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [FEMALE] wants to use their cell phone to call someone.
+[MALE] calls [FEMALE] back. [MALE] will relieved.
+[MALE] puts one foot in front of the other. [MALE] needs to get something.
+[MALE] shows [FEMALE] how to do it. [MALE] needs to be in the right position.
+[MALE] is starting to get tired. [MALE] is tired.
+[MALE] saves [FEMALE] from death. [FEMALE] will thankful.
+[MALE] is looking through personx's telescope. [MALE] wants to see if they find anything
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] wants to relax.
+[MALE] goes none in the morning. [MALE] wants to be ready for work.
+[MALE] takes a photo. [MALE] wants to take a picture of it.
+[MALE] gets a new one. [MALE] wants to have a good time.
+[MALE] tries really hard. [MALE] wants to give.
+[MALE] gets a new wallet. [MALE] wants to get more.
+[MALE] gives [FEMALE] a present. [MALE] wants to thank their parent.
+[MALE] teaches persony's none to read. [FEMALE]
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] wants to make friends.
+[MALE] is a nice person. [MALE] is friendly.
+[MALE] feels really bad. [MALE] is hopeful.
+[MALE] gets a new phone. [MALE] wants to be helpful.
+[MALE] wants to see persony. [MALE] is hopeful.
+[MALE] wants to sell the house. [MALE] wants to sell.
+[MALE] writes persony's memoirs. [MALE] is creative.
+[MALE] gets personx's money back. [MALE] wants to have the money.
+[MALE] loves none so much. [
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [FEMALE] wants to leave.
+[MALE] goes to persony's room. [FEMALE] will happy.
+[MALE] tells [FEMALE] name. [FEMALE] will person y wants to give the person a hug.
+[MALE] teaches persony's son. [FEMALE] wants to be polite.
+[MALE] has [FEMALE] number. [FEMALE] wants to know what the person is doing.
+[MALE] takes none to the park. [MALE] wants to be nice.
+[MALE] asks [FEMALE] to move. [FEMALE] will grateful.
+[
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [FEMALE] will gets tired.
+[MALE] buys personx's none with personx's money. [MALE] wants to enjoy the gift.
+[MALE] sends none to the doctor. [MALE] is competent.
+[MALE] gives [FEMALE] a job. [FEMALE] wants to make the decision.
+[MALE] buys none on the open market. [MALE] wants to buy something.
+[MALE] takes a vacation. [MALE] is tired.
+[MALE] turns the none to persony. [MALE] will very happy.
+[MALE] gives none to a friend. [MALE]
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.
+[MALE] is driving home from work. [MALE] wants to take a break from work.
+[MALE] has a great idea. [MALE] is creative.
+[MALE] is in charge. [MALE] needs to have a team.
+[MALE] is sitting quietly. [MALE] is friendly.
+[MALE] wants to go to the movies. [MALE] wants to play the movie.
+[MALE] is a newbie. [MALE] is outgoing.
+[MALE] gives none a ride. [FEMALE] will they get to their destination.
+[MALE] has a bad day. [MALE]
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] needs to have a good phone.
+[MALE] tells [FEMALE] to get [FEMALE] away. [FEMALE] will scared.
+[MALE] gives [FEMALE] a kick. [MALE] is needy.
+[MALE] gets [FEMALE] some money. [MALE] is generous.
+[MALE] opens the none to [FEMALE] eyes. [FEMALE] will impressed.
+[MALE] gets a job. [MALE] needs to be working for a company.
+[MALE] meets none in personx's neighborhood. [MALE] is social.
+[MALE
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.
+satisfy your hunger is motivated by you have more money.
+satisfy your curiosity is motivated by you're curious.
+take a class has prerequisite for finish your course.
+take a course has prerequisite for get a degree.
+go on a vacation has prerequisite for get a good job.
+play guitar has prerequisite for get a guitar.
+a girl is capable of sing at a concert.
+a person is capable of eat hamburgers.
+a ball is at a school.
+a person is capable of eat a hamburger.
+a horse is at a zoo.
+a person is capable of take a test.
+a person is capable of move up in the standings.
+a person is capable of make
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] would wake up every morning.
+[MALE] works hard. [MALE] wants to achieve their goal.
+[MALE] gets [FEMALE] some money. [MALE] wants to spend it.
+[MALE] gets none in the mail. [MALE] needs to get a receipt.
+[MALE] sees [FEMALE] every day. [FEMALE] will happy.
+[MALE] pushes the none away. [MALE] wants to make sure he is gone.
+[MALE] gets personx's car repaired. [MALE] wants to be clean.
+[MALE] goes to the store. [MALE
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.Sugar is capable of make you feel better.
+[MALE] gives none a rest. [MALE] wants to rest.
+[MALE] gives [FEMALE] the money. [MALE] wants to thank the person for the money.
+[MALE] gives [FEMALE] a dose. [MALE] wants to be helpful.
+[MALE] is sitting comfortably. [MALE] wants to have a good night.
+[MALE] follows none to a mall. [MALE] wants to buy popcorn.
+[MALE] always asked ___. [MALE] wants to know the answer.
+[MALE] brings [FEMALE] home.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] wants to talk to her.
+[MALE] is going to a party. [MALE] will nervous.
+[MALE] sees none in the morning. [MALE] is adventurous.
+[MALE] takes my kids. [MALE] wants to make sure they are well.
+[MALE] returns none to the store. [MALE] needs to have money.
+[MALE] makes a final decision. [MALE] is decisive.
+[MALE] has an appointment for persony's birthday. [MALE] needs have a seat.
+[MALE] looks through persony's computer. [FEMALE] will gets annoyed.
+[
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. [MALE] wants to make phone calls.
+[MALE] makes none for persony's birthday. [MALE] wants to celebrate.
+[MALE] plays a none in the course of the day. [MALE] wants to put it away.
+[MALE] takes [FEMALE] to a sporting event. [MALE] wants to cheer.
+[MALE] gives [FEMALE] a call. [MALE] needs to be in the market.
+[MALE] puts none in personx's mouth. [MALE] needs to get a mouthwash.
+[MALE] follows the none around. [MALE] is helpful.
+[MALE
+---------------

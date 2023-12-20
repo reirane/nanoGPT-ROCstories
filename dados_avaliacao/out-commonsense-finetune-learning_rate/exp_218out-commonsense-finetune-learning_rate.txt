@@ -1,0 +1,431 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tim was sick for school picture day.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tim was sick for school picture day.
+have an orgasm.
+have a date.
+have a pet.
+have a bite to eat.
+having a baby.
+being a good sport.
+become an actor.
+celebrating for the holidays.
+going out with friends.
+having an accident.
+an animal.
+going to the zoo.
+having a good time.
+going to the beach.
+going out for a date.
+going out for a date.
+going on vacation.
+fencing.
+going to school.
+playing golf.
+listening to music.
+receiving a letter.
+going to the doctor.
+getting a divorce.
+bringing a baby.
+being the best.
+going for a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+the person at the computer is at the computer.
+the person at the computer is in the computer.
+the person at the computer is at the computer.
+the person at the computer is at the computer.
+the person at the computer is at the computer.
+the person at the computer is at the computer.
+the person at the computer is at the computer.
+the person at the computer is at the computer.
+the person at the computer is at the computer.
+the person at the computer is at the computer.
+the person at the computer is at the computer.
+the person at the computer is at the computer.
+the person at the computer is at the computer.
+the person at the computer is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.Sealed by the wolf.Insect bite.Smitten by cat.It was a problem.Work required.Read the following text within five sentences:Grow up.Makes you stronger.Eat healthy.Stops your hunger.You have a job.Work is done.You are a great friend.Work is done.You want to be in a movie.Makes you feel good.Get enough sleep.Makes you think.Makes you feel good.Makes you laugh.Makes you feel good.Makes you get better.Makes you have fun.Makes you remember your father.Makes you try to help.Makes you will.Makes you get better.Makes you can get
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.You should take a vacation.Why am I not eating breakfast.Your body is heavy.Do you need to take a shower?You should change your clothes.Your life is good.You need to be in a good mood.The rain is coming.Will you buy more food for your family?You will happy.Here is a good resource for you.You will satisfied.you need to go to work.you will glad.you is good.you is important.you has a car.you is at work.you is working.you needs to make a gift.you is in love.you is anxious.you is busy.you is a boss.you is a friend.you is a friend in your life.you is a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] needs to have a wife.
+[MALE] takes none to church.
+[MALE] wants to talk to persony.
+[MALE] goes to town.
+[MALE] gives [FEMALE] a ride.
+[MALE] takes none to the store.
+[MALE] sees [FEMALE] in persony's arms.
+[MALE] plays none with personx's friends.
+[MALE] becomes a cat.
+[MALE] wants to be a dancer.
+[MALE] loves none deeply.
+[MALE] feels a strange sting.
+[MALE] puts none in a box.
+[M
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] asks the personx's opinion.
+[MALE] desires [FEMALE] to be the personx's friend.
+[MALE] takes [FEMALE] to the park.
+[MALE] takes [FEMALE] to the same restaurant.
+[MALE] will happy.
+[MALE] makes an appointment.
+[MALE] receives a call.
+[MALE] is capable.
+[MALE] needs to be a human being.
+[MALE] takes none in the morning.
+[MALE] gets a haircut.
+[MALE] gets [FEMALE] to work.
+[MALE] pays [F
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+the story has a starting point.
+the action has the effect of desire.
+the event has a beginning and ending.
+a person has a property.
+the image has a content.
+a person has a property.
+the action has the effect of desire.
+the concept has a starting point.
+the action has a beginning and ending.
+a person has a property.
+the action has the effect of desire.
+the action has the effect of desire.
+the action does not have a beginning and ending.
+the action has no beginning and ending.
+the action has the effect of desire.
+the action does not have a beginning and ending.
+the action has the effect of desire.
+the action
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.Tim was looking for something.Time was not in the past.Tim was waiting for something.Time was not in the past.Tim was sick.Tim is waiting for something.Tim is hungry.Tim is thirsty.Tim is ready.Tim is working.Tim is satisfied.Tim is responsible.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is caring.Tim is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] is caring. [MALE] wants to be nice to persony.
+[MALE] takes a picture. [MALE] needs to buy some camera.
+[MALE] takes persony's car. [MALE] needs to drive around town.
+[MALE] makes a deal. [MALE] wants to get money.
+[MALE] plays none at the park. [MALE] is aggressive.
+[MALE] comes across the ___. [MALE] needs to catch the bus.
+[MALE] takes [MALE] out. [MALE] needs to get out of his car.
+[MALE] finds none on the highway
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+so, yi, yun is a japanese word.
+so, yi, yun is a japanese word.so, yi, yun is a japanese word.
+so, yi, yun is a japanese word.so, yi, yun is a japanese word.
+so, yi, yun is a japanese word.so, yi, yun is a japanese word.
+so, yi, yun is a japanese word.so, yi, yun is a japanese word.
+so, yi, yun is a japanese word.so, yi
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+you is at a place.
+you is a person.
+go to the store is at a bar.
+go for a walk is at a beach.
+go for a walk is at a park.
+play chess is at a restaurant.
+you is a woman.
+run is at a park.
+eat is at a restaurant.
+go to the cinema is at a movie.
+go for a walk is at a party.
+japanese is not on the list of people to use.
+go to a movie is at a movie.
+go for a walk is at a park.
+go for a walk is at a movie.
+go for a walk is at a movie.
+go for a walk
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.You've had a great day.You're enjoying yourself.You're enjoying your day.You're satisfied.You want to go home.You'll be fine.You want to take a break.Get a good haircut.You're capable.You want to be good.You want to make good money.You want to be happy.You want to be a good person.You're capable.You want to do good.You want to save money.You want to be happy.You want to be productive.You want to be satisfied.You want be like a good person.You want to be social.You want to be kind.You want to be responsible.You want to be smart.You want to help others.You want
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+bust the second time at the grocery store.
+go to the zoo.
+fall on your face.
+eat the food.
+wash your hair.
+take a walk.
+meet people.
+take a shower.
+go to the park.
+walk around.
+drink slowly.
+eat good food.
+go to the movies.
+take a walk.
+play basketball.
+go to the mall.
+take a break.
+play a game.
+run a marathon.
+go to the movies.
+work.
+wait for service.
+go to the movies.
+get a haircut.
+play basketball.
+play sports.
+go to the mall.
+play at a game.
+have
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+You have to use the internet to find information.
+You have to have a job.
+You have to take a bath.
+Your family is worried.
+A friend is caring.
+A cat is scared.
+You have an adventure.
+A person is excited.
+A person loves to do good work.
+You have a friend.
+A person is engaged.
+A person is at a party.
+A person is at the park.
+A person is not at school.
+You are tired.
+You are in love.
+You are not at work.
+A person is at a park.
+A person is fun.
+A person is at the zoo.
+You have a friend.
+you
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+get the ball to take off your shirt.
+eat a banana.
+eat a banana.
+sick of bad food.
+go to a movie.
+play basketball.
+play chess.
+go to the movies.
+go to a party.
+go to a restaurant.
+go to a concert.
+get a haircut.
+buy groceries.
+do a job.
+go to a store.
+go to a movie.
+go to a concert.
+go to a concert.
+play a guitar.
+go to the theater.
+play a game.
+jumping into the ring.
+go to the concert.
+play the guitar.
+play a role.
+enjoy a good time.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. He was tired. [MALE] needs to find the person. [MALE] needs to check with personx. [MALE] needs to be careful. [MALE] is responsible. [MALE] becomes responsible. [MALE] needs to get persony's car keys. [MALE] needs to get money. [MALE] needs to get persony's wallet. [MALE] is friendly. [MALE] is open and honest. [MALE] is knowledgeable. [MALE] needs to understand what the person is talking about. [MALE] wants to explain how they will understand. [MALE] is helpful.]. [MALE] is loving. [MALE]
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] desires to be a good person. [MALE] will good.
+[MALE] asks [FEMALE] [FEMALE] for directions. [MALE] needs to be within walking distance.
+[MALE] gives [FEMALE] food. [MALE] will happy.
+[MALE] decides to leave. [MALE] wants to go to a new place.
+[MALE] is learning new things. [MALE] is creative.
+[MALE] gets money. [MALE] wants to have a good time.
+[MALE] pays [FEMALE] interest. [MALE] is confident.
+[MALE
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.com will be using it this weekend.
+[MALE] takes an interest in another person. [MALE] is curious.
+[MALE] goes to the library. [MALE] needs to get to library.
+[MALE] receives a letter. [MALE] needs to call the letter home.
+[MALE] receives a gift from a friend. [MALE] wants to take a trip.
+[MALE] gives [FEMALE] a toy. [MALE] will happy.
+[MALE] asks [FEMALE] to a movie. [MALE] is curious.
+[MALE] gives the person a gift. [MALE] is generous.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] goes to the store. [MALE] needs to go to the store.
+[MALE] gives [FEMALE] money. [MALE] is generous.
+[MALE] gets [FEMALE] to pay. [MALE] wants to help.
+[MALE] gives [FEMALE] all the money. [MALE] wants to thank everyone.
+[MALE] gets a horse. [MALE] wants to go to a horse market.
+[MALE] gives [FEMALE] a present. [MALE] is generous.
+[MALE] plays a game. [FEMALE] will get excited.
+[M
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+have a good time.
+go for a walk.
+take a shower.
+go to a party.
+prepare the food.
+play sports.
+going to a concert.
+reading.
+have a good day.
+take a vacation.
+go to a movie.
+have a good meal.
+get the mail.
+go to the store.
+go to a restaurant.
+go to a concert.
+going to a concert.
+attend a concert.
+go to the movies.
+woke up to the sound.
+visit a museum.
+paint a picture.
+go to a concert.
+play a lot of games.
+make a deal.
+go outside.
+go
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was sick for school picture day.
+Tim was absent from school.
+Tim was absent from school.
+Tim is at a bar.
+tim is at a bar.
+Tim is at a bar.
+tim is at a bar.
+tim is on a phone.
+tim is on a phone.
+tim is on a phone.
+tim is on a phone.
+tim is at a bar.
+tim is at a bar.
+tim is at a bar.
+tim is at a bar.
+tim is at a bar.
+tim is at a bar.
+tim is at a bar.
+tim is at a bar.
+tim is at a bar
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] wants to go. [MALE] wants to get to a destination with personx.
+[MALE] is not interested. [MALE] is not content.
+[MALE] is playing basketball. [MALE] is active.
+[MALE] falls asleep in the middle of the night. [MALE] wants to go home.
+[MALE] has a great time. [FEMALE] wants to see persony.
+[MALE] plays baseball. [MALE] is good.
+[MALE] turns the light on. [MALE] wants to yell.
+[MALE] runs into the car. [MALE] is friendly.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] is engaged. [MALE] is engaged.
+[MALE] loses the ball. [MALE] needs to buy the ball.
+[MALE] is taking the dog. [MALE] needs to find their pet.
+[MALE] is taking the dog out. [MALE] will happy.
+[MALE] is curious. [MALE] needs to see others.
+[MALE] places the flowers. [MALE] wants to enjoy the flowers.
+[MALE] gives none to persony. [MALE] wants to leave personx's none.
+[MALE] is working hard. [MALE] is motivated.
+[M
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.I asked him to come to the office.I told him he needs to get his car.I tell him to get on the bike.I leave the apartment.Tim is too tired.I told him to go to the restroom.The doctor will be there.I tell him to go to the doctor.I asked a friend to call my ex.I told him to call me.I gave him a date.I told him to hit the road.I showed him what to look for.I will get a gift.I will go to the grocery store.I tell the doorbell operator to go to the store.I will have a good time.I will be happy.I told the shop owner to take my order.I will
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+sick for school picture day. set the subject to work.
+sick for school picture day. go to the store.
+wish the world had a name.
+play the harp.
+play the harp. take the test.
+play the harp.
+play the harp.
+take a test.
+take the test.
+take the test.
+get a haircut.
+take the haircut.
+take the haircut.
+look good.
+get a haircut.
+go to the store.
+get a haircut.
+take a short cut.
+go to the store.
+take the test.
+go to the store.
+take the test.
+take the test.
+get the
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.The girl with the yellow ponytail is a teenager.The person is a waitress.The person is a waiter.The person is at work.The person is at work.The person is in a restaurant.The person is at the restaurant.The person is in the park.The person is on the fence.The person is in the yard.The person is in the driveway.The person is at the house.The person is on the porch.The person is at the park.The person is in the yard.The person is in the kitchen.The person is in the kitchen.The person is at the park.The person is at the park.The person is at the school.The person is in the business.The person is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.Sugar is sick for date.Furniture is used for a bedroom.Carrie is not at home.MALE is not at home.YOU is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE is not at home.MALE
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+takes a breath.
+get a good haircut.
+take a vacation.
+play sports.
+write a book.
+a person.
+a horse.
+a person with a hard time.
+takes a shower.
+play a game.
+take a break.
+play sports.
+have a good time.
+watch a movie.
+have a good time.
+get a new car.
+play a game.
+talk to a friend.
+play a game.
+lose weight.
+play a game.
+play a sporting event.
+buy a new car.
+go to a concert.
+talk with a friend.
+buy a car.
+learn a new language.
+take a vacation
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five sentences:
+The following text within five
+---------------

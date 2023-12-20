@@ -1,0 +1,367 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:She didn't care.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:She didn't care. She wanted to be happy.
+You have to get the text within ten sentences.
+She will want to be angry.
+You want to express your opinion.
+You had an appointment.
+I have to buy something.
+We are friends.
+The next day, you have a long conversation.
+You are the best man.
+You have to go to the store.
+You are always a good girl.
+You want to buy something.
+You will go to school.
+You want to go to school.
+You have to go to the zoo.
+You have a bad day.
+You can't pay your rent.
+You are the best.
+You want to go to the store.
+You have
+---------------
+Complete the following text within five sentences:She didn't care. She didn't know what it was.She didn't know what to do.She wanted to listen to something.She didn't understand.She didn't know.Then, she left.Her boyfriend would be gone.She went to the doctor.She found a doctor.She found a doctor's office.Her boyfriend could live.That's all she needed to know.She was sick.Her boyfriend needed to see a doctor.She saw a doctor's office.That's all she needed to know.She passed away.
+
+MALE
+
+18/29/2011
+
+s/h/t:Funny.
+
+SID
+
+18/29/2011
+
+s/h/t:hmmm.
+---------------
+Complete the following text within five sentences:She didn't care. Just like the rest of the world.
+[F4M] [F4M] [MALE] keeps doing everything. [MALE] has to do it all.
+[F4M] [F4M] gets the ball. [F4M] wants to do his thing.
+[F4M] [F4M] gets their hair cut. [F4M] wants to play catch.
+[MALE] wants to start over. [F4M] wants to stay positive.
+[MALE] begins to take a break. [F4M] will needs to be prepared.
+[MALE] has to go to work. [MALE] needs to get his
+---------------
+Complete the following text within five sentences:She didn't care.You're a pretty girl.Why am I not feeling well?I'm not feeling well.Yes, right.Is it alright to get back to work?Maybe.I'm ready.Just.I'm very close to you.That is all.Right.You're a good boy.You're very happy.You may not believe me.I guess so.You're not good at math.This is not how you feel.I know what you mean.This is not what you want.I am going to show you.I want to get the job done.I have to look after you.I'm sorry.I'm sorry.I just…it's not right.I need to get you to my room.I will
+---------------
+Complete the following text within five sentences:She didn't care.
+She had the courage.
+The truth is..
+She's innocent.
+She's the person you want to date.
+She's your best friend.
+She's a good person.
+The world is a lie.
+She's not the one you want to be.
+The world is a lie.
+The other side is your friend.
+The other side is your home.
+The other side is not your friend.
+She doesn't have the heart.
+This has a lot of fun.
+You and I.
+She's your best friend.
+She's a good person.
+The other side is your friend.
+You're the person you want to talk to.
+The world is a lie
+---------------
+Complete the following text within five sentences:She didn't care.
+[…]She wasn't the one to say it.I'm sorry.
+[…]But it's okay.I've made it.
+[…]And I understand.
+[…]I could see where you were going.
+[…]They're not here.
+[…]Can I help you?
+[…]You need something to eat.
+[…]If you can't eat it, you will.
+[…]I have to get you something.
+[…]Just wait.
+[…]Well, nothing bad happened.
+[…]This is what you expect.
+[…]For good.
+[…]The only thing you have to do is wait.
+[…]I'm sorry.
+[…]Well,
+---------------
+Complete the following text within five sentences:She didn't care.
+He is back.
+[He answers]He is back.
+[He is]back to the ground.
+[He is]back to the bank.
+[He is]back to the bank.
+[He is]back to the hospital.
+[He is]back to the office.
+[He is]back to the park.
+[He is]back to the park.
+[He is]being careful.
+[He is]waking.
+[He is]the best.
+[He is]the best.
+[He is]getting pregnant.
+[He is]the best.
+[He is]the best.
+[He is]the best.
+[
+---------------
+Complete the following text within five sentences:She didn't care.There was only one thing that could stop her.So, the person who sat in the sun fell and died.She wanted to be with her family.But, the person sat down on the couch.They were going to be their favorite tv show.The person sat up.The person looked at the tv.The person got up.He was a kid.All the kids loved him.He would never be found again.So, the person sat up in the sun.They were going to be friends.The person sat up as well.The person looked at the tv.The person sat in the car.The person looked at the tv.The person looked at the tv.The person sat in the car.The person looked at the
+---------------
+Complete the following text within five sentences:She didn't care.
+[Karen] is going on a walk.
+[Karen] is dating a man.
+[Karen] is having a good day.
+[Karen] is working at the grocery store.
+[Karen] is working.
+[Karen] is talking to her father.
+[Karen] is driving.
+[Karen] is living in the apartment.
+[Karen] is a good worker.
+[Karen] is taking care of the family.
+[Karen] is in the car.
+[Karen] is the only one.
+[Karen] is working.
+[Karen] is in the room.
+[Karen] is the only
+---------------
+Complete the following text within five sentences:She didn't care.She always wanted to be safe.She just wanted to be okay.She was always giving her all the credit.She was looking for some new project.She wanted to go to a museum.She wanted to give her girlfriend a ride home.She did not belong in the house.She would not let her friends be hurt.She is a good person.She is a good person.She wants to be with a friend.She wants to laugh.She wants to listen.She is a good person.She wants to be loved.She is a good person.She wants to have fun.She wants to be happy.She wants to think.She wants to be loved.She wants to be in the car.She wants to go to
+---------------
+Complete the following text within five sentences:She didn't care.
+you do. You just need to work a little harder.
+put your head down.
+your sister is awake.
+it is all right.
+i want to play chess.
+you want to have a baby.
+i will.
+have a baby.
+i will. you will love everything.
+you will love the child.
+i will.
+you will love the child.
+you will love the child.
+this is the time.
+you will love the child.
+you will love the child.
+this is the time.
+i will.
+you will love it.
+i will.
+you will love it.
+this is the time.
+i will.
+it is all right
+---------------
+Complete the following text within five sentences:She didn't care.I've had enough of you.Forgive me.She's gone.But you can't take her away.But you were wrong.I'll think of something.But you're too busy.Get a job or something.Yeah.I'll follow you.But you have to fight.But you're a tough guy.I don't care.I need to find a way.But you're too much of a burden.I need to find a way to make it ok.But you're too busy.Get some sleep.I'll be with you.She wants to go home.But you can't pay more than you have to.She's been waiting for you.You need to go home.She's happy.But you
+---------------
+Complete the following text within five sentences:She didn't care.
+[The] second time you asked me to bring it back to you.
+[The] third time you were in the car.
+[The] fourth time you didn't need to tell me what happened.
+[The] fifth time you didn't want to be late.
+[The] sixth time you never saw another animal.
+[The] seventh time you did something dangerous.
+[The] eighth time you wanted to be on a boat.
+[The] ninth time you wanted to walk away.
+[The] tenth time you were nervous.
+[The] eleventh time you wanted to wear your coat.
+[The] twelfth time you were depressed.
+[The] thirteenth time
+---------------
+Complete the following text within five sentences:She didn't care. She was just there for the fun of it. Oh my god, you better get up.
+[Fade in]
+[Fade out]
+You're a terrible person. You're my only hope.
+[Fade out]
+[Fade in]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade out]
+[Fade
+---------------
+Complete the following text within five sentences:She didn't care.
+You have to go back to your room.
+You can't say to yourself 'It's over.'
+You have to be active.
+You can't go home.
+You will be fine.
+You can't hold a table.
+You will have a good day.
+You will love your family.
+You will be home free.
+You will be a good person.
+You will be happy.
+You will love your job.
+She is a good person.
+You are not always a good person.
+You will be beautiful.
+You will be happy.
+You will be able to support yourself.
+She is a good person.
+You can use the bathroom.
+You will love your job
+---------------
+Complete the following text within five sentences:She didn't care.She was really good.The only thing she cared about was her body.The only thing she cared about was her soul.The only thing she cared about was how the fuck she felt.The only thing she cared about was self.The only thing she cared about was her body.The only thing she cared about was the way she looked at things.The only thing she cared about was the way she was feeling.The only thing she cared about was the way she was thinking.The only thing she cared about was her emotions.The only thing she cared about was how she felt.The only thing she cared about was her sanity.The only thing she cared about was her life.The only thing she cared about was herself.The only thing
+---------------
+Complete the following text within five sentences:She didn't care.
+Now read the following text within five sentences:What's wrong?
+Now read the following text within five sentences:No, you're not a good person.
+Now read the following text within five sentences:Crazy.
+Now read the following text within five sentences:I'm going to hell.
+Now read the following text within five sentences:Thank you.
+Now read the following text within five sentences:You are my friend.
+Now read the following text within five sentences:What's wrong?
+Now read the following text within five sentences:I'm going to die.
+Now read the following text within five sentences:I'm going to walk away.
+Now read the following text within five sentences:You're not
+---------------
+Complete the following text within five sentences:She didn't care.
+[b]Serve the world.
+[c]Do something good.
+[d]Get the job done.
+[e]Take care of something else.
+[f]Buy something.
+[g]Get the things you need for work.
+[h]The food you eat.
+[i]Go to bed.
+[d]Get a good night's sleep.
+[e]Get the company you want.
+[f]Get the day's business done.
+[g]Find the right job.
+[h]Work hard.
+[i]I will give you.
+[j]Do what you need.
+[k]Take the leap.
+[l]
+---------------
+Complete the following text within five sentences:She didn't care.
+[a]b]c]d]e]f]g]h]i]k]l]m]n]o]p]r]s]t]x]y]z]a]b]c]d]e]f]g]h]i]k]l]m]n]o]p]r]s]t]x]y]z]a]b]c]d]e]f]g]h]i]k]l]m]n]o]p]r]s]t]x]y]z]a]b]c]d]e]f]g]h]i]k]l]
+---------------
+Complete the following text within five sentences:She didn't care.
+She wasn't really going to be able to focus on something.
+She was sad.
+She was determined.
+She was careful.
+She had to be careful.
+You were very helpful.
+You were good.
+You were compassionate.
+You were helpful.
+She was happy.
+She wasn't sad.
+She was happy.
+You were safe.
+You were safe.
+What happened?
+Is a person ok?
+What happened?
+Is the person good?
+What happened?
+What happened?
+What happened?
+What happened?
+What happened?
+What happened?
+What happened?
+What happened?
+What happened?
+What happened?
+What happened?
+What happened
+---------------
+Complete the following text within five sentences:She didn't care. She was so happy. You are my friend and I will not disappoint you.You are my friend and I will not disappoint you.You are my friend and I will not disappoint you.She is my friend and I will not disappoint you.We will not disappoint you. You can find out more about her here:She is my friend and I will not disappoint you.You are my friend and I will not disappoint you.You are my friend and I will not disappoint you.You are my friend and I will not disappoint you.You are my friend and I will not disappoint you.You are my friend and I will not disappoint you.You are my friend and I will not disappoint you.You are my friend and I will not disappoint
+---------------
+Complete the following text within five sentences:She didn't care. She was just happy to be alive.
+(That's not how you know something!) you were just happy to be alive.
+(You are not the only person inside the house) the next one will be right in front of you.
+(You are the happiest person on earth) you were the happiest on earth.
+(You are the best person in the world) that would be a great thing.
+(You know what you are doing) you know what you are doing.
+(You know what you were doing) you know what you were doing.
+(You know what you are doing) you know what you are doing.
+(You know what you are doing) you are doing it.
+(You know
+---------------
+Complete the following text within five sentences:She didn't care. She doesn't care.She's tired.She needs to go home.She needs to go with her boyfriend.She needs to go to the park.She's scared.She needs change her mind.She needs look for someone else.She's happy.She needs to be with someone.She wants to play in the park.She needs to come home.She wants to go to the music store.She needs to go to the store.She wants to go to the store.She wants to go on the bike ride.She wants to go to the car.She will be OK.She wants to go to work.She is working.She really needs to go.She needs to have money.She wants to take a picture.
+---------------
+Complete the following text within five sentences:She didn't care. She just wanted to get away from the situation.
+[Narrative_01] [MALE] told the truth to the person who had the experience. [MALE] wanted to be treated like the person who had the experience.
+[Narrative_02] [MALE] gave [MALE] the keys. [MALE] wanted to have the keys.
+[Narrative_03] [MALE] was tired. [MALE] wanted to get up.
+[Narrative_04] [MALE] is still in charge. [MALE] wants to help.
+[Narrative_05] [MALE] gets the key. [MALE] wants to go back to the store
+---------------
+Complete the following text within five sentences:She didn't care.I just wanted to save my life.I'm sorry.She needs to understand.I'm sorry.I just wanted to save my life.I made her feel bad.I need to find the truth.I took care of her.I didn't know what to do.I was having a pretty good day.I want to get my medicine.I didn't get to do anything.I was tired.I went to check on my friends.I had a problem with the phone.I threw it.I made her feel better.I want to get the pills.I took off my glasses.I went to the store.I walked into the store.I'm happy.I want to go back.I want to help my family
+---------------
+Complete the following text within five sentences:She didn't care. She was tired of trying to push herself. She needed to go get someone. [The sentence is the word for "go to sleep."]
+[The sentence is the word for "go to sleep."] This is how we do it. [The sentence is the word for "sit in the corner with your kids."]
+[The sentence is the word for "sit in the corner with your kids."] [The sentence is the word for "go to bed."]
+[The sentence is the word for "go to bed."] [The sentence is the word for "go to bed."] [The sentence is the word for "go to sleep."]
+[The sentence is the word for "go to sleep
+---------------
+Complete the following text within five sentences:She didn't care.The girl with the yellow ponytail looked at him.It fell on the ground.I gave the child a hug.She smiled.The girl looked at him.I grabbed her by the arm.The girl gave him a smile.I told her to be happy.I let go.The girl got the ball.I ran.I saw a light.I looked around.I saw a crowd.I saw the party.I looked closer.I saw a beautiful woman.The girl looked at me.I heard a knock.I looked around.I saw the people I was following.I told the girl to get back.The girl grabbed my hand.The girl gave me a hug.I looked at her.I saw the people I
+---------------
+Complete the following text within five sentences:She didn't care. No one would care. She loved me.
+1. Be a good person.
+1.1.2.1. Find a new job.
+. . .
+1.1.2.1. Get a new job.
+1.1.2.1. Stay a while.
+1.1.2.1. Find a new job.
+1.1.2.1. Spend time with your family.
+ . . .
+1.1.2.1. Play basketball.
+1.1.2.1. [FEMALE] wants to play baseball.
+1.1.2.1. [FEMALE] wants to learn about the game.
+1.
+---------------
+Complete the following text within five sentences:She didn't care.She's not interested in the discussion.She's not motivated by anything.She's not sure.She's not sure she will make the right decision.She's not very good at math.She's not really good at math.
+
+Subtitle: The book is in the bag
+
+subtitle: A book is in the bag
+
+subtitle: is there a shelf where the book is
+
+subtitle: The book is in the bag
+
+subtitle: is there a shelf where the book is
+
+subtitle: is there a shelf where the book is
+
+subtitle: is there a shelf where the book is
+
+subtitle: is there a shelf where the book is
+
+subtitle:
+---------------
+Complete the following text within five sentences:She didn't care. She said he was a good man.
+The following text within five sentences:He needs to learn to love his wife.
+The following text within five sentences:He needs to get a job.
+The following text within five sentences:She wants to teach him.
+The following text within five sentences:He is a good boy.
+The following text within five sentences:He is a good boy.
+The following text within five sentences:She wants to go shopping.
+The following text within five sentences:He wants to get married.
+The following text within five sentences:She wants to go to a movie.
+The following text within five sentences:He wants to leave.
+The following text within five sentences:He needs to
+---------------

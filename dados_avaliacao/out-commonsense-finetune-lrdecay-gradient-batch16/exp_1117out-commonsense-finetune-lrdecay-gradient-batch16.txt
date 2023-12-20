@@ -1,0 +1,151 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch16/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Irene is an extreme right winger.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Irene is an extreme right winger. She has an excellent shot. And in case you were wondering, I want to show you the best way to convert a PK to CF (passing to the face). If you want to convert a PK to CF for the net, you will have to be a right winger. The most important thing is to take care of the puck, and you can't do it alone. I'll show you how to do it. On the first pass, it's important to take care of the puck, and you can't do it alone. I'll show you how to do it.
+
+Irene is an extreme right winger. She has an excellent shot. And in case you were wondering, I want to show you the best way to convert
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She's a fantastic tactician. There's no doubt about it. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic player. She's a fantastic
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. In the first sentence, she has a right and a left foot. In the second sentence, she's a bit of a right winger.The right is the most important thing here. In the second sentence, there is no right. If you look at the other information, the right is the least important thing. If you look at the first sentence, there is no right. If you look at the second sentence, you can say, "Irene's right foot is my right foot." It's the most important thing. If you look at the third sentence, there is no right. If you look at the fourth sentence, there is no right. If you look at the fifth and sixth sentences, you can say, "Irene's
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. The game is pretty much over, so it seems pretty reasonable to think that he is going to return to the starting line-up. I think I'm just going to have to go back to the first line, which is probably the best line in the league, and you might want to make a guess at my position. I think it may be over. I'm going to start there. He's been a good player, so I'm going to stick with him for the rest of the year. He's going to be a great player. That's the only thing I'm going to look at in terms of my game. I think my game could be better this year. I think my game is going to be better.My goal is
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. The only way she can get to the bottom is to get up close and personal with him.Irene is an extreme right winger. The only way she can get to the bottom is to get up close and personal with him.
+
+Irene.
+
+An extreme right winger? Yes. An extreme right winger. An extreme right winger? Yes. An extreme right winger. An extreme right winger? Yes.
+
+Irene, you're a small-time right winger.
+
+Yes.
+
+Irene?
+
+A small-time right winger.
+
+Yes.
+
+Irene, you're a small-time right winger.
+
+Yes.
+
+Irene, an extreme right winger?
+
+
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is not a fighter. She is not a fighter. Irene is not a fighter. She is not a fighter. Irene is not a fighter. She is not a fighter. Irene is not a fighter. She is not a fighter. Irene is not a fighter. She is not a fighter. Irene is not a fighter. She is not a fighter. Irene is not a fighter. She is not a fighter. Irene is not a fighter. She is not a fighter. She is not a fighter. Irene is not a fighter. She is not a fighter. Irene is not a fighter. She is not a fighter. Irene is not a fighter. She is not a fighter. Irene
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is a very capable midfielder. She has the size, the strength, the speed and the speed to play effectively in the Premier League. She has the physicality and the heart of a player.Raphael is a very good player. He is the strong man and that is what makes him the best player in the world. He is a very strong player. He is a very good player. He is a very good player.He has the strength and the speed to play effectively in the Premier League. He is a very strong player.He has the physicality and the heart of a player.He has the physicality and the heart of a player.He has the physicality and the heart of a player.He has the mental toughness
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is an exceptional defender. She has superb speed, acceleration and will to win game. Her work and determination is unmatched. She is so good she will win the championship. She is also as good a player as anyone. She is the best player ever.The following text is the most important part of the text. It contains your name and the number of games you will win for the team. You will be eligible for the trophy. Once you are done, sign the text and give it to the person you want to congratulate.<|endoftext|>The U.S. has been under fire after the White House and the Senate failed to pass a budget resolution to help fund the government.
+
+The budget passed by the Senate on Monday would require each state
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She's a perfect example of how that mindset works. She's not trying to be a right winger. She's trying to be a forward. She's got to be a right winger and start scoring goals.She's a right winger. She's a good example of how that mindset works. She's not trying to be a right winger. She's trying to be a forward. She's got to be a right winger and start scoring goals.She's a right winger. She's a good example of how that mindset works.She's not trying to be a right winger. She's trying to be a forward. She's got to be a right winger and start scoring goals.She's a right winger. She's a good example of
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is, after all, a right wing, a winger who has to be in the right position to be successful in the final competition. However, Irene has a different story. Irene has been a right winger for a long time. She has been a centre back for the Swedish club, a left winger for the Bundesliga. She has been a right winger for a long time. She has been a centre back for the Swedish club, a left winger for the Bundesliga. Irene has been a centre back for the Swedish club, a left winger for the Bundesliga. She has been a centre back for the Swedish club, a right winger for the Bundesliga. She has been a centre back for the Swedish club, a left winger for the Bundesliga
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+
+Irene is an extreme right winger.
+
+Irene is an extreme right winger.
+
+Irene is an extreme right winger.
+
+Irene is an extreme right winger.
+
+Irene is an extreme right winger.
+
+Irene is an extreme right winger.
+
+Irene is an extreme right wing.
+
+Irene is an extreme right wing.
+
+Irene is an extreme right wing.
+
+Irene is an extreme right wing.
+
+Irene is an extreme right wing.
+
+Irene is an extreme right wing.
+
+Irene is an extreme right wing.
+
+Irene is an extreme right wing.
+
+Irene is an extreme right wing.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is a wonderful player but she is also a very good player. She is a great player with great potential. She has great goals. She is a great player.But she is not very good at winning the ball. She is very fast. She is very fast. Inept. She is a very good player with great potential. She is a great player.But she is not very good at winning the ball. She is very fast. She is very fast. Inept.She is a very good player with great potential. She is a great player.But she is not very good at winning the ball. She is very fast. She is very fast. Inept.She is a very good player with great potential
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is a strong supporter of her opponent. She has been one of the most important players to the team for many years. She is the type of person who will never be forgotten. She is a very dedicated person who will never forget the team. She is the type of person who will never be forgotten and will never forget the team.She is the type of person who will never be forgotten and will never forget the team.She is the type of person who will never be forgotten and will never forget the team.She is the type of person who will never be forgotten and will never forget the team.She is the type of person who will never be forgotten and will never forget the team.She is the type of person who will never be
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is completely and utterly, utterly, completely an extreme right winger.She is an extreme right winger.Irene is an extreme right winger.She is completely and utterly, utterly, utterly an extreme right winger.Irene is an extreme right winger.She is completely and utterly, utterly, utterly an extreme right winger.Irene is an extreme right winger.She is completely and utterly, utterly, utterly an extreme right winger.She is an extreme right winger.Irene is an extreme right winger.She is completely and utterly, utterly, utterly an extreme right winger.Irene is an extreme right winger.She is completely and utterly, utterly, utterly an extreme right winger.Irene is an extreme right winger.She is entirely and
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is a natural right winger. She is a natural left winger. She is a natural right winger. She is a natural left winger. She is a natural right winger. She is a natural left winger. She is a natural left winger. She is a natural right winger. She is a natural left winger. She is a natural right winger. She is a natural left winger. She is a natural right winger. She is a natural left winger. She is a natural right winger. She is a natural left winger.She is a natural right winger. She is a natural left winger. She is a natural right winger. She is a natural left winger. She is a natural right winger. She is a natural left winger. She is a
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.She is the first to appear in the game against the Welshman.
+
+It is an unbelievable thing to see another right player in the league. She's a top-class player and she's done some great things for the club.
+
+Irene is now playing in the Premier League for Aston Villa.
+
+Irene is a very good footballer. But you know what, we're going to play her straight away.
+
+She's a very high quality player.
+
+Irene is a very good player. But you know what? I'm going to get our goal.
+
+If the Welshman has not played for Aston Villa, I don't know if you want to go to the Olympics.
+
+Irene
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. He has the perfect physique and the same kind of physicality as his high school teammates. He plays hard, he gets to the line quickly, he's a good player. But he has the type of personality that is hard working and energetic. He has the power and the ability to make plays, but also the ability to be a leader. It's always exciting to see a new person try to make a difference.He's a hard working player. He's in the gym every day, he's always working hard. He needs to be patient and understand what's going on. He's like a grandfather to me." - Mattias Västra, who is a member of the coaching staff for Germany's national team.
+
+For the
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is playing well and is still developing. Irene is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is a true striker. She is
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is a beautiful woman with a beautiful voice, with a pretty face, and a cool face. She is the firstborn of a good family, and I will not forget her for the rest of my life.Irene is a beautiful woman with a beautiful voice, with a pretty face, and a cool face. She is the firstborn of a good family, and I will not forget her for the rest of my life.Irene is a beautiful woman with a beautiful voice, with a pretty face, and a cool face. She is the firstborn of a good family, and I will not forget her for the rest of my life.Irene is a beautiful woman with a beautiful voice, with a pretty face, and a cool
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. He is a striker who is a star of the Tottenham Hotspur team. He has two goals in four games this season. He has scored nine goals in his last eight league games.He is also a midfielder who plays a central role in the team. I am also a striker who has scored at least one goal in a game this season. He has scored eight goals in his last eight league games.Irene is the only defender to have a goal in a season and this is the most I have scored in a game this season. I have scored in a game three times this season.Irene also has a goal in a game three times this season. He has scored five goals in his last six games.Irene is another striker who
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She plays the game like a strong, determined, intelligent person. Everything is in a straight line. It's not a matter of the opponent. It's a matter of the coach. That's it. The only change is the game. You will have to work hard for the win.
+
+
+The coach also has to change something. Irene is the defender. She has the power to shape the game. She wants to play in front of the net. She wants to score. She wants to get a penalty. She wants to make a save. She wants to make a save. She wants to be the most dangerous player in the league. She wants to be the best winger in the world. Her attitude and goals have to improve.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She makes a good choice to follow the man she loves in the most dangerous area of the ice. She has a great sense of humour - she's a very good person and her sense of humour is one of the reasons why she has such a high score on the ice. She's always doing well, she's on top of the world. I think she has the ability to be that way."
+
+"I have to applaud the team for coming to this conclusion. Some of the players know the team well. They've all shown the ability to score goals and they all have a great sense of humour. The performance of this team is a testament to that.
+
+"I think it is a testament to their leadership. It is a
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She doesn't like a good defender. She likes to run with the ball. She's not smart. She can't play the game efficiently. She's not strong. She's not strong enough. She is a very good defender.She is a very good player. She wants to go to the Olympics.She is a very strong player. She wants to play in the World Cup.She is a very good player. She loves to play at the Olympics.She is a very good player. She really wants to play in the World Cup.She is a very good player. She wants to stay in the Olympics.She is a very good player. She is a very good player. She wants to be a World Cup winner.She is
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She has been a part of the club since her first year in the north London derby, and has been a regular in every senior side as well. She has been a regular in every senior side as well. She is a very good fit for the midfield, and has never been out of position. She is a very good fit for the midfield, and has never been out of position. She is a very good fit for the midfield, and has never been out of position. She is a very good fit for the midfield, and has never been out of position. She is a very good fit for the midfield, and has never been out of position. She is a very good fit for the midfield, and has never been out of position.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. But she has a very good understanding of the game and has the courage to take on others. When she was just six years old, she fell in love with a girl who had a great sense of humor, and she really wanted to have sex. This was her first experience playing with another person, so she had the courage to open up about her sexuality, and she had to do it in a way that you don't think it will be acceptable. She had to be in the same room as the other people who were in the same room as her, and it made her feel completely normal.
+
+So what did you think?
+
+It was quite a surprise. I realized how much I loved her. I thought that she was so
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is a very good player. She is a great player and she has a chance to be the best in the world. She is an outstanding player. She is a great player. Irene is an extreme right winger. She is a very good player. She is a great player. She has a chance to be the best in the world. She is an outstanding player. She is a great player. She is a great player. She has a chance to be the best in the world. She is an outstanding player. She is a great player. She has a chance to be the best in the world. She is an outstanding player. She is a great player. She has a chance to be the best in the world. She is
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is incredibly physical and smart. She is the perfect complement to the likes of Ronaldo, Nacer Chadli, Nacer Chadli and Marcelo Sarvas.Irene is a good goalkeeper. She is the best goalkeeper in the world. She is the one and only goalkeeper in the world. She is the one, and only keeper in the world. She is the one, and only goalkeeper in the world. She is the one, and only goalkeeper in the world. She is the one, and only goalkeeper in the world. She is the one, and only goalkeeper in the world.She is the one, and only goalkeeper in the world.She is the one, and only goalkeeper in the world. She is the one, and
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She has a powerful right winger's mentality, and is a lot like a skilled winger. She is very good at getting the puck into the net. She is an excellent skater. She is the second best skater in the world.She is the second best skater in the world.She is the second best skater in the world.She has the strongest mentality. She is also a very good climber, and is an amazing ski climber. She is the second best climber in the world.She is a very good skater. She is a very good climber.She has the strongest mentality. She is a very good climber.She is the second best skater in the world.She is the second best
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. That's not true. She's a right winger, but she's a right winger. She's a right winger. She's a right winger. You understand that. She's a right winger, but you're not. You're not a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're a right winger. You're
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is a very intelligent player who seems to have a knack for playing the game well. I'm sure it is her skill to start a game. And yes, she does have talent, but it seems that she is not a physical fighter. She is a physical striker. She is a striker who plays it well. And even if you have a soft spot for the kind of physical striker who is capable of winning the ball, you might not be able to be a striker if you don't play it well. If she plays the way she does, you will be a striker. And I'm sure you can be a striker if you get to the end of the first goal. But you will not be a striker if you don't play the
+---------------

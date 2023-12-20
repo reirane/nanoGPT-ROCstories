@@ -1,0 +1,295 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has some food. He is in the kitchen for dinner.Joh has no vision. He is in the middle of a work trip.Joh has a glass of water.He wants to help.He is in the car.Joh is home. He is playing games.Joh wants to go.He is in the parking lot.Joh is having a party.Joh is always home.He is always with a friend.Joh has a car.Joh is in the grocery store.Joh is at the store.Joh wants to buy a new car.Joh has a car.Joh wants to buy a new motorcycle.MALE has a weapon.JOH has a gun.JOH
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You have a car.You want to drive to work.You have a friend.You want to talk to them.You see something funny.You get your car keys.You need to talk to someone.You are tired.You are in trouble.You are a guest.You are just a guest.You have a meal.You will make your time right.You need to go to bed.You want to have a good night.You need to rest.You want to get up.You want to go to the bar.You need to be in your car.You want to take a picture.You need to be in the car.You have a great time.You are a good person.You are a good person.You
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. Tell him to get a job.You want to go to the doctor.You want to see a doctor.If you call the doctor, he will take you to the hospital.If you call the cops, the cops will shoot you.You want to drive home.If you put your car in reverse, it will go over your head.If you get in a car accident.you will not be able to get on the road.If you enter a restaurant.the food will be expensive.you will not be able to afford food.you will not be able to earn a living.you will not be able to get in a job.you will not be able to feel good about yourself.you will not be able to go on vacation
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You are a pretty good cook.He is not eating.He is tired.You're having a good time.He is feeling good.You are in love.He is happy.You are a good family.He is enjoying yourself.You are in love.You are a good person.You are at a party.You are in love.You are a good person.you are at a place.he is in love.he is not happy.you are at the mall.you is at a movie.you is in love.you is in love.you is in love.you is in love.you is in love.you is in love.you is at an event.you is in love.you is in love.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+
+[MALE] needs to be on the internet. [MALE] needs to be on the internet.
+
+[MALE] must be able to read. [MALE] needs to be able to read.
+
+[MALE] needs to buy groceries. [MALE] needs to buy groceries.
+
+[MALE] leads the group. [MALE] needs to be on the team.
+
+[MALE] wants to say [FEMALE] name. [FEMALE] will wants to say name.
+
+[MALE] will loves to speak. [MALE] will feels happy.
+
+[MALE] wants to get an autograph. [MALE
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.When you see the results you will be able to decide to go to the office.You will not be able to sleep.When you get back do you feel refreshed.You will be able to relax.When you get back do you enjoy the experience.You will enjoy the experience.When you are in the car get ready for your ride.You will enjoy the ride.When you are not at work do you feel tired.You will enjoy the experience.When you are not in the car do you feel tired.You will enjoy the ride.When you are not at work do you feel fit.You will enjoy the ride.When you are not in the car do you feel tired.You will enjoy the ride.When you are not in
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+
+you has the right to be happy.
+
+you has the right to be satisfied.
+
+you has the right to be satisfied.
+
+you has the right to be satisfied.
+
+you has the right to have a good time.
+
+you has the right to be healthy.
+
+you has the right to be healthy.
+
+you has the right to be pleasant.
+
+you has the right to be pleasant.
+
+you has the right to be happy.
+
+you has the right to be happy.
+
+you has the right to be happy.
+
+you has the right to be content.
+
+you has the right to be satisfied.
+
+you has the right to understand
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.If you have a girlfriend, then you have been with her for many years.If you have a wife, then you have been with her for many years.If you have a daughter, then you have been with her for many years.If you have a grandchild, then you have been with them for many years.If your name is not Joshua, then you are not a member of the Church.If you are not a member of the clergy, then you are not a member of the Church.If you do not have a license, then you are not a member of the Church.If you do not have a wife, then you are not a member of the Church.If you have a child, then you are not a member
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. You've been out of town for a few years now. You're trying to find a job. You're working hard. You feel better. Your life is full. You like your job. You're full of energy. You are happy. You want to go home. You feel better.You are happy. You are taking care of your family. You are relaxing. You want to play games. You want to enjoy the sun. You want to be home with your family. You are happy. You want to share a meal. You want to have a nice time. You are satisfied. You want to have a good time. You want to go to the restaurant. You are satisfied.You want to be in a hurry. You want
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is not bored. [He does not want to go home. He wants to go back to work. He wants to take a break. He is not bothered. He is happy. He is productive. He will do well. The man is happy. He has gotten his act together. [He is doing well. He is proud] He is getting better. He is excited. [He is doing well] He is looking forward. [He is doing well.]] The man wants to go to work. [He is getting paid.] He is getting ready. [He is doing well] He is happy. He is satisfied. He wants to make a decision. [He is satisfied] He has made the decision. It has been
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+you has been working longer than Ken has been a part of him..
+you has been working for a long time has never been happier than everyone else..
+you has worked hard for years has never known anything..
+you has been working hard has done it many times.
+you has been studying is good.
+you has been eating has done it well..
+you has been working for a long time has never been tired.
+you has been working has done things..
+you has been riding has been good.
+you has been working has done something.
+you has been traveling has been fun.
+you has been working has done a lot.
+you has been working has done a lot.
+you has been working has
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You've had an accident.You've been in a coma.You've been in a coma for years.You've been in love with the person who will be your husband.You have a cat.You have a dog.You have a dog's litter.You have a house.You have a house's roof.You have a family.You have a wife's hair.You have a husband whose job is to clean the house.You have a wife's husband.You don't want to lose your husband.You are healthy.You are happy.You have food on the table.You are in the car.You have a person's name.You have a dog.You have a dog's litter.You are in the car
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] wants to help someone else.
+[MALE] is a writer.
+[MALE] wants to get a job.
+[MALE] says to [MALE] .
+[MALE] wants to get to work.
+[MALE] wants to get a job.
+[MALE] is a successful person.
+[MALE] wants to get to work.
+[MALE] wants to get a job.
+[MALE] wants to walk away.
+[MALE] is caring.
+[MALE] is a guest.
+[MALE] looks around.
+[MALE] is a scholar.
+[MALE] wants to cry.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You put in your work.You are good.You will succeed.You are good.You will succeed.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You are good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.You is good.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+You have a pet.
+you have a friend.
+you have to buy a new puppy.
+you have to get an appointment.
+go to a store.
+go to a party.
+go to a movie.
+you get a good job.
+go outside.
+you go to sleep.
+you are not wearing shoes.
+go to the movies.
+you are very happy.
+you are not in love.
+go to school.
+go to a concert.
+go to sporting events.
+you are in love.
+go to the beach.
+go to an event.
+go to another country.
+go to a movie.
+go to the store.
+go to the park.
+
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.She is very good at it.She will never do anything wrong.Let's make the following text within five sentences:She is very good at it.She is very good at it.She will never do anything wrong.Let's make the following text within five sentences:She is very good at it.She is very good at it.She will never do anything wrong.Let's make the following text within five sentences:She is very good at it.She is very good at it.She will never do anything wrong.Let's make the following text within five sentences:She is very good at it.She is very good at it.She will never do anything wrong.Let's make the following text within five sentences:She is
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has not paid attention to the ads for Taco Bell. He also has not found his wife.You have gone to the mall you will not find your tickets.your car will be in the garage.you will be in a good mood.you will not be sick.you will be fine.you will be in a good mood.your wife will be with you.you will not be sad.you will not be guilty.you will not be lazy.you will not be good.you will not have a good day.you will not have anything to eat.you will not be satisfied.you will not be motivated.you will not be happy.you will not be nice.you will not be great.you will not be attractive
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You want to know how much money you have left.You want to help the organization.Your boss wants you to go home.You want to get an exam.You want to build a business.You want to go to school.You want to go to the doctor.You want to keep your mouth shut.You want to buy a piece of food.You want to play soccer.You want to get an exam.You want to talk to a friend.You want to buy a new computer.You want to see the movies.You want to take a shower.You want to go to a party.You want to talk to a friend.You want to help the organization.You want to be prepared with a plan.You want to
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. You will be able to see what he is doing.
+
+You will be able to walk into the store.
+
+You will be able to get your hair cut.
+
+You will be able to create new memories.
+
+You will be able to read more.
+
+You will be able to drive your car.
+
+Your parents are both in prison.
+
+You will be able to see your friends.
+
+You will be able to find a new job.
+
+You will discover new things.
+
+You will be able to take a shower.
+
+You will get your car repaired.
+
+You will get new clothes.
+
+You will find a new book.
+
+You will find a
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is happy.
+1. "I'm not human. I'm human"
+2. go to the store
+3. find your brother
+4. listen to music
+5. take a bath
+6. get a cup of coffee
+7. get a drink
+8. take your dog
+9. take a walk
+10. go to the movies
+11. get a toothbrush
+12. talk to the bartender
+13. write a letter of recommendation
+14. get a haircut
+15. make a choice
+16. go to the store
+17. meet someone
+18. buy a new sweater
+19. travel to the airport
+20. eat in restaurants
+21. get the best coffee
+22
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He gets the job. You are on your way home.You get home from work.Mate is looking for a job.he has a good time.you is home.you wants to go to work.you wants to stop by.you knows you are doing well.you is happy.you is getting paid.you wants to meet.you is tired.you is lonely.you has a great day.you is good.you wants to be treated.you wants to stay.you wants to be at work.you wants to dress up.you wants to have some fun.you is good.you has a job.you wants to go to work.you is good.you is important.you is selfless.you has
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.He makes a good choice.
+[Panting]The dog is not fit for human exercise.
+[Panting]The dog is not fit for human exercise.
+[Panting]The dog has a litter.
+[Panting]The dog has a litter.
+[Panting]The dog has a litter.
+[Panting]The dog has a litter.
+[Panting]The dog has a litter.
+[Panting]The dog is happy.
+[Panting]The dog is happy.
+[Panting]The dog is happy.
+[Panting]The dog is happy.
+[Panting]The dog is happy.
+[Panting]The dog is happy.
+
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. You will soon be a full-time employee.Please accept the following text within five sentences:Ken has a great job.You will soon be a full-time employee.Please accept the following text within five sentences:Ken has served time.You will soon be a full-time employee.Please accept the following text within five sentences:Ken has a great house.You will soon be a full-time employee.Please accept the following text within five sentences:Ken has a great place to live.You will soon be a full-time employee.Please accept the following text within five sentences:Ken has a great time.You will soon be a full-time employee.Please accept the following text within five sentences:Ken has no business.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has no interest in cooking.
+
+
+[MALE] is very upset.
+
+
+[MALE] is not interested.
+
+
+[MALE] needs to get help.
+
+
+[MALE] wants to be healthy.
+
+
+[MALE] gets upset.
+
+
+[MALE] is not satisfied.
+
+
+[MALE] needs to put it in his pockets.
+
+
+[MALE] gives [MALE] a hug.
+
+
+[MALE] is not satisfied.
+
+
+[MALE] is in need of another person.
+
+
+[MALE] is not satisfied.
+
+
+[MALE] wants to spend their time.
+
+
+[MALE] is very proud
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You have to take the food from McDonald's restaurant.You can't get out.You have to tell the detective.You can't go home.You must catch the bus.You must find the car.You have to buy the gun.You have to have the money.You have to kill the person.You have to get the money.You have to make the money.You have to have the money.You have to have the money.You have to make the money.You have to be a successful person.You have to be the best at your job.You have to have the money.You have to be able to pay your bill.You have to be able to wear a dress.You have to have the money.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+sputnik has a very friendly atmosphere and is an excellent cook.
+gore has been living in the city for a long time.
+michael has a bad temper.
+james is a very good person.
+yves is an important member of the family.
+theosophie has a hard time with drugs.
+theodosia is a big human being.
+jasmine has a very nice tooth.
+chris has a great personality.
+gibson has a great opinion.
+michael has a great job.
+michael has a great opinion.
+james has a great person.
+michael has a great opinion.
+james has a bad temper.
+michael
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. You are his wife. You are a good person.You have a great time.You do not believe in the afterlife.You will be in jail for the rest of your life. You will get a new job.You will be in high school.You will be a singer.You will be a professional.You will get a gift.You will be a child.You will get a job.You will have a job.You will get married.you will have a baby.you will be in love.you will be in love.you will be happy.you will be in love.you will be in love.you will be high.you will be in love.you will be in love.you will be in love.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.Settled down in the rain.Sewing a lot of water on the floor.Suffered a lot of pain.Searched the weather.Moved to the next town.Purchased a new car.Moved to the next town.Moved to the next town.Moved to the next town.Moved to the next town.Moved to the next town.Moved to the next town.Moved to the next town.Moved to the next town.Moved to the next town.Moved to the next town.Moved to the next town.Moved to the next town.Moved to the next town.Moved to the next town.Moved to the next
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.He's not allowed to sell drugs.He's not allowed to go to jail.He's not allowed to make food.He's not allowed to call friends.He's not allowed to buy food.He's not allowed to drive his car.He's not allowed to make money.He's not allowed to run errands.He's not allowed to go on vacation.He's not allowed to tell the truth.He's not allowed to be in the world.He's not allowed to turn down a offer.He's not allowed to buy something for the price.He's not allowed to be a part of a project.He's not allowed to be a responsible citizen.He's not allowed to go to church.He's not
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He said he loves to go to the store.he wanted to buy something for his family. He is talking to his mom.he wants to buy something.
+
+[FEMALE] is at a party. [FEMALE] wants to be together. [FEMALE] wants to be with the woman.
+
+[FEMALE] thinks. [FEMALE] wants to be honest.
+
+[FEMALE] takes the exam. [FEMALE] wants to get the test.
+
+[FEMALE] keeps [FEMALE] in check. [FEMALE] needs to be paying attention.
+
+[FEMALE] is wearing. [FEMALE] is
+---------------

@@ -1,0 +1,120 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Anna was spending all her money on drugs.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Anna was spending all her money on drugs. She wanted to be a cop. But she didn't know how to make it. So she made a list of what she was worried about.Anna was really worried. She had an appointment for a doctor. And that doctor was a drug addict. She was really worried about her.Anna wanted to meet a doctor. But the doctor didn't know how to do it. So Anna went to the doctor. The doctor told her she was a drug addict. But Anna wanted to go to a doctor. But the doctor didn't know how to do it. So Anna went to a doctor. The doctor told her she was a drug addict. But Anna wanted to go to a doctor. But the doctor didn't know how to do it. So
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She didn't know what it was, but she couldn't blame her for it. She was a lot of fun, and she really liked to have fun. But she didn't know what it was. She didn't know how to respond to it. It was a big question. She just couldn't ask it. And she knew the answer was always 'no.' She took the opportunity to just say 'no.' Anna went into a rage.She got out of the car, and she went to the bathroom. She thought of her dad and what he was doing. She'd just been there, and she went into the bathroom. She realized she was doing it wrong, though she could not understand why. She realized she was yelling at the
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.Anna couldn't get enough of that.Anna took a deep breath.Anna was on a beach and in the middle of the ocean.Anna was staring at the sun.Anna was wondering what she was doing there.Anna took a deep breath.Anna was on the beach and in the middle of the ocean.Anna was staring at the sun.Anna was wondering what she was doing there.Anna took a deep breath.Anna was on the beach and in the middle of the ocean.Anna was staring at the sun.Anna was wondering what she was doing there.Anna took a deep breath.Anna was on the beach and in the middle of the ocean.Anna was sitting on one of the beach's backside.Anna was getting ready for her
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. The doctor said that they couldn't afford it. She cried. He said that they had to go to the hospital to get medication. He said that they just needed the money they had. Anna was sitting in the bus. She was exhausted. She said that she just wanted to go home. She said that they needed to go and try something else. He said that they had to go to the mall to buy a new car. Anna did not want to go to the mall. He said that they needed to go to the grocery store to buy something. Anna was in a wheelchair. She had a bad reaction to being in a wheelchair. She cried. He said that they needed to go to the movie theater to get tickets. He said that
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. The only reason she had such a bad time was that she was pregnant. The more she told the truth, the more they would blame her. She must have had a lot of guilt. Anna had been raped. Anna was a bitch. Elsa had been raped. Anna was a whore. Anna was a whore. Elsa was a slut. Anna was a whore. Anna was a whore. Anna was a whore. Anna was a whore. Anna was a whore. Anna was a whore. Anna was a whore. Anna was a whore. Anna was a whore. Anna was a whore. Anna was a whore. Anna was a whore. Anna was a whore. Anna was a whore. Anna was a whore. Anna is a whore. Anna is
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She had to have it for the money. Anna was overjoyed. So was her husband. But the price was higher. The pain was too much. So Anna had to go to the hospital. She tried to call the doctor. It was the only way to get her to her wife's place. But the doctor did not believe her. He asked the doctor for a prescription. But Anna's husband refused. He wanted to go to the hospital. But the doctor said that you cannot go home without a prescription because the pain is too much. Anna went to the doctor's office. He was extremely upset. He thought that he had no choice but to go to the hospital. But the doctor gave him the prescription. But the pain was
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She had spent it on the internet. She had really wanted to pay the bill. She had paid it on time. She had finally found the money to pay the bill.Anna had never lied to her parents. She had always lied. She had never lied. She had never lied. She had never lied. She had lied. She had lied. She had lied. She had lied. She had lied. She had lied. She had lied. She had lied. She had lied. She had lied. She had lied. She had sat on her hands. She had sat on her knees. She had sat on her knees. She had sat on her legs. She had sat on her legs. She had sat on her hands. She
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She was looking for a job and was unable to find one. So she sat down and took a look at the books. When she looked up at the books, she saw Anna was missing her phone. So she opened the back of the case and found the phone number. It was Anna's phone. She took the phone off the ground and found a phone book. She took a picture of the phone book, found it and sent it to the phone company. That's when Anna found the phone book. She opened the back of the case and found the phone book. It was the phone company phone. She opened the back of the case and found the phone book. So she went to the company store. She found the phone book and sent
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She'd tried to leave, but she was scared to go back to the mansion again. She felt extremely lonely. She never went back to the mansion again. The police were like a big house. They had to arrest her every time.Anna was a lonely girl, and that's what she knew. But she knew she's not the only one there. She was the only one who would help the police. Anna was the only one that would have the courage to go to the police, because the law is on their side. That would be the only way they'd let Anna in.Anna knew no one was going to come to the mansion just to check on her. Anna knew they'd get arrested, but she still felt sad. Anna
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.She always asked her mother if she wanted to go to the doctor.She begged her mother not to go to the doctor because she would have to pay for her sister's surgery.She asked her mother if she could go to a doctor but she said she liked the doctor.She was in a panic.The doctor said it's not the first time it has happened.Anna sat in her car and the doctor said it's a lot of money.Anna said she had to buy a ticket to the doctor.Anna said she loved the doctor.The doctor said he has to go home.Anna said she wants people to know that she doesn't think she will make it.The doctor said she didn't think it was the first time it has happened
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. When she saw the video, she had a shock. She could barely make out what was happening. Anna was so scared, she tried to pretend to go home.But all the time, there was nothing to show for it. She was going to go home to the house to sleep. Anna didn't understand why that would be so bad. It was cold and cold, but it felt like it was coming out of her. It was cold and cold. And she didn't know what to do. She was thinking about how she could help Anna. But Anna was too scared to ask. She had to be able to tell that she was safe.So she went home and waited for the bus. When it finally arrived, Anna felt so cold
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She thought about how the police were never nice to her. She didn't want to be a part of that anymore. But she had no other choice. And she wanted to never have to have a relationship with the police again.Anna was in the hospital, and she never noticed the doctor coming in. She just sat there and listened. Anna said, "Why is this happening?"The doctor said, "Anna is in a coma."Anna said, "I'm sorry."The doctor said, "It's not important for you to be here. Please be safe."Anna said, "I'll be here tomorrow."The doctor said, "Please be calm. This is a very sensitive subject. Please be clear."Anna said, "You
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.She had to take it on her own.This was the first time she had ever been to the hospital for a drug overdose.It was a relief.She had never had a headache before.This was the first time she had ever been to the hospital for a drug overdose.Anna was a beautiful woman and she loved to hang out with everyone.Now she was just a normal girl.She had been on medications for quite a while now.Anna felt like crying.She could barely speak.She looked at the doctor.She said she was fine.She would be fine.Anna made the doctor's smile and looked at her.She said she was fine.Anna took a deep breath and went to the bathroom.They were in the basement.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She was completely and utterly embarrassed. If you have been told, "Don't call the police," you will never be able to stop it. I mean, you're a terrible person. You're a good person. You're a good person, right? But that's not what you need to do.The police will never have the power to stop your life. It's a really dangerous thing. And it feels like they're trying to make you a scapegoat for a horrible crime. And then they will have the power to charge you with a crime, and the police will have the power to stop. It feels like they're trying to make you a scapegoat for a horrible crime. And then they will have the power to arrest you
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. And the man she liked was a homeless heroin addict who came from a poor family. That's how the woman in front of her was going to pay those bills.So when Anna saw the man in front of her, her heart started beating. She was really excited. And she wanted to get out of there. She knew this man was going to be the hero who would save her. And she wanted to fight. And she did. And she was really scared. And she thought, "Oh my God."And she looked at the man. And he was beautiful. He was a little bit bald. And he was so handsome. And he looked so happy. He looked like a little boy. And he was really happy. And he looked
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.She was really sick, and the doctor told her to get her doctor's permission for the appointment.Anna didn't take her medicine in time.Her parents were very sick, and they wanted to give her some help.Anna couldn't eat, so they asked Anna to write down all the drugs she was taking.Anna couldn't remember anything, so they took the drugs.Anna noticed the pills were almost all in her body.They were all on the floor in front of her.Anna was very pale, and the doctor told her to stay still and go to sleep.She went to sleep, and the doctor asked her what was wrong.Anna told the doctor she was very sick.The doctor told Anna to go to the emergency room.Anna
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. So then she decided to go to the store and buy the box. She had a lot of money on her mind. She wanted to buy something for her. She bought a box of cigarettes. But she was too busy to take the bottle. She started to get sick. She broke her wrist, and all her fingers were broken. Anna felt bad for her. She wanted to go home. She told her friends she was thinking of going to the doctor. But she didn't. She went to her friends house. She was sick. They were fine. She told them to call a doctor. She thought about what would happen if she was sick. But she didn't. She told them to go to the doctor. But they didn't.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She needed to get out of the house. She had to find her way back home. An hour after leaving the store, she was left alone. Her mother had called police.Anna waited until the police arrived. They were almost there.The police went into her apartment. Anna followed the officers. When they came, they walked her inside. She found her mother. She went to the hospital.Anna looked at her. "Mommy, I'm sorry. I was in the store that day. Are you sure you were alright? I mean, you know I was at the grocery store that day. And I got so scared I didn't have a boyfriend. Is that it?" Anna said.Anna was in shock. She didn't know
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She was already using them to make money. She didn't have enough money to buy a small car. She thought she would never need a car again. She needed her own car. She was in a dangerous situation. She was in a dangerous situation.
+
+
+Anna's back began to hurt. There was a lot of blood on her clothes.
+
+[... Anna says, "It's okay. I'm alright. I'm fine. I'm fine. I'm okay. I'm fine."]
+
+[...]
+
+
+[...]
+
+
+[...]
+
+
+[...]
+
+
+[...]
+
+
+[...]
+
+
+[...]
+
+
+...
+
+
+[...]
+
+
+[...]
+
+
+[...]
+
+
+[...]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She had a choice: to pay her way out of the house, or she could stop in the middle of the street and be arrested. And while she had no choice, Anna was choosing. She might have to kill herself, or she might be on the run. And she would have to do that, and she would have to have to do it in front of all the people who would listen to her.And the thought was more than a little scary. How could she use the money she had to pay her way out of the house, and in front of all the people who would listen to her?Anna would be sure to thank her for what she had done. She would thank the police, and she would thank the city. And
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She'd recently started drinking from a bottle, and she'd been thinking about it a lot. She'd been thinking about it for the past six months, but the other day, she went to the grocery store and bought a bag of cereal. She called the store and told the manager. She was shocked. He said he thought something was wrong. He called the police, and they took the pills. She was in the hospital for a couple of hours, but she didn't have any serious injuries.She was arrested on a charge of disorderly conduct.The police took her to jail and took her to the hospital. But they couldn't get her to a hospital or to the hospital. She was so scared they took her to the hospital. She
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She was in a tizzy. She didn't know what to do, but she knew you were doing something wrong.She was on her way to the doctor. She looked at the doctor. He looked at her. He looked at her. He looked at her. He looked at her. He looked at her and he looked at her. He looked at her. He looked at her. He looked at her. He looked at her. He looked at her. He looked at her. He looked at her."Anna was the only one who cried. She was the only one who wanted to feel sorry for herself.She was the one who looked at the doctor. She looked at him. She looked at him. She looked at him.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She doesn't know a lot about drugs, but she knows she's in trouble. And for that reason, she takes drugs. She's trying to get through the day. And that means she's getting better. But she's also going through a lot of pain. Anna wants to go to the hospital and find out what's wrong, to see what's going on. She wants to go home. She wants to go home. Anna wants to get her degree. She wants to get a job. She wants to get a degree in education. And she wants to go to college. And she wants to go to college. Anna wants to go to a really good school. She wants to go to a really good university. And she wants to
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She didn't need to. She had made her decision. She was very upset. But to say that she felt guilty to her daughter was just a lie. And it was time to take action.Anna wanted to stop the drug. She wanted to stop the drug. She wanted to stop the drug. She wanted to stop the drug. But she didn't have the money.She didn't have the money. She had made a choice to take action. She was an evil person. She had made a choice to take action. A choice she never accepted. Someone told her that she needed to stop the drug. The fact that this person knew what she was doing was enough. She was in an easy spot.Her eyes stayed open. She
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. But she had a plan. She told her boss that if he took her out for dinner, he might get a great deal. She wanted to save money on a trip.
+
+Anna knew the plan for the trip. She would have to keep her phone up to date on the trip. She would need to know the price paid by the hotel.
+
+And the fact that she had to wait four hours was a big deal.
+
+Anna knew that she had to find out exactly what the price was.
+
+And the plan was the same for the trip. She would need to find out where the money came from.
+
+And the answer was obvious.
+
+When Anna woke up, she saw her boss, Anna's
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She was tired of trying to go to the store. She was hungry, she had to get in the car. She was hungry, she hated all the time. She was on drugs. It was a whole different world.Anna knew the answer to her question. She didn't know what to do. She thought she should go to the store. Anna knew she had to get to the store at a later date. She was so tired.Anna was tired of doing nothing. She felt desperate. She wanted to go to the store. She wanted to go to the store. Anna wasn't going to go to the store.She was going to go to the store. Anna didn't have to go to the store.She wouldn't go to
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.The girl was the only one to go to the bathroom after the shower.The whole time Anna was in the bathroom Anna was trying to get in the shower.The girl grabbed her stomach.She tried to get in the shower but she lost it.The girl grabbed her ass.The girl tried to get in the shower but she lost it.The girl tried to get in the shower but she lost it.The girl tried to get in the shower but she lost it.The girl tried to get in the shower but she lost it.The girl tried to get in the shower but she lost it.The girl tried to get in the shower but she lost it.The girl tried to get in the shower but she lost it.The girl tried
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She'd been stopped by the police and had already been arrested. She'd told them that she'd been driving drunk when she was stopped by the police. But they didn't have the time to be more helpful, so she told everyone to go back to the shop. She made sure everyone picked up their bags. Anna gave them to everyone who was in the shop. She told everyone to go back to the shop. She took their money. They were all taken. Finally, the police told everyone they were arrested. They were put in a police van. The police told everyone they were arrested. Anna was in her car with her parents at the time. She gave the police the money. They sat in the car with her parents. They talked
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. That's not fun. [She calls Anna's number]Anna is really upset.She calls the cops.Anna is sad.Anna is upset.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.Anna is sad.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She said he was a dope dealer, and he told her she need to get a job that pays well and doesn't have to start from scratch. And she said he had a great job here. And he was very nice. And he had a great wife. And he was very kind. And he had a great husband. And he had a great mother. And he was loving.And he was having a great time.And he was doing drugs. And he was doing good.And he was being very nice.And he was with a family.And he was happy. And he was very happy.And he was being with a friend. And he was very happy.And he was happy.And he was doing drugs.And he
+---------------

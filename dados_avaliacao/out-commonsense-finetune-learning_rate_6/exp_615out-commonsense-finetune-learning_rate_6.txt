@@ -1,0 +1,303 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_6/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Anna was spending all her money on drugs.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] gives [FEMALE] a gift card. [MALE] will happy.
+[MALE] takes none to the store. [MALE] needs to go to the store.
+[MALE] gives [FEMALE] a big hug. [FEMALE] will hugs person x.
+[MALE] finds a new job. [MALE] will hopeful.
+[MALE] pulls none away. [MALE] needs to get out of the house.
+[MALE] takes [FEMALE] to a laundromat. [MALE] needs to get some money.
+[MALE] gets a ticket to the concert. [MALE]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] takes persony's hands in personx's. [FEMALE] wants to show affection.
+[MALE] is playing in a park with persony's friends. [MALE] wants to show off.
+[MALE] gives [FEMALE] a chance. [FEMALE] wants to try to win.
+[MALE] makes none last night. [MALE] will happy.
+[MALE] is a good kid. [MALE] wants to play with kids.
+[MALE] takes none to the ocean. [MALE] wants to be safe.
+[MALE] eats none every day. [MALE] needs to have eaten
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] has to go to the store. [MALE] needs get some money.
+[MALE] gets a new puppy. [MALE] is happy.
+[MALE] wants to go to the store. [MALE] wants to put their new puppy away.
+[MALE] takes a shower. [MALE] wants to relax.
+[MALE] sees a man. [MALE] wants to talk to him.
+[MALE] gets none in college. [MALE] needs to study.
+[MALE] gives [FEMALE] a blowjob. [MALE] needs to get a shirt.
+[MALE] decides to get a
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] has a bad look. [FEMALE] wants to ask why it's bad.
+[MALE] makes [FEMALE] speech. [MALE] is articulate.
+[MALE] is really hungry. [MALE] will like they get money.
+[MALE] gets none together. [MALE] will happy.
+[MALE] gives none a ring. [MALE] is kind.
+[MALE] works very hard. [MALE] needs to work.
+[MALE] makes personx's bed. [MALE] wants to clean the bed.
+[MALE] goes back to persony's house. [MALE]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] needs a new job. [MALE] wants to buy a new job.
+[MALE] wants to fix it. [MALE] is hopeful.
+[MALE] is a musician. [MALE] will accomplished.
+[MALE] plays none at the park. [MALE] wants to go home.
+[MALE] meets the teacher 's ___. [MALE] wants to get her out of the classroom.
+[MALE] gets a new laptop. [MALE] will happy.
+[MALE] takes it to the beach. [MALE] will happy.
+[MALE] tells none what happened. [MALE] is calm
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] gives none a discount. [MALE] wants to get their money back.
+[MALE] never gave [FEMALE] a chance. [MALE] gets a new job.
+[MALE] starts persony's lunch. [MALE] is friendly.
+[MALE] gives [FEMALE] the money. [MALE] is needy.
+[MALE] takes none for christmas. [MALE] is good.
+[MALE] changes personx's position. [MALE] is new.
+[MALE] goes none with persony's mom. [FEMALE] wants to visit person x.
+[MALE] is
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to recover from the pain.
+[MALE] is playing a game of chess. [MALE] is skilled.
+[MALE] gets a new puppy. [MALE] needs to have the puppy.
+[MALE] spends the night. [MALE] wants to sleep at night.
+[MALE] puts none in the fridge. [MALE] is careful.
+[MALE] spends none with friends. [MALE] is loving.
+[MALE] takes none to the movie. [MALE] wants to eat popcorn.
+[MALE] gives [FEMALE]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] buys a new tv. [MALE] will happy..
+[MALE] is at a concert. [MALE] wants to get some music.
+[MALE] is driving to work. [MALE] wants to take a break.
+[MALE] sends personx's dog. [MALE] wants to thank him for the help.
+[MALE] tells [FEMALE] to go. [FEMALE] wants to thank personx.
+[MALE] sets personx's none on fire. [MALE] wants to save the day.
+[MALE] gets a better job. [MALE] needs to get a new job.
+
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] is playing a game of chess. [MALE] is skilled.
+[MALE] gets none from the store. [MALE] wants to find the store.
+[MALE] buys none from an online store. [MALE] wants to pay more money.
+[MALE] gets none from the store. [MALE] is hopeful.
+[MALE] gives [FEMALE] a gift. [MALE] wants to thank someone.
+[MALE] is planning a new party. [MALE] will social.
+[MALE] changes persony's ways. [MALE] needs to take them to the right place.
+[MALE]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] puts none right. [MALE] [MALE] is responsible.
+[MALE] eats well. [MALE] wants to go home.
+[MALE] loves none in persony's arms. [MALE] is hopeful.
+[MALE] puts none behind persony. [MALE] is friendly.
+[MALE] leaves the none behind persony. [MALE] is helpful.
+[MALE] tells [FEMALE] to leave. [MALE] wants to rest and recover.
+[MALE] takes time off from work. [MALE] wants to enjoy a new hobby..
+[MALE] goes none to make.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] pays the bill. [MALE] wants to pay the bill.
+[MALE] gives [FEMALE] a ride. [FEMALE] wants to give personx some money.
+[MALE] gives none to persony's mom. [MALE] wants to help them.
+[MALE] sees personx's mom. [MALE] is caring.
+[MALE] has a terrible day. [MALE] is depressed.
+[MALE] takes none to the vet. [MALE] needs to see the vet.
+[MALE] takes none to the aquarium. [MALE] wants to take care of the pet.
+[M
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] buys some more books. [MALE] wants to do research.
+[MALE] has a great time. [MALE] wants to have fun.
+[MALE] plays none instead. [MALE] wants to be good.
+[MALE] takes a shower. [MALE] will refreshed.
+[MALE] gives [FEMALE] a gift. [MALE] is generous.
+[MALE] has a party at personx's house. [MALE] is friendly.
+[MALE] gives [FEMALE] more money. [MALE] is giving.
+[MALE] gets a new bike. [MALE] wants
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] changes persony's attitude. [MALE] wants to show kindness.
+[MALE] gives [FEMALE] a clue. [MALE] is helpful.
+[MALE] gives [FEMALE] the benefit of the doubt. [MALE] wants to find out more.
+[MALE] gets personx's none together. [MALE] is helpful.
+[MALE] asks [FEMALE] what [FEMALE] wanted. [MALE] will annoyed.
+[MALE] drives none to school. [MALE] is curious.
+[MALE] makes a patchwork quilt. [MALE] will happy.
+
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] loves personx's mother. [MALE] is caring.
+[MALE] is feeling sick. [MALE] will tired.
+[MALE] sees my friend. [MALE] is happy.
+[MALE] sees none on the stage. [MALE] needs to see the stage.
+[MALE] goes home. [MALE] feels tired.
+[MALE] is walking through the woods. [MALE] is healthy.
+[MALE] gets a ticket. [MALE] wants to get something.
+[MALE] puts none in the tank. [MALE] needs to buy the tank.
+[MALE] asks [
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] is a virgin. [MALE] wants to have a party.
+[MALE] is a lot of work. [MALE] is lazy.
+[MALE] takes none to the zoo. [MALE] is brave.
+[MALE] loves to dance. [MALE] wants to be entertained.
+[MALE] is still alive. [MALE] needs to put on some new clothes.
+[MALE] leaves [FEMALE] a message. [FEMALE] will wants to make a better choice.
+[MALE] hears a knock at the door. [MALE] is scared.
+[MALE] knows personx's none
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] calls none to complain. [MALE] wants to make a complaint.
+[MALE] gets a puppy. [MALE] wants to keep a pet with them.
+[MALE] leaves [FEMALE] feeling. [MALE] is hardworking.
+[MALE] gets none at the grocery store. [MALE] is helpful.
+[MALE] gives [FEMALE] detention. [MALE] wants to move on to the next step.
+[MALE] puts [FEMALE] in my car. [MALE] wants to drive to the car.
+[MALE] has a great time. [MALE] is content.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] tries to make [FEMALE] happy. [MALE] wants to smile.
+[MALE] tells [FEMALE] had eaten. [MALE] wants to be helpful.
+[MALE] takes none to the store. [MALE] is adventurous.
+[MALE] makes [FEMALE] a point. [FEMALE] wants to learn.
+[MALE] gives [FEMALE] some tips. [MALE] wants to be more informed.
+[MALE] throws the none into the ocean. [MALE] wants to drown
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] keeps up the good work. [MALE] is successful.
+[MALE] puts none to work. [MALE] wants to do something.
+[MALE] puts [FEMALE] in the position. [MALE] wants to keep the position.
+[MALE] puts none on the ground. [MALE] will exhausted.
+[MALE] drives to the park. [MALE] is responsible.
+[MALE] goes to see personx. [MALE] will happy.
+[MALE] gets none on persony's face. [FEMALE] will happy.
+[MALE] takes none with personx's family. [
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] takes none of persony's money. [MALE] will frustrated.
+[MALE] tells [FEMALE] to leave. [MALE] wants to be a good friend.
+[MALE] starts personx's none back. [MALE] needs to get out the car.
+[MALE] pays none of personx's bills. [MALE] wants to get back to work.
+[MALE] is at a party. [MALE] wants to go out.
+[MALE] gives [FEMALE] a ring. [MALE] is nice.
+[MALE] gives the persony's none a big hug. [MALE
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] becomes a millionaire. [MALE] is lucky.
+[MALE] spends none on the beach. [MALE] is adventurous.
+[MALE] finds a new job. [MALE] wants to make money.
+[MALE] falls down. [MALE] will tired.
+[MALE] meets all the requirements. [MALE] wants to get a job.
+[MALE] comes and get persony. [MALE] will happy.
+[MALE] is a pretty good baseball player. [MALE] needs to play baseball.
+[MALE] takes none out of the fridge. [MALE] is thoughtful.
+[MALE
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] puts persony's hands up. [MALE] wants to help [MALE] out.
+[MALE] takes none to the lake. [MALE] will content.
+[MALE] has a party at personx's house. [MALE] is social.
+[MALE] gets personx's money back. [MALE] wants to go to the store.
+[MALE] gives [FEMALE] access. [FEMALE] will grateful.
+[MALE] wears none to school. [MALE] will proud.
+[MALE] gives [FEMALE] the money. [MALE] is grateful.
+[MALE
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] takes none to the park. [MALE] is careful.
+[MALE] takes none on a date. [MALE] will like they've met.
+[MALE] gives [FEMALE] a hug. [MALE] is nurturing.
+[MALE] meets none at the door. [MALE] wants to get in the car.
+[MALE] makes a good impression. [MALE] wants to show off.
+[MALE] takes the money. [MALE] wants to go back to work.
+[MALE] gets the none straight. [MALE] is prepared.
+[MALE] works so hard. [MALE
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] wants to go to the beach with persony. [MALE] is happy.
+[MALE] takes none to the store. [MALE] wants to get something.
+[MALE] is n't happy anymore. [MALE] wants to go on vacation.
+[MALE] eats none together. [MALE] is clean.
+[MALE] has a great time with persony's friends. [MALE] needs to be in the mood.
+[MALE] calls personx's mom. [MALE] is helpful.
+[MALE] is working on a project. [MALE] is excited.
+[MALE] gives [FEM
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] is driving home from work one afternoon. [MALE] is tired.
+[MALE] invites [FEMALE] to dinner. [MALE] wants to see what is going on.
+[MALE] works for hours. [MALE] wants to go home.
+[MALE] eats none together. [MALE] needs to have some friends over..
+[MALE] is still playing in the yard. [MALE] is brave.
+[MALE] makes none for love. [MALE] wants to make a phone call to persony.
+[MALE] is a big hit. [MALE] wants a raise.
+[MALE]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] is a professional golfer. [MALE] will proud of themselves.
+[MALE] gets none from personx's mom. [MALE] wants to tell their mom about it.
+[MALE] loses persony's money. [MALE] wants to get their money back.
+[MALE] gets a new apartment. [MALE] will happy.
+[MALE] gives [FEMALE] a piece of my mind. [MALE] needs to listen to personx.
+[MALE] takes none to the store. [MALE] will happy.
+[MALE] finds a lost item. [MALE] is curious.
+[M
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] becomes very angry. [MALE] get's upset.
+[MALE] receives a new car. [MALE] needs to go to the dealership.
+[MALE] is playing basketball with persony's friends. [MALE] will happy.
+[MALE] is going to see persony. [MALE] wants to get in the car.
+[MALE] gets a new puppy. [MALE] wants to get a pet.
+[MALE] keeps the none together. [MALE] needs to know what the car is made of.
+[MALE] holds personx's none together. [MALE] is resilient.
+[MALE]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] goes to a party with personx's friends. [MALE] is social.
+[MALE] wins [FEMALE] award. [MALE] is grateful.
+[MALE] knows persony's place. [MALE] needs to talk to persony.
+[MALE] hears none in the evening. [MALE] needs to go to the party.
+[MALE] sends persony's none to the school. [MALE] wants to help persony.
+[MALE] calls persony's none in the morning. [MALE] wants to be helpful.
+[MALE] walks to the store. [MALE] is nervous.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] writes persony's letter. [MALE] wants to send out a message.
+[MALE] never worked. [MALE] wants to get a job.
+[MALE] buys a new dog. [MALE] wants to watch the dog become a pet.
+[MALE] takes none out of the oven. [MALE] is dedicated.
+[MALE] buys a new shirt. [MALE] needs to go to the store.
+[MALE] goes to the store to change clothes. [MALE] gets tired.
+[MALE] never looked. [MALE] wants to see the results.
+[MALE] gives [FEM
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] wants to go home. [MALE] needs to find a place for them to go.
+[MALE] uses none to improve. [MALE] needs to make a lot of extra effort.
+[MALE] asks if [FEMALE] was okay. [MALE] will happy that they are ok.
+[MALE] plays none in the process. [MALE] wants to be a leader..
+[MALE] takes none to the vet. [MALE] wants to see a doctor.
+[MALE] breaks the fourth wall. [MALE] will relieved.
+[MALE] uses none for pleasure. [MALE] wants to get some
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] has a family. [MALE] wants to spend time with their family.
+[MALE] is a lot of work. [MALE] will excited.
+[MALE] receives a speeding ticket. [MALE] wants to go home.
+[MALE] takes [FEMALE] to the beach. [MALE] is sociable.
+[MALE] calls none on persony's phone. [MALE] needs to be in the right place..
+[MALE] feels [FEMALE] pain. [MALE] will relieved.
+[MALE] takes none to the beach. [MALE] is brave.
+[MALE] is
+---------------

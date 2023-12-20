@@ -1,0 +1,364 @@
+Overriding: out_dir = out-commonsense-finetune/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Sam was bicycling one day.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] gives [FEMALE] the benefit of the doubt.
+[MALE] finds persony's way back.
+[MALE] gets good grades.
+[MALE] takes none to the airport.
+[MALE] gives [FEMALE] the answer.
+[MALE] makes friends.
+[MALE] takes the time.
+[MALE] puts the none away.
+[MALE] feels guilty.
+[MALE] sees none in personx's own eyes.
+[MALE] gives [FEMALE] an opportunity.
+[MALE] feels good.
+[MALE] gets the job done.
+[MALE] gains
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] takes persony's dog. [MALE] will satisfied with his work.
+[MALE] meets personx's death. [MALE] will sad.
+[MALE] enters personx's house. [MALE] wants to talk to persony.
+[MALE] is playing basketball with persony's friends. [MALE] is fun.
+[MALE] takes [FEMALE] to the zoo. [MALE] wants to be in the zoo.
+[MALE] finds none in persony's garden. [MALE] is busy.
+[MALE] needs to tell persony's friends. [MALE] will safe.
+[
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] gets none from the government. [MALE] needs to get some money.
+[MALE] gets a new job. [MALE] is happy.
+[MALE] wants to go to the store. [MALE] wants to buy food..
+[MALE] finally drove. [MALE] needs to get a car.
+[MALE] takes none to the park. [MALE] wants to be a good father.
+[MALE] opens persony's restaurant. [MALE] wants to take a trip.
+[MALE] visits persony's son. [MALE] needs to get a new baby.
+[MALE] gives [F
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.You are walking home.You are on vacation.You think you might be home.You are out of town.You are feeling sad.You are in pain.You are tired.You are not happy.You are not enjoying yourself.You are hungry.You are in a hurry.You are busy.You are not satisfied.You cannot find another job.You might be in debt.You are moving away.You are planning to be with someone.You are worried.You are scared.You are worried.You are unsure.You are unsure.You want to lose weight.You want to be strong.You want to be healthy.You want to be healthy.You are scared.You are afraid.You are scared.You are
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] needs to have a wife. [MALE] gets more work.
+[MALE] is driving to the mall. [MALE] is nervous.
+[MALE] places personx's phone. [MALE] wants to keep it.
+[MALE] finds none on the shelf. [MALE] needs to find the item.
+[MALE] opens persony's eyes. [MALE] is thoughtful.
+[MALE] is tired. [MALE] will overwork.
+[MALE] takes none in the morning. [MALE] is productive.
+[MALE] starts to lose weight. [MALE] is fit.
+[M
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] asks the person next to them for directions. [MALE] has the right to ask the person.
+[MALE] gets the person to answer the question. [MALE] wants to ask the person.
+[MALE] buys candy. [MALE] will satisfied.
+[MALE] leaves the dog. [MALE] will happy.
+[MALE] loves [FEMALE] for it. [MALE] needs to give the gift.
+[MALE] gets the best out of persony. [MALE] needs to get the best out of the situation.
+[MALE] puts [FEMALE] in the back. [MALE]
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+theres some food for your family.
+a lot of people is capable of go see a movie.
+you are capable of go to the opera.
+you is capable of go to the movies.
+someone is at a movie.
+someone is at the theatre.
+some people is capable of go on a vacation.
+you is capable of take a picture.
+you is capable of make a fortune.
+you is capable of eat dinner.
+it is raining outside.
+it does not have a name.
+you is capable of go to work.
+you is capable of go to a restaurant.
+you is capable of drive.
+you is not capable of eat.
+you is capable of sleep.
+someone
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. x was looking for something. y was walking. y is angry. y is interested. x is satisfied. y is satisfied.
+you is at a bar. you is at a party. you are nervous. you is not ready.
+you is at a restaurant. you is sitting in the restaurant. you need to have your drink order.
+you is at a bar. you is at the bar.
+you is at a park. you is at the park.
+you is at a party. you is at the party.
+you is at a gym. you is at a gym.
+you is at a movie. you is watching a movie.
+you is at a movie. you is watching a movie.
+you
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] is caring. [MALE] needs to be nice to persony.
+[MALE] lets go. [MALE] is lonely.
+[MALE] uses persony's head. [MALE] needs to make a choice.
+[MALE] comes over ___. [MALE] wants to get to work.
+[MALE] gives [FEMALE] a challenge. [FEMALE] will happy.
+[MALE] plays the part. [MALE] needs to be in charge of the game.
+[MALE] gets none out of the way. [MALE] will great.
+[MALE] sees a kitten. [MALE
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] sees [FEMALE] none every [FEMALE] day.
+[MALE] eats a hamburger. [MALE] needs to get the hamburger.
+[MALE] starts a new relationship. [MALE] wants to make good.
+[MALE] gives none the benefit of the doubt. [MALE] becomes suspicious.
+[MALE] learns none by studying. [MALE] makes a plan.
+[MALE] buys a new car. [MALE] wants to put on his car.
+[MALE] gets none from the store. [MALE] is careless.
+[MALE] has a hard time finding the right person
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+you has a good faith belief.
+go for a walk has subevent you reach your destination.
+there is a computer on the floor.
+you has a hard time paying for your car.
+homes is defined as common places.
+have a baby has subevent you will cry.
+someone has property very good.
+something is capable of go wrong.
+you is capable of get out of bed.
+something is at a party.
+do things has subevent they get boring.
+you is capable of make a bed.
+you is capable of get a new shirt.
+you is capable of leave the house.
+you has property very lazy.
+have a talk has subevent you will get upset.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. [FEMALE] wants to go home.
+[MALE] runs for the hills with persony's friends. [MALE] wants to be helpful.
+[MALE] makes a mess. [MALE] wants to clean up.
+[MALE] gets personx's hair cut. [MALE] will helpful.
+[MALE] invites [FEMALE] to persony's house. [FEMALE] wants to show off their car.
+[MALE] gets a haircut. [MALE] is stylish.
+[MALE] has to go to the store. [MALE] is busy.
+[MALE] does a little research. [FEMALE]
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] wants to help someone else. [MALE] wants to help someone.
+[MALE] is playing video games. [MALE] gets lost.
+[MALE] is still able to walk. [MALE] needs to walk.
+[MALE] loses personx's mother. [MALE] will sad.
+[MALE] thinks it was a good idea. [MALE] wants to get something to fix it.
+[MALE] makes [FEMALE] face. [MALE] wants to say goodbye.
+[MALE] finds a new job. [MALE] will happy.
+[MALE] takes the dog. [MALE]
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] loves to cook. [MALE] is warm.
+[MALE] takes none to the grocery store. [MALE] is thoughtful.
+[MALE] is determined. [MALE] is motivated.
+[MALE] sees none on the road. [MALE] needs to find the vehicle.
+[MALE] goes home. [MALE] feels tired.
+[MALE] receives none for christmas. [MALE] is happy.
+[MALE] gets a ticket. [MALE] wants to get it back.
+[MALE] gives none to the kids. [MALE] wants to be with them.
+[MALE] loses
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] is good enough. [MALE] wants to have a good time.
+[MALE] is getting ready for work. [MALE] needs walk.
+[MALE] gets a haircut. [MALE] wants to get a haircut.
+[MALE] writes the none together. [MALE] needs to be in contact.
+[MALE] takes [FEMALE] to the zoo. [MALE] gets yelled at.
+[MALE] gets a cab. [MALE] needs to get out of the cab.
+[MALE] takes none to the animal shelter. [MALE] is caring.
+[MALE] takes none to a zoo
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+a woman has a boyfriend.
+a dog has a tail.
+a person is at a party.
+a person is in a hospital.
+a person has a dog.
+a person has a dog.
+a person has a dog.
+a person is at a restaurant.
+a person has a dog.
+a person has a foot.
+a person has a nose.
+a person has a cat.
+a person has a family.
+a person is in a house.
+a person is in a room.
+a person has a dog.
+a person has a dog.
+a person is at the zoo.
+a person has a dog.
+the house has a yard.
+a person desires
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] makes [FEMALE] offer a gift. [MALE] wants to be grateful for the gift.
+[MALE] starts to laugh. [FEMALE] will happy.
+[MALE] takes [FEMALE] to the vet. [MALE] is helpful.
+[MALE] always wanted a dog. [MALE] will happy.
+[MALE] runs towards the door. [MALE] wants to be there.
+[MALE] takes none to the vet. [FEMALE] will like they are giving me a medicine.
+[MALE] calls [FEMALE] by the name. [MALE] is thoughtful.
+
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] thinks of the person behind the wheel.
+[MALE] makes sure persony is ok.
+[MALE] gets personx's phone.
+[MALE] is going to a party.
+[MALE] eats persony's meal.
+[MALE] takes the dog home.
+[MALE] wants to be married.
+[MALE] gets into a fight.
+[MALE] puts persony's hand on personz's shoulder.
+[MALE] takes none to a doctor.
+[MALE] gets the none at the store.
+[MALE] gives none a name.
+[MALE] is with persony's family.
+
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] takes none to the museum. [MALE] wants to get their hands dirty.
+[MALE] sees the none at the mall. [MALE] wants to visit the mall.
+[MALE] loves none for the rest of their life. [MALE] will happy.
+[MALE] gives [FEMALE] a gift. [MALE] wants to take a picture.
+[MALE] gives [FEMALE] a chance. [MALE] will fortunate.
+[MALE] asks [FEMALE] to leave. [MALE] wants to be safe.
+[MALE] puts persony's none in your mouth. [MALE
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+a bordure is a piece of rubber
+a bordure is a piece of rubber
+a bordure is a piece of rubber
+a piece of rubber is a piece of rubber
+a piece of rubber is a piece of rubber
+a bordure is a piece of rubber
+a bordure is a piece of rubber
+a bordure is a piece of rubber
+a piece of rubber is a piece of rubber
+a bordure is a piece of rubber
+a bordure is a piece of rubber
+a piece of rubber is a piece of rubber
+a bordure is a piece of rubber
+a piece of rubber is a piece of rubber
+a bordure is a piece of rubber
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] gets persony's attention. [MALE] wants to be entertained.
+[MALE] takes the none for granted. [MALE] will happy.
+[MALE] calls none to the city. [MALE] is friendly.
+[MALE] is going to the mall. [MALE] will refreshed.
+[MALE] has a great time. [MALE] will tired.
+[MALE] puts none in the trunk. [MALE] is responsible.
+[MALE] is always looking. [MALE] will excited.
+[MALE] gives [FEMALE] the benefit. [MALE] is caring.
+[MALE
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.Sam was in the market.
+[MALE] makes an acquaintance. [MALE] wants to find out more about persony.
+[MALE] gives persony's none. [MALE] wants to see if persony is interested.
+[MALE] takes personx's medicine. [MALE] wants to take none to the doctor.
+[MALE] goes to personx's room. [MALE] wants to sleep.
+[MALE] has a baby. [MALE] [MALE] has a baby.
+[MALE] calls persony's mom. [MALE] wants to meet persony.
+[MALE] returns the none to persony. [
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] wants to go. [MALE] wants to get to a destination with personx.
+[MALE] makes the trip. [MALE] is determined.
+[MALE] asks [FEMALE] to help. [MALE] wants to give [FEMALE] a clue.
+[MALE] gives [FEMALE] the money. [MALE] needs to tell [FEMALE] where they are going.
+[MALE] gets a new job. [MALE] is determined.
+[MALE] gives [FEMALE] a job. [MALE] needs to find a job.
+[MALE] gets [FEMALE
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] is a little pained.
+[MALE] sees persony's new boyfriend. [FEMALE] wants to see persony.
+[MALE] is taking the dog. [MALE] needs to find their pet.
+[MALE] gets none at the local grocery store. [MALE] wants to eat some food.
+[MALE] meets personx's needs. [FEMALE] will happy.
+[MALE] gets a lot of calls. [MALE] is outgoing.
+[MALE] gives none to a friend. [MALE] will good about himself.
+[MALE] breaks persony's leg. [MALE] is
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+the first time you saw the moon was in the summer of 1996.
+some movies has a special place in your heart.
+a man is capable of write a poem.
+one person works for another.
+something is capable of get a tattoo.
+a person has no physical memory.
+the internet has a special place in your heart.
+jellyfish has a yellow skin.
+you is capable of smell something.
+a person is capable of hear what the other person is talking about.
+a person is capable of be a musician.
+a person is capable of say goodbye.
+a man is capable of kiss a woman.
+a person is capable of have a cat.
+a person is capable of get old
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+satisfy your hunger with a bowl of cereal.
+a lot of people do not like the word "clown."
+a person does not desire a prostitute.
+a person does not desire a mother.
+a person does not desire a prostitute.
+a person does not desire a dog.
+a person does not desire a prostitute.
+a person does not desire a prostitute.
+a person does not desire a prostitute.
+a person does not desire a prostitute.
+a person does not desire a prostitute.
+a person does not desire a prostitute.
+a person does not desire a prostitute.
+a person does not desire a prostitute.
+a person does not desire a prostitute.
+a person does not desire a
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] calls the cops. [MALE] is prepared.
+[MALE] wants to go home. [MALE] wants to go home.
+[MALE] talks to persony. [MALE] is friendly.
+[MALE] runs personx's none around the house. [FEMALE] wants to know how they are doing.
+[MALE] starts a new hobby. [MALE] is motivated.
+[MALE] buys a new dress. [MALE] is motivated.
+[MALE] puts none in the drawer. [MALE] wants to store it.
+[MALE] receives a cold. [FEMALE] wants to check
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.Sugar is a food.
+[MALE] gives [FEMALE] a card. [MALE] wants to give persony a card.
+[MALE] takes none to the grocery store. [MALE] wants to buy the food.
+[MALE] is a good friend. [FEMALE] will angry..
+[MALE] makes none for dinner. [MALE] wants to eat dinner.
+[MALE] needs a friend. [MALE] is inconsiderate.
+[MALE] takes a break. [MALE] will good.
+[MALE] gives [FEMALE] a clue. [MALE] will surprised.
+[MALE
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] wants to take a walk. [MALE] is lazy.
+[MALE] is not capable. [MALE] needs has a very good understanding.
+[MALE] buys none after school. [MALE] is mean.
+[MALE] comes to persony's aid. [MALE] is friendly.
+[MALE] puts persony's none on the table. [MALE] will relieved.
+[MALE] gets personx's wallet. [MALE] needs to get persony's wallet.
+[MALE] gets none to attend. [MALE] needs to be a student.
+[MALE] gives [FEMALE] a
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] has none in mind. [MALE] will happy.
+[MALE] gives personx's none a gift. [MALE] needs to have a gift.
+[MALE] is looking at persony's face. [MALE] wants to take a picture.
+[MALE] gets a haircut. [MALE] wants to wear it.
+[MALE] calls none every night. [MALE] will good.
+[MALE] places none in the way. [MALE] wants to move things.
+[MALE] wins the ball. [MALE] will satisfied.
+[MALE] does not like persony's taste. [MALE
+---------------

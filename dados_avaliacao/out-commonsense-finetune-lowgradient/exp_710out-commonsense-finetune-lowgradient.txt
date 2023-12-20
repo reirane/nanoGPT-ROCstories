@@ -1,0 +1,314 @@
+Overriding: out_dir = out-commonsense-finetune-lowgradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tom ate out at a new restaurant.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] is at the bar. [MALE] wants to drink beer.
+[MALE] takes a break. [MALE] wants to rest.
+[MALE] pays personx's rent. [MALE] is efficient.
+[MALE] loves the music. [MALE] is entertain.
+[MALE] gets none at the time. [MALE] will joyful.
+[MALE] tells persony's friends. [FEMALE] wants to go to bed.
+[MALE] always looked. [MALE] needs to find something to wear.
+[MALE] makes [MALE] face. [MALE] wants to be friendly.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [MALE] will relieved.
+[MALE] breaks into persony's room. [MALE] wants to see if he can help.
+[MALE] makes none for the dog. [MALE] wants to play with their dog.
+[MALE] buys [FEMALE] a new car. [MALE] needs to ask the seller.
+[MALE] gives none the opportunity. [MALE] wants go home.
+[MALE] uses personx's money. [MALE] wants to earn money.
+[MALE] talks to persony's girlfriend. [MALE] wants to find out what she wants.
+[MALE] pays none for a ride
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [MALE] wants to drink more.
+[MALE] buys none on the beach. [MALE] is adventurous.
+[MALE] visits personx's grandmother. [MALE] is friendly.
+[MALE] takes [FEMALE] picture. [MALE] wants to show friendship.
+[MALE] plays a part in [FEMALE] happiness. [MALE] is helpful.
+[MALE] is dating none at the mall. [MALE] wants to go to a mall for a night.
+[MALE] gives [FEMALE] a job. [FEMALE] will has to choose another job.
+[MALE] gives [F
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [MALE] needs to go to the restaurant.
+[MALE] is running late. [MALE] wants to sleep.
+[MALE] gives [FEMALE] a gift. [MALE] wants to open the gift.
+[MALE] is running late. [MALE] needs get in the car.
+[MALE] asks persony's mom. [FEMALE] will [MALE] comes to the door.
+[MALE] takes [FEMALE] to the doctor. [MALE] needs have to look for them.
+[MALE] rides none to school. [MALE] wants to be a good teacher.
+[MALE] makes
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] needs to have a wife. [MALE] wants to be happy.
+[MALE] wants to go back to school. [MALE] is curious.
+[MALE] walks to work one day. [MALE] is outgoing.
+[MALE] finds none on the shelf. [FEMALE] wants to go to the store.
+[MALE] gets one for christmas. [MALE] wants to thank god.
+[MALE] brings [FEMALE] to the attention of the police. [FEMALE] wants to hold on to [MALE]..
+[MALE] throws none into the trash. [MALE] is irresponsible
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] asks the teacher. [MALE] wants to talk to the teacher.
+[MALE] is a teacher at a school. [MALE] wants to learn.
+[MALE] decides to play the violin. [MALE] wants to play with friends.
+[MALE] gets none for the night. [FEMALE] will happy and happy.
+[MALE] takes persony's car. [FEMALE] wants to give the car to a friend.
+[MALE] takes personx's girlfriend. [MALE] is good.
+[MALE] turns persony's car off. [MALE] wants to leave.
+[MALE]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] decides to leave. [MALE] wants to go home.
+[MALE] gives none a hug. [MALE] needs to get to a place to stay.
+[MALE] takes none to see. [MALE] needs to go to the movie theater.
+[MALE] gives [FEMALE] a kiss. [FEMALE] will is glad to see him.
+[MALE] makes [FEMALE] lunch. [MALE] needs to have sat down.
+[MALE] visits none in hospital. [MALE] will healthy.
+[MALE] plays basketball with persony's friends. [FEMALE] will they get
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. x is hungry.
+[MALE] performs the none in persony's stead. [MALE] is caring.
+[MALE] gives none away. [MALE] wants to ask [FEMALE] their opinion.
+[MALE] causes none around the world. [MALE] is outgoing.
+[MALE] never saw ___. [MALE] is bored.
+[MALE] gets a new phone. [MALE] wants to get a new one.
+[MALE] puts none in the car. [MALE] is responsible.
+[MALE] receives a letter. [MALE] wants to be thanked.
+[MALE] gets a new job.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] is playing basketball. [MALE] is trying to get warm.
+[MALE] gets none from the store. [MALE] wants buy some.
+[MALE] takes [FEMALE] to a baseball game. [FEMALE] wants to make fun of [MALE] for being there.
+[MALE] feels a weird sensation. [MALE] wants to go to a movie.
+[MALE] makes [FEMALE] breakfast. [MALE] needs to make sure they're hungry.
+[MALE] gives [FEMALE] a ride. [FEMALE] will happy about that.
+[MALE] takes the subway
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [MALE] is mean.
+[MALE] gives [FEMALE] a recipe. [MALE] wants to have fun.
+[MALE] asks [FEMALE] why. [MALE] will helpful.
+[MALE] gets personx's car fixed. [MALE] is proud of it.
+[MALE] makes [FEMALE] offer. [MALE] is helpful.
+[MALE] gets personx's food. [MALE] is hungry.
+[MALE] makes personx's girlfriend 's ___. [MALE] wants to make the girlfriend make the offer.
+[MALE] does the whole 's ___. [M
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+you has property good at politics.
+go for a drive has prerequisite for be in the neighborhood.
+there is a woman on the internet.
+you has property ugly.
+go to a movie has prerequisite for eat popcorn.
+you is capable of buy a house.
+you is capable of buy everything.
+you is capable of take a shower.
+going to a party has prerequisite for get out of bed.
+you is at a party.
+going to the opera has prerequisite for have a good time.
+you is at a concert.
+go for a walk has prerequisite for make sure it's safe.
+you is capable of go to a restaurant.
+we is capable of eat every night.
+you is capable
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [FEMALE] wants to go home.
+[MALE] raises personx's hand. [MALE] is warm.
+[MALE] buys [FEMALE] a present. [FEMALE] wants to thank person x.
+[MALE] opens the none to the public. [MALE] will happy.
+[MALE] gives [FEMALE] a ride. [FEMALE] wants to get to work.
+[MALE] gets none in the mail. [FEMALE] wants to receive the mail.
+[MALE] gives [FEMALE] a lot of gifts. [MALE] will happy.
+[MALE] provides [F
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] wants to impress someone else. [MALE] wants to impress other people.
+[MALE] brings [FEMALE] home. [MALE] is friendly.
+[MALE] gives [FEMALE] a new one. [MALE] wants to thank him.
+[MALE] makes [FEMALE] dream. [MALE] is anxious.
+[MALE] keeps [FEMALE] company. [MALE] will happy.
+[MALE] calls the police. [MALE] is helpful.
+[MALE] makes a phone call. [MALE] wants to be in the vicinity.
+[MALE] has a bad
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [MALE] needs to have a carafe.
+some book is at a movie. [MALE] is bored.
+most people is capable. [MALE] wants to spend time with people.
+everyone is capable. [MALE] wants to be great.
+many person is capable. [MALE] is capable.
+some person is capable of travel. [FEMALE] wants to find an apartment.
+someone is at a restaurant. [MALE] wants to go to the restaurant.
+someone is capable of call. [MALE] is capable.
+someone is at the grocery store. [MALE] wants to buy a present.
+someone is capable. [MALE] needs to
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] is very upset. [FEMALE] will upset.
+[MALE] keeps [FEMALE] up til night. [MALE] wants to be in bed.
+[MALE] gives [FEMALE] a raise. [MALE] wants to do well.
+[MALE] gives none to a friend. [MALE] wants to give a speech.
+[MALE] is going on vacation. [FEMALE] wants to celebrate.
+[MALE] brings [FEMALE] to persony's attention. [MALE] needs to be in the audience.
+[MALE] fills persony's none with water. [MALE]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] breaks none in two. [MALE] needs to make the break.
+[MALE] gets in a car accident. [MALE] wants to be calm.
+[MALE] is bored. [MALE] needs to write down their schedule.
+[MALE] is playing video games. [MALE] wants to get a new computer.
+[MALE] gets personx's keys. [MALE] needs to open the lock.
+[MALE] gives [FEMALE] a ride. [MALE] wants to give thanks.
+[MALE] brings home the ___. [MALE] will satisfied.
+[MALE] spends none in a
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] tries to make persony's life better. [MALE] is ambitious.
+[MALE] plays the none in the game. [MALE] wants to win.
+[MALE] wants to have a birthday party. [MALE] wants to have fun.
+[MALE] buys the dog. [MALE] wants to adopt a dog.
+[MALE] keeps [FEMALE] in the dark. [FEMALE] wants to keep their eyes on personx.
+[MALE] gets a new one. [MALE] wants to have it.
+
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] thinks of the best thing to do. [MALE] wants he can do it.
+[MALE] finishes the job immediately. [MALE] wants to be done by the hour.
+[MALE] takes a shower. [MALE] wants to wash their hands.
+[MALE] makes [FEMALE] acquaintance. [FEMALE] wants to thank personx.
+[MALE] puts persony's ___. [MALE] wants to make a phone call.
+[MALE] visits every ___. [MALE] needs to have completed a trip.
+[MALE] keeps it together. [MALE] needs to have a team over.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] takes none to the museum. [MALE] wants to get a souvenir.
+[MALE] sees a doctor. [MALE] wants to see how they're doing.
+[MALE] goes to the zoo. [MALE] needs go to zoo.
+[MALE] takes none to the hospital. [MALE] is alert.
+[MALE] leaves personx's none behind. [MALE] is responsible.
+[MALE] wins every time. [MALE] is competitive.
+[MALE] takes none to the store. [MALE] is friendly.
+[MALE] puts persony's none in your mouth. [FEM
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] becomes [FEMALE] [FEMALE] in need of something. [FEMALE] will is happy.
+[MALE] takes a photo. [MALE] wants to get a picture of it.
+[MALE] finds a new job. [MALE] is motivated.
+[MALE] meets all the [FEMALE] needs. [MALE] is knowledgeable.
+[MALE] makes persony's bed. [FEMALE] wants to take persony's bed.
+[MALE] brings none to the attention. [MALE] wants to show persony something.
+[MALE] brings none to the attention of another. [
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [MALE] wants to eat more.
+[MALE] gives [FEMALE] a ride home. [FEMALE] wants to get home..
+[MALE] takes to the cleaners. [MALE] is clean.
+[MALE] is sitting in front of personx's desk. [MALE] needs to shake hands.
+[MALE] gets some rest. [MALE] will tired.
+[MALE] gets a dog. [MALE] needs to buy a dog.
+[MALE] gets some money. [MALE] wants to get some things.
+[MALE] goes to the mall. [MALE] is nostalgic.
+[MALE
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] takes none to the park. [MALE] is careful.
+[MALE] takes none on a date. [MALE] needs to have a date.
+[MALE] makes [FEMALE] part of the equation. [MALE] is assertive.
+[MALE] opens a none to the general public. [FEMALE] will happy.
+[MALE] gives [FEMALE] a job. [MALE] wants to get paid.
+[MALE] has a really good day. [MALE] needs to take a shower.
+[MALE] gets personx's groceries. [MALE] wants to buy stuff.
+[
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] plays a none in a baseball game. [MALE] gets a baseball bat.
+[MALE] calls none to let the none know. [FEMALE] wants to be helpful and helpful.
+[MALE] takes the time to read the letter. [MALE] needs to read the letter.
+[MALE] has a big party. [FEMALE] will excited.
+[MALE] watches none on the internet. [MALE] needs to have a internet connection.
+[MALE] watches all the movies. [MALE] wants to play the video game.
+[MALE] goes to the store. [MALE] gets a coupon.
+
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] is at the bar with a friend.
+[MALE] calls the police. [MALE] will friendly.
+[MALE] calls none well. [MALE] is dependable.
+[MALE] plays a none in the final. [MALE] wins the game.
+[MALE] buys a new pair. [MALE] wants to be proud.
+[MALE] has a nervous breakdown. [MALE] needs to be a person.
+[MALE] has a terrible night. [MALE] wants to get a good night's sleep.
+[MALE] plays for personx's dreams. [MALE] wants to achieve his goal.
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+[MALE] is sitting in the back seat of the car. [MALE] needs to get behind the wheel.
+[MALE] is out of the house for a date. [MALE] wants someone to see them.
+[MALE] has a heart attack. [MALE] will upset.
+[MALE] gets a new boyfriend. [MALE] wants to have boyfriend.
+[MALE] is a bit bored. [MALE] is bored.
+[MALE] is doing the math homework. [MALE] needs to be studying for a math class.
+[MALE] is bored at the end. [MALE] is bored.
+[MALE]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant.
+satisfy your hunger is motivated by you have more meat.
+a woman is capable of be a woman.
+a person desires clean clothes.
+a person desires go to a sporting event.
+a person receives action read aloud.
+a person is capable of use a chair.
+a person desires be part of a team.
+a person desires a good job.
+a person desires become a firefighter.
+a person is capable of visit a museum.
+a person desires a happy ending.
+a person is capable of learn to read.
+a person desires be a musician.
+a person desires have fun.
+a person is capable of take a break.
+a person is capable of open a suitcase.
+a
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [MALE] will happy.
+[MALE] gives the dog a scratch. [FEMALE] will happy.
+[MALE] gets the dog home. [FEMALE] wants to take care of the dog.
+[MALE] asks [FEMALE] to marry. [MALE] is curious.
+[MALE] asks [FEMALE] to wait. [FEMALE] wants to go somewhere away.
+[MALE] is overjoyed with persony's victory. [MALE] is relieved.
+[MALE] buys another one. [MALE] is hopeful.
+[MALE] receives a call. [FEMALE] wants to check
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [MALE] wants to eat a meal.
+[MALE] makes a terrible mistake. [MALE] is criminal.
+[MALE] plays none on the field. [MALE] wants to play the game.
+[MALE] is the first to get home. [MALE] will happy.
+[MALE] is a teacher. [MALE] is responsible.
+[MALE] takes a break. [MALE] needs to go home.
+[MALE] looks very good. [MALE] is energetic.
+[MALE] finds a new job. [MALE] wants to find opportunities.
+[MALE] gets a new phone. [MALE]
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [MALE] wants to be social.
+[MALE] puts on a show. [MALE] is outgoing.
+[MALE] gets none for christmas. [MALE] wants to be extra charitable.
+[MALE] asks if [FEMALE] was okay. [MALE] will happy that person was okay.
+[MALE] plays football with friends. [MALE] wants to be social.
+[MALE] gets a letter. [MALE] is excited.
+[MALE] makes persony's dinner. [MALE] wants to leave the dining room.
+[MALE] takes the exam. [MALE] wants to do well.
+[
+---------------
+Complete the following text within five sentences:Tom ate out at a new restaurant. [FEMALE] wants to go to bed.
+[MALE] takes a course. [MALE] needs to start a course.
+[MALE] takes none back. [MALE] wants to have a good time.
+[MALE] hits the store. [MALE] is desperate.
+[MALE] calls the number. [MALE] is friendly.
+[MALE] always wanted. [MALE] is smart.
+[MALE] has a none in the house. [MALE] wants to move in.
+[MALE] wins the ball. [MALE] will excited.
+[MALE] does the math. [MALE] to impress.
+---------------

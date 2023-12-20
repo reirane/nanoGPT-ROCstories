@@ -1,0 +1,212 @@
+Overriding: out_dir = out-commonsense-finetune-epoch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Keith got dumped by his girlfriend.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Keith got dumped by his girlfriend.This is an abomination.This is a joke.This is a terrible thing.This is a murder.This is a dirty work.This is an accident.This is a way to get some sleep.This is a joke.This is a way to fix something.This is an accident.This is a place to raise a man.This is a bad idea.This is a violent act.This is a bad event.This is a problem.This is a joke.This is a person's dream.This is a work done.This is a good thing.This is a punishment.This is a person's friend.This is a child's dream.This is a way to enjoy the evening.This is a way for someone
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.She got dumped at the beach.She's going to the mall.She's not the one who wants to sell.
+[FEMALE] is looking for a male companion.[MALE] has a crush on him.
+[FEMALE] calls the cab.[MALE] wants to get a ride home.
+[FEMALE] is the only person in the room.[MALE] needs to get a seatbelt.
+[FEMALE][MALE] sends the package.[FEMALE] wants to see what's inside.<|endoftext|>Image copyright EPA Image caption A new poll found that more than two-thirds of voters support the EU
+
+The UK is a better place to live than
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.Sylvia walks to the subway station.Malia is worried.John is on the beach.Malia gets lost.MALE: I know who you are.TIME: You get your degree.MALE: I know.TIME: You're okay.MALE: you're proud.TIME: You're really happy.MALE: you've made a great impression.TIME: you've made a big success.MALE: you're cool enough.TIME: you appreciate yourself.MALE: you've got a nice sense of humor.TIME: you're a great listener.MALE: you're very sociable.TIME: you love spending time with your family and friends.MALE: you're a great listener.
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.You're a pretty bad loser.He's not in rehab.You might have to get a job.You have to go for a walk.You're too tired.Your girlfriend says you need to get out of the car.The girl is really hungry.You can't afford a meal.You have to wash your hands.The girl is sick.You make a mess.She wants to go home.You make a mess.She wants to go to the doctor.You're a bad person.You have to go to a doctor.You're a bad person.You want to go to the mall.You're an asshole.You're a loser.You're tired.You're lonely.You get in trouble.You get the mail
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+[MALE] needs to have a wife.
+[MALE] is sick.
+[MALE] wants to be a comedian.
+[MALE] is a genius.
+[MALE] is a nanny.
+[MALE] is outgoing.
+[MALE] needs to run.
+[MALE] is lonely.
+[MALE] wants to check on persony.
+[MALE] is a friend.
+[MALE] has a son.
+[MALE] wants to be a teacher.
+[MALE] is a good student.
+[MALE] is a friend.
+[MALE] wants to go to an art show.
+[M
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.When you see the dog walk the dog walk the dog.I'm going to get a new car.When you try to open a door you do it.<|endoftext|>This is a project to write a program to map the data of a web page.
+
+##Compile
+
+$ git clone https://github.com/bethkong/bethkong.git cd bethkong $ ./bethkong
+
+##Write
+
+$ cd bethkong $ bbuild
+
+##Run
+
+$ cd bethkong/bin/activate
+
+##Make sure
+
+$ bbuild
+
+##Run
+
+$ ./bethkong/bin/activate
+
+##Toggle
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+He is engaged to the woman.
+He has a dog.
+He is in need of it.
+He wants to be called.
+He is in need of a car.
+He is in need to work.
+He is in need of something.
+He is in need of money.
+He has a friend.
+He has a dog.
+He is in need of clothes.
+He is in need of money.
+He is in need of a car.
+He does not have a car.
+He is in need of money.
+He is in need of a good job.
+He is in need of something.
+He is in need of a place.
+He is in need of health.
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.There was an accident.
+[MALE] calls [FEMALE] to the bathroom. [MALE] has to leave the room.
+[MALE] plays none with [FEMALE] for a few hours. [MALE] is a good player.
+[MALE] sends [FEMALE] a text message. [MALE] wants to text back.
+[MALE] finds [FEMALE] in the store. [MALE] is helpful.
+[MALE] sends [FEMALE] away. [FEMALE] wants to go home.
+[MALE] gets [FEMALE] a new car. [MALE] gets a new car.
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. He's a bad person. He's a drug dealer. You're trying to buy a car. You lose your wallet. You go to the grocery store. The police wants you to open the mail. You lose your ticket. You have an accident. You make a mistake. It's okay to keep your ticket. You get a divorce. But there's no money. You want to get rid of the thief. The police wants you to leave. But you're not interested. The police wants to make sure you're calm. That would be difficult. You go to the police station. The station wants to have the information. They want to have a look at your case. The police wants to know how you got caught. You have a
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+[MALE] sees a girl. [MALE] needs to make a reservation.
+[MALE] is looking for a new place. [MALE] is outgoing.
+[MALE] thinks it is time to come home. [MALE] needs to make a reservation.
+[MALE] gives the girl to persony. [MALE] wants to give the girl something to hang on personx's arm.
+[MALE] sees the children. [MALE] wants to have a good time.
+[MALE] has a lot of fun. [MALE] wants to do something fun.
+[MALE] puts the money. [MALE] is cheerful.
+[
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+you get a good job.
+you buy a house.
+you decide to go to work.
+you get a divorce.
+you are interested.
+you have a baby.
+you want to be on the show.
+you can't get enough food.
+you are going to college.
+you get a divorce.
+you feel bad.
+you make a party.
+you get a divorce.
+something happened.
+this is the best day of your life.
+you are smart.
+you wash your hands.
+you are happy.
+you want to go see a movie.
+you get a job.
+you want to get a job.
+you decide to give up.
+you get married.
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.You've had an accident.You've got a big heart.You've got a great opinion of yourself.You've got a great family.You think of your family.You're good.You want to play football.You go for a picnic.You're tired.You're with your friends.You're loving.You know you have a chance.You want to go home.You feel safe.You want to hang out with friends.You want to talk to your boyfriend.You want to make a statement.You want to be good.You want to be brave.You want to be in a situation.You want to have fun.You don't need to have a job.You want to learn new skills.You are happy
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.<|endoftext|>One of the biggest changes to the way we use the internet is the increasing number of people sharing content online. Some people use social media to get information. Some people use social media to find information. Some people use social media to communicate. Some people use social media to communicate. Some people use social media to communicate.
+One of the biggest changes to the way we use the internet is the increasing number of people sharing content online. Some people use social media to get information. Some people use social media to communicate. Some people use social media to communicate. Some people use social media to communicate.
+One of the biggest changes to the way we use the internet is the increasing number of people sharing content online. Some people use social media to
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.I told my mom.But my mom didn't like me.I have a terrible reaction.Keith receives a punch.I will give it to my mom.You get a divorce.I will give my mom.I will be happy.Keith gets in the car.I got some snacks.I will get home.I will have a hard time.I give my mom.I will take the day off.I will find my dog.I will want to do it.I will be happy.I will have a great time.I will be in the company.I will have a lot of fun.I will make my money.I will use my money.I will make good money.I will be proud.I will make my
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+You have to use the internet to find information.
+You have to have a job.
+You have to take a bath.
+You will be walking around the mall.
+You will be in a position where you are proud.
+You will be getting a job.
+You will be a millionaire.
+You will be doing good work.
+You will be getting paid.
+You will be in a place.
+You will have a good day.
+You will be in control.
+You will be a queen.
+You have to be in a car.
+You will get a job.
+you will be in a country.
+you will be walking around.
+you will be tired.
+you will be in
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.She is mad.Someone might be watching tv.The person is going to the bathroom.On a trip.The person is in the hospital.The person is very sick.The person is in the hospital.The person is in the hospital.The person is in the hospital.The person is in the hospital.The person is in the hospital.The person is in the hospital.The person is in the hospital.The person is in the hospital.The person is in the hospital.The person is in the hospital.The person is in the hospital.The person is in the hospital.The person is in the hospital.The person is in the hospital.The person is in the hospital.the person is in the hospital.the person is
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. He was fired. [MALE] needs to find the real person. [MALE] needs to be grateful for the person. [MALE] will happy. [MALE] is in the mood for something to eat. [MALE] will be in the mood for something to drink. [MALE] needs to get something. [MALE] needs to get out. [MALE] needs to be able to get something. [MALE] wants to leave the house first. [MALE] needs to be left alone. [FEMALE] wants to have something. [MALE] wants to have the person feel good. [MALE] needs to go shopping. [MALE] wants to get
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.Keith is playing baseball.Keith is the best player in the world.Keith is a good person.Keith is a good man.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good person.Keith is a good
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.He got her to find him.He's got to get his girlfriend to take him home.He wants to go to a party.He wants to get some food.He's going to a concert.He's going to be in a fight.He wants to be back.He needs to know how to stop.He wants to be honest.He wants to be good.He's got to be in the right place.He wants to find somebody.He wants to be nice.He wants be in the right place.He wants to be happy.He wants to go for a run.He wants to find a friend.He wants to be safe.He wants to see the sunset.he's got to put the bag over his head
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.He needs to be in the town.He needs to be clean.He needs to be in the country.He needs to be in the city.He needs to be in the countryside.He needs to be in a restaurant.He needs to be in a park.He wants to have a good time.He needs to be in a hospital.He wants to make a living.He wants to be in the shopping mall.He wants to have a good time.He wants to get a job.He wants to have a good life.He wants to be in the military.He wants to have a good time.He wants to sleep well.He wants to make good friends.He wants to have a good time.He wants to go
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.Keith gets fired from his job.He is fired by his wife.He has a girlfriend.he is a new mother.he is guilty.he is a good dad.he is a good man.he is a good friend.he is a good husband.he is a good father.he is a good father.he is the best.it is used for money.it is used for work.it is used for entertainment.it is used for relaxation.it is used for relaxation.it is used for pleasure.it is used for relaxation.it is used for strength.it is used for strength.it is used for strength.it is used for strength.it is used for strength.it is used for strength.it is
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.He makes a plan to get a job.He buys groceries.He goes to the bathroom.He goes to the gas station.He has a big smile.He has a lot of money.He is a great friend.He has a good job.He has a great job.He is happy.He has a happy family.He is a leader.He is a good person.Keith has a lot of money.He is free.He wants to save money.He is happy.He has a good house.He is good.He has a fine lifestyle.He is a free person.He needs to take his medicine.He wants to get a car.He is a great guy.He is good.He is a good person
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.He wants to go to the hospital.you will get a new job.he will be in a hospital.you will be in a hospital.you will not be able to make a new home.you will be in a hospital.you will get a new place.you wants to go to the mall.you is a dog.you is a dog.you is a dog.you wants to go to a store.you wants to get a beer.you wants to buy water.you is a dog.you is a dog.you is an animal.you is in a park.you is in a park.you is in a park.you wants to go to the park.there is a water fountain.you wants to go to
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.Jenny is lonely.Jenny is out of the picture.
+[W]e will return to the office.[F]he has left.
+[W]e will take the day off.[F]he is healthy.
+[W]e will have a hard time.[F]he is happy.
+[W]e will have a good time.[F]he is proud.
+[W]e will decide in advance.[F]he is open to new ideas.
+[W]e will get a job.[F]he gives a hard look.
+[W]e will go to work.[F]he was paid.
+[W]e will be at a
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.I have to find the dog.I have to find the dog.I am sorry.I wish someone was there.I wish someone was there.I get out of my car.I get the dog.I took my pet out.I keep my phone up.I have to go to the store.I do a shopping list.I feel bad.I think I am sick.I want to wash the dishes.I find the dog.I look for the dog.I want my dog to be happy.I make sure I have a good meal.I make sure the food is good.I go to the vet.I have a doctor's appointment.I am happy.I want to be happy.I want to make a plan
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+sputnik.org/index.php/viewtopic.php?t=214710
+sputnik.org/index.php/viewtopic.php?t=1943
+sputnik.org/index.php/viewtopic.php?t=1122
+sputnik.org/index.php/topic.php?t=1452
+sputnik.org/index.php/viewtopic.php?t=2048
+sputnik.org/index.php/topic.php?t=1931
+sputnik.org/index.php/topic.php?t=1745
+sputnik.org/index.php/topic
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.The girl with the cat is the one that wants to have a pet.The dog with the cat is the one that will get attention.The dog with the cat is the one that wants to get rid of the dog.The dog with the cat is the one that will be scared.The dog with the cat is the one that is fun to have.The dog with the dog is the one that wants to have a dog..The dog with the dog is the one that wants to go to the vet.The dog with the dog is the one that wants to have a dog..The dog with the dog is the one that wants to be clean..The dog with the dog is the one that wants to eat..The dog with the dog
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.Settled down to the ground.Sewing a lot of oil.Tears are not hair.Wet clothes.Blowing paint.Warm.Males have more energy than females.Females are much more likely.People with an interest in the world.Females are more satisfied with their lives.People will get paid.People will sleep in a comfortable bed.People will be prepared for a trip.People will be open to new experiences.People will be willing to work hard.People will get rewarded for their efforts.People will enjoy a good time.People will be in good health.People will be able to go to the hospital.Consumers will be glad they have a home.Consumers will want
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.The door will open. [the door will open]. [the door will open]. [the door will open]. [the door will open]. [the door will be opened]. [the door is opened]. [the door is open]. [the door is opened]. [the door is opened]. [the door is open]. [the door is open]. [the door is open]. [the door is open]. [the door is open]. [the door is open]. [the door is open]. [the door is open]. [the door is open]. [the door is open]. [the door is open]. [the door is open]. [the door is open]. [the door is open]. [the door is open].
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. He said he loves him.
+[MALE] tries to make the conversation. [MALE] needs to be very experienced.
+[MALE] puts the car keys. [MALE] wants to have the car keys.
+[MALE] takes [FEMALE] to the vet. [MALE] needs to be helpful.
+[MALE] walks into the office. [MALE] needs to make a decision.
+[MALE] takes [FEMALE] to the doctor. [MALE] needs to check everything out.
+[MALE] takes [FEMALE] to the hospital. [MALE] needs to go to the hospital.
+[MALE] breaks the
+---------------

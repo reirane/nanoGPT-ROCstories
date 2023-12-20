@@ -1,0 +1,322 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:She didn't care.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:She didn't care.
+[MALE] is a good day. [MALE] wants to go home.
+[MALE] becomes a model. [MALE] wants to tell their coworkers they are beautiful.
+[MALE] sees [FEMALE] in personz. [MALE] wants to tell [FEMALE] about the experience.
+[MALE] calls the garbage. [MALE] will excited.
+[MALE] tells personx's friends. [FEMALE] wants to go to bed.
+[MALE] takes care of persony's needs. [FEMALE] wants to thank personx.
+[MALE] gets a letter. [FEMALE] will they
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] takes a bath. [MALE] needs to go to the bathroom.
+[MALE] makes [FEMALE] announcement. [MALE] will excited.
+[MALE] is in bad shape. [MALE] wants to get a new job.
+[MALE] is playing basketball with friends. [MALE] wants to get some ice cream.
+[MALE] goes a long way. [MALE] is determined.
+[MALE] knows none well. [MALE] is interested.
+[MALE] asks persony's mother. [FEMALE] will needs to tell persony's mother.
+[MALE] is a great baseball
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] has a great time at the beach.
+[MALE] helps none through business. [MALE] needs to go to work.
+[MALE] is getting late for work. [MALE] gets nervous.
+[MALE] takes a rest. [MALE] becomes exhausted.
+[MALE] is really hot. [MALE] wants to take a shower.
+[MALE] decides to quit school. [MALE] wants to get a job.
+[MALE] is really nice. [MALE] wants to be an extra.
+[MALE] gives [FEMALE] education. [FEMALE] will grateful.
+[MALE
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] has always wanted to go. [MALE] is dedicated.
+[MALE] breaks the bank. [MALE] [MALE] becomes rich.
+[MALE] puts none in persony's hands. [FEMALE] will [FEMALE] will grateful.
+[MALE] gets a new baby. [MALE] is excited.
+[MALE] goes to the store to buy it. [MALE] wants to buy it.
+[MALE] gets persony's attention. [MALE] wants to be helpful.
+[MALE] is washing dishes. [MALE] wants to be clean.
+[MALE] makes persony
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] needs a new job. [MALE] wants to buy a car.
+[MALE] goes to the bar with friends. [MALE] is relaxed.
+[MALE] is a great cook. [MALE] wants to eat.
+[MALE] goes to the store to buy. [MALE] is efficient.
+[MALE] gets personx's first one. [MALE] wants to have a fun time.
+[MALE] gets personx's fix. [MALE] they get paid.
+[MALE] keeps [FEMALE] together. [MALE] wants to help.
+[MALE] is at the mall with friends
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] gives the class. [MALE] wants to test them.
+[MALE] has a long way to go. [MALE] wants to get there faster.
+[MALE] decides to try it. [MALE] wants to make an investment.
+[MALE] walks toward the door. [MALE] will nervous.
+[MALE] knows [FEMALE] best. [MALE] is understanding.
+[MALE] asks another question. [MALE] wants to get answers.
+[MALE] changes persony's attitude. [FEMALE] will goes to their desk.
+[MALE] changes persony's ways. [F
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to take [FEMALE] to the hospital.
+[MALE] sends none to the council. [MALE] wants to be helpful.
+[MALE] plays [FEMALE] none in the development. [MALE] will helpful.
+[MALE] takes none at work. [MALE] is kind.
+[MALE] puts none back in the box. [MALE] wants to return home.
+[MALE] visits none in hospital. [MALE] will healthy.
+[MALE] plays basketball with personx's friends. [FEMALE] will they are
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] buys the car. [MALE] will happy.
+[MALE] tries to stop. [MALE] is aggressive.
+[MALE] takes none of a subject. [MALE] will good.
+[MALE] makes [FEMALE] arrest. [MALE] wants to make a decision.
+[MALE] raises the stakes. [MALE] is cautious.
+[MALE] takes part in the discussion. [MALE] is informed.
+[MALE] comes within range. [MALE] is determined.
+[MALE] watches the game. [FEMALE] wants to watch the game.
+[MALE] brings person
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] is playing basketball. [MALE] is athletic.
+[MALE] gets none back. [MALE] needs to find out what happened.
+[MALE] takes none to the store. [MALE] wants to buy something.
+[MALE] comes closer. [MALE] wants to be closer to the object.
+[MALE] takes [FEMALE] to the hospital. [MALE] needs get a card.
+[MALE] is a great athlete. [MALE] wants to be athletic.
+[MALE] turns the none around. [FEMALE] will happy with them.
+[MALE] takes none to the store.
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] sees persony's daughter. [MALE] wants to make sure their daughter is okay.
+[MALE] sees a play. [MALE] wants to enjoy the play.
+[MALE] turns persony's back. [MALE] is loving.
+[MALE] gives the none to persony's friend. [FEMALE] will glad.
+[MALE] makes [FEMALE] statement. [MALE] wants to make sure everyone is telling the truth.
+[MALE] becomes [FEMALE] employee. [MALE] wants to be a good person.
+[MALE] takes personx's first class. [MALE]
+---------------
+Complete the following text within five sentences:She didn't care.
+you is capable of place the object in a specific place.
+you is capable of take a photo.
+you is capable of use a calculator.
+you is capable of buy a gift.
+you is capable of make a phone call.
+you is capable of find a bike.
+you is capable of watch a movie.
+you is capable of feel pain.
+you is capable of get out of the woods.
+you is capable of smell the roses.
+you is capable of hear the music.
+you is capable of shop at a hardware store.
+you is capable of make a phone call.
+you is capable of sleep at night.
+you is capable of learn new things.
+you is capable of eat
+---------------
+Complete the following text within five sentences:She didn't care. [MALE] is indifferent.
+[MALE] buys a new car. [MALE] needs to spend money.
+[MALE] gives [FEMALE] a rest. [MALE] wants to go back to work.
+[MALE] starts a family. [MALE] needs ask family.
+[MALE] is a good teacher. [MALE] will accomplished.
+[MALE] calls the police. [MALE] wants to help someone.
+[MALE] gives [FEMALE] a second chance. [MALE] will helpful.
+[MALE] finds none in the attic. [MALE] wants to find the thing.
+[MALE
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] wants to impress someone. [MALE] needs to be a successful person.
+[MALE] brings [FEMALE] closer. [FEMALE] wants to be warm.
+[MALE] wants to lose weight. [FEMALE] wants to get in shape.
+[MALE] makes a video. [MALE] wants to watch the video.
+[MALE] writes personx's memoir. [MALE] needs to have some notes.
+[MALE] calls the police. [MALE] wants to find out what happened.
+[MALE] sees a man about a dog. [MALE] wants to go home.
+[MALE
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] loves persony's mother. [MALE] is caring.
+[MALE] is feeling sick. [MALE] will sick.
+[MALE] sees my friend. [MALE] is caring.
+[MALE] sees [FEMALE] in personx's office. [MALE] needs to approach persony.
+[MALE] drives persony's dog. [MALE] wants to thank persony.
+[MALE] watches the news. [MALE] needs to turn on the tv.
+[MALE] sends none to inform. [MALE] is resourceful.
+[MALE] takes a look at persony. [F
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] is very upset. [MALE] needs to talk to their friend.
+[MALE] loves [FEMALE] so much. [FEMALE] will [FEMALE] is proud.
+[MALE] watches [FEMALE] play. [MALE] needs to look at persony.
+[MALE] has to take a break. [MALE] wants to rest.
+[MALE] gets some money. [MALE] needs to go to the bank.
+[MALE] gets a new bike. [MALE] will excited.
+[MALE] is a big deal. [MALE] wants to be a big deal.
+
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] breaks the law. [MALE] is dangerous.
+[MALE] turns to face persony. [MALE] person x says something.
+[MALE] is a terrible person. [MALE] is cowardly.
+[MALE] feels none in persony's chest. [MALE] is sad.
+[MALE] makes some breakfast. [MALE] wants to make breakfast.
+[MALE] watches persony's favorite show. [MALE] wants to be entertained by person y.
+[MALE] walks toward the door. [MALE] will happy.
+[MALE] eats at a restaurant. [MALE] wants to go home
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] returns to persony's room. [MALE] wants to be in persony's room.
+[MALE] goes the extra mile. [MALE] is dedicated.
+[MALE] calls the police. [MALE] is friendly.
+[MALE] uses [FEMALE] excuse. [MALE] wants to leave.
+[MALE] takes the rest of the day. [MALE] needs to get up at 4.
+[MALE] eats the cookie. [MALE] is hungry.
+[MALE] has so much fun. [M
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] is a lot. [MALE] needs to find a job.
+[MALE] gets hurt. [MALE] wants to be helped.
+[MALE] is going to a party. [MALE] wants to come home.
+[MALE] is a nice guy. [MALE] wants to have a good time.
+[MALE] plays a none in the matter. [MALE] will powerful.
+[MALE] makes [FEMALE] sound. [FEMALE] wants to talk to personx.
+[MALE] eats a hamburger. [MALE] wants eat something else.
+[MALE] loses personx's nerve
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] is in good shape. [MALE] wants to eat healthy food.
+[MALE] tells [FEMALE] the whole story. [FEMALE] will to understand.
+[MALE] loves personx's new home. [MALE] needs to meet with him.
+[MALE] wants to be a model. [MALE] will accomplished.
+[MALE] has to go to the store. [MALE] needs to be in the car.
+[MALE] is a great cook. [MALE] wants to practice dishes.
+[MALE] is new to persony. [FEMALE] will angry.
+[MALE]
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] becomes a better person.
+[MALE] gives none to persony's friends. [FEMALE] will they start to feel better.
+[MALE] makes an appointment. [MALE] wants to make appointments.
+[MALE] takes [FEMALE] to the hospital. [FEMALE] will sorry.
+[MALE] writes [FEMALE] article. [MALE] will happy.
+[MALE] pulls the none to persony's lips. [MALE] will kind.
+[MALE] is a good employee. [FEMALE] will grateful.
+[MALE] decides to break up with persony. [F
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] is getting older. [MALE] is old.
+[MALE] wants to be a writer. [MALE] feels good..
+[MALE] is learning to ride a bike. [MALE] wants to get out of the car.
+[MALE] takes none to a laundromat. [MALE] wants to clean the laundromat.
+[MALE] throws a rock at persony. [FEMALE] will gets a new friend.
+[MALE] sends none to schools. [MALE] needs to be a teacher.
+[MALE] keeps the none in order. [FEMALE] wants to do them right.
+[
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] takes a walk. [MALE] wants to get fit.
+[MALE] takes a bus. [MALE] wants to go inside.
+[MALE] has a litter. [MALE] he puts it in the trash.
+[MALE] is a great cook. [MALE] is skilled.
+[MALE] takes my orders. [MALE] needs to get a book.
+[MALE] wants to make something. [MALE] wants to get a machine.
+[MALE] gives [FEMALE] a ride. [FEMALE] wants to go somewhere else.
+[MALE] returns the wallet. [MALE]
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] is a very good basketball player.
+[MALE] gets personx's ring. [MALE] needs to go to the ring.
+[MALE] gets the none together. [MALE] needs get to the place where the other members are.
+[MALE] takes [FEMALE] to the woods. [MALE] wants to go hiking.
+[MALE] is cooking dinner for personx's family. [MALE] needs to prepare the food.
+[MALE] is driving home from school. [MALE] is tired.
+[MALE] does nothing. [MALE] wants to continue to do nothing.
+[MALE] is
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] is a success. [MALE] is successful.
+[MALE] makes [FEMALE] sign. [MALE] needs to sign persony's signature..
+[MALE] is not aware of persony. [MALE] wants to keep [FEMALE] safe.
+[MALE] tells persony's story. [MALE] is intelligent.
+[MALE] has a great job. [MALE] wants to be a successful company owner..
+[MALE] plays cards. [MALE] wants to get a good grade in the game.
+[MALE] gets personx's mail. [MALE] wants to leave the mail.
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] is none at the door. [MALE] will anxious.
+[MALE] runs for personx's life. [MALE] needs to think about things.
+[MALE] becomes the first one. [MALE] [MALE] is rewarded.
+[MALE] gets personx's phone back. [MALE] wants to call the friend.
+[MALE] gets a good look. [MALE] wants to show off.
+[MALE] is on personx's way to work. [MALE] wants to go on their way.
+[MALE] is bored at home. [MALE] needs to be in a hurry.
+[
+---------------
+Complete the following text within five sentences:She didn't care.
+satisfy hunger with minimum effort is motivated by you enjoy your meal.
+write a program is motivated by you are talented.
+someone is capable of find a dead dog.
+take a break has subevent feel tired.
+eat healthily has subevent you become healthier.
+a person does not desire be in debt.
+a person does not desire be lonely.
+a person does not desire be alone.
+a person does not desire be in debt.
+you is capable of listen to music.
+a person is capable of use a television.
+a person desires companionship.
+a person desires be entertained.
+go for a walk has subevent you feel tired.
+a person desires companionship.
+a
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] goes to a party with persony's friends. [MALE] is social.
+[MALE] wins the game. [MALE] is talented.
+[MALE] is on the run from the police. [MALE] wants to be prepared.
+[MALE] takes none in the course. [MALE] needs to study.
+[MALE] starts a new job. [MALE] wants to work hard.
+[MALE] spends none with personx's family. [MALE] is kind.
+[MALE] takes a car trip. [MALE] wants to go somewhere else.
+[MALE] helps [FEMALE] understand
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] writes persony's letter. [MALE] will helpful.
+[MALE] raises persony's hand. [MALE] wants to be friendly.
+[MALE] takes none to the convention. [MALE] is responsible.
+[MALE] takes a trip. [MALE] wants to spend time with his friends.
+[MALE] takes the money. [MALE] needs to go to the bank.
+[MALE] is in the thick of things. [MALE] wants to make [MALE] feel better.
+[MALE] never looked. [MALE] wants to be the best ever.
+[MALE] makes [F
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] wants to go to the mall. [MALE] needs to make arrangements.
+[MALE] goes back to persony's house. [MALE] needs to pick up the phone.
+[MALE] writes a letter to persony. [MALE] will accomplished.
+[MALE] sees a doctor. [MALE] needs to drive to the doctor's office.
+[MALE] sells the car. [MALE] is generous.
+[MALE] gets personx's hair cut. [MALE] is meticulous.
+[MALE] is driving down the street. [MALE] wants to see the city lights.
+[MALE] is having
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] has a family. [MALE] wants to be a good neighbor.
+[MALE] puts none in the vase. [MALE] will excited.
+[MALE] receives a gift. [MALE] [MALE] hands out gifts.
+[MALE] sees a deer. [MALE] wants to go to the store.
+[MALE] gets a new pair. [MALE] is smart.
+[MALE] has an appointment. [FEMALE] will they get a reply.
+[MALE] takes [FEMALE] to the water. [MALE] needs to go to the water.
+[MALE] breaks person
+---------------

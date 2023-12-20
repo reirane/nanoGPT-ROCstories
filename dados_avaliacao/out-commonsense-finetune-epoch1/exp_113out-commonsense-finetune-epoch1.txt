@@ -1,0 +1,232 @@
+Overriding: out_dir = out-commonsense-finetune-epoch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:My government teacher had been very ill.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:My government teacher had been very ill. He wanted to see me.
+[text] takes a picture of the picture.
+[text] helps the person.
+[text] takes an oath.
+[text] goes to the doctor.
+[text] sees the dog.
+[text] gives the person an explanation.
+[text] is the first man.
+[text] is an object.
+[text] leaves a hat.
+[text] gives the person a job.
+[text] is an advocate.
+[text] is at the store.
+[text] is a musician.
+[text] is present.
+[text] is willing.
+[text] is satisfied.
+[text] gets the person's mind
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. She was very ill.
+[MALE] is very confused. [MALE] will has to tell them.
+[MALE] walks the dog. [MALE] will has to walk the dog.
+[MALE] wants to go outside. [MALE] wants to study.
+[MALE] is never with [FEMALE] . [MALE] needs to say hello.
+[MALE] hears none in the morning. [MALE] wants to be the leader.
+[MALE] speaks out loud. [MALE] is loud.
+[MALE] makes it to the store. [MALE] is nice.
+[MALE] gets it done. [
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I would like to see him. [sighs]I always knew the answer. [sighs]I tried everything. [sighs]But it took me a long time. [sighs]But it was fun. [sighs]I wanted to go home. [sighs]I will be on my way home. [sighs]I will be happy. [sighs] [sigh]I will see my friends. [sigh]I will be in a restaurant. [sighs]I will have a great time. [sigh]I would like to go to a party. [sigh]I would like to feel good. [sigh]
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I hope she is okay.I am afraid.I am not a good teacher.I am very stubborn.I will be punished.I will be in pain.I will be in trouble.I am sorry.I am very sorry.I am sorry.I am sorry.I am sorry.I am sorry.I am safe.I am safe.I am safe.I am safe.I am safe.I am safe.I am safe.I am safe.I am safe.I am safe.I am safe.I is safe.I is safe.I is safe.I is safe.I is safe.I is safe.I is safe.I is safe.I is safe.I is safe.I is
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] needs to have a go at it. [MALE] needs to hear the fact.
+[MALE] is in possession. [MALE] will relaxed.
+[MALE] is in danger. [MALE] is anxious.
+[MALE] wants to eat dinner. [MALE] wants to eat.
+[MALE] is at the zoo. [MALE] is fun.
+[MALE] gives [FEMALE] a kiss. [FEMALE] will happy.
+[MALE] is always in charge. [MALE] will helpful.
+[MALE] finds [FEMALE] in an alley. [MALE] is not
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] asks the teacher if they are okay.
+[MALE] has the right to express himself.
+[MALE] meets another person.
+[MALE] gives [FEMALE] permission to use their credit cards.
+[MALE] makes [FEMALE] feel good.
+[MALE] does the math.
+[MALE] goes to the store.
+[MALE] wants to know more.
+[MALE] is very helpful.
+[MALE] has the right to say something.
+[MALE] does nothing.
+[MALE] is very cooperative.
+[MALE] is willing.
+[MALE] goes to the park
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+my teacher has been very ill. [FEMALE] is the one.
+my teacher has been very ill. [FEMALE] is healthy.
+my teacher has been healthy. [FEMALE] is happy.
+my teacher has been happy. [FEMALE] is energetic.
+my teacher has been happy. [FEMALE] is happy.
+my teacher has been happy. [FEMALE] is happy.
+my teacher has been happy. [FEMALE] is content.
+my teacher has been happy. [FEMALE] is happy.
+my teacher has been happy. [FEMALE] is content.
+my teacher has been happy. [FEMALE]
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I was looking for a job.I was going to buy something.We should not be in a situation where we can't find a job.Let me go.I can't handle this.I will die.I will feel bad.I is sick.The situation is dangerous.I want to be a lawyer.I have my lawyer.I will have a good future.I will have a good job.I will have a good house.I want to have a good life.I am a writer.I is a cook.I is a good traveler.I is a good person.I is a good person.I is a good person.I wants to save money.I wants to stay home.I wants to be good.
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] is caring.
+[MALE] is trying.
+[MALE] gets none back.
+[MALE] gives [FEMALE] a raise.
+[MALE] finds [FEMALE] well.
+[MALE] is a good person.
+[MALE] teaches [FEMALE] how to use the bathroom.
+[MALE] takes [FEMALE] to the grocery store.
+[MALE] finds [FEMALE] in persony's room.
+[MALE] lives with [FEMALE] for awhile.
+[MALE] gets [FEMALE] in the car.
+[MALE] gets the none
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] is currently engaged in a task. [MALE] will is relieved.
+[MALE] will to have sex with another person. [MALE] wants to have sex.
+[MALE] will to be able to speak. [MALE] is calm.
+[MALE] is the first to work. [MALE] is motivated.
+[MALE] is able to drive a car. [MALE] will happy.
+[MALE] will on day one. [MALE] is cautious.
+[MALE] is working. [MALE] wants to rest.
+[MALE] will to learn about the art. [MALE] is more knowledgeable
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+you do not need to be of the right age to do so.
+you do not need to be of the right age to use the computer.
+please enter all the information under the heading.
+this is an error.
+you do not need to enter the information.
+this is not a good time.
+the person within the room needs to be asleep.
+you do not need to open the door.
+this is not a good day.
+you do not need to sleep in the house.
+this is not a good time.
+this is not a good time.
+you do not need to leave the room.
+you do not need to take a shower.
+this is not a good time.
+
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I've had an exam.I never would've thought of that.I'm sorry if I'm late.I will explain.I am sorry.It will be ok.I will have a question to ask.I will have a question to answer.I will be late.I will make good grades.I will have a job.I will be able to get a job.I will feel better.I will be a good person.I will be successful.I will be capable.I will be productive.I will be healthy.I will be helpful.I will be helpful.I will be helpful.I will be knowledgeable.I will be helpful.I will have a person..I will be helpful.I will be safe.
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] wants to help the child.
+[MALE] is a writer.
+[MALE] wants to go to the store.
+[MALE] wants to be on the receiving end of an injury.
+[MALE] provides [FEMALE] with money.
+[MALE] is good at the job.
+[MALE] gives [FEMALE] an opportunity.
+[MALE] desires to go on vacation.
+[MALE] is happy.
+[MALE] wants to work with [FEMALE] in a restaurant.
+[MALE] looks around.
+[MALE] is full of energy.
+[MALE] has [F
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I told my teacher that if she has a heart attack then they will have to call the ambulance.I told my teacher that my parents is pretty.I told my parents that my sister is going to my funeral.I told my teacher that my mom is really sick.I told my teacher that my dad is a fighter.I told my teacher that my mom is a drug addict.I told my teacher that my dad is a war hero.I told my teacher that my mom has a baby girl.I told my teacher that my mom is an atheist.I told my teacher that my mom is a lover.I told my teacher that my mom is very smart.I told my teacher that my mom is a good person.I told my teacher
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+You have to pay the fee.
+One hundred percent of your money will be spent on the course.
+My government teacher is very popular.
+You will be promoted.
+You will be free.
+I will give you a good grade.
+I will have fun.
+You will be fine.
+You will be paid.
+I will get a job.
+You will be able to use.
+I will be happy.
+I will be happy.
+[The course is called] [The course is called] [The course is called] is called] is called
+[The course is called] [The course is called] is called] is called
+[The course is called] [The course is called
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.She was very sick.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the severity of the illness.The teacher asked about the
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. He was very active in helping someone. I could not help but be inspired.My government teacher had been trying to help. He had been feeling exhausted.I could not help but enjoy the day.I was lucky.I was good.I was going to be in school.I was going to be at work.I was going to have fun.I wanted to thank god.I wanted to make a joke.I wanted to relax.I was planning to go to a party.I was not happy.I thought the subject was irrelevant.I wanted to thank god.I was happy.I thought about me.I wanted to thank god.I wanted to help.I was really motivated.I was motivated.I was really motivated.
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I asked him if he had a headache. He told me to go to the hospital. he liked his job. I asked if he was okay. He liked the job. I asked if he was fine. He told me he was okay. I asked if he was ok. he was good. I told him he was good. he was good. I told him he was ok. he was fine. I told him he was fine. he was good. I told him he was good. he was happy. I told him he was happy. he was happy. I told him he was happy. he was satisfied. I told him he was happy. he was satisfied. I told him he was happy. he was pleased. I told
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I will give you a ticket. I will give you money. I will be in charge.
+[MALE] is very popular.
+[MALE] desires to stay for a while longer.
+[MALE] runs away from school.
+[MALE] is too shy.
+[MALE] wants to impress.
+[MALE] will get out of bed.
+[MALE] is a great person.
+[MALE] wants to be at a party.
+[MALE] asks [FEMALE] to go to the park.
+[MALE] wants to go to the store.
+[MALE] wants to get a job.
+[MALE] is at school
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. He needs to be at the hospital. I will call my doctor. [pause] [laugh] [laugh] [laugh] [smile] [start] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play] [play]
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. She was worried about her students getting hurt, and they were not going to be a success. [MALE] went to the hospital. [MALE] must take medication. [MALE] will happy. [MALE] will angry. [MALE] is good. [MALE] is helpful. [MALE] is helpful. [MALE] is helpful. [MALE] is helpful. [MALE] is nice. [MALE] wants to thank [MALE] for taking care of him. [MALE] wants to have some wine. [MALE] wants to drink some wine. [MALE] wants to have some energy. [MALE] is motivated. [MALE]
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] takes a walk. [MALE] makes a remark.
+[MALE] gets a haircut. [MALE] needs to have the person they want to call.
+[MALE] comes back to persony. [MALE] is friendly.
+[MALE] teaches persony. [MALE] will happy.
+[MALE] turns persony's back. [MALE] will shocked.
+[MALE] wants to make something. [MALE] is brave.
+[MALE] opens persony's eyes. [MALE] wants to see what is happening.
+[MALE] calls the cops. [MALE] needs to be on the lookout
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I will help you a lot.I will be in a hospital soon.Please use a medical device.You can drink water.I am pregnant.I will be late.I am not going to any of the parties.I will pay the bill.I will be late.I will be in the hospital.Please use a medical device.You can drink water.I am pregnant.I will be in a hospital.Please use a medical device.You can drink water.I am pregnant.I will be in a hospital.Please use a medical device.You can drink water.I am pregnant.I will be in a hospital.Please use a medical device.You can drink water.I am pregnant.I will be in a hospital
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. My employer is a doctor.My goal is to work hard.My work is to make money.I am here to help.I will go back home.My goal is to use the bathroom.My work is a restaurant.My goal is to eat.My goal is to be a good friend.My goal is to be a good citizen.My goal is to make my mark.My goal is to be proud.My goal is to have a good life.My goal is to have a good job.My goal is to have a good education.My goal is to be successful.My goal is to have a good job.My goal is to work hard.My goal is to be an architect.My goal is to be a good
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.I have to take the teacher's name off my student list.I will never have to go to class again.My children will be very happy.My government teacher is very happy.I will never have trouble with my teacher.My father is a farmer.It is very depressing when you see the picture.My student has been in therapy.I will miss my son.I will make sure the teacher is there.My friend has become very emotional.I will always be interested in him.My daughter will be very excited.My neighbor is doing the housework.I will be in the store.My teacher is very helpful.I will be in the house.My girlfriend is in the car.My neighbor is in the office.My friend
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+satisfy the following question within five sentences:Do you get a good result?
+obtain the following information within five sentences:A doctor has diagnosed my disease.
+person has the following ability:he is able to read and write.
+person has the following ability:he is able to see the future.
+person has the following ability:he is capable of think.
+person has the following ability:he is capable of be successful.
+person has the following ability:he is capable of be generous.
+person has the following ability:he is capable of be generous.
+person has the following ability:he is capable of be generous.
+person has the following ability:he is capable of be generous.
+person
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.The teacher was the only one to listen.I will have my job done.I will be in the hospital.If I do not do it immediately, I will die.If I do not do it immediately, I will be in a coma.If I do not do it immediately, I will have to go to the hospital.If I do not do it immediately, I will have to go to the emergency room.If I do not do it immediately, I will have to go to the hospital.if I do not do it immediately, I will be in a coma.if I do not do it immediately, I will have to go to the hospital.if I do not do it immediately, I will be in a coma.if
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. No one will have noticed you.<|endoftext|>SALT LAKE CITY — The Utah Legislature's minimum wage increase has pushed a controversial measure to the floor.
+
+The House of Representatives passed the measure late Friday.
+
+"It is a very sad day for a lot of people in Utah," said Rep. David Wright, R-Hayesville. "We are losing one of our primary goals."
+
+The measure was approved by the House on a party line vote. The measure was sponsored by Gov. Gary Herbert.
+
+"We are not allowed to have a debate on this issue and it is a big issue for us," said Herbert.
+
+The measure has a co-sponsor, Rep. Rick Sizemore
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. I was not allowed to see the teacher.That is not acceptable.My house is not safe for you to live in.I am not allowed to call the police.That is illegal.I is not allowed to use the bathroom.It is illegal.My family is not in the house.I am not allowed to take a shower.That is not acceptable.My friend has a bad day.I am not allowed to go to the store.I is not allowed to buy something.My family is not in the house.I is not allowed to go for a walk.That is not acceptable.My dog has a bad day.I am not allowed to go to the vet.That is not acceptable.My daughter has a bad day.
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. It said he was in a coma. I was told. I need go to the library right now. it wants to have a lot of money. I will not give in. it is busy. [sighs] is not going to work. [starts to talk] i will take a break. [sighs] will was helpful. they took the money. [laughs]
+[MALE] will be very helpful. [MALE] will has been very helpful. [MALE] will will will happy with them. [MALE] will will sad. [MALE] will relieved. [MALE] will will satisfied. [MALE] will does not waste their time. [MALE] is
+---------------

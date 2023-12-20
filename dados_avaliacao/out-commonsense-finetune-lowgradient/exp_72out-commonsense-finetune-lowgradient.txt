@@ -1,0 +1,284 @@
+Overriding: out_dir = out-commonsense-finetune-lowgradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:I developed an oral fascination.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] is driving to the dentist. [MALE] needs to get in the car.
+[MALE] takes none to the store. [FEMALE] wants to help.
+[MALE] brings [FEMALE] to see. [MALE] wants to take care of the person.
+[MALE] plays chess every day. [MALE] is active.
+[MALE] takes a call. [MALE] is outgoing.
+[MALE] sees [FEMALE] for the first time. [MALE] is engaged.
+[MALE] takes persony's picture. [MALE] wants to get a picture with person.
+[M
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] will interesting.
+[MALE] breaks persony's arm. [MALE] will angry.
+[MALE] gets persony's phone back. [MALE] wants to call personx.
+[MALE] loves a dog. [FEMALE] wants to have a dog.
+[MALE] gets a job. [MALE] needs to have a job.
+[MALE] pulls none back. [MALE] is kind.
+[MALE] writes a book. [FEMALE] will proud.
+[MALE] buys personx's groceries. [MALE] wants to eat something nice.
+[MALE] gets a new phone.
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] wants to learn more.
+[MALE] buys the none for the none. [MALE] wants to buy something.
+[MALE] takes [FEMALE] by the hand. [MALE] wants to keep the person's hand safe.
+[MALE] is finally over. [FEMALE] wants to go home.
+[MALE] takes none on a date. [MALE] wants to have a good time.
+[MALE] plays none in the backyard. [MALE] wants to relax.
+[MALE] is a very nice person. [FEMALE] wants to be nice and considerate.
+[MALE] gives [F
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] needs to be on the internet.
+[MALE] is running late. [MALE] wants to sleep.
+[MALE] gives [FEMALE] a fright. [MALE] wants to be very nervous.
+[MALE] is running a marathon. [MALE] is nervous.
+[MALE] gets a new pair. [MALE] wants to wear the pair.
+[MALE] goes home to persony's parents. [FEMALE] will has her parents.
+[MALE] makes personx's first impression. [MALE] wants to be a good friend.
+[MALE] goes to a party with persony. [M
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] needs to have a wife. [MALE] gets more work.
+[MALE] looks good. [MALE] wears good clothes.
+[MALE] keeps [FEMALE] company. [MALE] wants to keep the company.
+[MALE] buys [FEMALE] a new one. [MALE] is excited about the future.
+[MALE] explains to personx's friend. [MALE] is smart.
+[MALE] is playing a game of chess. [MALE] is curious.
+[MALE] takes none to the park. [FEMALE] will happy.
+[MALE] plays none in the classroom
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] asks personx's parents. [MALE] will nice.
+[MALE] sets persony's none at ease. [MALE] needs to rest.
+[MALE] is really busy. [MALE] is busy.
+[MALE] finds persony's dog. [MALE] wants to take care of the dog.
+[MALE] is playing a game. [FEMALE] will happy..
+[MALE] comes into personx's room. [MALE] wants to get some rest.
+[MALE] runs back to the house. [MALE] wants to get home.
+[MALE] makes fun of personx's mother
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] takes [FEMALE] to the zoo. [MALE] wants to take [FEMALE] to the zoo.
+[MALE] sends none to the grocery store. [FEMALE] will their groceries arrive.
+[MALE] talks personx's none into something. [MALE] will interested.
+[MALE] gives [FEMALE] a call. [MALE] is grateful.
+[MALE] gives [FEMALE] the money. [FEMALE] will relieved.
+[MALE] loves it when none got away. [MALE] gets nervous.
+[MALE] makes [FEMALE] sign. [F
+---------------
+Complete the following text within five sentences:I developed an oral fascination. x
+[MALE] answers every question. [MALE] will happy.
+[MALE] is at school. [MALE] needs to have a job.
+[MALE] gives [FEMALE] a good grade. [MALE] is informed.
+[MALE] leaves the house. [MALE] wants to get home.
+[MALE] throws a party for persony's birthday. [MALE] wants to be happy.
+[MALE] gives personx's dad ___. [FEMALE] will happy.
+[MALE] sees [FEMALE] in the hospital. [MALE] wants to be available.
+[MALE] brings person
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] is playing a game of hide and seek. [MALE] is bored.
+[MALE] is running late for work. [MALE] is tired.
+[MALE] takes persony's money. [MALE] is mean.
+[MALE] carries none to school. [MALE] needs to get down to the point.
+[MALE] takes [FEMALE] to the zoo. [MALE] wants to be cared for.
+[MALE] lays in bed. [MALE] is tired.
+[MALE] gets personx's hair done. [MALE] needs to take them off.
+[MALE] puts the none
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] is curious.
+[MALE] gives [FEMALE] a recipe. [MALE] wants to have fun.
+[MALE] asks [FEMALE] for a ride. [FEMALE] will goes to the car.
+[MALE] gives [FEMALE] the gift. [FEMALE] wants to thank person y.
+[MALE] turns persony's none away. [MALE] is helpful.
+[MALE] brings personx's none over. [MALE] has good manners.
+[MALE] does [FEMALE] the rest of the work. [MALE] will friendly.
+[MALE] finds
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] pays persony's respects. [FEMALE] will smiles.
+[MALE] gives [FEMALE] a ride home. [MALE] wants to go home.
+[MALE] drives none around town. [MALE] wants to travel.
+[MALE] gives [FEMALE] the keys. [FEMALE] will wants to get the keys back.
+[MALE] has a nervous breakdown. [MALE] wants to try and get help.
+[MALE] gives [FEMALE] a gift. [MALE] is generous.
+[MALE] gives [FEMALE] a new book. [MALE] wants
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] is observant.
+[MALE] raises persony's hands. [FEMALE] wants to be friendly.
+[MALE] looks back at me. [MALE] wants to admire myself.
+[MALE] takes persony's shirt off. [MALE] needs ask what was on the shirt.
+[MALE] gives [FEMALE] a ride. [FEMALE] will grateful.
+[MALE] makes [FEMALE] laugh. [MALE] is funny.
+[MALE] gives [FEMALE] more money. [MALE] is generous.
+[MALE] gets a haircut. [MALE] is smart
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] changes persony's appearance. [MALE] wants to look nicer.
+[MALE] gives [FEMALE] a clue. [MALE] is intelligent.
+[MALE] gives [FEMALE] the benefit of the doubt. [FEMALE] will they never get another job.
+[MALE] makes a lot of money. [MALE] wants to make more money.
+[MALE] is on the toilet with persony. [MALE] needs to call the bathroom.
+[MALE] is playing a game of chess. [MALE] wants to figure out how to play..
+[MALE] tries to get a divorce. [
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] needs to be a good listener.
+[MALE] takes none to the store. [MALE] needs to get their hands dirty.
+[MALE] buys none this year. [MALE] is happy.
+[MALE] brings [FEMALE] to the emergency room. [MALE] wants to give [FEMALE] some help.
+[MALE] takes none to the zoo. [MALE] needs to be an animal lover.
+[MALE] puts personx's none in the fridge. [MALE] needs to have food.
+[MALE] gives [FEMALE] a hug. [FEMALE] will relieved.
+[
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] is very upset. [FEMALE] will upset.
+[MALE] keeps [FEMALE] up til night. [MALE] is outgoing.
+[MALE] walks to the bar. [MALE] wants to see the bar.
+[MALE] finds persony's husband. [MALE] is friendly.
+[MALE] takes [FEMALE] to the zoo. [MALE] gets yelled at.
+[MALE] invites persony's friends over. [MALE] wants to meet new people.
+[MALE] asks none to help. [FEMALE] wants to give them advice.
+[MALE] sees person
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] breaks the law. [MALE] is suspect.
+[MALE] turns persony's none in the direction. [MALE] wants to be assertive.
+[MALE] puts [FEMALE] in the position. [FEMALE] is responsible.
+[MALE] carries personx's none into [FEMALE] hands. [MALE] needs to be standing on the ground.
+[MALE] buys a new bike. [MALE] wants to be a good musician.
+[MALE] makes [FEMALE] wish. [FEMALE] wants to get out of the car.
+[MALE] drops the ball. [
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] tries to make persony's life better. [MALE] is ambitious.
+[MALE] gives [FEMALE] a ride. [MALE] is curious.
+[MALE] calls none to let persony know. [FEMALE] will is nervous.
+[MALE] makes [FEMALE] noise. [MALE] wants to help.
+[MALE] buys none for the price. [FEMALE] wants to buy a nice gift for personx.
+[MALE] throws the none away. [MALE] will angry.
+[
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] desires a new book. [MALE] is adventurous.
+[MALE] makes [FEMALE] meal. [FEMALE] will happy.
+[MALE] takes a lot of pictures. [MALE] is artistic.
+[MALE] plays a none in the sandbox. [MALE] needs to have a team.
+[MALE] puts none to use. [MALE] wants to make money.
+[MALE] rides the bike home. [MALE] wants to have fun.
+[MALE] goes on a date. [MALE] wants to have a good time.
+[MALE] gives [FEMALE] a ride
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] takes none to the museum. [MALE] wants to go to the museum.
+[MALE] sees a doctor. [MALE] wants to see a doctor.
+[MALE] runs a marathon. [MALE] needs to have a running marathon.
+[MALE] buys a new baseball bat. [MALE] wants to spend money.
+[MALE] has a really good time. [MALE] is relaxed.
+[MALE] gets [FEMALE] dose. [FEMALE] will like it is good for them.
+[MALE] goes back to the store. [MALE] is nice.
+[MALE] sees a
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] becomes [FEMALE] [FEMALE] in need. [MALE] wants to be a better person.
+[MALE] takes a photo. [MALE] wants to take a picture of it.
+[MALE] finds a new job. [MALE] is motivated.
+[MALE] meets all the requirements. [MALE] wants to learn more..
+[MALE] gets a new haircut. [MALE] needs to purchase a new haircut.
+[MALE] gives [FEMALE] opportunity. [FEMALE] will they thank their friend.
+[MALE] teaches persony's children. [MALE] needs to go
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] wants to write on paper and play cards.
+[MALE] finds [FEMALE] room. [MALE] wants to have a nice time.
+[MALE] holds [FEMALE] tightly. [MALE] is nervous.
+[MALE] loves none for years. [MALE] will refreshed.
+[MALE] gives [FEMALE] a hug. [FEMALE] wants to be affectionate.
+[MALE] eats breakfast. [MALE] will satisfied.
+[MALE] makes [FEMALE] work. [MALE] wants take care of the work.
+[MALE] finds none in the yard. [
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] takes none to the park. [MALE] is adventurous.
+[MALE] takes none on a date. [MALE] needs to have a date.
+[MALE] plays a none in personx's life. [MALE] is nurturing.
+[MALE] meets the girl. [MALE] is friendly.
+[MALE] is not getting the job. [MALE] wants to work.
+[MALE] has a baby. [MALE] [MALE] has a baby.
+[MALE] calls persony's mom. [MALE] wants to meet persony.
+[MALE] returns the favor. [MALE]
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] plays a lot. [MALE] wants to help others.
+[MALE] takes persony's turn. [MALE] wants to be a leader.
+[MALE] makes [FEMALE] friends. [MALE] wants to be friends with personx.
+[MALE] buys a house. [FEMALE] wants to build the house.
+[MALE] tells [FEMALE] not to worry. [MALE] is serious.
+[MALE] sees persony's mom. [FEMALE] will happy.
+[MALE] buys a new pair of shoes. [MALE] needs to call persony.
+[M
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] is driving home from work. [MALE] wants to leave work.
+[MALE] invites [FEMALE] to personx's house. [MALE] will relaxed.
+[MALE] catches [FEMALE] in the act. [MALE] wants to be loved.
+[MALE] provides [FEMALE] opportunity. [MALE] needs to get personx's attention.
+[MALE] takes a picture of persony. [MALE] needs get person y's hand on person x.
+[MALE] takes a picture of persony. [FEMALE] will they find out what's going on..
+[MALE]
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I have a strong desire for read.I feel happy.I find it comforting.I love music.I like it.I have a great time.I feel great.I think about things.I am capable.I feel good.I feel good.It is very good.I am capable.I am capable.I am capable.I will happy.I get a gift.I receive compliment.I am in love with personx.I make a choice.I am capable.I go fishing.I am capable.I am capable.I love the weather.I am capable.I am capable.I get excited.I love the weather.I am capable.I am capable.I is capable.I is capable.I
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] becomes very angry. [MALE] wants to get rid of persony.
+[MALE] is driving. [MALE] wants to go somewhere.
+[MALE] is playing basketball. [MALE] wants to be competitive.
+[MALE] takes the bus. [MALE] is on time.
+[MALE] takes the stand. [MALE] needs to get a vote.
+[MALE] goes to a party. [MALE] will happy.
+[MALE] makes [FEMALE] dinner. [MALE] wants to make personx's meal.
+[MALE] saves none for weeks. [FEMALE] will
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] will smart.
+[MALE] gives the dog a scratch. [FEMALE] will happy.
+[MALE] gets personx's tickets. [MALE] wants to take a look at the ticket.
+[MALE] cuts personx's hair. [MALE] wants to look good..
+[MALE] asks [FEMALE] to marry. [MALE] wants to know if personx is married.
+[MALE] tells [FEMALE] has a heart attack. [FEMALE] wants to ask their friend to take care of it.
+[MALE] prevents none from escaping. [MALE] will responsible.
+[MALE
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] wants to be entertained.
+[MALE] finds persony's way home. [FEMALE] wants to be with personx.
+[MALE] plays the violin. [MALE] wants to play the violin.
+[MALE] gives [FEMALE] food. [MALE] wants to eat food.
+[MALE] wins every time. [MALE] wants to accomplish his goal.
+[MALE] looks back at persony. [MALE] wants to give [FEMALE] [FEMALE] a smile.
+[MALE] hits persony's head. [MALE] gets a concussion.
+[MALE] gives [
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] wants to talk to others about his or her interests.
+[MALE] needs to make a phone call. [MALE] needs has a very good phone.
+[MALE] buys a new car. [MALE] wants to make a nice vacation home.
+[MALE] makes persony's hair. [MALE] wants to have fun.
+[MALE] puts on persony's hat. [FEMALE] will is grateful.
+[MALE] asks [FEMALE] for directions. [MALE] needs to be in a car.
+[MALE] hits persony's head. [MALE] needs get a hit on.
+[M
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] wants to make the experience more fun.
+[MALE] takes none to the store. [MALE] wants to buy something new.
+[MALE] is driving to work. [FEMALE] will excited.
+[MALE] takes none on a trip. [MALE] wants to stay in touch.
+[MALE] is playing with persony's friends. [MALE] wants to play with friends.
+[MALE] buys a toy. [MALE] wants to enjoy the toy.
+[MALE] starts a new business. [FEMALE] wants to show interest.
+[MALE] does not like persony's taste. [MALE
+---------------

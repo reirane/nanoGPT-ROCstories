@@ -1,0 +1,309 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tim was at the bar.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tim was at the bar. He wanted to go to the club. He was not available.J was driving. He wanted to get out of the car.J was under the influence.J was low.J was sleepy.J was friendly.J was helpful.J was helpful.J was knowledgeable.J was smart.J was successful.J was responsible.J was helpful.J was helpful.J was caring.J was brave.J was joyful.J was helpful.J was helpful.J was helpful.J was helpful.J was helpful.J was helpful.J was helpful.J was kind.J was helpful.J was knowledgeable.J was diligent.J was responsible.J was responsible.J was compassionate.J was compassionate.J was
+---------------
+Complete the following text within five sentences:Tim was at the bar. He wants to go out at night.go see movies.go to the park.go get a haircut.go to the park.go to the store.go to a store.go to the store.go to the store.go to the store.go to the store.go to the mall.go to the mall.go to the mall.go to the mall.go to the mall.go to the mall.go to the mall.go go to a theater.go to the theater.go to the theater.go to the theater.go to the theater.go to the theatre.go to the theatre.go to the theater.go to the theatre.go to the theatre.go to the theatre.go to
+---------------
+Complete the following text within five sentences:Tim was at the bar.Sooo is a friend.sion is at the mall.salt is good for humans.salty is good for the earth.summer is full of rain.space is full of snow.you is capable of go anywhere.you is capable of eat something good.you is capable of be a good person.you is capable of make things better.you is capable of read books.you is capable of wear clothes.you is capable of lose weight.you is capable of be on a trip.you is capable of travel to new locations.you is capable of take a trip.you is capable of buy something.you is capable of put in a purchase.you is capable of open a door.you is capable of get in
+---------------
+Complete the following text within five sentences:Tim was at the bar.You were at the mall.You were at the school.You saw a new tv show.You had a bad relationship.You wanted to change your name.Your mom is pregnant.You were having a family emergency.You had a hard time.You were being social.You were having a good time.You were home to your family.You were excited to be home.You wanted to go out.You were having a good time.You were happy.You were thinking about what you wanted.You wanted to be close to someone.You wanted to keep going.You were happy.You were caring.You had a positive attitude.You wanted to be helpful.You were caring.You were caring.You were caring.You wanted to
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+[MALE] needs to have a go at it. [MALE] needs to be able to move things around.
+[MALE] gets [FEMALE] to the mall. [MALE] wants to get a good look at the mall.
+[MALE] wants to eat lunch. [MALE] wants to eat.
+[MALE] plays at the game. [MALE] is fun.
+[MALE] gives [FEMALE] a kiss. [MALE] will happy.
+[MALE] eats all day. [MALE] is energyful.
+[MALE] goes everywhere. [MALE] is friendly.
+[MALE] spends the
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+[MALE] wants to talk to persony.
+[MALE] wants to talk to the persony.
+[MALE] wants to go to a store.
+[MALE] gives personx's dog.
+[MALE] stops persony's dog.
+[MALE] takes [FEMALE] to task.
+[MALE] makes none for personx's dog.
+[MALE] makes persony's none for personx's family.
+[MALE] is in a hurry.
+[MALE] spends most of persony's time.
+[MALE] turns persony's head to see how they do.
+[MALE] goes about persony
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+(talk) is at the time.
+(talk) is at the hotel.
+(talk) is at the studio.
+(talk) is at the restaurant.
+(talk) is at the bus.
+(talk) is at the house.
+(talk) is at the shop.
+(talk) is at the office.
+(talk) is at the store.
+(talk) is at the movie.
+(talk) is at the newspaper.
+(talk) is at the school.
+(talk) is at the school.
+(talk) is at the restaurant.
+(talk) is at the shopping center.
+(talk) is at the store.
+(talk) is
+---------------
+Complete the following text within five sentences:Tim was at the bar. x was at the kitchen. y was at the kitchen.
+[MALE] invites [FEMALE] to [FEMALE] party. [MALE] wants to keep track of person x.
+[MALE] takes none to the vet. [MALE] wants to be sure they need to have a vet appointment.
+[MALE] takes none to the park. [MALE] wants to get a spot.
+[MALE] takes none for a spin. [MALE] is motivated.
+[MALE] talks to persony's friends. [MALE] wants to ask questions.
+[MALE] sees personx's none in persony's eyes. [MALE]
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+[MALE] is caring. [MALE] needs to be nice to persony.
+[MALE] takes a shower. [MALE] needs to go to the bathroom.
+[MALE] finishes school. [MALE] is accomplished.
+[MALE] is playing football. [MALE] wants to be able to play football.
+[MALE] takes a break. [MALE] is tired.
+[MALE] brings the cat. [MALE] is adventurous.
+[MALE] gives [FEMALE] the ball. [MALE] will excited.
+[MALE] gets a haircut. [MALE] is very happy.
+[MALE
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+[MALE] sees [FEMALE] heart. [MALE] is relieved.
+[MALE] eats a burger. [MALE] will relaxed.
+[MALE] loses the vote. [MALE] needs to go to the store.
+[MALE] gives [FEMALE] the benefit of the doubt. [MALE] wants to consider the facts.
+[MALE] makes [FEMALE] feel better. [MALE] is more relaxed.
+[MALE] walks the dog. [MALE] will happy.
+[MALE] uses a computer. [MALE] is competent.
+[MALE] has a surprise. [MALE]
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+you is at a place.
+you is a person.
+go to sleep.
+take a bath.
+go for a walk.
+eat dinner.
+go for a walk.
+run.
+eat breakfast.
+sleep.
+travel.
+go for a walk.
+go for a walk.
+eat cereal.
+eat.
+have a snack.
+go for a walk.
+go for a walk.
+a person.
+an action.
+see something.
+go to the mall.
+a person.
+a person.
+someone.
+go to your place.
+go for a walk.
+take a shower.
+go for a walk.
+enjoy a ride.
+pay your taxes
+---------------
+Complete the following text within five sentences:Tim was at the bar. [MALE] is stupid. [MALE] is determined. [MALE] wants to relax. [MALE] wants to be nice. [MALE] is good. [MALE] wants to be attentive. [MALE] is calm. [MALE] is good. [MALE] needs to be careful. [MALE] wants to be careful. [MALE] is wise. [MALE] is motivated. [MALE] wants to be strong. [MALE] needs to be careful. [MALE] wants to be friendly. [MALE] will more respectful. [MALE] is helpful. [MALE] will skilled. [MALE] will good. [
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+[MALE] wants to impress [FEMALE] with his appearance.
+[MALE] gets [FEMALE] some food.
+[MALE] makes [FEMALE] promise.
+[MALE] wants to lose weight.
+[MALE] wants to get a job.
+[MALE] is a successful person.
+[MALE] is hungry.
+[MALE] is a bit nervous.
+[MALE] wants to get close to persony.
+[MALE] loses personx's virginity.
+[MALE] wants to meet persony.
+[MALE] is capable of change persony's mind.
+[MALE] has a lot
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+[MALE] needs to use [FEMALE] for information.
+[MALE] takes [FEMALE] to the grave.
+[MALE] wants to spend time with persony.
+[MALE] gets [FEMALE] for good.
+[MALE] plays baseball for the win.
+[MALE] makes persony's bed.
+[MALE] receives [FEMALE] credit.
+[MALE] gives [FEMALE] a hug.
+[MALE] willed.
+[MALE] wants to go to the theater.
+[MALE] gives [FEMALE] a gift.
+[MALE] has a hard time
+---------------
+Complete the following text within five sentences:Tim was at the bar. you will be able to get away with it. you will be able to have a good time. you will be able to get away with it. you will be able to relax. you will be free. you will be happy. you will get paid. you will have fun. you will be happy. you will have friends. you will have fun. you will be happy. you will be able to relax. you will be able to have a good time. you will be happy. you will have fun. you will be happy. you will be able to relax. you will be happy. you will be free. you will be happy. you will have a good time. you will be able to have a good time. you will
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+get the ball to take.
+go to the doctor.
+you are a good person.
+sometime there is a problem.
+you is playing a game.
+you is in a rage.
+take the bus.
+go to the store.
+you is at the mall.
+you is on the telephone.
+the person is in the house.
+you is in the car.
+go to the park.
+go to the movie.
+go to work.
+go to the store.
+go to the zoo.
+go to the pub.
+take a nap.
+clean up.
+bring down the storm.
+have the car repaired.
+make a breakfast.
+get a job.
+have
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was drinking. [MALE] needs to find the person. [MALE] needs to check with the bartender. [MALE] needs to be careful. [MALE] is in control. [MALE] will happy. [MALE] is friendly. [MALE] needs to be in charge. [MALE] will interested. [MALE] wants to have fun. [MALE] is friendly. [MALE] is open and informed. [MALE] is knowledgeable. [MALE] needs to understand what the person is saying. [MALE] wants to know what is happening. [MALE] is concerned. ][MALE] is nervous. ][MALE] loses
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+[MALE] is sad. [MALE] wants to help. [MALE] wants to feel better.
+[MALE] gets a ticket. [MALE] will is happy.
+[MALE] takes a vacation. [MALE] will has a good time.
+[MALE] is buying a new car. [MALE] is a lot more determined.
+[MALE] pulls the lever. [FEMALE] is motivated.
+[MALE] is getting ready. [MALE] is ready.
+[MALE] gets the best. [MALE] is fit.
+[MALE] finds a family. [MALE] is caring.
+[M
+---------------
+Complete the following text within five sentences:Tim was at the bar.com.
+[MALE] asks [FEMALE] what they are doing. [MALE] is curious.
+[MALE] takes [FEMALE] to the mall. [MALE] wants to go to the mall.
+[MALE] is making [FEMALE] cake. [MALE] will happy.
+[MALE] is getting ready to go. [MALE] wants to get dressed.
+[MALE] is getting ready for work. [MALE] is tired.
+[MALE] asks [FEMALE] to a movie. [MALE] is sad.
+[MALE] gives [FEMALE] a big hug. [MALE
+---------------
+Complete the following text within five sentences:Tim was at the bar. He is sitting. [MALE] has to go to the bathroom. [MALE] needs go out to get a drink. [MALE] needs to be in a good mood. [MALE] wants to talk to persony. [MALE] wants to be helpful. [MALE] will happy. [MALE] needs to be willing. [MALE] will happy. [MALE] will happy. [MALE] will happy. [MALE] will happy.]
+[MALE] is tired. [MALE] is tired. [MALE] needs to rest. [MALE] needs to eat. [MALE] needs to become a person. [MALE] needs to
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was having a good time.He was not satisfied yet.
+[MALE] finds the person they want to date. [MALE] wants to have a date.
+[MALE] gets the person they want to have a child. [MALE] wants to have a child.
+[MALE] wants to see from the window. [MALE] needs to get a ticket.
+[MALE] invites the person they want to meet. [MALE] wants to get to know the person.
+[MALE] wants to have some fun. [MALE] wants to have fun.
+[MALE] calls [FEMALE] to the phone. [FEMALE] will excited
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+Tim was reading the book.
+Tim was tired of the job.
+Tim was at home.
+Tim was at work.
+Tim was on the phone.
+Tim was late.
+Tim was at work.
+Tim was walking around.
+Tim was at a party.
+Tim was studying.
+Tim was at a restaurant.
+Tobacco is used for smoking.
+Tim is at the park.
+Tim was playing.
+Tim is excited.
+Tim is playing the guitar.
+Tobacco is used for smoking.
+Tim is in the car.
+Tim is having a good day.
+Tobacco is used for smoking.
+Tim is at the bank.
+Tim is playing dice.
+
+---------------
+Complete the following text within five sentences:Tim was at the bar.He wants to go to the bar.you is in a hurry.you needs to be in a hurry.you is at a family gathering.you is not at a social gathering.you is at the hotel.you is not at the hotel.you needs to be in a hurry.you is not at the hotel.you is in the car.you needs to drive the car.you is in the car.you has to be in the car.you is in the car.you is at the park.you is in the park.you is at the park.you is at the park.you is at the park.you is at the park.you is in the park.you is at the park.you is in the
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+[MALE] is at the bar. [MALE] will upset.
+[MALE] wants to eat. [MALE] needs to get something.
+[MALE] is the one. [MALE] needs to call their mom.
+[MALE] is on the run. [MALE] will safe.
+[MALE] is in the water. [MALE] needs to get hydrated.
+[MALE] comes to [FEMALE] to speak. [MALE] needs get his car keys.
+[MALE] buys a new computer. [MALE] wants to work hard.
+[MALE] is still a teenager. [MALE] is
+---------------
+Complete the following text within five sentences:Tim was at the bar.I asked him to come.I loved the feel of the paper.I am at work.I tell the truth.I might not be able to do it.I will never forgive my sins.I am a strong woman.I have to keep my job.I hurt my feelings.I am a good person.I get paid.I feel better.I has a good life.I is successful.I is in love.I is a good person.I is in the market.I is good.I is in debt.I is in a bad mood.I is in need.I is in debt.I is at work.I is at home.I is at home alone.I is at home alone.I is at
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+sorely.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+sore.
+
+---------------
+Complete the following text within five sentences:Tim was at the bar.The man with the keys is in a black dress.The person is with a dog.The person is with the dog.The person is in the parking lot.The person is with the dog.The person is in the city.The person is in the park.The person is in hot water.The person is with the dog.The person is with the child.The person is with the dog.The person is with the dog.The person is with the child.The person is with the child.The person is with the child.The person is happy.The person is in a good mood.The person is with a baby.The person is in a good mood.The person is in a good state.The person is with
+---------------
+Complete the following text within five sentences:Tim was at the bar.Sugar is at the bar.Furniture is at the shop.MALE is at the shop.FEAR is at the person.MALE is at the field.MALE is the father.MALE is the mother.MALE is the teacher.MALE is the mentor.MALE IS FEMALE.MALE is angry.MALE IS IN LOVE.MALE is proud of himself.MALE is content with his life.MALE is focused.MALE IS FRIENDLY.MALE is outgoing.MALE is creative.MALE IS CONTROLLER.MALE is self-sufficient.MALE is capable.MALE is capable of do something.MALE IS COMPETENT.
+---------------
+Complete the following text within five sentences:Tim was at the bar.The bar is open. [FEMALE] will offended. [FEMALE] needs to ask for help. [FEMALE] will guilty. [FEMALE] will frustrated. [FEMALE] will aware. [FEMALE] is helpful. [FEMALE] will has a good night. [FEMALE] needs to leave the bar. [FEMALE] needs to get up. [FEMALE] needs to ask the person to put their hand down. [FEMALE] wants to thank them. [FEMALE] will happy. [FEMALE] is able to get a good look at the person. [FEMALE] wants to do something. . [
+---------------
+Complete the following text within five sentences:Tim was at the bar. He said he was a bartender.
+[MALE] pays the waiter for dinner. [FEMALE] wants to thank him for the meal.
+[MALE] will the cat walk. [MALE] is self-important.
+[MALE] hits the bus. [MALE] is stressed.
+[MALE] is doing the same thing. [MALE] is very motivated.
+[MALE] eats my cereal. [MALE] needs to eat something.
+[MALE] gives [FEMALE] a raise. [MALE] needs to be capable.
+[MALE] takes none. [FEMALE] wants to be thanked.
+[MALE] is
+---------------

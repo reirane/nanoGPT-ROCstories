@@ -1,0 +1,262 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:My best friend had an alcohol problem.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:My best friend had an alcohol problem.I wanted to be a cop.You have a passion for music.I like to lose weight.I need to get my medication.I want to get my degree.I had an appointment.I was late.I need to arrive to the office.I did not see my son.I was out of date.I am responsible.I is safe.I is helpful.I is caring.I is brave.I is warm.I is helpful.I is helpful.I am good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is good.I is
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I got a car accident at work.I see a television show.I go to the mall.My neighbor is having a hard time finding someone to talk to.I get hit in the leg.I use a walker.I put my hair in a pony's ponytail.I is at the beach.I is at the beach.My neighbor is sleeping.I has lunch.I is working late.I is making a new album.I is playing a game.I is watching movies.I is having a bad day.I is shopping.I is getting ready for work.I wants to be a movie star.I is getting paid.I needs to tell my employer.I wants to be on a movie.I needs to
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] wants to talk to him and he is good. [MALE] will sad. [MALE] will interested.
+[MALE] gives [FEMALE] a raise. [FEMALE] wants to thank their friend. [MALE] wants to do his job.
+[MALE] gives [FEMALE] a second. [MALE] is outgoing. [MALE] is social.
+[MALE] gives [FEMALE] a new computer. [MALE] wants to find out what is wrong.
+[MALE] is a very nice person. [FEMALE] wants to be liked and admired.
+[MALE] gives [FEM
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I hope you enjoyed it.
+[MALE] takes an ice cream roll. [MALE] will happy.
+[MALE] goes to work. [MALE] wants to get some energy.
+[MALE] is really hungry. [MALE] will hungry.
+[MALE] will to get. [MALE] needs to get out of there.
+[MALE] tells none to go to the store. [MALE] has to pay the clerk.
+[MALE] is a father. [FEMALE] wants to be a father to son.
+[MALE] is determined. [MALE] is motivated.
+[MALE] does my homework. [M
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] needs to have informed persony. [MALE] is capable of hear personx.
+[MALE] is afraid to travel. [MALE] needs to be prepared.
+[MALE] gives [FEMALE] a ride. [MALE] wants to congratulate persony.
+[MALE] is getting tired. [MALE] is tired.
+[MALE] is starting to get nervous. [MALE] [MALE] is nervous.
+[MALE] gets down to business. [MALE] is motivated.
+[MALE] takes [FEMALE] to another world. [MALE] is helpful.
+[MALE] spends the
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] asks the question. [MALE] wants to know.
+[MALE] enjoys the company. [MALE] wants to go to a store.
+[MALE] gives [FEMALE] a credit card. [FEMALE] will grateful.
+[MALE] walks on eggshells. [FEMALE] wants to avoid the situation.
+[MALE] receives [FEMALE] name. [FEMALE] will praised.
+[MALE] takes a break. [MALE] is exhausted.
+[MALE] takes a break. [MALE] goes to bed.
+[MALE] makes my own bread. [MALE]
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] takes [FEMALE] to the hospital. [MALE] will it is good.
+[MALE] has [FEMALE] image. [MALE] wants to express his appreciation.
+[MALE] wants to be a singer. [MALE] is talented.
+[MALE] comes [FEMALE] close. [MALE] wants to go to the concert.
+[MALE] makes [FEMALE] feel good. [MALE] wants to go home.
+[MALE] visits [FEMALE] in persony's car. [MALE] is helpful.
+[MALE] doesn't understand. [MALE] is
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I was looking for a person to help.Hence, I will make a new book.I will be able to learn from my mistakes.Let me know if you can help me.I will die soon.I will feel bad.I will become more powerful.I will like the work.I will be very popular.I will be helpful.I will become more like a person.I will feel good.I will be proud.I wish I could have a baby..I don't want to do something stupid.I will enjoy the baby.I will happy.I will like it.I will healthy.I will good.I will have fun.I will happy.I want to stay.I will happy.I want to
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] is caring. [MALE] needs to be nice to persony.
+[MALE] takes a break. [MALE] needs to go to the store.
+[MALE] is hard. [MALE] is difficult.
+[MALE] is playing football. [MALE] wants to be a good football player.
+[MALE] takes a break. [MALE] wants to go home.
+[MALE] is being truthful. [MALE] is honest.
+[MALE] is caring. [MALE] wants to be helpful.
+[MALE] plays basketball. [MALE] needs to be a good basketball player.
+[M
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] sees [FEMALE] heartwarming. [MALE] needs to know the date.
+[MALE] gets a phone call. [MALE] needs to get a phone.
+[MALE] tells [FEMALE] to go. [MALE] needs be informed of the situation.
+[MALE] sells the house. [MALE] needs to put a lot of effort into building.
+[MALE] is a good student. [MALE] is motivated.
+[MALE] makes [FEMALE] breakfast. [MALE] wants to eat.
+[MALE] leaves a mark. [MALE] needs to take care of the person
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+you has a good time.
+my friend has a bad date.
+you has a good time.
+you has a good time.
+your best friend has a good time.
+you has a good time.
+you has a good time.
+one person has a good day.
+one person has a bad day.
+one person has a good day.
+one person has a bad day.
+one person has a bad day.
+one person has a bad day.
+one person has a bad day.
+one person has a good day.
+one person has a bad day.
+one person has a good day.
+one person has a good day.
+one person has a bad day.
+one
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] is kind. [MALE] is determined. [MALE] is patient. [MALE] is helpful. [MALE] is responsible. [MALE] wants to help the person. [MALE] is patient. [MALE] wants to make good choices. [MALE] is motivated. [MALE] is helpful. [MALE] gets motivated. [MALE] wants to save time. [MALE] is capable. [MALE] is careful. [MALE] is proactive. [MALE] is caring. [MALE] is willing. [MALE] needs to watch videos. [MALE] wants to listen. [MALE] is active
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] wants to impress someone else.
+[MALE] is a writer. [MALE] needs to get the book.
+[MALE] is a performer. [MALE] wants to perform.
+[MALE] becomes a teacher. [MALE] wants to learn more about their job.
+[MALE] gets arrested. [MALE] wants to be arrested.
+[MALE] keeps [FEMALE] in the house. [MALE] wants to eat lunch.
+[MALE] plays hockey. [MALE] is tired.
+[MALE] looks around. [FEMALE] is sad.
+[MALE] puts [FEMALE
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I told my mom.But my best friend goes to rehab.I have a terrible reaction.I will get a good grade.I is sad.I was nervous.I was afraid.I was scared.I was good.I is happy.I never got a bad reaction.I will get a good grade.I is happy.I has a good relationship.I is a good guy.I is caring.I is loving.I is independent.I is caring.I is happy.I is healthy.I is caring.I is compassionate.I is courageous.I is compassionate.I is caring.I is compassionate.I is compassionate.I is compassionate.I is compassionate.I is compassionate.I is compassionate.I is
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+You have to visit the doctor.
+You have to bring your dog to the vet.
+You have to take the bath.
+Your life is different.
+A friend is not a target.
+You will not lose your job.
+You will not have a divorce.
+You will not love your dog.
+You have to have a dog.
+You will not like your friends.
+You will not like your spouse.
+You will not like your dog.
+The internet is dangerous.
+You have to take a bus to school.
+You are not a child.
+The internet is dangerous.
+You will not like your job.
+You is not a friend.
+You will not like your job.
+
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.She was really good at it.She needed to do some work.
+[MALE] is a successful businessman. [MALE] wants to be successful.
+[MALE] is a lawyer. [MALE] wants to go to court.
+[MALE] is the king. [MALE] wants to be king.
+[MALE] is a thief. [MALE] will robbed.
+[MALE] cries in pain. [MALE] will angry.
+[MALE] is the smallest. [MALE] will is small.
+[MALE] sees none on television. [MALE] wants to go to a movie.
+[MALE] wants to play baseball.
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. He was drinking. [MALE] needs to find the person. [MALE] needs to stop drinking.
+[MALE] wants to get a new pair of shoes. [MALE] needs to be able to fix the shoes.
+[MALE] tries not to be afraid. [MALE] needs to feel safer.
+[MALE] goes to bed. [MALE] needs to be at bed.
+[MALE] is a teenager. [MALE] is outgoing.
+[MALE] buys another car. [MALE] wants to buy another car.
+[MALE] sells some candy. [MALE] is generous.
+[MALE] takes care of some of
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I asked him if he had a drink.
+[MALE] is the youngest person in the family.I was the first person to see the book.
+[MALE] wants to be a musician. [MALE] wants to play violin.
+[MALE] uses a lot of money. [MALE] needs to be able to make enough money.
+[MALE] is getting old. [MALE] is angry.
+[MALE] walks to work. [FEMALE] wants to get away from the work.
+[MALE] turns persony's back on persony. [FEMALE] wants to tell persony.
+[MALE] is a good person. [
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. I will be nice.
+[MALE] asks [FEMALE] to go into the store. [MALE] needs to go outside.
+[MALE] gives [FEMALE] a new laptop. [MALE] will happy.
+[MALE] is a [FEMALE] person. [MALE] wants to be good.
+[MALE] tells [FEMALE] to rest. [MALE] wants to go to bed.
+[MALE] uses [FEMALE] word. [MALE] will like it.
+[MALE] takes [FEMALE] to the park. [MALE] is nice.
+[MALE] is a
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I want to be a good person.I will be good.
+[MALE] fights the good fight. [MALE] is evil.
+[MALE] takes a vacation. [MALE] wants to get back to work.
+[MALE] wants to be a musician. [MALE] is talented.
+[MALE] needs all the money. [MALE] wants to spend it on their own business.
+[MALE] takes [FEMALE] to the doctor. [MALE] needs to be hospitalized.
+[MALE] sees none at the grocery store. [FEMALE] will happy.
+[MALE] decides to break the law. [MALE]
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. [MALE] will happy.
+[MALE] is a well-known musician. [MALE] will talented.
+[MALE] feels good. [MALE] will happy.
+[MALE] plays guitar. [MALE] is skilled.
+[MALE] is getting ready for work. [MALE] will refreshed.
+[MALE] keeps [FEMALE] company. [FEMALE] wants to be helpful to [MALE]].
+[MALE] takes advantage. [MALE] is financially secure.
+[MALE] invites my friends. [MALE] wants to surprise everyone.
+[MALE] receives none from my teacher. [MALE
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] takes a walk. [MALE] wants to get fit.
+[MALE] takes a bath. [MALE] wants to be warm.
+[MALE] has a haircut. [MALE] needs to have a haircut.
+[MALE] has a lot on hand. [MALE] needs to have the lot.
+[MALE] is not getting the job. [MALE] will optimistic.
+[MALE] moves in with persony. [MALE] will happy.
+[MALE] gives [FEMALE] a ride. [FEMALE] wants to go home.
+[MALE] gets a haircut. [MALE] gets
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I'm sorry.
+[MALE] gives [FEMALE] information. [MALE] will happy.
+[MALE] moves [FEMALE] place. [MALE] will happy.
+[MALE] is not satisfied. [MALE] wants to go on vacation.
+[MALE] is a very happy person. [MALE] wants to be happy.
+[MALE] is at a party. [MALE] is relaxed.
+[MALE] plays none carefully. [MALE] is witty.
+[MALE] gives [FEMALE] a chance. [MALE] is good.
+[MALE] becomes a teacher. [MALE]
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] is engaged. [MALE] is motivated.
+[MALE] loses the ball. [MALE] needs to buy supplies.
+[MALE] makes [FEMALE] a new person. [MALE] wants to share information.
+[MALE] wins the lottery. [MALE] needs to earn money.
+[MALE] wants to be a composer. [MALE] will entertained.
+[MALE] takes a picture of myself. [MALE] wants to get a picture.
+[MALE] gives none to a friend. [MALE] will loved.
+[MALE] spends [FEMALE] money. [MALE] is
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I asked him to come over.I have a bad day.I get out of bed.I tell the doctor.I put the medicine.I drink coffee.I will happy.I give the doctor my best.I feel good.I cry.I have a great time.I make a new list.I go shopping.I get a phone call.I buy a cup of coffee.I drive home.I take a taxi home.I make a appointment.I find out my appointment time.I feel good.I feel good.I make the appointment.I wait for the appointment.I read the news.I miss my appointment.I find out my appointment time.I go out.I get home.I make a plan
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+satisfy your sense of obligation.
+a piece of paper with a message.
+a person is capable of be a person.
+a person is capable of live on a island.
+a piece of paper receives attention.
+a person is capable of be a person.
+a person is capable of be a person.
+a person is capable of be a person.
+a piece of paper receives attention.
+a person is capable of be a person.
+a person is capable of be a person.
+a person is capable of be a person.
+a letter is used for providing information.
+a piece of paper receives attention.
+a person is capable of be a person.
+a piece of paper receives attention.
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.The better his person is, the more he wants to have a drink with them.I gave my best friend the best job in the world.I'm so happy.I like my job..I enjoyed my job.The person is not interested in what the person is doing.The person wants to have fun.The person is not satisfied.The person is not interested.The person is not interested.The person is not satisfied.The person is not satisfied.The person is not satisfied.The person is not satisfied.The person is not satisfied.The person is not satisfied.The person is not satisfied.The person is not satisfied.The person is not satisfied.The person is not satisfied.The person is not satisfied.The person is
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.Sugar is for sale.I will be having a great time.I will be able to relax.I will be helpful.I will be a good employee.I will be an expert.I will be a successful businessman.I will be able to support my family.I will have a good time.I will be doing something.I will make good decisions.I will be happy.I will be on time.I will like them.I will be helpful.I will be helpful.I will have a good time.I will feel good about myself.I will be able to relax.I will be productive.I will be satisfied.I will be able to enjoy a meal.I will be a good leader.I will be
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] wants to take a walk. [MALE] is lazy.
+[MALE] is not capable. [MALE] needs improve.
+[MALE] is alone. [MALE] is social.
+[MALE] comes in from the rain. [MALE] has a hard time getting home.
+[MALE] receives none. [MALE] needs to get a letter from the school.
+[MALE] gets to persony's house. [MALE] is relaxed.
+[MALE] wants to be a doctor. [MALE] is capable.
+[MALE] is responsible. [MALE] needs a job.
+[MALE]
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.My best friend has a pet cat.My best friend has a dog.My friend needs to go to the vet.my best friend is working.my friend has a car.my best friend is at a party.my friend is going to a concert.my friend is working.my friend needs to be with the other person.my friend is playing chess.my friend is caring.my friend wants to help.my friend is caring.my friend is going to the mall.my friend is studying.my friend is excited.my friend is doing good.my friend is caring.my friend is caring.my friend wants to stop eating.my friend is learning.my friend is caring.my friend is caring.my friend is working.
+---------------

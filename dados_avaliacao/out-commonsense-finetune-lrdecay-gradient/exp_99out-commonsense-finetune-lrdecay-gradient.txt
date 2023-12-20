@@ -1,0 +1,282 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:She didn't care.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:She didn't care. She wanted to be happy. And she wanted to be so happy that she would take a bite to eat the whole thing.The world was full of people who loved the food, and they loved the food.And for five years, they ate the food.The world was filled with people who loved the food, and they loved the food.And they ate the food.The world was filled with people who loved the food, and they loved the food.The world was full of people who loved the food, and they loved the food.The world was filled with people who loved the food, and they loved the food.The world was full of people who loved the food, and they loved the food.The world was filled with people who
+---------------
+Complete the following text within five sentences:She didn't care. She didn't know what to do. She didn't know how to live. She didn't know how to make a difference. She didn't know what to think. She didn't know how to think about anything.She didn't care. She didn't know what to think about.She didn't know if she could live. She didn't know how to live.She didn't care. She didn't know if she could be more compassionate.She didn't care. She didn't know if she could be more compassionate.
+
+What is the difference between an "advice" and an "advice?"
+
+The "advice" is helpful to a person and does not mean that their behavior is wrong. It is also
+---------------
+Complete the following text within five sentences:She didn't care. Just like the rest of the world. She took the whole world's food. She took the whole world's money. She took the whole world's credit card. She took the whole world's credit card. She took the whole world's credit card. She took the whole world's food. She took the whole world's money.She took the whole world's credit card. She took the whole world's credit card. She took the whole world's credit card. She took the whole world's credit card.She took the whole world's credit card. She took the whole world's credit card. She took the whole world's credit card. She took the whole world's credit card. She took the whole world's credit card. She took
+---------------
+Complete the following text within five sentences:She didn't care.You're a dumbass.Why am I not a dumbass?She doesn't care.You're a dumbass.Why am I not a dumbass?She doesn't care.You're a dumbass.Why am I not a dumbass?She doesn't care.You're a dumbass.Why am I not a dumbass?She doesn't care.She doesn't care.You're a dumbass.Why am I not a dumbass?She doesn't care.She doesn't care.You're a dumbass.Why am I not a dumbass?She doesn't care.You're a dumbass.Why am I not a dumbass?She doesn't care.You're a dumbass.Why
+---------------
+Complete the following text within five sentences:She didn't care.
+
+"If she needs a babysitter, she needs a babysitter. . ."
+
+"Now she's going to be the one to find her first child."
+
+"I've been there before."
+
+"How many children will you be?"
+
+"The one you're gonna be with. . ."
+
+"This is the one you'll be with."
+
+"The one you're gonna be with."
+
+"What's the best thing about your life? . ."
+
+"The best thing."
+
+"Why do you have to be in a house for the whole day?"
+
+"Because you're a good person, and you're never going to get bored."
+
+"
+---------------
+Complete the following text within five sentences:She didn't care. She was tired. She wanted to go to the bathroom. I was the one to take care of her. She wanted to go to the doctor. I was the one to take care of her. I wanted to help her. She wanted to be the person she needed to be. She wanted to be the person she needed to be. She wanted to help the world. I was the one to direct her. I was the one to take care of her. She wanted to be the person she needed to be. She wanted to be the person she needed to be. I was the one to pick up her phone and call her. I was the one to pick up her phone and call her. I was the one to give her a ride
+---------------
+Complete the following text within five sentences:She didn't care. She had to get the message.<|endoftext|>We love you.
+
+I'm gonna go see you at the last minute.
+
+Are you ready?
+
+I'm gonna pick you up at the last minute.
+
+What's the matter?
+
+What's the matter?
+
+I'm gonna go see you at the last minute.
+
+I'm gonna pick you up at the last minute.
+
+What's the matter?
+
+What's the matter?
+
+I'm gonna go see you at the last minute.
+
+I'm gonna pick you up at the last minute.
+
+What's the matter?
+
+What's the matter?
+
+I'm gonna go see you at the last minute
+---------------
+Complete the following text within five sentences:She didn't care. She was just a woman. She was just a woman. She was just a woman. She wasn't a woman. She was just a woman. She was just a woman. She wasn't a woman. She was just a woman. She was just a woman. She wasn't a woman. She was just a woman. She was just a woman. She was just a woman. She was just a woman. She was just a woman. She was just a woman. She was just a woman. She was just a woman. She was just a woman. She was just a woman. She was just a woman. She was just a woman. She was just a woman. She was just a woman. She was just a woman.
+---------------
+Complete the following text within five sentences:She didn't care. She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She wasn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.
+---------------
+Complete the following text within five sentences:She didn't care.She always wanted to be safe.She just wanted to be okay.She was always giving her all she had.She was always trying to earn the trust of her sister.She was always looking for something.She was always a part of the team.She was always pulling away from the team.She was always smiling and laughing.She didn't care.She was always fighting for her sister.She was always looking for something.She was always smiling and laughing.She was always looking for something.She was always on top of the world.She was always looking for something.She was always there for people.She was always there for the world.She was always there for her.She was always the one that was right.She was
+---------------
+Complete the following text within five sentences:She didn't care.
+
+She felt a strange pleasure in the dirt.
+
+She felt a wonderful pleasure in the way she looked at the world.
+
+She felt a great pleasure in the way she looked at things.
+
+She felt a great pleasure in the way she looked at things.
+
+She felt a great pleasure in the way she looked at things.
+
+She felt a great pleasure in the way she looked at things.
+
+She felt a great pleasure in the way she looked at things.
+
+She felt a great pleasure in the way she looked at things.
+
+She felt a great pleasure in the way she looked at things.
+
+She felt a great pleasure in the way she looked at things.
+
+She
+---------------
+Complete the following text within five sentences:She didn't care. She just wanted to be alone.For the next five minutes, I would be a mother.I would try to be a father.And so on, and so forth until my legs began to tremble.I needed to be alone.I needed to be alone.So I did. I took her to a great, wonderful place.I took her to a great, wonderful place.I took her to a place I loved.I took her to a place I loved.I took her to a place I loved.There was a great place.I went there.I went there. I went there.I went there. I didn't know how to put it.I went there.I went there.I went there.I went
+---------------
+Complete the following text within five sentences:She didn't care.She was alone.You couldn't help but feel the pain.She was alone.The pain was too much.It was too much.It was too much.It was too much.It was too much.It was too much.It was too much.It was too much.It was too much.It was too much.She was alone.She just wanted to live.You couldn't help but feel the pain.She was alone.You couldn't help but feel the pain.She was alone.You couldn't help but feel the pain.She was alone.The pain was too much.It was too much.It was too much.It was too much.It was too much.It was too much.It was
+---------------
+Complete the following text within five sentences:She didn't care. She didn't even really care. If you have to deal with her, you've been a good person. You've made a good choice. I mean, you're a good person. You're a good person. You're a good person. Now, if that's what you want, you should give it to her. I suppose that's the way I'm going to go.
+
+So, you're going to tell her what you think. You're going to tell her what your views are. You're going to tell her what your views are. So, what does it matter what you think? Because it's important.
+
+But I didn't think she'd actually care about what you chose to do with your life.
+---------------
+Complete the following text within five sentences:She didn't care. She knew that she couldn't possibly think of a better idea than to say to yourself, "She's a great girl. She's going to be our first wife, and I feel like someday I'll have a daughter with her." It's hard to imagine a more perfect way to express yourself than to love your wife.You are a child of the past. I'm grateful for how much you've loved me. You're not in a position to question my feelings. You're in a position with my soul. What a great time. You have an amazing story to tell. You're in the midst of my story. What a wonderful day. You have a wonderful time. You're just a child of the past. You know your story
+---------------
+Complete the following text within five sentences:She didn't care.She was the one who took the bait.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was on fire.The world was
+---------------
+Complete the following text within five sentences:She didn't care. He was the one who would fall for it.He's a good man.He was the one who was going to make the right choice.He's a good person.He was the one who would talk to you to take your place.He wasn't going to give up.He was the one who would want to be your friend.He was the one who would ask you questions.He was the one who would make the right decision."I'm the one who's going to be with you," you said. "I'm the one who's going to go to the bathroom with you. I'm the one who's going to take your place. I'm the one who's going to do the right thing.I'm the one
+---------------
+Complete the following text within five sentences:She didn't care. She needed to know about the fact that.
+
+She didn't even care. She needed to know about the fact that.
+
+She was not interested in.
+
+He was not interested.
+
+That is not a question.
+
+He is not interested in.
+
+The fact is that she needed to know about the fact that.
+
+She was not interested in.
+
+He was not interested.
+
+She needed to know about the fact that.
+
+She was not interested in.
+
+He was not interested.
+
+She needed to know about the fact that.
+
+She was not interested in.
+
+He was not interested.
+
+She needed to know about the fact that.
+---------------
+Complete the following text within five sentences:She didn't care. She just wanted to find the answer, so she read the book.
+
+The only thing that changed was the first time she felt good.
+
+As a child, she was told that she would be able to have a good life. But, when she came back into school, she was told that it was only the first time she would have to live her life in a better way. She would have to become a better person.
+
+But, as she went through the school, the teachers didn't care that she would be able to hold on to her dream.
+
+But, as a child, she was told that she would be able to have a better life. But, as a child, she was told that it
+---------------
+Complete the following text within five sentences:She didn't care. She didn't care. I don't care. I don't care. I don't care. I don't care. I don't care.
+
+She's the one who has lost her place in the world.
+
+She's been lost in the world.
+
+She's lost her way in the world.
+
+She's lost her way in the world.
+
+She's lost her way in the world.
+
+She's lost her way in the world.
+
+I don't care. I don't care. I don't care. I don't care. I don't care. I don't care.
+
+She's been lost in the world.
+
+She's been lost in the world
+---------------
+Complete the following text within five sentences:She didn't care. She was so embarrassed. She wouldn't even let anyone touch her. She had a girlfriend. She hated the way her body looked. She loved the way her breasts looked.She was so sorry. She didn't want anyone to know she was sorry for her. She was so sorry.
+
+
+The next time they met, she was sitting in the lobby of the building. The door was locked. She didn't have a phone in her pocket. She was in a group of people. He used to tell her he would never let anyone touch her. She was so embarrassed. He was so angry. He didn't want anyone else to know she was angry.
+
+
+They shared a laugh. She was so grateful. He was so happy
+---------------
+Complete the following text within five sentences:She didn't care. She was just happy to have a job. She didn't have to deal with the fact that she's a single mother. She was happy to have a home. She wasn't a single mother. But now, she's lost her job because she chose to have a child. For her to continue to live her life, she needs to be a better person.
+
+It is a basic fact that women are the only ones who need to grow up to be their own person. And the only person who needs to grow up is the one who has the ability to be a better parent.
+
+When we call it child care, I mean it. And I'm sure many people are offended by that. But it is what it is.
+---------------
+Complete the following text within five sentences:She didn't care. She just wished she had more time.
+
+What a relief that she had finally found a friend who was ready to work with her.
+
+But the night remained.
+
+The night never came.
+
+It never would.
+
+All night, the memories of being at a party on the night before the accident were fading away.
+
+She made a long draw.
+
+She went to the bathroom.
+
+She did not move.
+
+She did not hold herself back.
+
+She did not listen.
+
+She did not listen to anyone.
+
+She did not know what to do.
+
+She did not know what to do.
+
+The car stopped.
+
+There was a sound
+---------------
+Complete the following text within five sentences:She didn't care. She just wanted to go to the bathroom. I won't lie to you. It's just a matter of time. It's not the time to go to the bathroom. You wanted to go to the bathroom.<|endoftext|>The Green Bay Packers have picked up their fifth pick in the 2017 NFL draft. The Packers will select the fifth overall pick of the 2017 NFL draft in the first round.
+
+The Packers will pick the sixth overall pick of the 2017 NFL draft.
+
+With the Packers currently in the running to win the NFC North, the Packers will take their fourth pick in the 2017 NFL draft.
+
+The Packers will pick the sixth overall pick of the 2017 NFL draft.
+
+The Packers will pick the seventh overall pick of the
+---------------
+Complete the following text within five sentences:She didn't care.I'm here to save you from the wrong people.You can't win.
+
+She chose to kill the wrong people.
+
+She chose to kill the wrong people.
+
+She chose to kill the wrong people.
+
+She chose to kill the wrong people.
+
+She chose to kill the wrong people.
+
+She chose to kill the wrong people.
+
+She chose to kill the wrong people.
+
+She chose to kill the wrong people.
+
+She chose to kill the wrong people.
+
+She chose to kill the wrong people.
+
+She chose to kill the wrong people.<|endoftext|>The New York City Department of Transportation (NYCDOT) has determined that the National Transportation Safety Board (NTS
+---------------
+Complete the following text within five sentences:She didn't care. She just wanted to be alone. She's not a bad girl, she's just not a good girl.You will be disappointed. This is all wrong. She's in love with you. She is a good girl.We can just take it easy on her. We will be in the same place forever.
+
+RAW Paste Data
+
+We are just going to pretend to be in love with you. The fact that she doesn't really care about you, you don't really care if she does. You don't really want to be alone. Just take it easy. You will be disappointed. This is all wrong. She's in love with you. She is a good girl.We can just take it easy on her. We
+---------------
+Complete the following text within five sentences:She didn't care.The girl with the yellow ponytail looked at him.It fell on the ground, on her face.The girl with the yellow ponytail was wearing a dress.I grabbed her by the shoulders and threw her on the floor.Her eyes were filled with tears.The girl with the yellow ponytail got up, and began to walk away.The girl with the yellow ponytail also got up and collapsed on her back.The girl with the yellow ponytail didn't have any time to think about it. The girl with the yellow ponytail spoke.She was happy.And the girl with the yellow ponytail was tired.The girl with the yellow ponytail looked at the girl.The girl with the yellow ponytail had a cold.The
+---------------
+Complete the following text within five sentences:She didn't care. She waited for the right moment to take the wrong action. She made the right decision. She waited for the right moment to get the right information. She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.She waited.
+---------------
+Complete the following text within five sentences:She didn't care. That's not what she wants. She just wants to be in the hospital.No, it's not. If she wants to be in the hospital, then she needs to do something with all the money that she has.That's not what she wants."So if you make a mistake, you do not do it," she said. "I will never do it again."The word "bitch" is a synonym for "dying" and the word "bitch" is a slang term for "clown".<|endoftext|>A federal judge has found the federal government has failed to protect the privacy rights of its children under the Fourth Amendment, according to the Washington Post.
+
+The court ruled a federal judge has found the government has
+---------------
+Complete the following text within five sentences:She didn't care. She said he was a good man, and he was a good man. But he was right. He was the best.And he was right. And he was right. And he was right. And he was right.There is a good reason that he did it. It was a matter of morality. He would have done it. He was morally right. He had done it. But he was wrong. He was wrong.He was wrong. He was wrong.I will fight you. And I will fight you. And I will fight you.And I will fight you.And I will fight you.And I will fight you.And I will fight you.And I will fight you.And I will fight you.And I
+---------------

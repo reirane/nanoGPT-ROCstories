@@ -1,0 +1,215 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. He wanted to go to the gym. He didn't know if he was going to lose weight.<|endoftext|>The number of people who work in the UK has more than doubled over the last eight years, according to the latest figures from the Office for National Statistics.
+
+The number of people who work in Australia has increased by 11,000, the office said.
+
+The number of people who work in the UK has more than doubled over the last eight years, according to figures from the Office for National Statistics.
+
+In the past year, there have been more than 100,000 work-related injuries caused by people working in the UK.
+
+The number of people who work in the UK has increased by 11,000, the
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. He spent the day with all the parents. You can still see all the children.You would not take a picture of the children.Your husband is a man. No one wants to see you.You would not take a picture of the flowers. You want to be with your friend.You will not ask your mom.Sleeping is necessary. You are a man.You would not drive for a long time.You would be in a pit.You go to a theater.You will never be a teacher.You would have a great day.You would have a great day.You would be miserable.You would be happy.You would know that you are a good person.You would love to have a child.You would love
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.Sooo, I'm losing my mind.I was losing my mind.I was losing my mind.I was lost.I was lost.I was lost.I was lost.I was lost. I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I was lost.I
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. The professor said he needs to go to the library. That was a big reason he had to go to the library. He will ask for help. Then he will come back to the lab. Ron is going to the store and he will open the gift. The professor will say they need to get money. He will go to the store. He will check the box.
+Frank was humiliated by Ron in tether ball the other day in school. The professor said he needs to go to the library. That was a big reason he had to go to the library. He will ask for help. Then he will come back to the lab.
+Frank was humiliated by Ron in tether ball the other day in school. The professor said he needs to
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.Jack is going to be the one to get the prize.Jack is going to buy a car.Jack is going to go to a mall.Jack is going to get a promotion.Jack is going to go to the mall.Jack is going to buy a car.Jack is going to buy a new car.Jack is going to go to a hotel.Jack is going to eat lunch.Jack is going to be an expert.Jack is going to think about the question.Jack is going to watch a movie.Jack is going to go to a movie.Jack is going to watch movie.Jack is going to go to a restaurant.Jack is going to get a job.Jack is going to get a job.Jack is going to buy
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. Ron was not angry with him.The next day, he was robbed by the guy who has the key to the other house. The person who robbed the robber has a bad attitude.The next day, when he was a kid, the person who robbed the person has died.The next day, he got a tan.The next day, he was a good man.The next day, he ran to the hospital.The next day, he got a job.The next day, he was a good man.The next day, he got a great job.The next day, he was a good gentleman.The next day, he ran to the hospital.The next day, he was injured.The next day, he got a clean
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+
+FIND THE QUESTIONS
+
+1. WHAT IS THE QUESTION?
+
+2. WHERE IS THE QUESTION?
+
+3. WHERE IS THE QUESTION?
+
+4. WHY IS THE QUESTION IN THE SUBJECT?
+
+5. HOW LONG HAVE YOU SEEN THE QUESTION?
+
+6. DON'T YOU WANT TO KNOW IF THE QUESTION IS TRUE?
+
+7. WHERE IS THE QUESTION?
+
+8. WHY DO YOU THINK YOU CAN'T DO WHAT YOU WANT TO DO?
+
+9. WHAT IS THE NEXT QUESTION?
+
+10. WHAT IS THE OTHER QUESTION THAT YOU HAVE?
+
+11. WILL YOU LOSE THE OTHER QUESTION
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.There was an accident.
+
+[SOURCES] [SOURCES] [SOURCES]
+
+[SOURCES] [SOURCES]
+
+[SOURCES] [SOURCES]
+
+[SOURCES] [SOURCES]
+
+[SOURCES] [SOURCES]
+
+[SOURCES] [SOURCES]
+
+[SOURCES] [SOURCES]
+
+[SOURCES] [SOURCES]
+
+[SOURCES] [SOURCES]
+
+[SOURCES] [SOURCES
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. He then tried to leave the room.The girl is a girl.She is a girl.She is a girl.Frank is a man.Ron is a woman.They go to the store.They buy a new ticket.They find an ad.The boy is a boy.He is a boy.He is a boy.The girl is a girl.She is a girl.She is a girl.She is a girl.The boy is a boy.He is a boy.He is a boy.The girl is a girl.She is a girl.She is a girl.The boy is a boy.He is a boy.He is a boy.The girl is a girl.She is a girl.She is a
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. He is not only guilty but is a suspect. He is going to be locked in the closet for the rest of the day.
+Now you are going to go to the zoo. I will need your money but then you will be stuck in the hospital.
+There is a person in the house.
+go to your favorite place.
+someone will be there.
+you are going to go to the store.
+you will cry.
+you is going to get a new tv.
+go to the mall.
+you will be able to see the stars.
+you is going to be on the bus.
+you is going to have a good day.
+you is going to be in the car.
+you is going to
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+you will do this after you have done a little bit of work in the past.
+take the following test:What if I use all my strength to get where I am, and hope to make it to the next one?
+you will not be able to get to the end of your bucket.
+you will not be able to take the swim in cold water.
+you will not be able to sleep well.
+you will not feel tired.
+do things in order.
+go to the gym.
+go on a date.
+play basketball.
+have a party.
+take a walk.
+go on a date.
+play football.
+get your insurance.
+enjoy a good time.
+go to
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. [He was] in a relationship with the other person. [He] thought he could win with the others. [He] had no other choice.]You are not allowed to take the quiz. [You] should be aware of the rules. [You] will never find out the truth. [You] will be unhappy. [You] will be in love. [You] will feel better. [You] will relax. [You] will need to find a computer. [You] will have a good time. [You] will be satisfied. [You] will enjoy the experience. [You] will have a great time. [You] will become a father. [You] will have a good time. [You
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] wants to help the guy.
+[MALE] is the best.
+[MALE] wants to go to college.
+[MALE] says to [MALE] is lazy.
+[MALE] gets [MALE] a job.
+[MALE] tells [MALE] they are good.
+[MALE] asks [MALE] to go home.
+[MALE] tells [MALE] not to do [MALE] thing.
+[MALE] calls the police.
+[MALE] is very good.
+[MALE] gets [MALE] a job.
+[MALE] calls [MALE] to the car.
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.I told my mom and dad.They were like, 'You're really smart.'I asked the guy.He said "silly." I said, 'You're a good person.'I told my mom I was good.She said, 'You never saw that.' I told my mom.She said, "You never have to look at the sky. You never have to find your way out of the house.'I told my mom.She said, "I will see you later."I told my mom and dad.They were like, "You're a good person."I told my mom.They said, "You're fine.'I told my mom.They were like, "You're fine.'I told my mom.
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+You have to use the name "Romeo" from the TV show "The Good Wife".
+You have to use "Goth" from the movie "A Very Special Episode"
+You have to use the last name "Sophie" within a sentence.
+You have to use the last name "Prayer" within a sentence.
+You have to use the last name "Alex" within a sentence.
+You have to use the last name "Avenger" within a sentence.
+You have to use the last name "Tyrone" within a sentence.
+You have to use the last name "Bud" within a sentence.
+You have to use the last name "Mack"
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.She was supposed to finish it.She went back to school.She won the lottery.On a trip to the park.She took a picture.The person is the one who gave her the picture.The person is the one who gives the picture.The person is the one who pays the check.The person is the one who pays the check.The person is the one who spends the night.The person is the one who pays the check.The person is the one who takes the check.The person is the one who buys the ticket.The person is the one who takes the ticket.The person is the one who works the shift.The person is the one who eats at the restaurant.The person is the one who makes it
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. He then found out that Ron was a bully. Ron will be humiliated after his humiliation is over.The other day, the office is vacant. The world will be in ruin. The world is in turmoil.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.The world is in chaos.
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.He asked for a gift from him.He thinks he got a letter from the printer. he wants to give it to the person.he finishes the assignment.the person does not finish the task.the person's job is for the family.the person's job is to be the doctor.The person is a nice person.the person is good.the person is good.the person is good.the person is good.the person is good.the person is good.the person is good.the person is good.the person is good.the person is good.the person is good.the person is good.the person is good.the person is good.the person is good.the person is good.the person is good
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.com. Ron is not with him.
+[F11] [F12] [F13] [F14] [F15] [F16] [F17] [F18] [F19] [F20] [F21] [F22] [F23] [F24] [F25] [F26] [F27] [F28] [F29] [F30] [F31] [F32] [F33] [F34] [F35] [F36] [F37] [F38] [F39] [F40] [F41] [F42] [F43] [F44] [F45] [
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.Ron is a good student.But he has a bad day.So he wants to stop by the store.Ron has a bad day.So he wants to go to the mall.He is very tired.So he wants to go home.But he needs to pay for his grocery bill.He is very tired.So he wants to go to the doctor.But he is very tired.So he wants to take the medicine.But he is very tired.So he wants to go to the movie.But he is very tired.So he wants to go to the store.But he is very tired.So he wants to go home.But he is very tired.So he needs to go to the doctor.But he is very tired
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.Frank gets the keys to the truck.Paul and Amy go to buy some popcorn.Ron finds the key to the truck.Amy takes the keys to the truck.Frank gives up his job.Paul finds the keys to the truck.Frank has a new job.Paul gets the keys to the truck.Frank has a new job.Paul is at the hospital.Paul is on the bus.Paul gets the keys to the truck.Paul falls asleep.The bus is on the way.Paul opens the door.Frank apologizes.The bus is on the way.Paul gets turned around.Paul gets the keys to the truck.Paul gets in the back seat.Frank gets the keys to the truck.Paul finds the keys to the truck.
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.He was in the last seat of the car.That was the most fun experience of my life.In the future, we will have a lot more time to think about the future.Thank you very much.Have fun.
+
+[BEGIN] [MALE] is really smart. [MALE] is really good. [MALE] is really good. [MALE] will be very happy.
+
+[BEGIN] [MALE] is very fast. [MALE] is very good. [MALE] is very good.
+
+[BEGIN] [MALE] has to get the last of the paint. [MALE] is very good. [MALE] will is very good.
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.Ron wants to tell a lie to the class.What does he expect to happen?Do you want to make noise?Do you want to be seen by family?Will you be able to help?Do you want to be able to find the home of your dreams?Do you want to be able to go to the store and buy your food?What does you want?Do you want to go out with friends?What will you be doing at the end of the day?What is your favorite thing about life?What is your favorite thing to do?What is your favorite drink?What is your favorite sport?What is your favorite sport?What is your favorite sport?What is your favorite sport?What is your favorite sport?What is
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. He has been physically abused by the dog. You must call the police.You need to put your jacket over your head to keep it from falling off. You must go to the shelter.You are not allowed to drive a car.You need to call the police.You have been asked to sign a waiver before you go to the police.You have been asked to sign a waiver before you go to the police.You have been denied your right to vote in the elections.You must have a picture of your father.You have been asked to get a job.You have been asked to get a phone number.You have been asked to pay a debt.You are not allowed to live in your own house.You are not allowed to be
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.I'm going to have to have a good night's sleep.I get out of bed.I tell the doctor.I put the bill down.I get out of bed.I get out of bed.I took my wife out to lunch.I go to the supermarket.I go to the mall.I wash my hands.I get my phone off my charger.I go to the store.I pick up my bicycle.I hit the road.I put my head in the sand.I will get a job.I get a job.I get a job.I get a job.I go on vacation.I will have a good time.I will have a good time.I will go on vacation.I will get a
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+sputnik.org/index.php/viewtopic.php?t=1719
+[deleted] by [deleted] {[deleted]=> std::move(std::move_back()), [deleted]=> std::move(std::move_back())})
+[deleted] by [deleted] {[deleted]=> std::move(std::move_back()), [deleted]=> std::move(std::move_back()))}
+[deleted] by [deleted] {[deleted]=> std::move(std::move_back()), [deleted]=> std::move(std::move_back()))
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.The team was the only one to win.The team will be the only one to win.The world will be in a better place.The team will be the best team in the world.The world will be in a better place.The team will be the best team in the world.Frank got the ball by the club.The team will be the best team in the world.The world will be in a better place.The team will be the best team in the world.The world will be in a better place.The team will be the best team in the world.The world will be in a better place.The team will be the best team in the world.The world will be in a better place.The team will
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.Settled down to the ground in the backyard.Matched a movie with a friend.Matched a tv show.Matched a movie with a friend.Matched a movie with a friend.Matched a tv show.Matched a movie with a friend.Matched a movie with a friend.Matched a tv show.Matched a movie with a friend.Matched a tv show.Matched a tv show.Matched a tv show.Matched a tv show.Matched a couch potato.Matched a movie.Matched a puppy.Matched a tv show.Matched a movie.Matched a puppy.Matched a tv show.Matched a tv show.Matched a tv show
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.The best part about this is that your brain is wired to do things differently than your body. The time it takes to do it is usually one minute.You are not very good at math. You have to learn how to write.
+
+Frank is not an individual.
+
+"Frank is not an individual.
+
+"Frank is not an individual.
+
+"The word "bitch" is a synonym for "dabber"
+
+"Frank is not an individual.
+
+"Frank is not an individual.
+
+"The word "dabber" is a synonym for "tartart"
+
+"Frank is not an individual.
+
+"The word "tartart" is
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. He said he heard a noise in the hall.
+[MALE] is a person that has no idea how to have sex.
+[MALE] has a hard time being a good person.
+[MALE] is a good person.
+[MALE] is a good person.
+[MALE] is a good person.
+[MALE] is a good person.
+[MALE] is always curious.
+[MALE] has been to a party.
+[MALE] is a good person.
+[MALE] has a lot of money.
+[MALE] is a good person.
+[MALE] is a good person.
+[MALE] is a good
+---------------

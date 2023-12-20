@@ -1,0 +1,323 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Shayna dreaded going to gym class.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+shayna is a character in the popular fairy tale.
+person does not desire be a slave to society.
+person desires be healthy.
+person desires a safe place to live.
+person desires be loved.
+person desires good things.
+person does not desire become an expert.
+person does not desire the world to end.
+person does not desire be a slave to society.
+person does not desire the world becoming evil.
+person desires a safe place to live.
+person desires a happy ending.
+person desires privacy.
+person desires a more comfortable environment.
+person does not desire be dependent.
+person desires a fairytale.
+person desires a role model.
+person does not desire be a
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] needs to train to be capable of do the exercise..
+[MALE] is a good person. [MALE] needs to be in a good place to be.
+[MALE] opens personx's mouth. [MALE] wants to talk.
+[MALE] returns to persony's room. [FEMALE] wants to tell [MALE] what's happened.
+[MALE] pulls persony's back. [MALE] wants to be in control of their situation.
+[MALE] throws up persony's hands. [MALE] will happy.
+[MALE] gets a ticket. [MALE] needs to buy a ticket.
+[
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] wants to be in shape and healthy.
+[MALE] finds some money. [MALE] wants to buy something.
+[MALE] takes [FEMALE] to the vet. [MALE] wants to see the vet's work.
+[MALE] walks none ever. [MALE] is confident.
+[MALE] is in the middle of the road. [MALE] is careless.
+[MALE] puts on personx's face. [MALE] wants to look at persony.
+[MALE] feels an ache. [MALE] needs to have a pain.
+[MALE] goes back to the bar. [MALE
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] needs to go to school.
+[MALE] gets back to persony. [MALE] will relieved.
+[MALE] eats persony's lunch. [MALE] needs to hold persony's hands.
+[MALE] sees [FEMALE] in persony's eyes. [MALE] needs to be closer to persony.
+[MALE] eats persony's food. [FEMALE] will grateful.
+[MALE] takes the bus. [MALE] is responsible.
+[MALE] hears persony's name called. [MALE] wants to tell person y's name.
+[MALE] goes home for the holidays.
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+a person does not desire a headache.
+a person does not desire be held prisoner.
+a person does not desire be humiliated.
+a person desires be entertained.
+a person desires be respected.
+a person desires be loved.
+a person does not desire be bullied.
+a person does not desire run out of steam.
+a person does not desire go to the bathroom.
+a person desires an invitation.
+the weather is cool.
+a person does not desire take too long to get home.
+a person does not desire be dismembered.
+a person does not desire be humiliated.
+a person does not desire have to deal with the consequences.
+a person does not desire be in jail.
+
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+[MALE] gives the boy. [MALE] wants to give them a gift.
+[MALE] is a teacher at school. [MALE] needs to hire a teacher.
+[MALE] takes the dog for a walk. [MALE] needs to walk with the dog.
+[MALE] makes a friend. [MALE] will happy and happy.
+[MALE] has a great time. [MALE] will anxious.
+[MALE] buys a new car. [MALE] wants to get a new car.
+[MALE] goes the whole time. [MALE] needs to be in a hurry.
+[MALE] goes swimming. [
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+a is for the person.
+a is for the person.
+the is for the person.
+a is for the person.
+a is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the person.
+the is for the persons.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. x was looking for a gym class. [MALE] is brave. [MALE] is content. [MALE] needs to be studying. [MALE] wants to keep track of a workout. [MALE] will good.. [MALE] is observant. [MALE] is alert. [MALE] wants to have a good time. [MALE] is social. [MALE] will happy. [MALE] wants to be happy. [MALE] is optimistic. [MALE] is content. [MALE] wants to do something fun. [MALE] is sociable. [MALE] will happy. [MALE] needs to know the situation. [M
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] needs to go to the gym class.
+[MALE] tells [FEMALE] to go. [MALE] is helpful.
+[MALE] gets none from work. [MALE] needs to have a job to do.
+[MALE] finds a book. [MALE] wants to read it.
+[MALE] holds persony's heads. [MALE] will guilty.
+[MALE] calls a tow truck. [MALE] is adventurous.
+[MALE] has a great time. [MALE] wants to celebrate.
+[MALE] takes none in the process. [MALE] wants to be a good person.
+[
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] is mean. [MALE] is caring.
+[MALE] buys tickets. [MALE] wants to spend the money.
+[MALE] has a new friend. [MALE] wants to come up with a new friend.
+[MALE] gives none to children. [MALE] wants to spend their time with the children.
+[MALE] makes [FEMALE] laugh. [MALE] will embarrassed.
+[MALE] buys groceries. [MALE] needs to find the groceries.
+[MALE] calls persony's sister. [MALE] will like they are loved.
+[MALE] has enough money to buy groceries. [
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+you is capable of place the object in a specific place.
+you is capable of take a photo.
+you is capable of use a calculator.
+you is capable of buy a gift.
+you is capable of make a phone call.
+you is capable of find some food.
+you is capable of watch a movie.
+you is capable of feel pain.
+you is capable of get out of the woods.
+you is capable of smell the roses.
+you is capable of hear the music.
+you is capable of shop at the hardware store.
+you is capable of make a phone call.
+you is capable of sleep at night.
+you is capable of learn new things.
+you is capable of eat
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [FEMALE] wants to go home.
+[MALE] raises personx's none to life. [MALE] wants to give up on life.
+[MALE] makes a mess. [MALE] wants to clean up.
+[MALE] gets personx's none together. [MALE] is helpful.
+[MALE] invites [FEMALE] over for dinner. [FEMALE] wants to have dinner with personx.
+[MALE] takes [FEMALE] to the emergency room. [MALE] wants to give [FEMALE] a drink.
+[MALE] takes [FEMALE] to the zoo. [FEMALE]
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [FEMALE] wants to help [FEMALE] relax.. [FEMALE] will person y gets a good grade.
+[MALE] plays none with [FEMALE] sister. [FEMALE] wants to talk to person x.
+[MALE] spends all persony's money. [MALE] wants to not be broke.
+[MALE] gets a new computer. [MALE] needs to pay a deposit.
+[MALE] meets persony's needs. [MALE] is caring.
+[MALE] is going to a party. [MALE] wants to have a party.
+[MALE] loves to go roller skating. [MALE
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [FEMALE] will annoyed. [FEMALE] will happy.
+[MALE] takes [FEMALE] to the doctor. [MALE] wants to be ready to go to the doctor.
+[MALE] is never going to be. [MALE] needs to take time off work.
+[MALE] makes a sandwich. [MALE] wants to eat it.
+[MALE] takes [FEMALE] outside. [MALE] needs to get inside.
+[MALE] makes sure was ___. [MALE] needs to have knowledge regarding the item.
+[MALE] has so much fun. [MALE] is fun.
+[MALE
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] needs get ready to go to gym class.
+[MALE] brings [FEMALE] to tears. [FEMALE] will angry.
+[MALE] takes a trip. [MALE] wants to go to a new place.
+[MALE] breaks persony's nose. [FEMALE] will is humiliated.
+[MALE] meets the man. [MALE] wants to ask for a date.
+[MALE] gives none to personx's friend. [MALE] needs to give persony friendship.
+[MALE] eats none and drank. [MALE] wants to wash them.
+[MALE] takes the money. [M
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] is mean. [MALE] needs to learn how to do the exercises.
+[MALE] gets in [FEMALE] way. [MALE] wants to be close to persony.
+[MALE] gets full of steam. [MALE] is tired.
+[MALE] watches persony's music. [FEMALE] will happy.
+[MALE] puts none on my face. [MALE] wants to take pictures.
+[MALE] tries to make out with persony. [MALE] wants to have fun.
+[MALE] brings home the ___. [MALE] [MALE] gets robbed.
+[MALE]
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [FEMALE] will angry. [MALE] wants to enjoy the company of personx.
+[MALE] spends none with personx's family. [MALE] is caring.
+[MALE] is a top pick in the class. [MALE] gets promoted.
+[MALE] wants to have a party. [MALE] wants to try to make it happen.
+[MALE] makes the right call. [MALE] will accomplished.
+[MALE] keeps [FEMALE] in the dark. [FEMALE] wants to hide.
+[MALE] feels very guilty. [MALE] wants to go to a psychiatrist.
+[MALE]
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [FEMALE] will sad. [FEMALE] wants to move on.
+[MALE] puts the none to work. [FEMALE] will happy.
+[MALE] puts [FEMALE] to the test. [MALE] wants to keep the test.
+[MALE] puts the none to the test. [MALE] is thoughtful.
+[MALE] spends the day with persony. [MALE] needs to go to persony's house.
+[MALE] makes a plan. [MALE] needs to have a plan.
+[MALE] tells [FEMALE] it was done. [MALE] is caring.
+[M
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [FEMALE] wants to go to gym class.
+[MALE] feels none at persony's feet. [MALE] is adventurous.
+[MALE] gets a ring. [MALE] gets thanked.
+[MALE] takes none into persony's hands. [MALE] wants to make sure they are safe.
+[MALE] calls the store. [MALE] is observant.
+[MALE] goes to the store with personx's mom. [MALE] needs to go to the store.
+[MALE] goes to persony's house. [FEMALE] will person y walks in the house.
+[MALE] takes [FEM
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] wants to relax.
+[MALE] is in need of some money. [MALE] is greedy.
+[MALE] gives persony's friend ___. [MALE] wants to talk to persony.
+[MALE] wants to buy a new phone. [MALE] wants to have a new phone.
+[MALE] gets [FEMALE] in trouble. [MALE] wants to be a responsible person.
+[MALE] gets a good grade. [MALE] is accomplished.
+[MALE] sees none in the streets. [MALE] needs to get a map.
+[MALE] brings [FEMALE] back to life
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] wants to be on the right track.
+[MALE] finds the [FEMALE] answer. [FEMALE] will happy..
+[MALE] is learning to ride a bike. [MALE] wants to get out of the car.
+[MALE] takes the none to the beach. [FEMALE] wants to have fun.
+[MALE] takes none in the process. [FEMALE] wants to thank personx.
+[MALE] takes advantage of persony. [MALE] is selfish.
+[MALE] leaves the restaurant. [MALE] wants to go home.
+[MALE] finds a seat. [MALE
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [FEMALE] wants to explain why they didn't go to gym class.
+[MALE] gets a new car. [MALE] wants to see a car.
+[MALE] makes [FEMALE] nervous. [MALE] needs to make persony nervous.
+[MALE] throws [FEMALE] a party. [MALE] wants to go to the party with person y.
+[MALE] gets persony's hair cut. [FEMALE] wants to get rid of person x.
+[MALE] makes [FEMALE] even. [MALE] wants to show off.
+[MALE] makes [FEMALE] angry. [
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [FEMALE] will annoyed. [FEMALE] wants to ask person x for help. ] [FEMALE] wants to go home. ]
+[MALE] takes it to the vet. [MALE] needs get a catheter. [MALE] is determined. ]
+[MALE] keeps [FEMALE] in check. [MALE] smiles.
+[MALE] tells [FEMALE] that [FEMALE] is dead. [FEMALE] wants to explain to person x.
+[MALE] feels comfortable. [MALE] is curious.
+[MALE] goes to the store to buy. [MALE] is buying.
+[
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+[MALE] is a good employee. [MALE] wants to be a good employee.
+[MALE] plays the none well. [MALE] wants to be fun.
+[MALE] does n't make sense. [MALE] is unsure.
+[MALE] loses persony's balance. [MALE] wants to hurt person y.
+[MALE] takes persony's baby. [MALE] wants to be with persony.
+[MALE] gets the none away. [FEMALE] will grateful.
+[MALE] takes in persony's action. [MALE] wants to express their feelings.
+[MALE] gets a hold of
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [FEMALE] will thankful. [FEMALE] will happy.
+[MALE] makes personx's way through the neighborhood. [MALE] needs to find a street to walk around.
+[MALE] loves persony's first birthday. [FEMALE] wants to celebrate their birthday.
+[MALE] eats personx's vegetables. [MALE] needs to have a large amount of vegetables.
+[MALE] takes the cat. [MALE] needs to find cat.
+[MALE] makes breakfast. [MALE] wants to go to sleep.
+[MALE] is feeling bored. [MALE] is determined.
+[MALE] provides [F
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+satisfy hunger with minimum effort.
+a piece of paper with a message is at the home.
+climb a mountain has subevent you might see a tree.
+play a game of chess has subevent you might win.
+go on the internet has subevent you might get bored.
+play poker has subevent you might win.
+a piece of paper with a message is at the home.
+a person is capable of visit a museum.
+a person is capable of listen to music.
+a person is capable of use a television.
+a person is capable of eat healthy foods.
+a piece of paper with a message is at the home.
+a person is capable of open a gift.
+a
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [FEMALE] wants to go to the gym.
+[MALE] eats it. [MALE] needs to sit down in the chair.
+[MALE] wants to go to school. [MALE] needs to get in the car and drive to school.
+[MALE] goes to the park. [FEMALE] will happy.
+[MALE] finds personx's dog. [MALE] needs to park his car.
+[MALE] tells [FEMALE] was going. [MALE] is talkative.
+[MALE] gets some friends. [MALE] will happy.
+[MALE] takes none on a trip. [MALE]
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] wants to eat healthy food.
+[MALE] makes a bet. [MALE] needs go to casino.
+[MALE] gives [FEMALE] the money. [MALE] wants to thank persony.
+[MALE] gives [FEMALE] opportunity. [MALE] wants to help persony.
+[MALE] gives [FEMALE] a present. [MALE] wants to thank them.
+[MALE] takes none to a mall. [MALE] wants to buy some gifts.
+[MALE] gives [FEMALE] a bonus. [FEMALE] wants to thank personx.
+[MALE] uses
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [FEMALE] wants to take a walk.
+[MALE] gets a new one. [MALE] will happy.
+[MALE] makes a lot of money. [MALE] is hard working.
+[MALE] asks if [FEMALE] was ready. [MALE] will happy that they are ready.
+[MALE] plays the game. [MALE] needs to play a game.
+[MALE] gets to persony's house. [FEMALE] will happy.
+[MALE] gives none a run. [MALE] is helpful.
+[MALE] takes none to a carnival. [MALE] is adventurous.
+[
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [FEMALE] wants to go to class.
+[MALE] takes a number. [MALE] needs to start a calculator.
+[MALE] takes none in the month. [MALE] is self-centered.
+[MALE] hits the gas. [MALE] is careless.
+[MALE] calls the number. [MALE] is capable.
+[MALE] takes off persony's shoes. [MALE] needs to walk in the shoe.
+[MALE] wants to be a scientist. [MALE] needs to be a scientist.
+[MALE] takes none to the dog park. [MALE] wants to make sure it is safe to
+---------------

@@ -1,0 +1,273 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_3_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:I developed an oral fascination.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:I developed an oral fascination.I wanted to see my dog.MALE: You are doing well.MALE'S: you are loving.MALE'S: you are determined.MALE'S: you have a desire.MALE'S: you have a desire.MALE'S: you have the energy.MALE'S: you are hopeful.MALE'S: you have a desire.MALE'S: you are capable.MALE'S: you are capable.MALE'S: you are healthy.MALE'S: you are more powerful.MALE'S: you are capable.MALE'S: you are capable.MALE'S: you are capable.MALE'S
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I got a car.I tried to stay away from the other person.I killed the person who is caring for my son.I was a fool.I has a bad memory.I was drunk.I ran away.I was sick.I was sick.I was sad.I was sad.I willed.I is good.I has a wife.I has a son.I has a child.I is caring.I willed.I was a good person.I is kind.I is in love.I is loving.I was good.I was proud.I was wise.I was generous.I was caring.I was helpful.I was generous.I was compassionate.I was honest.I was brave
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] wants to watch a movie.
+[MALE] enters the house. [MALE] wants to be in a relationship.
+[MALE] takes a shower. [MALE] wants to go home.
+[MALE] kisses the persony's friend. [MALE] wants to be friends.
+[MALE] pays their bills. [MALE] wants to have extra money to pay.
+[MALE] is dating. [MALE] wants to find out why she is dating.
+[MALE] becomes a doctor. [MALE] wants to be a doctor.
+[MALE] takes [FEMALE] along. [FEMALE] will happy
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I became a successful businessman.I am a good school teacher.I is a good soldier.I is a good friend.I is a good teacher.I is a good friend.I is a good family.I is a good wife.I is a good mother.I is a good soldier.I is a good friend.I is a good person.I is a good person.I is a good person.I is a good person.I is a good person.I is a good person.I is a good person.I is a good person.I is a good person.I is a good person.I is a good person.I is a good person.I is a good person.I is a good person
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] needs to understand [MALE] language. [FEMALE] will is annoyed.
+[MALE] gets [FEMALE] satisfaction. [MALE] will happy.
+[MALE] is an expert. [MALE] wants to get the information.
+[MALE] plays baseball. [MALE] wants to play baseball.
+[MALE] tries to create a new thing. [MALE] wants to take over the project.
+[MALE] is caring. [MALE] is intelligent.
+[MALE] loves none deeply. [MALE] is sad.
+[MALE] sets none aside. [MALE] wants to eat lunch
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] asks the question. [MALE] wants to clarify.
+[MALE] makes [FEMALE] promise. [MALE] wants to get a good deal.
+[MALE] takes [FEMALE] to a restaurant. [MALE] will happy.
+[MALE] gives [FEMALE] a gift. [MALE] will sad.
+[MALE] takes none for an animal. [FEMALE] will happy.
+[MALE] takes a break. [MALE] is exhausted.
+[MALE] takes a break. [MALE] goes to sleep.
+[MALE] makes [FEMALE] laugh. [
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] decides to leave. [MALE] wants to go home.
+[MALE] is having fun. [MALE] is proud.
+[MALE] gives [FEMALE] a gift. [FEMALE] will happy.
+[MALE] takes [FEMALE] to a doctor. [MALE] is competent.
+[MALE] is in danger. [MALE] is angry.
+[MALE] becomes [FEMALE]'s best friend. [FEMALE] will grateful.
+[MALE] provides [FEMALE] with food. [FEMALE] will happy.
+[MALE] gives [FEMALE]
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I was an avid reader.I was curious.I wanted to know what happened.I was a successful businessman.I wanted to be famous.I was a student.I was a teacher.I was a friend.I wanted to be good parents.I was a good listener.I was a model.I was a scientist.I was a teacher.I was a consumer.I wanted to be a good citizen.I was a teacher.I was a friend.I was a writer.I was a socialite.I was a businessman.I was a politician.I was a writer.I was a musician.I was a journalist.I was a writer.I was a musician.I was a musician.I was a farmer
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] is caring.
+[MALE] is trying.
+[MALE] gets none back.
+[MALE] is running.
+[MALE] gets none back.
+[MALE] follows [FEMALE] around.
+[MALE] is playing football.
+[MALE] hears [FEMALE] song.
+[MALE] gets [FEMALE] attention.
+[MALE] gives [FEMALE] a hug.
+[MALE] is in a fight.
+[MALE] is playing games.
+[MALE] goes to the mall.
+[MALE] receives none at school.
+[MALE] is very
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] sees [FEMALE] from [FEMALE] point of view.
+[MALE] looks around the room.
+[MALE] hears [FEMALE] laughing.
+[MALE] tells [FEMALE] to go.
+[MALE] has a big dog.
+[MALE] decides to run.
+[MALE] takes a walk.
+[MALE] is a good dancer.
+[MALE] is with [FEMALE] for a while.
+[MALE] is friendly.
+[MALE] receives [FEMALE] letter.
+[MALE] takes [FEMALE] to the airport.
+[
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+you has a good time.
+my friend has a good date.
+you is capable of talk to another person.
+it is good to play.
+it is good for you to eat things.
+you has a good time.
+you has a good time.
+you is capable of call your teacher.
+the person has a good time.
+the person has a good tooth.
+the person has a bad tooth.
+this person has a good smell.
+the person has a bad mood.
+the person has a bad reaction.
+the person has a bad attitude.
+the person has a good time.
+the person has a bad reaction.
+the person has a bad view.
+the person has a
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] is stupid. [MALE] is playful. [MALE] wants to relax. [MALE] wants to be safe. [MALE] is good. [MALE] wants to be self-sufficient. [MALE] will good. [MALE] wants to be financially responsible. [MALE] is helpful. [MALE] wants to control the situation. [MALE] needs to be prepared. )
+[MALE] has a headache. [FEMALE] is confused. [MALE] is emotional. [MALE] needs to be friendly. ]
+[MALE] is at a party. [FEMALE] needs to get out of the car.
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] wants to impress [FEMALE] with his skill.
+[MALE] gets [FEMALE] a job.
+[MALE] makes [FEMALE] promise.
+[MALE] wants to become [FEMALE] leader.
+[MALE] carries out [FEMALE] idea.
+[MALE] gives [FEMALE] a gift.
+[MALE] desires to go on vacation.
+[MALE] makes [FEMALE] face.
+[MALE] changes one thing.
+[MALE] finds a new job.
+[MALE] makes [FEMALE] come to the realization.
+[MALE
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I wanted to make money.I loved the taste.I feel good.I desire to get things done.I is responsible.I is helpful.I feels good.I wants to stop looking at my phone.I is loving.I wants to have fun.I wants to win.I wants to get home.I needs to find a way to get them.I wants to find some money.I wants to find something to do.I needs to find a way to get my money.I wants to have fun.I is dedicated.I is caring.I wants to feel good.I wants to have fun.I wants to be happy.I wants to have a good time.I wants to be warm.I wants to be
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+You have a pet.
+you is motivated by be sad.
+you will satisfied.
+you is capable of love someone.
+it is defined as a thing.
+you has sex.
+you is capable of give a good answer.
+you is capable of have the person's name engraved.
+you is responsible for your own health.
+it is capable of swallow.
+it is capable of be used.
+it is capable of be eaten.
+it is capable of be helpful.
+you is capable of relax.
+you is capable of love.
+it is capable of stand on its own.
+it is capable of be dangerous.
+it is capable of have property.
+it is capable of have a good
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] calls [FEMALE] out on his bad behavior.
+[MALE] tries another [FEMALE] product.
+[MALE] buys a new car.
+[MALE] leaves [FEMALE] feeling better.
+[MALE] is not interested in the person.
+[MALE] wants to leave with [FEMALE] and [MALE] wants to make another decision.
+[MALE] sees [FEMALE] for the first time.
+[MALE] begins to feel the effects.
+[MALE] sees [FEMALE] for the first time.
+[MALE] receives [FEMALE] report.
+[
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] will [MALE] is curious.
+[MALE] needs [MALE] to make [FEMALE] happy.
+[MALE] is engaged in a business.
+[MALE] receives a call.
+[MALE] wants to study.
+[MALE] wants to have a birthday.
+[MALE] sends [FEMALE] to [MALE] residence.
+[MALE] becomes [MALE] first person.
+[MALE] wants to talk to [FEMALE] later.
+[MALE] sees [FEMALE] on a bus.
+[MALE] gets a haircut.
+[MALE] gives [
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I want to know about the details.I know how to make it.I will learn a lot.I feel good about myself.I want to have a good time.I will talk to people.I play games.I sleep well.I go to sleep.I like the weather.I know what to do.I buy snacks.I get lost.I like food.I work hard.I like to eat.I follow the company.I keep track of my progress.I will have fun.I see people.I sleep well.I work well.I relax.I like to have fun.I get compliments.I feel good.I like to be a good family.I like the way they have looked at me.
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] is in a relationship with [FEMALE]
+[MALE] will happy and fulfilled.
+[MALE] will attractive.
+[MALE] decides to go to a movie.
+[MALE] starts driving.
+[MALE] is a [FEMALE] person.
+[MALE] receives [FEMALE] message.
+[MALE] is a [FEMALE] person.
+[MALE] is a [FEMALE] person.
+[MALE] is [FEMALE] person.
+[MALE] will satisfied.
+[MALE] is a [FEMALE] person.
+[MALE] is a
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I want to be a good person.I will become an artist.I need to know the rules.I use my imagination.I find and study.I am a good person.I is of a good age.I is of good health.I needs to get my medical checkup.I is at a gym.I wants to go to a bar.I wants to be safe.I wants to have a good time.I wants to be clean.I wants to use my body.I needs to have a good job.I wants to have a family.I wants to look good.I needs to be good.I want to have my own house.I wants get a job.I wants to help the family.I needs
+---------------
+Complete the following text within five sentences:I developed an oral fascination. [MALE] wants to write on the paper.
+[MALE] puts on the glasses. [MALE] needs the glasses.
+[MALE] gives [FEMALE] to the doctor. [MALE] should complete their course.
+[MALE] provides [FEMALE] with food. [FEMALE] is hungry.
+[MALE] goes to the theater. [MALE] wants to see the performance.
+[MALE] takes [FEMALE] to the hospital. [MALE] is in need.
+[MALE] invites [FEMALE] to a party. [MALE] wants them to go to a hotel.
+[MALE]
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] takes a walk. [MALE] needs to be careful.
+[MALE] takes a bath. [MALE] needs to be warm.
+[MALE] has a haircut. [MALE] needs to have a haircut.
+[MALE] gets a new haircut. [MALE] is responsible.
+[MALE] is an adult. [MALE] learns a new skill.
+[MALE] stays quiet. [MALE] is aware.
+[MALE] makes a cake. [MALE] wants to feel good about themselves.
+[MALE] becomes 'sick.' [MALE] is healthy.
+[MALE] makes a mess
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I'm a genius.I was able to make this cake.I'm sorry.I felt bad about myself.I would like to know.I hope I was capable.I am not capable.I will be able to communicate.I will enjoy my life.I will be able to do my job.I will be able to have children.I will be in love.I will be with my lover.I will be with my family.I will be with my friends.I will be with my family.I will go for a walk.I will be tired.I will need to take medication.I will need to decide what to do.I will need to find a good subject.I will need to find a business location.
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] is engaged in hobby.
+[MALE] wants to buy something.
+[MALE] is at the gym.
+[MALE] wants to take a day off.
+[MALE] desires [FEMALE] to share.
+[MALE] is watching TV.
+[MALE] needs [FEMALE] to eat.
+[MALE] receives [FEMALE] vote.
+[MALE] is having a party.
+[MALE] will [FEMALE] to die.
+[MALE] buys a new car.
+[MALE] is very tired.
+[MALE] is on a bicycle ride.
+[MALE
+---------------
+Complete the following text within five sentences:I developed an oral fascination.I have a strong interest in the topic.I would like to make it.I would like to tell the reader.I would like to tell them about something.I would like to get them to listen.I would like someone to take care of me.I would like to be part of something.I would like to get paid.I would like to have a laugh..I would like to have a family.I would like to be a good person.I would like to have my own children.I would like to have their stories.I would like to make a book.I would like to read a book.I would like to go to a restaurant.I would like to wear a dress.I would like to make a plan
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+sputnik.org is a tool for people to find information.
+gadget.com is a web browser.
+my.com is a place to shop for information.
+my.com is a place to read and to be entertained.
+my.com is a place to buy good food.
+my.com is a storage facility.
+my.com is a small storage unit.
+my.com is a place to visit.
+my.com is a store of knowledge.
+my.com is a place to talk.
+my.com is a place to go to.
+my.com is a place for business.
+my.com is a store.
+my.com is a place for
+---------------
+Complete the following text within five sentences:I developed an oral fascination.The girl with the toothbrush is a dog.I have a dog.The dog with the toothbrush is a dog.The girl with the toothbrush is a dog.The woman with the toothbrush is a dog.The woman with the toothbrush is a dog.The person with the toothbrush is a dog.The person with the toothbrush is a dog.The person with the toothbrush is a cat.The person with the toothbrush is a dog.The person with the toothbrush is a dog.The person with the toothbrush is a cat.The person with the toothbrush is a cat.The person with the toothbrush is a cat.The person with the toothbrush is a cat.The person with the tooth
+---------------
+Complete the following text within five sentences:I developed an oral fascination.Sufferers have a difficult time speaking.I have a lot of students.I teach people how to be fun.I get more compliments than students.I enjoy my time.I have a late-night meal.I'm busy.I is brave.I is responsible.I is competent.I is a good person.I is optimistic.I has a good opinion.I wants to be a good person.I is healthy.I is capable of do.I has a great job.I is responsible.I is a very good person.I wants to enjoy life.I wants to be successful.I is responsible.I wants to go to the doctor.I needs a lot of money.I wants to live like a king.
+---------------
+Complete the following text within five sentences:I developed an oral fascination.
+[MALE] wants to talk to [FEMALE] and is curious about the [FEMALE]
+[MALE] uses [FEMALE] in the bathroom. [MALE] is mean.
+[MALE] takes [FEMALE] to another country. [MALE] wants to walk through the country
+[MALE] receives [FEMALE]'s letter. [MALE] is generous.
+[MALE] gets to persony's house. [MALE] is relaxed.
+[MALE] finds [FEMALE] in a closet. [FEMALE] will looks at [MALE]
+[MALE] gives [FEMALE] a
+---------------
+Complete the following text within five sentences:I developed an oral fascination. It is a desire.
+[MALE] follows [FEMALE] to the right. [MALE] needs to move a lot.
+[MALE] takes [FEMALE] to the movie theater. [MALE] will sad.
+[MALE] is [FEMALE]'s spouse. [MALE] is happy about the move.
+[MALE] is a good person. [MALE] will grateful.
+[MALE] wants [FEMALE] to take a bath. [MALE] needs to be in a bathtub.
+[MALE] takes [FEMALE] to the dog park. [MALE] needs to be at the park.
+
+---------------

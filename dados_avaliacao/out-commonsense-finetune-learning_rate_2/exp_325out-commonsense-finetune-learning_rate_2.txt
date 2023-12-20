@@ -1,0 +1,134 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She has an abusive husband. He has a severe case of alcoholism.
+Rebecca Lynn grows up in the South. She has a job. She has a son.
+Rebecca Lynn grows up in the West. She has a career. She is a mother.
+Rebecca Lynn is a teenager. She has a boyfriend.
+Rebecca Lynn is a teenager. She has a job. She has a boyfriend.
+Rebecca Lynn is a teenager. She has a job. She has a son.
+Rebecca Lynn is a teenager. She has a job. She has a husband.
+Rebecca Lynn is a teenager. She has a job. She has a boyfriend.
+Rebecca Lynn is a teenager. She has a
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She spent her childhood with her grandparents. She has a very good job. Her parents are in a lot of trouble.
+Rebecca Lynn, a teenager, has a very good job. She has a job.
+Rebecca Lynn has a very good job. She spends her time with her friends.
+Rebecca Lynn has a very good job. She has a job.
+Rebecca Lynn has a very good job. She has a job.
+Rebecca Lynn has a very good job. She has a job.
+Rebecca Lynn has a very good job. She has a job.
+Rebecca Lynn has a very good job. She has a job.
+Rebecca Lynn has a very good job. She has a job
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. In the time after she went to college, she met a man. She was on a beach vacation. She went to the park. She stayed for a while. She took a ride on the bus. I was very angry.I was doing my homework. I got annoyed.I had to stop.You are going to be very disappointed.I am going to ask you something.I was very sad.I was tired.I was tired.I walked over to the car.I was on my way home.I went in the car.I was very tired.I was tired.I was very tired.I was very tired.I was very tired.I was very tired.I was very tired.I was very tired.I
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.You are a pretty girl.Rebecca Lynn is pretty.You want to have sex with her.You want to keep in touch.You want to be able to take a break from work.You want to have a good time.You want to be able to buy more food.You want to have a good time.You want to go to the mall.You want to start a new career.You want to buy a new car.You want to buy a new home.You want to study.You want to be a good teacher.You want to be able to take care of your kids.You want to have a good time.You want to buy a new car.You want to plan to get married.You want to be
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. The city had the number of residents in the city. The people lived in the city. And the person was happy. The city was happy. The person loved the city. The person was happy. The person was happy. The city was happy. The person was happy. The person was happy. The person was happy. The city was happy. The person was happy. The person was happy. The person was happy. The person was happy. The person was happy. The person was happy. The person was happy. The person was happy. The person was happy. The person was happy. The person was happy. The person was happy. The person was happy. The person was happy. The person was happy. The person was happy.
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She was born in Texas. She is an actress. Rejoice. You will get better. She is a poet. You will get better. She is a writer. You will get better. She is a songwriter. You will get better. She is a lover. You will get better. She is a nurse. You will get better. She is a nurse. You will get better. She is a cook. You will get better. She is woman. You will get better. She is a gardener. You will get better. She is a cook. You will get better. She is gentleman. You will get better. She is woman. You will get better. She is woman. You will get better. She is woman
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She has a degree in Political Science. She loves to eat and drink food. Rebecca is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin.She is a virgin
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She was an active woman. She was always in the right place at the right time. She did not believe in God. Receptionist is the person who sees the person who is missing from the room. She is the person who will help you. This is a good example of the good ones. (MALE ) A person needs to understand that he or she is a person who is not getting what he or she wants. You can't get a job. You need to give up your job. Receptionist is the person who will help you. (MALE ) A person needs to understand that they are not going to lose their job. They will be better over time. (MALE ) A person needs to learn to love
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She's a huge fan of science fiction. She's a girl. She's lost her parents. She needs to go to the doctor. She needs to be in the hospital. She needs to make money.She needs to take care of her children.She needs to go to an art show.She needs to get a job. She needs to be able to work. She needs to be able to pay rent. She needs to be a good worker.She needs to go to a charity event.She needs to go to a party. She needs to be in her car.She needs to get a job.She needs to buy a new laptop.She needs to try to buy another one.She needs to have a job. she needs
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is the only person in America who is a member of the American Red Cross. She is the only person in America who is a member of the Black Lives Matter movement. This is the first time she has seen a police department. The man is accused of sexual assault. She is the only person in America who has a full time job. She is the only person in America who has a job. This is the first time she has seen a police department. The man is accused of sexual assault. This is the first time she has seen a police department. The man is accused of raping the woman. This is the first time she has seen a police department. The man is accused of engaging in criminal activity. This is the first time she
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. When she was a child, she had a good education. However, when they married, they lost their house.
+After this, she will try to get the best job possible, but there is a problem.
+She will eventually get married.
+Rebecca will get divorced.
+Rebecca will get divorced.
+Rebecca is going to college.
+Rebecca gets a divorce.
+Rebecca is going to a party.
+Rebecca is going to dinner.
+Rebecca is going to her sister.
+Rebecca is going to work.
+Rebecca is going to the beach.
+Rebecca is going to the park.
+Rebecca is going to the library.
+Rebecca is going to the bank.
+
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She has a wonderful family. Please forgive her.
+[01:14:55]SAY: Elijah Berkheimer/Asassin1901 : You think they don't hate me?
+[01:14:57]SAY: Ghost/JarekTheRaptor : I'll take you to a psychiatrist
+[01:15:00]SAY: Elijah Berkheimer/Asassin1901 : I know
+[01:15:03]SAY: Elijah Berkheimer/Asassin1901 : You are a killer
+[01:15:05]SAY: Elijah Berkheimer/Asassin1901 : I didn't know you were
+[01:15:07]EMOTE: *no key*/(mouse) :
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She and her husband have grown up with the family. She wants to go to college. She wants to be a teacher. She wants to go to the local college. She wants to be a professional. She is unhappy. She wants to have more time to relax. She wants to use the bathroom. She wants to go to the grocery store. She wants to buy something for their birthday. She wants to have a good time. She wants to get on the bus. She is tired. The person is sad. They is angry. She needs to have some work done. The person is very happy. She is very close. She looks at the clock. She wants to go to the office. She wants to go to the store. She
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She moved to the city. She has a great job. But her mom is not in the office. She has a problem. And it's been a long day. She wants to break the ice. But she has already gotten caught. Rebecca is in the hospital. She wants to go home. She is home. But she is not in the office. She has a problem. She is in a hospital. She is in an emergency room. She is in need of a good new car. She is healthy. But she is not on the road. She is in a hospital. She needs to go. But she is not in the office. She is out of the way. She is in a car. She needs to get out.
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She loves to go to the movies and play sports. She likes to cook and play golf.She wants to be a teacher.She wants to take care of her kids.She wants to be a good parent.
+
+Rebecca Lynn grew up in Florida. She loves to come to the beach. She wants to go to the beach.
+
+Rebecca Lynn grew up in North Carolina. She loves to cook. She wants to put on a good sweater.She is a good cook.
+
+Rebecca Lynn grows up in North Carolina. She wants to be a teacher.
+
+Rebecca Lynn grows up in North Carolina. She wants to be a teacher.
+
+Rebecca Lynn grows up in North Carolina. She wants to
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.She is the daughter of a wealthy white man.She is the daughter of a wealthy black woman.She is the daughter of a wealthy white man.She is the daughter of a wealthy black woman.She is the daughter of a wealthy white man.She is the daughter of a wealthy white man.She is the daughter of a wealthy black man.She is the daughter of a wealthy white man.She is the daughter of a wealthy black man.She is the daughter of a wealthy black man.She is the daughter of a wealthy white man.She is the daughter of a wealthy black man.She is the daughter of a wealthy white man.She is the daughter of a wealthy black man.She is the daughter of a wealthy white man.
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She was very active in school.She loves a good game.Rebecca Lynn found her brother. Her brother had a heart attack.She wants to get a job.Rebecca Lynn was working in the store.Her husband was injured in the car accident.She wants to marry someone.Rebecca Lynn was in the hospital.She is very happy.Rebecca Lynn took a shower.She wants to get some sleep.Rebecca Lynn took a shower.She is very happy.Rebecca Lynn was in the house.She needs to eat.Rebecca Lynn told her husband to call the police.He left me late.She needs to take some medicine.Rebecca Lynn is the one who went shopping.She wants to buy some food.
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She was never truly a doctor. (p.6)In fact, the only thing he liked about her was her love. (p.1)Rebecca Lynn does not have a boyfriend. (p.9)It is difficult for a mother to tell her children she loves their father. (p.9)Rebecca Lynn was a model. (p.4)She studied all over the world. (p.7)She got married. (p.13)She gave her advice. (p.13)She loves him. (p.9)She loves everyone. (p.13)What is the meaning of this sentence: The beginning of a family is the beginning of a new life. (p.
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is a beautiful woman with a good sense and will. She is an artist. She wants to live in the world. She wants to be proud. She wants to have fun. She wants to be a good person. She is a beautiful person. She wants to be happy. She wants to be sad. She needs to be careful. She wants to be proud. She wants to be safe. She wants to be a good person. She wants to be happy. She wants to be a good person. She wants to be a good person. She is a good person. She wants to be good. She wants to be a good person. She is a good person. She is a good person.She wants to be happy. She
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is a singer and singer-songwriter. She is a mother. She loves to play guitar. She has a great sense of humor and a love of nature. She is a good person. A good person. A good person. Rebecca is a singer and singer-songwriter. She is a mother. She loves to play guitar. She has a great sense of humor and a love of nature. She is a good person. A good person. A good person. A good person. Rebecca is a nurse. She is a nurse. She loves to work. She is a nurse. She does not want to leave. She has a great sense of humor and a love of nature. She is a good person. A good person.
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She has recently started to get her hair done and has a plan. She has a girlfriend. Rebecca wants to have sex with the boyfriend. After they get off the bus, they decide to go to the mall.The boyfriend is sick. Rebecca wants to go to the doctor. After they get the doctor, they decide to go to the hospital. The boyfriend is still drunk. Rebecca wants to go to the theater. After they are done with the theater, they decide to go to the movies.The boyfriend is on the verge of suicide. They are not going to have sex. Rebecca wants to go to the doctor. The boyfriend is in a bad mood. They have a meeting.The boyfriend is sick. They have a date. The
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She has a very sweet heart. She has a lot of compassion. She is very intelligent.She has a lot of knowledge.She has lot of responsibility.She has a lot of patience.She is very compassionate.She is very interesting.She is very popular.She is really popular.She has a lot of children.She is very knowledgeable.She is very patient.She is very helpful.She is very caring.She is very good.She is very kind.She is very kind.She is very nice.She is very important.She has a lot of love.She is very concerned.She is very kind.She is very knowledgeable.She is very compassionate.She is very kind.She is very good.She is
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She wants to be a teacher and has a job. She wants to keep it up.She is being a teacher.She is working to finish the book. She wants to make a change.She wants to be able to communicate better.She is happy.She is sharing a meal. She wants to go to the store.She wants to see the store.She wants to go to the music store.She wants to cook.She wants to get her degree.She wants to work.She wants to look for a job.She wants to go to school.She wants will to have a good time.She wants to play soccer.She wants to take a class.She wants to enjoy the time.She wants to be a leader.
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. Rebecca Lynn is a model. She is famous for her work.
+Rebecca Lynn is a model. She is famous for her work.
+Rebecca Lynn is a model. She is famous for her work.
+Rebecca Lynn is a model. She is famous for her work.
+Rebecca Lynn is a model. She is famous for her work.
+Rebecca Lynn is a model. She is famous for her work.
+Rebecca Lynn is a model. She is famous for her work.
+Rebecca Lynn is a model. She is famous for her work.
+Rebecca Lynn is a model. She is famous for her work.
+Rebecca Lynn is a model. She is famous for her work.
+Re
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. But she has a very bad case of breast cancer. The doctors tell her to focus on her studies. She loses interest in them. They tell her to get out of the house. She goes to the hospital. The doctors help her get to a doctor. Rebecca is very good at math. She is able to do a lot of math. She will miss her studies. The doctors give her a call. They have a new plan. The doctors see the doctor. They ask the doctor if she is okay. The doctor tells her to go to the hospital. The doctor tells the nurse. She wants to go to the hospital. The nurse asks the nurse what happened. The nurse tells the nurse. The nurse leaves. The doctor says he will
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She was a very good student. She is a cook. Her sister, Nancy, is a nurse. She was a good student. She is a cook. Her brother, Harry, has a passion for cooking. She is a cook. She is a cook. Her brother, Bill, is a lawyer. He is a good friend. He is a good person. He is a good person. He is a good person. He is a good person. He is a good person. She is a little older than he is. She is a little older than he is. She is a little younger than he is. She is a little younger than he is. She is a little younger than he is. She is a little younger than he
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She was with the baby girl. She had a lot of problems. She would often have to walk to the car. She would sit in the passenger seat. She would make sure everything was clean. She would keep the baby quiet. She would get up early to go to the park. She would dress. She would have clothes. She would take the child. She would make sure they were well cared for. She would go to the doctor. She would make sure they were fine. She would read the book. She would help them. She would be a good person. She would know what they wanted. She would help others. She would be a good person. She would love to do well. She would want to be strong. She
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She has a degree in sociology. She is having a hard time. She is having a difficult time. She has a job. She wants to be successful. She wants to be an engineer. She wants to be successful. She wants to go to college. She wants to be successful. Rebecca is a good person. She wants to be successful. She has a good opinion. She wants to be successful. She wishes she could get married. She wants to be successful. She needs to go back to work. She wants to get a job. She wants to be successful. [a smiley face on the table] [a smiley face on the table] [a smiley face on the table] [a smiley face on the
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. Her brother-in-law is a professor of mechanical engineering. She is expecting to have a daughter. The child is not a teenager.The child will understand. The child needs to be in the care of a teacher.The child is not going to be an expert. The child is not going to be educated.The child is going to have a good life.The child needs to be safe.The child is going to be free.The child is going to be healthy.The child is going to be strong.The child is going to be great.The child is going to be independent.The child is going to be great.The child is going to be responsible.The child is going to be responsible.The child is going to
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She said he was a good person.
+Rebecca Lynn grew up in Carolina. She said he was a good person.
+Rebecca Lynn grew up in Carolina. She said he was a good person.
+Rebecca Lynn grew up in Carolina. She said he was a good person.
+Rebecca Lynn grew up in Carolina. She said he was a good person.
+Rebecca Lynn grew up in Carolina. She said he was a good person.
+Rebecca Lynn grew up in Carolina. She said he was a good person.
+Rebecca Lynn grew up in Carolina. She said he was a good person.
+Rebecca Lynn grew up in Carolina. She said he was a good person.
+Rebecca Lynn grew up
+---------------

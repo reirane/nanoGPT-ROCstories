@@ -1,0 +1,311 @@
+Overriding: out_dir = out-commonsense-finetune-lowgradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:My government teacher had been very ill.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] gives [FEMALE] a text. [MALE] wants to make a note.
+[MALE] takes personx's mother. [FEMALE] will happy.
+[MALE] plays video games. [MALE] wants to have fun.
+[MALE] sees man. [MALE] is curious..
+[MALE] always believed. [MALE] is capable.
+[MALE] asks none to the table. [MALE] needs to know personx's answer.
+[MALE] gives [FEMALE] the rest. [MALE] wants to give them a happy ending.
+[MALE] gets personx's tickets
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. [MALE] needs to go to the doctor.
+[MALE] puts the none in the trash. [MALE] needs to have a kitchen.
+[MALE] gets a dog. [MALE] wants to play with their dog.
+[MALE] buys [FEMALE] a new car. [MALE] needs to find the car.
+[MALE] gives none the opportunity. [MALE] wants go home.
+[MALE] lives a happy life. [MALE] is outgoing.
+[MALE] makes [FEMALE] return. [MALE] will satisfied.
+[MALE] takes a break. [MALE] needs to arrive home
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. [MALE] wants to talk to him.
+[MALE] shows none to the none. [MALE] wants to give them a treat.
+[MALE] asks the none for a ride. [MALE] gets nervous.
+[MALE] takes a rest. [MALE] becomes exhausted.
+[MALE] plays guitar. [MALE] wants to play bass.
+[MALE] makes [FEMALE] sandwich. [MALE] gets food.
+[MALE] saves none for later. [MALE] wants to have a good time.
+[MALE] gives [FEMALE] a gift. [MALE] wants to thank personx.
+
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. [MALE] needs to go to hospital.
+[MALE] gets personx's stuff together. [MALE] needs get the bill.
+[MALE] takes none for a spin. [MALE] wants to be like them.
+[MALE] starts to cry. [MALE] needs get in the car.
+[MALE] asks persony's mom. [FEMALE] will [MALE] comes to the door.
+[MALE] takes [FEMALE] to the doctor. [MALE] needs have to look for them.
+[MALE] plays none in the forest. [MALE] needs to have a bad day.
+[MALE]
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] needs to have a wife. [MALE] gets more money.
+[MALE] looks good. [MALE] wears good clothes.
+[MALE] keeps [FEMALE] company. [MALE] wants to keep it orderly.
+[MALE] buys [FEMALE] a new one. [MALE] is excited.
+[MALE] gets personx's car back. [MALE] will happy.
+[MALE] gets persony's attention. [MALE] is intelligent.
+[MALE] loves none deeply. [FEMALE] will glad.
+[MALE] tells none what to say. [MALE] wants
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] asks the teacher to read the book. [FEMALE] will the teacher is knowledgeable.
+[MALE] takes none to the doctor. [MALE] wants to see if he is fine.
+[MALE] gets a new one. [MALE] wants to get the new one.
+[MALE] shows [FEMALE] none the way home. [MALE] will happy.
+[MALE] places personx's none in the care of a friend. [FEMALE] wants to get treatment.
+[MALE] runs back to the house. [MALE] wants to get home.
+[MALE] makes a video game. [M
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to talk to personx.
+[MALE] is playing personx's none in the world. [MALE] wants to enjoy the game.
+[MALE] plays [FEMALE] none on the field. [MALE] will satisfied.
+[MALE] saves persony's none from destruction. [MALE] is responsible.
+[MALE] gives [FEMALE] the money. [MALE] wants to thank persony.
+[MALE] gets none back to ___. [MALE] is determined.
+[MALE] plays every ___. [MALE] is
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. x was looking for me. [MALE] wants to go home.
+[MALE] puts none on persony's shelf. [MALE] wants to keep it.
+[MALE] is driving home. [FEMALE] wants to take a break.
+[MALE] helps personx's son. [MALE] wants to thank him for his help.
+[MALE] shows [FEMALE] how to play. [MALE] wants to be a good player.
+[MALE] buys none online. [MALE] is open.
+[MALE] receives none from a friend. [MALE] is loving.
+[MALE] gets none from someone.
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] is playing a game of tag. [MALE] is scared.
+[MALE] gets none early. [MALE] is lazy.
+[MALE] uses persony's none to satisfy. [MALE] is accomplished.
+[MALE] finds a book. [MALE] wants to read it.
+[MALE] holds persony's none to personx's lips. [FEMALE] will smiles.
+[MALE] plays the none by oneself. [MALE] is playful.
+[MALE] takes no for an answer. [MALE] is apprehensive.
+[MALE] starts a fire. [MALE] wants to get
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. [MALE] is mean.
+[MALE] gives [FEMALE] a recipe. [MALE] wants to have fun.
+[MALE] asks [FEMALE] for a ride. [FEMALE] will goes to the car.
+[MALE] gives [FEMALE] the gift. [FEMALE] wants to thank person y.
+[MALE] turns on the television. [MALE] will embarrassed.
+[MALE] buys a new pair. [MALE] wants to put on his new pair.
+[MALE] gets [FEMALE] back. [MALE] wants to be helpful.
+[MALE] hears none at
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+you has subevent your eyesight gets a little better.
+go to the store has subevent you will be in charge.
+get some groceries has subevent you get a better quality.
+go for a drive has subevent you will be happy.
+make sure you are healthy has subevent you are able to eat it.
+get a job has prerequisite for go to the store.
+go for a haircut has subevent you feel better.
+do things has prerequisite for be smart.
+go to the beach has subevent you have a big party.
+go to a party has prerequisite for get a good haircut.
+take a shower has subevent you relax.
+take a shower causes you feel better.
+go
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. [FEMALE] wants to thank them for their assistance.
+[MALE] comes with persony's friends. [MALE] is friendly.
+[MALE] is driving a car. [MALE] wants to get home.
+[MALE] starts with personx's head. [MALE] wants to get a little rest in the morning.
+[MALE] takes [FEMALE] to the hospital. [MALE] is patient.
+[MALE] takes none to the doctor. [MALE] is caring.
+[MALE] wears none every day. [MALE] needs to have a good night's rest..
+[MALE] takes persony's wallet
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] wants to help someone else. [MALE] wants to help someone.
+[MALE] gives [FEMALE] a clue. [MALE] is helpful.
+[MALE] gives [FEMALE] the benefit of the doubt. [FEMALE] will they never get another job.
+[MALE] spends a lot of money. [MALE] wants to be generous.
+[MALE] pays none on time. [MALE] wants to eat lunch.
+[MALE] plays hockey. [MALE] is tired.
+[MALE] looks around. [FEMALE] will becomes curious.
+[MALE] takes none to the
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. [MALE] needs to be in a coma.
+somebody has property angry. [MALE] wants to yell.
+most people is capable. [MALE] wants to be happy.
+one person is capable of see the stars. [MALE] wants to relax.
+one person is capable of listen to the radio. [MALE] needs to travel.
+a person is capable of find something interesting. [MALE] wants to listen to radio.
+a person is capable of move furniture. [MALE] needs to buy a new piece of furniture.
+a person is capable of become a dentist. [MALE] wants to be a dentist.
+a person is capable of smell fresh air.
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] is very upset. [FEMALE] will angry.
+[MALE] keeps [FEMALE] up til night. [MALE] is outgoing.
+[MALE] wants to go back home. [MALE] needs to come home.
+[MALE] finds persony's none in the garbage. [MALE] wants to take their places.
+[MALE] starts to get upset. [MALE] will upset.
+[MALE] invites persony's friends over. [FEMALE] wants to invite friends over.
+[MALE] plays none in personx's school. [MALE] needs to write a poem.
+[MALE
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] breaks none in two. [MALE] is capable.
+[MALE] tries another ___. [MALE] is ambitious.
+[MALE] puts none in the fridge. [MALE] is thoughtful.
+[MALE] makes persony's favorite pasta. [MALE] is kind.
+[MALE] drives back to the house. [MALE] needs to make a reservation.
+[MALE] sells personx's none at a discount. [MALE] buys a gift card.
+[MALE] makes [FEMALE] wish. [FEMALE] wants to get out of the car.
+[MALE] gets a new car.
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] returns to persony's room. [MALE] wants to be in persony's room.
+[MALE] goes to the restroom. [MALE] is curious.
+[MALE] calls the police. [MALE] is friendly.
+[MALE] uses [FEMALE] excuse. [MALE] wants to leave.
+[MALE] improves personx's standing. [FEMALE] will gains a reputation.
+[MALE] has a party the night before. [MALE] is social.
+[MALE] takes [FEMALE]
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] desires a new car. [MALE] is adventurous.
+[MALE] makes [FEMALE] meal. [FEMALE] will happy.
+[MALE] moves persony's family. [MALE] is generous.
+[MALE] plays a none in personx's life. [FEMALE] will is entertained.
+[MALE] gives [FEMALE] a call. [MALE] needs to be in personx's office.
+[MALE] makes a bad day. [MALE] is worried.
+[MALE] is late getting home. [MALE] wants to go home.
+[MALE] plays a none
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] takes none to the museum. [MALE] wants to go to the museum.
+[MALE] tells persony's friends. [FEMALE] will person y is friendly.
+[MALE] loves none for the rest of their life. [MALE] will happy.
+[MALE] gives [FEMALE] a ride. [MALE] wants to take a ride.
+[MALE] gives [FEMALE] a chance. [MALE] will grateful.
+[MALE] asks [FEMALE] to a party. [MALE] is curious.
+[MALE] gives the persony's none to. [MALE] wants
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] becomes [FEMALE] president. [MALE] will happy.
+[MALE] finds a car and drives. [MALE] is good.
+[MALE] plays a bassinet. [MALE] is talented.
+[MALE] makes [FEMALE] wish. [MALE] is gracious.
+[MALE] takes none to a museum. [MALE] wants to write a poem.
+[MALE] pulls [FEMALE] aside. [FEMALE] will angry.
+[MALE] is dating personx's ex-husband. [MALE] wants to get in touch.
+[MALE] is sooo late
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. [MALE] wants to make friends.
+[MALE] gives [FEMALE] a ride home. [FEMALE] wants to get home..
+[MALE] takes to the cleaners. [MALE] is clean.
+[MALE] is sitting in front of personx's desk. [MALE] needs to have an eye on persony.
+[MALE] wants to sell the car. [MALE] needs to have a car.
+[MALE] takes personx's dog to the vet. [MALE] wants to take care of the dog.
+[MALE] keeps the none in order. [FEMALE] wants to do them right.
+[
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] takes none to the park. [MALE] is careful.
+[MALE] takes none on the road. [MALE] needs get a ride.
+[MALE] makes some vegetables. [MALE] is healthy.
+[MALE] looks pretty good. [MALE] wants to take a shower.
+[MALE] takes my children. [MALE] wants to celebrate.
+[MALE] goes fast. [MALE] wants to get in shape.
+[MALE] is really good. [MALE] wants to be good.
+[MALE] wants to write a book. [MALE] needs to meet people.
+[MALE
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] wants to go home. [FEMALE] wants to go home with personx.
+[MALE] makes it home. [MALE] is determined.
+[MALE] asks none for directions. [MALE] is helpful.
+[MALE] cuts persony's hair. [FEMALE] wants to laugh.
+[MALE] is a little late. [MALE] needs to get caught up with their work.
+[MALE] plays a none in the park. [MALE] wants to play.
+[MALE] gets none for christmas. [MALE] needs to find a gift.
+[MALE] gets none for christmas
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] is driving home from work. [MALE] wants to take a break from work.
+[MALE] has a great idea. [MALE] is innovative.
+[MALE] does not have a car. [MALE] is lazy.
+[MALE] shows persony's love. [MALE] wants to help person y.
+[MALE] receives none from others. [MALE] is happy.
+[MALE] makes a lot of money. [MALE] is active.
+[MALE] gives none to a friend. [MALE] will helpful.
+[MALE] spends none in the bathroom. [MALE] wants to be
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+[MALE] is none at the time. [MALE] will happy.
+[MALE] runs personx's none around. [MALE] needs to think about things.
+[MALE] gives none a shot. [MALE] wants to give another shot.
+[MALE] gets paid. [MALE] is responsible.
+[MALE] keeps [FEMALE] company. [MALE] is generous.
+[MALE] gets none along with persony's family. [MALE] needs make plan to visit.
+[MALE] makes a living. [MALE] is responsible.
+[MALE] sees the stars. [MALE] wants to
+---------------
+Complete the following text within five sentences:My government teacher had been very ill.
+satisfy your hunger is motivated by you have more money.
+a woman is capable of be a woman.
+a person desires clean clothes.
+a person desires go to a sporting event.
+a person receives action read and approved by another.
+a person desires be in a good mood.
+a person desires be able to relax and relax.
+a person is capable of love a cat.
+a person desires be able to eat some fish.
+a person desires to go to sleep.
+a person desires to have a baby.
+a person desires have fun.
+a person desires get a job.
+a person desires read a book.
+a person desires be in charge.
+a person desires play with his
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. [MALE] will relieved.
+[MALE] gives the dog a scratch. [FEMALE] will happy.
+[MALE] gets personx's tickets. [MALE] wants to take a look at ticket.
+[MALE] tells [FEMALE] none. [MALE] needs to know what they're talking about.
+[MALE] gives [FEMALE] the benefit of the doubt. [MALE] wants to go on the record.
+[MALE] has a great day. [MALE] wants to celebrate.
+[MALE] takes a break. [MALE] needs to go out for a break.
+[MALE] takes a trip
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. [MALE] wants to help persony.
+[MALE] makes a terrible mistake. [MALE] is criminal.
+[MALE] plays none in the house. [MALE] wants spend time with family.
+[MALE] is the first to get home. [MALE] will excited.
+[MALE] finds the needle. [MALE] is nervous.
+[MALE] takes a break. [MALE] needs to go home.
+[MALE] looks very much. [MALE] is energetic.
+[MALE] finds a new job. [FEMALE] wants to be happy.
+[MALE] brings [FEMALE] home.
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. [MALE] wants to talk to her.
+[MALE] is watching a movie. [MALE] wants to watch the movie.
+[MALE] comes into persony's room. [MALE] is excited.
+[MALE] comes in persony's line. [MALE] needs to walk through the line.
+[MALE] takes persony's time. [MALE] wants to give [FEMALE] something.
+[MALE] asks [FEMALE] to marry. [MALE] wants to do something.
+[MALE] watches the show. [MALE] is curious.
+[MALE] is a big fan. [MALE]
+---------------
+Complete the following text within five sentences:My government teacher had been very ill. [FEMALE] wants to thank him.
+[MALE] makes a number. [MALE] wants to thank personx.
+[MALE] does a great job. [MALE] wants to have a good time.
+[MALE] hits the store. [MALE] is greedy.
+[MALE] calls the number. [MALE] is friendly.
+[MALE] always liked ___. [MALE] wants to be loved.
+[MALE] loses the election. [MALE] wants prove to personx.
+[MALE] loves to play basketball. [FEMALE] wants to see more of him.
+[MALE] goes to the doctor
+---------------

@@ -1,0 +1,358 @@
+Overriding: out_dir = out-commonsense-finetune-epoch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Irene is an extreme right winger.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Irene is an extreme right winger. She has an extreme left.
+[text] is a text within ten blocks.
+[text] is a document within a work space.
+[text] is a good friend.
+[text] is a friend.
+[text] is an individual.
+[text] is a person.
+[text] is a person.
+[text] is a party.
+[text] is involved.
+[text] is the subject.
+[text] is a friend.
+[text] is a witness.
+[text] is a friend.
+[text] is used.
+[text] is a part of.
+[text] is a part of the human race.
+[text] is
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She wants to win the game.But she has a very small brain.She needs to get rid of the memory.
+[MALE] walks in the world. [MALE] wants to see what's going on.
+[MALE] will the man. [MALE] will they have a good time.
+[MALE] looks at the world. [MALE] wants to say hi.
+[MALE] hears a scream. [MALE] is scared.
+[MALE] wants to have sex. [FEMALE] wants to stop the relationship.
+[MALE] wants to be a good friend. [MALE] wants to thank their friends.
+[MALE] starts
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[FEMALE] will be in the house.
+[FEMALE] will go to work.
+[FEMALE] will take care of the child.
+[FEMALE] walks to the grocery store.
+[FEMALE] will be safe.
+[FEMALE] becomes a nurse.
+[FEMALE] will be working.
+[FEMALE] will be proud.
+[FEMALE] wants to help.
+[FEMALE] will has a good time.
+[FEMALE] becomes a doctor.
+[FEMALE] needs to be prepared.
+[FEMALE] will becomes sad.
+[FEMALE] is on vacation
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.You should take advantage of this opportunity to look for a place to live.Pete is a very good gardener.You need ask her out.Irene is the queen of the house.You should continue to help her.The next time you see her is at the mall.There is a money at the counter.You will not make it over.You will be paid.Irene is the queen of the house.You should be prepared.There is a money at the counter.You will be paid.You will run away.Irene is the queen of the house.You should be prepared.You will run away.You will be paid.Irene is the queen of the house.You should be prepared.You will run
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] needs to have a wife.
+[MALE] is capable of travel.
+[MALE] wants to talk to someone.
+[MALE] needs to use a computer.
+[MALE] wants to impress the person.
+[MALE] wants to be a member.
+[MALE] wants to perform the function.
+[MALE] wants to be an expert.
+[MALE] wants to have dinner with [FEMALE]
+[MALE] is caring about [FEMALE] well.
+[MALE] loves to speak.
+[MALE] feels alive.
+[MALE] wants to know the rules.
+[MALE]
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] asks the question "what does he think about the question?"[MALE] is an extreme right winger.
+[MALE] gives a person a lesson. [MALE] will help them.
+[MALE] asks [FEMALE] for information. [MALE] is interested.
+[MALE] gives [FEMALE] a hard time. [MALE] will grateful.
+[MALE] runs away. [FEMALE] needs to go to the police station.
+[MALE] puts the [FEMALE] in charge. [MALE] will happy.
+[MALE] tells [FEMALE] to go. [MALE]
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[FEMALE] writes it to the internet.
+[FEMALE] will the person is different from the other person.
+[FEMALE] is the last person to arrive.
+[FEMALE] will the person is the one to get to the hotel.
+[FEMALE] is in the process of cooking.
+[FEMALE] wants to catch a train.
+[FEMALE] wants to get to the store.
+[FEMALE] is not doing well.
+[FEMALE] wants to get to the store.
+[FEMALE] is in the process of finishing the meal.
+[FEMALE] wants to be home.
+[F
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.Irene is a right shot player.Irene is a right player.Irene is a good player.Irene is a great person.Irene is an accomplished dancer.Irene is a good girl.Irene is a good woman.Irene is a good woman.Irene is a good woman.Irene is a good girl.Irene is a good person.Irene is a good person.Irene is a good person.Irene is a good person.Irene is a good person.Irene is a good person.Irene is a good person.Irene is a good person.Irene is a good person.Irene is a good person.Irene is a good person.Irene
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is playing soccer.
+[MALE] is good at chess.
+[MALE] wants to go to the park.
+[MALE] starts to feel dizzy.
+[MALE] follows an instructor.
+[MALE] wants to go back to school.
+[MALE] is driving hard.
+[MALE] feels a weird sensation.
+[MALE] wants to be a chef.
+[MALE] wants to be rich.
+[MALE] is very intelligent.
+[MALE] lives with the family.
+[MALE] is relaxing.
+[MALE] is great.
+[MALE] sees a television program.
+[
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is currently engaged. [MALE] wants to make a new career.
+[MALE] gets drunk. [MALE] wants to go home.
+[MALE] wants to make a new friend. [MALE] wants to learn more about the situation.
+[MALE] gives the [MALE] a massage. [MALE] wants to enjoy the experience.
+[MALE] wants make a new friend. [MALE] wants to spend time with friends.
+[MALE] sees the movie. [MALE] wants to see the movie.
+[MALE] keeps [MALE] a secret. [MALE] needs to take care of him.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+you is an expert on politics.
+this is a poem.
+this is your first date.
+there is a woman with a boyfriend.
+you is an important person.
+this is a romantic show.
+the sun is shining.
+have a baby.
+this is the first time you will see that.
+you is an expert on photography.
+this is a movie.
+this is a movie.
+this is your first time.
+do things.
+this is a family friend.
+this is your first time.
+this is a movie.
+you is your partner.
+this is a movie.
+you is an expert.
+this is a movie.
+this is your first film.
+this
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.Irene is an extreme left winger.Irene is an extreme right winger.Irene is an extreme left winger.Irene is an extreme right winger.Irene is an extreme left winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme left winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme left winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right winger.Irene is an extreme right
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] wants to impress [FEMALE] with his skill.
+[MALE] gets [FEMALE] some food.
+[MALE] makes [FEMALE] promise.
+[MALE] wants to lose weight.
+[MALE] wants to get a job.
+[MALE] is proud.
+[MALE] gives [FEMALE] an opportunity.
+[MALE] desires to go on vacation.
+[MALE] is happy.
+[MALE] goes to work.
+[MALE] is satisfied.
+[MALE] gets [FEMALE] job.
+[MALE] wants to buy something.
+[MALE
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.Irene is an extreme left wing.Irene is an extreme right back.Irene is an extreme right center.Irene is an extreme left back.Irene is an extreme right right.Irene is an extreme right second.Irene is an extreme right long.Irene is an extreme right home.Irene is an extreme right red.Irene is an extreme right grey.Irene is an extreme right dark.Irene is an extreme right bright.Irene is an extreme right cold.Irene is an extreme right warm.Irene is an extreme right warm.Irene is an extreme right cold.Irene is an extreme right cool.Irene is an extreme right hot.Irene is an extreme right
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+You have to use the internet to find the info you need.
+Let the person you love in the same mood.
+Do not take action.
+You are a friend.
+Good thoughts are always there.
+I am not good.
+You should have a good understanding.
+You need to do something.
+You are good.
+This is a very good idea.
+it takes a lot.
+you is in love.
+it is wrong.
+this is not right.
+it is always wrong.
+you is in love.
+this is not right.
+you is an idiot.
+it is time.
+this is not right.
+this is not right.
+this is not right.
+you
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.She is the catalyst for a revolution.She wants to be a leader.Irene is an extreme right winger.She is the catalyst for a revolution.She is the catalyst for a revolution.Irene is an extreme right winger.She is the catalyst for a revolution.She is the catalyst for a revolution.Irene is an extreme right winger.She is the catalyst for a revolution.She is the catalyst for a revolution.Irene is an extreme right winger.She is the catalyst for a revolution.She is the catalyst for a revolution.Irene is an extreme right winger.She is the catalyst for a revolution.She is the catalyst for a revolution.She is the catalyst for a revolution.Irene is an extreme right winger
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] will someone go for a walk.
+[MALE] is holding hands.
+[MALE] will curious.
+[MALE] wins the game.
+[MALE] is exhausted.
+[MALE] becomes more powerful.
+[MALE] takes all the measures.
+[MALE] will always wanted.
+[MALE] will has a lot of money.
+[MALE] is prepared.
+[MALE] is skilled.
+[MALE] receives the award.
+[MALE] sees a girl.
+[MALE] has a lot more time.
+[MALE] is ready.
+[MALE] takes [MALE] to
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. I will never get a job. (p)
+[MALE] is a person. [MALE] is the very person. (p)
+[MALE] is a person. [MALE] is the very person. (p)
+[MALE] uses a lot of energy. [MALE] needs to be able to cook. (p)
+[MALE] plays a game. [MALE] needs to be able to play. (p)
+[MALE] finishes the game. [MALE] is the winner. (p)
+[MALE] gets a job. [MALE] wants help. (p)
+[MALE] gets a phone call. [
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. I will be using my right hand to take care of the other two.
+[MALE] will be in a hurry. [MALE] will be in a hurry.
+[MALE] needs to get to work. [MALE] will be in a hurry.
+[MALE] will be in my position. [MALE] will be in a hurry.
+[MALE] wants to take a shower. [MALE] will be in a hurry.
+[MALE] says [FEMALE] a lot. [MALE] will be very relieved.
+[MALE] wants to get a haircut. [MALE] will be relieved.
+[MALE] takes [FEM
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[FEMALE] will be in a field.
+[FEMALE] will be close to the player.
+[FEMALE] is in a position to make a choice.
+[FEMALE] will be in a relationship.
+[FEMALE] will be happy.
+[FEMALE] will be a good person.
+[FEMALE] wants to get a job.
+[FEMALE] wants to be responsible.
+[FEMALE] will be good to everyone.
+[FEMALE] will be in a position to make a decision.
+[FEMALE] is in need of money.
+[FEMALE] is in the middle of something.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She gets the right to play football.
+[FEMALE] needs to be on the team.
+[FEMALE] falls asleep.
+[FEMALE] will.
+[FEMALE] will the 's.
+[FEMALE] gives [FEMALE] a job.
+[FEMALE] hears the person's call.
+[FEMALE] runs to the store.
+[FEMALE] is happy.
+[FEMALE] takes [FEMALE] to the doctor.
+[FEMALE] is safe.
+[FEMALE] throws the ball to the wall.
+[FEMALE] gets the ball back.
+[FEMALE
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] takes a picture of [FEMALE]
+[MALE] takes a picture of [FEMALE]
+[MALE] works personx's way into [FEMALE]
+[MALE] gets a letter from [FEMALE]
+[MALE] teaches [FEMALE] a lesson
+[MALE] wants to be accepted by the community
+[MALE] plays a game of hockey
+[MALE] is happy
+[MALE] is the best [FEMALE]
+[MALE] is [FEMALE]
+[MALE] takes [FEMALE] home
+[MALE] takes [FEMALE] to a doctor
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] wants to be better than [FEMALE]
+[MALE] will a person of [FEMALE] gender
+[MALE] gives [FEMALE] [FEMALE] help
+[MALE] leaves [FEMALE]
+[MALE] is a [FEMALE]
+[MALE] has [FEMALE] time
+[MALE] will [FEMALE] is more successful
+[MALE] is having fun
+[MALE] is happy
+[MALE] will happy
+[MALE] changes [FEMALE]
+[MALE] has some other person of [FEMALE] sex
+[MALE]
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is engaged in a discussion with a person other than you.
+[MALE] wants to make a purchase.
+[MALE] is looking for something.
+[MALE] is looking for a job.
+[MALE] takes a vacation.
+[MALE] wants to buy a new computer.
+[MALE] wants to get the water.
+[MALE] needs to be in a car accident.
+[MALE] is in a coma.
+[MALE] is in love.
+[MALE] is a friend.
+[MALE] is looking for something.
+[MALE] is depressed.
+[MALE] is in a hurry.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.Irene is a very good athlete.Irene is a great mother.Irene is a strong woman.Irene is good.Irene is happy.Irene is happy.Irene works well for the cause.Irene is happy.Irene is happy.Irene is happy.Irene is happy.Irene is happy.Irene is very happy..Irene is very happy.Irene is very proud.Irene is very proud.Irene is very good.Irene is very good. Irene is very good.Irene is very good.Irene is very good..Irene is very good.Irene is very good.Irene is very successful.Irene is very happy.Irene
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+soress is an extreme left winger.
+buddha is an extreme yoga instructor.
+soul is the physical foundation of every human being.
+soul is the physical foundation of every human being.
+buddha is an extreme yoga teacher.
+soul is the physical foundation of every human being.
+soul is the physical foundation of every human being.
+soul is the physical foundation of every human being.
+soul is the physical foundation of every human being.
+soul is the physical foundation of every human being.
+soul is the physical foundation of every human being.
+soul is the physical foundation of every human being.
+soul is the physical foundation of every human being.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.The team has the right to the use of the phrase 'in the presence of a judge'.Irene wants to play for the team.Irene is willing to work hard.They wants to have a good time.The team wants to have a good time.The goal is to win.Irene is willing to contribute.They wants to be competitive.They wants to be on the right team.The goal is to win the game.Irene is a beautiful girl.The goal is to be the queen of the world.The goal is to be a happy person.The goal is to be the best person in the world.The goal is to have a happy life.The goal is to have a good time.The goal is to
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.Settled down into the world.Settled down into a family.Settled down into a hobby.Settled down into a job.Settled down into the world.Settled down into the world.Settled down into the world.Settled down into the world.Settled down into the world.Settled down into the world.Settled down into the world.Settled down into the world.Settled down into the world.Settled down into the world.Settled down into the world.Settled down into the world.Settled down into the world.Consented to be a part of a group.Settled down
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] wants to play for the team.
+[MALE] goes to sleep.
+[MALE] wants to see the game.
+[MALE] will all the time.
+[MALE] is busy.
+[MALE] has a lot of money.
+[MALE] will needs to wear a hat.
+[MALE] needs to be social with persony.
+[MALE] is the best friend.
+[MALE] is very strong.
+[MALE] is not fit.
+[MALE] says 'hello' to persony.
+[MALE] looks like a fool.
+[MALE] is angry.
+[MALE]
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is willing to take a hike.
+[MALE] sees the truth.
+[MALE] wants to have sex.
+[MALE] feels good.
+[MALE] tells all the others.
+[MALE] wants to know all the information.
+[MALE] is satisfied.
+[MALE] does research.
+[MALE] wants to know what is going on.
+[MALE] wants to get the job done.
+[MALE] places none within the path.
+[MALE] wants to feel better.
+[MALE] is in the right place.
+[MALE] wants to leave.
+[MALE] is not happy to see.
+---------------

@@ -1,0 +1,255 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch16/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:She didn't care.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:She didn't care. She wanted to be happy. And she wanted to be so happy that she would no longer be unhappy.
+
+She wanted to be happy. And she wanted to be so happy that she would no longer be unhappy.
+
+Not to mention, she never gave birth to a baby.
+
+Not to mention, she never gave birth to a baby.
+
+Not to mention, she never gave birth to a baby.
+
+Not to mention, she never gave birth to a baby.
+
+Not to mention, she never gave birth to a baby.
+
+Not to mention, she never gave birth to a baby.
+
+Not to mention, she never gave birth to a baby.
+
+Not to mention, she never
+---------------
+Complete the following text within five sentences:She didn't care. She didn't know what it was. She didn't know if it was right or wrong. She didn't know what it meant to be a woman. She didn't know if it meant to be a man or a woman.
+
+"She was a mother's daughter, a baby's wife."
+
+She didn't know the girl was your daughter's wife. She didn't know if you were your daughter's wife or your son's wife.
+
+"She didn't know that the morning before the day of the wedding, you left your children's breakfast behind. She didn't know that the day of the wedding, you left your children's breakfast behind."
+
+She didn't know that your child was your child's child
+---------------
+Complete the following text within five sentences:She didn't care. Just like the rest of the people in the room. It was like the rest of the humans in the room. They were like their parents. They were full of happiness. They were like their parents. I'm just getting used to it. I'm just getting used to it."The rest of the humans around the table were happy too. They were all happy. They all came together. They all looked after each other. They all looked after each other. They all looked after each other. They all looked after each other. They all looked after each other. They all looked after each other.They all looked after each other. They all looked after each other.They all looked after each other.They all looked after each other.They
+---------------
+Complete the following text within five sentences:She didn't care. The next day, I found that she wasn't eating well. I went to the hospital. She was having a bowel movement. I told her I was just going to do something to help her. She got very ill. I don't know what to do. She went to the hospital."
+
+She told her story to The New York Times over the weekend, which was the last time she went to the hospital.
+
+"I felt like I had let the world down. I didn't want to give up the world. I don't want to give up the people. I didn't want to give up the world. I was just going to do my best and make it better," she said in the interview.
+
+J
+---------------
+Complete the following text within five sentences:She didn't care.
+
+"If she needs a babysitter, she's the one that gets it. And every person needs somebody to help them with that. That's why you have this city. It's the reason why you have a police department. Because you have the police department that has the best shot. And if you want to fight crime, you have to go out there and go out there and fight crime. You have to make sure that you have the right person to have the best shot. And if you want to have the best person, you have to have the right person to have the best family. So you have to have a police department that has the best shot. If you want to fight crime, you have to go out there and
+---------------
+Complete the following text within five sentences:She didn't care.No matter what she said to the girl, they'd never know.She just wanted to be the one who had taken care of him.No matter what he said to her, they'd never know.No matter what he said to her, they'd never know.No matter what he said to her, they'd never know.No matter what he said to her, they'd never know.No matter what he said to her, they'd never know.No matter what he said to her, they'd never know.No matter what he said to her, they'd never know.No matter what he said to her, they'd never know.No matter what he said to her, they'd never know.No matter what he said
+---------------
+Complete the following text within five sentences:She didn't care. She just wanted to be the one who had it happen.That was the plan.That was the plan.If she had to accept the end of it, she would accept it.She didn't need to accept the end of it.She just needed to accept it.And the end would come. And the end would be in the form of a smile.She didn't need to accept the end of it.She just needed to accept it.And the end would come.And the end would be in a smile.She wasn't ready.She just wasn't ready.She just wasn't ready.She wouldn't care. She just wanted to be the one that had it happen.And the end would come. And the end would
+---------------
+Complete the following text within five sentences:She didn't care.There was only one thing she wanted to do.So, it's been a long time since she let anyone know.So, she tried to explain it to them.But, she also tried to explain it to the rest.And, she said, 'The rest is fine. It's just you and me.'And she tried to explain it to the rest.So, it was a long time since she found out what happened.And now, it's going to be a long time.I will not allow any person to be hurt.I will not let anybody die.I will not hurt anyone.I will not harm anyone.I will not let anyone die.She would seem so kind.She would seem so easy.She would
+---------------
+Complete the following text within five sentences:She didn't care. She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She wasn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.She didn't care.
+---------------
+Complete the following text within five sentences:She didn't care.She didn't care.She didn't care.I don't care.I don't care.I don't care.I don't care.It's my turn. I'm not bothering you."
+
+She got a message from the man.
+
+"You've been assigned to the military. You shouldn't be in the military, okay?"
+
+"No, I'm in the military, okay?"
+
+"I'm your friend and I get to decide what to do with my life afterwards."
+
+His voice is loud.
+
+"You don't have the right to go camping. I have to protect you. You have to protect me. I have to protect you."
+
+She looked away.
+
+---------------
+Complete the following text within five sentences:She didn't care.
+
+She felt a strange pleasure in the girl who had come to her.
+
+She's going to be the best woman I ever loved.
+
+She couldn't care less.
+
+But she would have changed if she had known.
+
+She'd have to kill her father.
+
+She'd be able to do the things she had to do, but not the things she had to do.
+
+She would have to lose her friends.
+
+She'd have to find people to call her.
+
+She would have to find something to cherish.
+
+She would have to lose her family.
+
+She would have to do everything she could to keep it.
+
+She would have to be able to
+---------------
+Complete the following text within five sentences:She didn't care. She just wanted to be alone.For the next five minutes, I would just do it. And then, I would explain to her my logic. And she would be like, "Wow, ok. Guess the second you go over there, you'll be okay."So I would explain to her how it works. And she would be like, "I think you're right. It's a safe place."I would explain the rules of the game. And she would be like, "That's a great idea. I'll put you somewhere else."And she would be like, "Oh my God. If you don't put me in that place, I'll just have to go straight back to the game."So I would explain to
+---------------
+Complete the following text within five sentences:She didn't care.She didn't even have the time to think."He's my best friend."I'm sorry, I'm sorry. I'm sorry."It's all you, he's mine.I'm sorry."Hey, I'm sorry."She's my best friend."I'm sorry."I'm sorry."I'm sorry."I'm sorry."I'm sorry."I'm sorry."It's all you, he's mine.I'm sorry."Hey, I'm sorry."I'm sorry."I'm sorry."I'm sorry."I'm sorry."I'm sorry."It's all you, he's mine.I'm sorry."Hey, I'm sorry."I'm sorry."I'm sorry."I'm sorry."I'm sorry
+---------------
+Complete the following text within five sentences:She didn't care. She didn't even know how to use the water. She didn't have a sense of purpose. She didn't think about any of it.She didn't know the basics of life. She wasn't good at it. She didn't even know how to use the water. She was just someone who didn't have much experience.She didn't care. She didn't even know how to use the water. She didn't even know how to use the water. She didn't have a sense of purpose.She didn't care. She didn't even know how to use the water.She was just someone who didn't have much experience.She didn't care. she didn't even know how to use the water. She wasn't good
+---------------
+Complete the following text within five sentences:She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She didn't care.
+
+She
+---------------
+Complete the following text within five sentences:She didn't care.She didn't care.The only thing she cared about was her body.The only thing she cared about was her soul.The only thing she cared about was how the fuck she felt.The only thing she cared about was how she felt.The only thing she cared about was how she felt.The only thing she cared about was how she felt.The only thing she cared about was how she felt.The only thing she cared about was how she felt.The only thing she cared about was how she felt.The only thing she cared about was how she felt.The only thing she cared about was how she felt.The only thing she cared about was how she felt.The only thing she cared about was how she felt.The only
+---------------
+Complete the following text within five sentences:She didn't care. He was the one who had made her feel bad. To make her feel better was to make her feel like he was the one you needed.I tried to hold back from looking at her as much as I could. This was not the least bit rude, but I felt as though I had to. She would just be so quiet until she just let go.Don't you know what is wrong with this girl? She's just like the rest of us, in my opinion. She's a monster. What was that?I wanted to do something to get the words out to her. I wanted to get her to feel better. I wanted to feel like I did something to make her feel better.Did you do that?You didn't
+---------------
+Complete the following text within five sentences:She didn't care. She needed to know how to be the best person in the world. The only way she could have done that was to have a dog.
+
+'I would do anything for you,' she said. 'I would take you to the hospital. I would tell you how to be the best person in the world.'
+
+A dog was born by her mother.
+
+The dog is named after the doctor who gave birth to the dog. Dog's name is named after the doctor who gave birth to the dog. Dog's name is named after the doctor who gave birth to the dog. Dog's name is named after the doctor who gave birth to the dog. Dog's name is named after the doctor who gave birth to the dog.
+---------------
+Complete the following text within five sentences:She didn't care. She just wanted to die with her friends. They didn't even care.She died only for them.They thought she was a little too beautiful to die alone. They thought that even though they were different to each other, they still loved each other.They were just friends.They loved her.
+
+The words were like glass filled with water, the warmth of the air, the light of the sky. The darkness was like the rest of the world.
+
+He did not care about the things in his life that mattered.
+
+She knew he cared about her. She had never cared about a person like that. There was nothing she could do to change his mind, the way she felt. He had the power to change it
+---------------
+Complete the following text within five sentences:She didn't care. She didn't care. I don't care. I don't care. I don't care. I don't care. I don't care.
+
+She's the one who's lost her place. She's the one who's lost her place.
+
+I'm so sorry. I'm so sorry.
+
+Thank you.
+
+I appreciate you.
+
+I want to be there.
+
+I'm so sorry. I'm so sorry.
+
+I don't care. I don't care. I don't care.
+
+I don't care. I don't care. I don't care. I don't care.
+
+I don't care. I don't care. I don't care
+---------------
+Complete the following text within five sentences:She didn't care. She was so happy to be here, and she was so grateful.
+
+"I hope you're looking forward to the day the doctors will turn up."
+
+The doctor was talking to the woman's husband, and the man's son was walking by.
+
+"That's okay, mom."
+
+"I… I'm sorry. I don't know what to do now. It's a little late, but you look so nice."
+
+"I'm not really sorry. I can't make up for it. I'm too young."
+
+"I'm sorry. I'm not really sorry. I can't make up for it. I'm too young."
+
+"I've always wanted to be with
+---------------
+Complete the following text within five sentences:She didn't care. She was a poor, sad, and helpless child.The only thing that made her feel better was the fact that she had a loving father. It was the only thing that made her feel the way she felt at the time.You see, he was only a little girl, and she knew him, but she didn't want to talk about it. You see, he was the same way when she found out she had a genetic disorder, and she asked to be treated. She was the same way when she found out she had a loving father. She asked to be treated and she was happy.When we met, she was still in her mother's arms. She was able to move with the rest of the family. We went to the
+---------------
+Complete the following text within five sentences:She didn't care. She just wanted to talk to you. She didn't care.
+
+She was a person with deep human feelings.
+
+She was a person who used the word "loyalty" to mean someone who cared and understood your needs.
+
+She was a person who loved you.
+
+She was someone who understood your relationship to the world.
+
+She was someone who loved the way you felt.
+
+She was someone who cared for the people in your life.
+
+She was someone who loved the way you lived.
+
+She was someone who will never leave you.
+
+She was someone who will never let you down.
+
+She was someone who loved you.
+
+She was someone who is dedicated
+---------------
+Complete the following text within five sentences:She didn't care. She just wanted to get away from the bar again, and that was it. She probably shouldn't have done that. It wasn't the moment. It was the thing. The person. The person who would be the next to be punched. The person who would have to turn around. The person who would lose their lives. The person who would have to be kicked out of the casino.The person who would have to serve a sentence of imprisonment. The person who would have to be killed.The person who would have to be dead.The person who would have to die.The person who would have to die.The person who would have to die.The person who would have to die.The person who would have to die.The
+---------------
+Complete the following text within five sentences:She didn't care.I told her I needed to spend the rest of the night.I told her she had to spend the rest of the night.I told her I was tired.And I told her she was tired of me.It was the only way to keep her from saying the very words she wanted to use.It was the only way to get her to accept the truth.And it was the only way to make me feel better.And the only way to make her feel better."I told her I was sorry.I told her I was sorry.And she told me I was sorry.And I told her I was sorry.And I told her she was sorry.It was the only way to make me feel better.And the only way to
+---------------
+Complete the following text within five sentences:She didn't care. She just wanted to be alone. She's not going to let you go.You don't have the time to cry. She's not crying. She's not crying. She's not crying. You have no idea what to do. She's not crying. You don't have the time.She doesn't have the time. You don't have the time.You can't believe it. You can't believe it.You know what to do. She's not crying. She's not crying. You have to get to the hospital. She's not crying. You have to get to the hospital.You know what to do. She's not crying. She's not crying. You have to get to the hospital.She's not
+---------------
+Complete the following text within five sentences:She didn't care.The girl with the yellow ponytail looked at him, then fell silent. "What's wrong?" She asked.The boy smiled at her. "I'd like to make you a present." He said. "Thank you. You looked so thoughtful for a while and I'm glad you were able to enjoy it. You looked really nice before, but now you know how to use it. Well, it's time you told me, so I can make you a present."The girl with the yellow ponytail turned to him, said, "You sure are happy."And the boy smiled back. "How about a cup of tea?" he asked. He looked at her, then took a sip. "I want to make you a cup
+---------------
+Complete the following text within five sentences:She didn't care. No, she didn't care. She wasn't interested. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't care. No, she didn't
+---------------
+Complete the following text within five sentences:She didn't care. That's not what she told her. She told her that she could't get her son to sleep. That's not what she told her. She told her that if they do something bad to the children, it's worse than no harm. That's not what she told her. She told her that she has to make her son walk again. That's not what she told her. She told her that she's wrong to ask for a divorce. That's not what she told her. She told her that she wants your child to be a good person. That's not what she told her. That's not what she told her. She told her that she's responsible for her family. That's not what she told her. She told
+---------------
+Complete the following text within five sentences:She didn't care. She said he was a good boy, and he was a good man. But he was right. He was the best.And he was right. And he was right. And he was right. And he was right.There is a difference.<|endoftext|>The idea of a military strike on a country's sovereign territory is a popular one in the Middle East, but the US has not ruled out using military force.
+
+Israel's decision to strike Iran's nuclear facilities in defiance of the Nuclear Non-Proliferation Treaty (NPT) is a clear one, because the US has taken a number of steps along the way to stop the country from being used as a nuclear weapons state.
+
+In a statement on Monday, US officials acknowledged
+---------------

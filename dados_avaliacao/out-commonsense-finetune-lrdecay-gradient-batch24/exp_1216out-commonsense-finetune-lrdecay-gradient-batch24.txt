@@ -1,0 +1,6 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch24/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Caleb dressed as Batman for halloween.

@@ -1,0 +1,383 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Keith got dumped by his girlfriend.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+a room is used for a private place.
+a room is used for a bedroom.
+a room is used for a sleeping pad.
+a room is used for a bathroom.
+a room is used for a bedroom.
+a room is used for bedrooms.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. [MALE] needs to search for his girlfriend. [MALE] is kind.
+[MALE] is a part owner. [MALE] wants to work on the new car.
+[MALE] is a good student. [MALE] wants to study hard.
+[MALE] is a big fan. [MALE] will satisfied.
+[MALE] is going to the beach. [MALE] wants to go swimming.
+[MALE] lives in the city. [MALE] is friendly.
+[MALE] makes [FEMALE] offering. [FEMALE] wants to thank personx.
+[MALE] feels very sad. [MALE]
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. [FEMALE] will they can't sleep. [FEMALE] will sad. [FEMALE] will sad. [FEMALE] will happy. [FEMALE] wants to help personx. [FEMALE] will friendly. [FEMALE] wants to help. [FEMALE] will happy. [FEMALE] will they are grateful. [FEMALE] wants to relax. [MALE] wants to be alone. [MALE] needs to get in touch with persony. [MALE] needs to have a phone. [MALE] needs to be near persony. [MALE] will accomplished. [MALE] wants to be successful. [
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. [MALE] needs to go to the hotel.
+[MALE] is a stay at home dad. [MALE] wants to celebrate.
+[MALE] says [FEMALE] was ill. [FEMALE] wants to be thanked.
+[MALE] gives none a big hug. [MALE] person x kisses person y.
+[MALE] gives [FEMALE] a chance. [FEMALE] wants to give [MALE] more opportunities.
+[MALE] calls the police. [MALE] needs to have a phone.
+[MALE] is a first time cook. [MALE] wants to learn to cook.
+[MALE]
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+a book is defined as a collection of information.
+a book is at a library.
+a book is at any book store.
+a book is at the library.
+a book is at a library.
+a book is at a storage area.
+a book is at a classroom.
+a book is at the shelf.
+a book is at the shelf.
+a book is at the book store.
+a book is at a small town.
+a book is at a magazine.
+a book is at a small town.
+a book is at a small town.
+a book is at a town.
+a book is at a bookstore.
+a book is at a library.
+a book is at
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+[MALE] asks the teacher. [MALE] wants to test the teacher.
+[MALE] goes to persony's house. [MALE] needs to go to persony's house.
+[MALE] has a big party. [MALE] wants to have a party.
+[MALE] tells [FEMALE] personx's story. [FEMALE] will happy.
+[MALE] is capable of do anything. [MALE] is accomplished.
+[MALE] works really hard. [MALE] will satisfied.
+[MALE] wants to be a musician. [MALE] wants to be an artist.
+[MALE] tells [
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+a is for a person.
+a is for a person.
+the is for a person.
+a is for a person.
+a is for a person.
+the is for a person.
+the is for a person.
+the is for a person.
+the is for a person.
+the is for a person.
+the is for a person.
+a is for a person.
+the is for a person.
+the is for a person.
+the is for a person.
+the is for a person.
+the is for a person.
+the is for a person.
+the is for a person.
+the is for a person.
+the is for a person.
+the is
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. x is looking for a new job. x is caring. x gets depressed. x gets help. x is scared. x gets hurt. x is unsure. x gets rejected. x is tired. x is bored. x is lonely. x is depressed. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is lonely. x is
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+[MALE] is going on a walk. [MALE] will happy.
+[MALE] gives [FEMALE] the idea. [MALE] wants to start a business.
+[MALE] sends an e-mail to persony. [FEMALE] will gets a reply.
+[MALE] pays persony's visit. [MALE] wants to give person y a hug.
+[MALE] takes none to get. [MALE] will contented.
+[MALE] takes none in the service. [MALE] wants to be helpful.
+[MALE] plays basketball. [MALE] needs to wear a hoop.
+[MALE]
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+[MALE] sees persony's daughter. [MALE] wants to be entertained.
+[MALE] eats at a restaurant. [MALE] needs to go to the restaurant.
+[MALE] takes a few turns. [MALE] wants to make good decisions.
+[MALE] gives the puppy to persony. [MALE] wants to give the puppy to a friend.
+[MALE] is a big deal. [MALE] wants to spend money on food..
+[MALE] sees the band. [MALE] is interested.
+[MALE] drives persony's car. [MALE] needs to be in the car.
+[MALE]
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+you has a a girlfriend.
+a person does not desire be confused.
+you is capable of hear the sound of a gun.
+a person does not desire be hit by a car.
+a person does not desire be rejected by others.
+you is capable of see the stars.
+a person does not desire be sad.
+i is capable of read a book.
+you is capable of sleep at night.
+a person does not desire be betrayed.
+you is capable of hear the music.
+a person does not desire have their heart cut off.
+you is capable of see it from a distance.
+a person desires be able to read.
+we is capable of eat.
+a person does not desire
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. [FEMALE] wants to go home.
+[MALE] runs for cover. [MALE] will proud.
+[MALE] gives [FEMALE] a rest. [MALE] wants to go back to work.
+[MALE] wins the race. [MALE] needs to gain a lot.
+[MALE] drives home from work. [MALE] is tired.
+[MALE] does not know anything about ___. [MALE] is clueless.
+[MALE] runs for cover. [MALE] wants to protect themselves against the sun.
+[MALE] sees [FEMALE] in person. [MALE] wants to talk to person
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+bust has subevent get a clean bill of health.
+it has property very cold outside.
+lose weight has subevent you feel healthier.
+a person does not desire a broken bone.
+a book is at the kitchen.
+a person does not desire a lost tooth.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a book is at the shelf.
+a person desires a broken leg.
+a person does not desire a broken leg.
+a person does
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. [FEMALE] will annoyed. [FEMALE] will angry.
+[MALE] takes [FEMALE] to the doctor. [MALE] wants to be ready to go to the doctor.
+[MALE] is never going to be. [MALE] needs to take time off work.
+[MALE] makes a sandwich. [MALE] wants to eat it.
+[MALE] takes [FEMALE] outside. [MALE] needs to be in the house.
+[MALE] is a lot of work. [MALE] is hardworking.
+[MALE] finds persony's none together. [MALE] wants to call persony.
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+a person does not desire be left alone.
+a person does not desire be a victim.
+someone is capable of run away.
+going to the mall is used for making money.
+a person does not desire be killed.
+a person does not desire be lonely.
+a person does not desire be a target.
+a person does not desire be in danger.
+a person does not desire be a pet.
+a person does not desire be humiliated.
+a person does not desire be punished.
+a person does not desire be left alone.
+a person does not desire be hated.
+a person does not desire be left alone.
+a person does not desire be left alone.
+a person does not desire
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+a woman is capable of be a woman.
+a person is capable of drink coffee.
+a person desires another way to live.
+a person desires a better life.
+a person desires be close to someone.
+a person desires a good job.
+a person desires a new job.
+a person is capable of be a person.
+a person is capable of travel.
+a person is capable of cook.
+a person is capable of drive.
+a person is capable of work.
+a person is capable of sleep.
+a person is capable of be a person.
+a person is capable of get away.
+a person is capable of look.
+a person is capable of drink.
+a person is
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] tries to make persony's home. [FEMALE] will glad.
+[MALE] buys a new car. [MALE] is determined.
+[MALE] moves persony's dog. [MALE] is worried.
+[MALE] is a very good cook. [MALE] is prepared.
+[MALE] takes first prize. [MALE] wants to go for a long walk.
+[MALE] turns away from persony. [FEMALE] will are hurt.
+[MALE] finds none at a store. [MALE]
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+[MALE] thinks was the best thing ever. [MALE] will curious.
+[MALE] asks [FEMALE] if had any pets. [MALE] is inquisitive.
+[MALE] goes none with persony's mom. [FEMALE] wants to pick up personx.
+[MALE] decides to go to the store. [MALE] he buys something.
+[MALE] is in a bad state. [MALE] is unwell.
+[MALE] eats persony's vegetables. [MALE] needs to get their food.
+[MALE] is playing a game of chess. [MALE] loses.
+[M
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+[MALE] is in the wrong place at the wrong time.
+[MALE] makes a pie. [MALE] wants to eat pie.
+[MALE] uses personx's none to help. [MALE] wants to help others.
+[MALE] has to call a tow truck. [MALE] wants to be careful.
+[MALE] tells stories. [MALE] needs to speak to the audience.
+[MALE] buys a new puppy. [MALE] needs to go to the store.
+[MALE] goes to persony's house. [FEMALE] will person y walks in the house.
+[MALE] takes [FEM
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+a person does not desire their own self-esteem.
+a person does not desire be ignored.
+a person does not desire their skin to turn red.
+a person does not desire have a bad attitude.
+a person does not desire make a mistake.
+a person does not desire become a sex slave.
+a person does not desire be a victim.
+a person does not desire become a prostitute.
+a person desires a better life.
+a person does not desire be disrespected.
+a person does not desire their own selfishness.
+a person does not desire become a slave.
+a person does not desire be cheated.
+a person does not desire be cheated on.
+a person does not desire be
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. [MALE] wants to spend time with someone else.
+[MALE] finds the [FEMALE] answer. [MALE] wants to say..
+[MALE] takes the test. [MALE] will proud.
+[MALE] gives [FEMALE] a ring. [FEMALE] wants to pay personx.
+[MALE] takes the dog to the vet. [FEMALE] wants to give [MALE] a new puppy.
+[MALE] goes to the store to get some. [MALE] needs to be in the store.
+[MALE] gets [FEMALE] a ring. [FEMALE] will happy.
+
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+[MALE] takes a walk. [MALE] wants to get fit.
+[MALE] takes a bus. [MALE] wants to see a movie.
+[MALE] makes [FEMALE] nervous. [MALE] needs to make persony nervous.
+[MALE] throws [FEMALE] a party. [FEMALE] will glad to be together with personx.
+[MALE] gets persony's attention. [MALE] wants to understand.
+[MALE] is really hard. [MALE] wants to be hard.
+[MALE] wants to go to the beach. [MALE] needs to buy food.
+[M
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+[MALE] is a very good basketball player. [MALE] is a skilled basketball player.
+[MALE] takes none to a store. [MALE] wants to buy something.
+[MALE] is making breakfast. [MALE] wants to go to the store.
+[MALE] keeps [FEMALE] in check. [MALE] smiles.
+[MALE] tells [FEMALE] that [FEMALE] is going. [FEMALE] will they get an answer.
+[MALE] wants to stay. [MALE] is curious.
+[MALE] goes to the store to buy. [MALE] is buying.
+[
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+[MALE] is a little late to the party.
+[MALE] calls the police. [MALE] needs call the police.
+[MALE] calls for help. [MALE] wants to be helpful.
+[MALE] takes a break. [MALE] wants to get some rest.
+[MALE] gives [FEMALE] a hard time. [MALE] is cruel.
+[MALE] tells [FEMALE] to look at the map. [MALE] is helpful.
+[MALE] gives none a ride. [FEMALE] will they have to buy a car.
+[MALE] makes a new friend. [MALE
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+the first time you play the violin is at the opera.
+the first time you play the piano is at the concert.
+the first time you get a job is at the mall.
+the first time you buy a shirt is at a store.
+the first time you drive is at the road.
+the first time you call someone is when they is typing..
+the first time you drive you is in the road.
+the first time you buy a shirt is at the store.
+the first time you go to a party is at the theater.
+the first time you write is at the newspaper.
+the first time you get a new phone is at the store.
+the first time you get a letter is at
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+satisfy hunger with minimum effort.
+a piece of paper with a message is at the home.
+climb a mountain has subevent you might see a tree.
+play a harp has subevent you might hear a music.
+a person is capable of be in a band.
+a person is capable of be bored.
+a person is capable of is in a car.
+a person is going to die.
+a person is capable of be in a car.
+a person is at school.
+a person is capable of be in a car.
+a person is capable of be in a car.
+a person is capable of be in a car.
+a person is at a park.
+a
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+[MALE] goes to a dog show. [MALE] is observant.
+[MALE] tells [FEMALE] to go alone. [MALE] will happy.
+[MALE] keeps [FEMALE] on the edge. [MALE] needs to hear the person's voice.
+[MALE] makes persony's lives. [MALE] wants to help persony.
+[MALE] sees [FEMALE] like this. [MALE] wants to do something to help.
+[MALE] has a baby girl. [MALE] wants to be a parent.
+[MALE] takes a turn. [MALE] is determined.
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+a ball is used for holding a ball.
+a person is capable of move a stick.
+attaching a torch to a person's body has subevent they burn their clothes.
+a person is capable of sleep at night.
+a person is capable of write a song.
+a person is capable of get into a fight.
+a person is capable of pay a fee.
+a person is capable of look at a map.
+a person is capable of find a toy.
+a person is capable of wait for a ride.
+a person is capable of look at a map.
+a person is capable of smell something.
+a person is capable of buy a car.
+a person is capable of smell perfume.
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend.
+t-bone is at a metal detector.
+theater is at a movie theater.
+a person does not desire a disease.
+a person does not desire a dog.
+a person does not desire be in debt.
+a person does not desire a broken leg.
+a person does not desire a cat.
+a person does not desire being sick.
+a person does not desire be alone.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire an unhappy life.
+a person does not desire run out of gas.
+t-bone is at a metal detector.
+a person does not desire be a loser.
+a person does not
+---------------
+Complete the following text within five sentences:Keith got dumped by his girlfriend. [FEMALE] wants to go to bed. [MALE] needs to search for their mom.
+[MALE] gives [FEMALE] the gift. [MALE] wants to be generous.
+[MALE] buys a new computer. [MALE] needs to go to the store.
+[MALE] is going to college. [MALE] wants to finish up.
+[MALE] eats my heart out. [MALE] wants to hurt someone.
+[MALE] is a good student. [MALE] wants to be a good teacher.
+[MALE] goes to the store with persony's friends. [MALE] needs get a wallet.
+
+---------------

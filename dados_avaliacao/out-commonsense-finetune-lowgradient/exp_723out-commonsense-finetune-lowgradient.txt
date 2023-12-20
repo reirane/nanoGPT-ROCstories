@@ -1,0 +1,389 @@
+Overriding: out_dir = out-commonsense-finetune-lowgradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+have an epileptic fit.
+the dentist has a job to do.
+have a physical exam.
+cook a meal is motivated by you like it.
+talk to someone has last subevent of buy something.
+talk to someone has prerequisite for ask them about something.
+people who eat raw meat has a higher health risks.
+go to a restaurant has subevent get the food.
+have a bad day has prerequisite for drink alcohol.
+a person has a very good time.
+a tree is at a park.
+an apple is at the tree.
+a person is capable of laugh at someone else.
+taste some fruit has subevent think of a story..
+the computer is at the computer.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. [MALE] will relieved.
+[MALE] breaks persony's arm. [MALE] will sore.
+[MALE] gets persony's phone back. [MALE] wants to call personx.
+[MALE] loves a dog. [FEMALE] wants to have a dog.
+[MALE] gets a job. [MALE] needs to have a job.
+[MALE] pulls persony's hair. [MALE] wants to be affectionate.
+[MALE] sends none to study. [MALE] wants to study with students.
+[MALE] eats none together. [MALE] wants to have a good time.
+[M
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. [MALE] wants to be grateful.
+[MALE] buys the none for the none. [MALE] wants to buy something for the person.
+[MALE] uses persony's none to make. [MALE] wants to create something good for persony.
+[MALE] finally quit. [MALE] needs to be a strong.
+[MALE] takes none on a date. [FEMALE] will sad.
+[MALE] gets none in the mail. [MALE] is determined.
+[MALE] uses personx's none to make. [MALE] needs to have been working for the project.
+[MALE] needs a new car.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. [MALE] needs to go to hospital.
+[MALE] gets [FEMALE] into trouble. [MALE] is unpatriotic.
+[MALE] keeps personx's head down. [MALE] needs to be down in a chair.
+[MALE] leaves [FEMALE] to personx's fate. [MALE] wants to be kind.
+[MALE] takes none to the grocery store. [MALE] is adventurous.
+[MALE] has a great time. [MALE] is creative.
+[MALE] loves none at first sight. [MALE] wants to learn about them.
+[MALE] is really hungry.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] needs to have a go at it. [MALE] needs to be bored.
+[MALE] takes my money. [MALE] is greedy.
+[MALE] is a musician. [MALE] will accomplished.
+[MALE] plays none at the game. [MALE] wants to go home.
+[MALE] meets the none at a party. [MALE] wants to get drinks.
+[MALE] has a really hard time. [MALE] wants to get better.
+[MALE] takes a sip. [MALE] wants to sit down.
+[MALE] throws none back. [MALE] wants to eat.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] asks the teacher. [MALE] wants to talk to the teacher.
+[MALE] is a teacher at a school. [MALE] wants to learn.
+[MALE] decides to play the piano. [MALE] wants to play with their friends.
+[MALE] has a nervous breakdown. [FEMALE] will happy and relieved.
+[MALE] prevents persony's car. [FEMALE] wants to give the car care because they are driving in a fast-moving car.
+[MALE] becomes extremely upset. [MALE] wants to yell at y.
+[MALE] gives none a rest. [MALE] is helpful
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+walk is at the mall.
+go see a movie has prerequisite for have a ticket.
+play chess has prerequisite for get a board.
+play baseball has subevent you pick up the ball.
+take a course has prerequisite for get a diploma.
+have dinner has prerequisite for have the food.
+read newspaper has prerequisite for go to the newspaper.
+a person desires play soccer.
+have a great time has prerequisite for go to a club.
+it has property very cold.
+a person is capable of be a gardener.
+a person desires play hockey.
+a person is capable of go to war.
+a person is capable of drive a car.
+a person is capable of be a dancer.
+a
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+look through the telescope.
+go to a concert.
+play a guitar.
+go to the mall.
+go to the mall with your friends.
+go to a sporting event.
+play a game.
+play a game of chess.
+have a look at the ceiling.
+go to a movie.
+become a professional wrestler.
+eat meat.
+change your appearance.
+play sports.
+go to a party.
+go to a concert.
+wait on tables.
+go for a haircut.
+discover new places.
+go to the mall.
+stay in bed.
+eat lunch.
+go to the store.
+go to work.
+play basketball.
+play basketball with your family
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] is playing a game of hide and seek. [MALE] is caring.
+[MALE] is running around the house. [MALE] is creative.
+[MALE] takes persony's money. [MALE] is mean.
+[MALE] carries none to the doctor. [MALE] needs to go to the doctor to see the doctor.
+[MALE] puts personx's none in the kitchen. [MALE] wants to cook dinner.
+[MALE] gets persony's hands dirty. [MALE] wants to wash his hands.
+[MALE] goes to the pub. [MALE] is sociable.
+[MALE
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+have a cigarette is at university.
+you is capable of get to know yourself.
+take the bus has prerequisite for take a bus.
+go to the cinema has prerequisite for go to the theater.
+go to a party has prerequisite for get a drink.
+get some exercise has prerequisite for exercise.
+find a place to live has prerequisite for find the right place.
+go to the beach has subevent you might cry.
+go for a walk has prerequisite for put on your shoes.
+go on a date has prerequisite for have an affair.
+go for a swim has prerequisite for get wet.
+go to a meeting has prerequisite for have lunch.
+go into a coma has prerequisite for have to go to the hospital
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+you has property good at politics.
+a person has property very important to eachother.
+joe is capable of marry someone.
+a person is capable of have a baby.
+a person is capable of eat meat.
+a person is capable of live a long time.
+someone is capable of put food on the table.
+someone is capable of be drunk.
+a person is capable of sleep well.
+something is at a restaurant.
+a person does not desire be left alone.
+a person is capable of be dishonest.
+a person is capable of make a difference.
+a person desires a more life.
+a person desires a more life.
+a person is capable of make a joke.
+someone
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. [MALE] is stupid.
+[MALE] buys a new car. [MALE] is accomplished.
+[MALE] finds personx's brother. [MALE] wants to give the brother something.
+[MALE] visits persony's house. [MALE] needs to go to the house.
+[MALE] is a good friend. [MALE] gets along with persony.
+[MALE] buys a new computer. [MALE] gets tired.
+[MALE] is driving home from school. [MALE] wants to relax.
+[MALE] makes persony's lunch. [MALE] wants eat.
+[MALE] provides the none
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] wants to help someone else. [MALE] wants to help other people.
+[MALE] brings [FEMALE] closer. [MALE] is helpful.
+[MALE] gives [FEMALE] a new one. [FEMALE] will smiles.
+[MALE] lets persony's kid go. [FEMALE] will scared.
+[MALE] gets none on the table. [MALE] wants to watch some of the food.
+[MALE] gives none to personx's friend. [FEMALE] wants help with the details.
+[MALE] invites none to the event. [MALE] will happy.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. [MALE] needs to ask [FEMALE] to help.
+[MALE] receives none for a birthday. [MALE] wants to thank the person.
+[MALE] eats none everyday. [MALE] is good, healthy.
+[MALE] tells persony's family. [FEMALE] wants to give [MALE] a hug.
+[MALE] receives an award. [MALE] wants to use it.
+[MALE] watches every ___. [MALE] needs to be in a movie.
+[MALE] spends none with personx's family. [MALE] is good.
+[MALE] moves persony's none to another
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] opens the lid. [FEMALE] will cleans away their sins.
+[MALE] loves [FEMALE] so much. [FEMALE] will [FEMALE] to enjoy their own life.
+[MALE] makes persony's bed. [MALE] will thankful.
+[MALE] gets none by mail. [MALE] wants to go to the store.
+[MALE] is at the dentist. [MALE] needs to go to the dentist.
+[MALE] makes a fool of persony. [MALE] wants to be a fool.
+[MALE] fills persony's none with sugar. [MALE]
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+get the ball to play.
+go to the bar.
+go to the bathroom.
+go to a sporting event.
+meet a friend.
+meet the bride.
+see a movie.
+go to the bar.
+go to a party.
+tell a story.
+learn something new.
+write a book.
+buy a new computer.
+do a baseball game.
+go to a sporting event.
+play baseball.
+go on a road trip.
+buy tickets.
+wait for someone.
+buy a ticket.
+take a break.
+take a walk.
+clean up.
+eat lunch.
+go to a party.
+go to a party.
+take a rest.
+go to
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] asks [FEMALE] for a ride. [MALE] will confused.
+[MALE] brings back the books. [MALE] wants to study the subject.
+[MALE] takes none back to the house. [MALE] gets a new one.
+[MALE] plays the violin. [MALE] wants to try to make it better.
+[MALE] makes [FEMALE] happy. [MALE] wants to help.
+[MALE] buys none for the children. [FEMALE] wants to enjoy the gifts.
+[MALE] sets [FEMALE] example. [MALE] wants to do good.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+play lacrosse is at a sport.
+get some rest has prerequisite for take a nap.
+an ice cream cone is at a restaurant.
+a person desires not have to go to the store to buy ice cream.
+it is a good idea for a restaurant to have a restaurant.
+someone has property sick.
+a piece of wood is at a restaurant.
+a person desires have the opportunity to eat.
+a person desires not have to go to the store.
+a person desires not have to go to the store.
+a person desires have a good time.
+a person desires not have to go to the store.
+a person desires have a good family.
+a person desires not have to go out.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] takes none to the doctor. [MALE] wants to get rid of the bacteria.
+[MALE] takes none to the park. [MALE] wants to get to the park.
+[MALE] starts driving. [MALE] needs to know how to drive.
+[MALE] gives none to personx's children. [MALE] will friendly.
+[MALE] has a great time. [MALE] wants to be in good company.
+[MALE] drives the none to work. [MALE] is patient.
+[MALE] gets persony's new bike. [MALE] needs to get their bike.
+[MALE]
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] goes to the store. [MALE] needs to go to the store.
+[MALE] gives [FEMALE] a kiss. [MALE] wants to thank him.
+[MALE] gives [FEMALE] a ride home. [MALE] needs to have a ticket to the ride.
+[MALE] gives persony's none to a friend. [MALE] wants to give a gift.
+[MALE] gives [FEMALE] a hand. [MALE] will kind.
+[MALE] needs a new computer. [FEMALE] will gets paid.
+[MALE] gives [FEMALE] a new puppy
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. [MALE] wants to make friends.
+[MALE] gives [FEMALE] a ride home. [FEMALE] will happy.
+[MALE] finds [FEMALE] none in the pantry. [MALE] is careful.
+[MALE] makes the none for dinner. [MALE] will refreshed.
+[MALE] gives [FEMALE] a ride home. [FEMALE] will they get to see the ride.
+[MALE] takes advantage of persony's position. [FEMALE] will they get a bonus.
+[MALE] keeps [FEMALE] in the dark. [MALE] needs to be watching person
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] takes personx's keys. [MALE] is careful.
+[MALE] takes personx's children. [MALE] needs to ask for their names.
+[MALE] gives [FEMALE] a gift. [MALE] wants to give the gift to persony.
+[MALE] makes [FEMALE] happy. [MALE] wants to thank y.
+[MALE] gets personx's car. [MALE] wants to drive home.
+[MALE] opens persony's eyes. [MALE] wants to see what is happening.
+[MALE] gives [FEMALE] a gift. [MALE] wants
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] tells [FEMALE] not to worry. [MALE] is being friendly.
+[MALE] makes it home. [MALE] is determined.
+[MALE] makes [FEMALE] happy. [MALE] wants to be happy.
+[MALE] puts none to the test. [MALE] is prepared.
+[MALE] has a great time. [FEMALE] wants to welcome personx back..
+[MALE] has a great time. [MALE] wants to be productive.
+[MALE] buys a ticket. [MALE] is inquisitive.
+[MALE] sees a doctor. [MALE
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] is driving home. [MALE] is hungry.
+[MALE] makes [FEMALE] laugh. [MALE] wants to express good energy.
+[MALE] cooks personx's food. [MALE] needs to be a chef.
+[MALE] buys a new computer. [MALE] needs to put it in his computer.
+[MALE] takes personx's dog. [MALE] is caring.
+[MALE] calls [FEMALE] back. [MALE] wants take a nap.
+[MALE] gets personx's dog. [MALE] needs to get their dog a leash.
+[MALE]
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] gives none to persony's mom. [MALE] wants to thank them.
+[MALE] plays violin. [MALE] needs to find a violin.
+[MALE] becomes the first to cry. [MALE] needs to go to the hospital.
+[MALE] tells none to get away. [MALE] wants to calm down.
+[MALE] has a bad day. [MALE] will angry.
+[MALE] wants persony's mom. [MALE] wants to be in the right place.
+[MALE] catches a puppy. [MALE] wants to see the puppy.
+[MALE] plays the violin.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+satisfy the requirements of a customer.
+breathe with enthusiasm.
+take the field test.
+go to the store.
+meet the company's president.
+play baseball.
+visit a museum.
+go to the opera.
+play tennis.
+change your appearance.
+exercise hard.
+eat healthy food.
+taste good food.
+drive at a fast.
+go to a sporting event.
+go to a sporting event.
+go to a sporting event.
+wait outside.
+go to a concert.
+eat healthy food.
+play a game.
+pay for a car.
+go to a concert.
+go to a movie.
+buy something.
+go to the
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] calls the cops. [MALE] is prepared.
+[MALE] wants to go home. [MALE] wants to go home.
+[MALE] watches none on television. [MALE] is entertained.
+[MALE] puts personx's none on the shelf. [MALE] needs to buy the necessary books.
+[MALE] plays the guitar. [MALE] wants to make noise.
+[MALE] is having a great time. [MALE] is outgoing.
+[MALE] puts none in the fridge. [MALE] wants to store it.
+[MALE] receives a call. [MALE] wants to meet his
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. [MALE] wants to be responsible.
+[MALE] finds personx's way back home. [MALE] needs to be on the bus.
+[MALE] plays the game. [MALE] wants to win the game.
+[MALE] gives [FEMALE] food. [MALE] wants to eat the food.
+[MALE] gives [FEMALE] a present. [MALE] wants to thank the person.
+[MALE] gives none a rest. [MALE] wants to rest.
+[MALE] finds a new job. [MALE] needs to know the position.
+[MALE] brings [FEMALE] home.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] wants to take a walk. [MALE] is lazy.
+[MALE] goes to the gym. [MALE] is active.
+[MALE] looks at persony. [FEMALE] wants to talk with personx.
+[MALE] pays personx's rent. [MALE] needs to get a good job.
+[MALE] uses persony's none to help. [FEMALE] wants to put away personx's money.
+[MALE] gives [FEMALE] a job. [FEMALE] will like they're giving..
+[MALE] gives [FEMALE] a clue. [FEMALE]
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. [MALE] wants to make a deal.
+[MALE] makes a show of personx's work. [FEMALE] will applaud.
+[MALE] makes none at home. [MALE] is responsible.
+[MALE] takes persony's dog. [MALE] wants to take care of the dog.
+[MALE] walks past persony's house. [MALE] wants to get away.
+[MALE] fills the none with water. [MALE] is helpful.
+[MALE] has a heart attack. [MALE] wants to stop the bleeding.
+[MALE] makes a phone call. [MALE] is thoughtful.
+[
+---------------

@@ -1,0 +1,243 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Harry and his basketball team was losing the game.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Harry and his basketball team was losing the game. He wanted to sit down. He was in the cafeteria so his wife was there. He asked how he got there. She was worried he would die.She looked at the clock and they were on holiday.He was still on the phone. He would be ok.He looked at his phone. He was going to call the police. He would be fine.He looked at the picture. He wanted to tell his wife. He was a lot better with her.They went to the laundromat. They were happy. They thought they were going to go to the zoo. They would be fine.He walked over and picked up the phone. He was very tired.Mum was asleep.She went to look at the clock. She
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. It's the first time they've lost in the same season.At the time they were in the playoffs. The game is over.Your opponent is the person that won. The person that won the game has a smile on their face.The person that isn't a winner gets the game.The person that is the team's captain gets the trophy.If the person is the person that wins, the trophy will be yours.The person that wins the game has a happy face.The person that wins the game has a good feeling.The person that wins the game has a happy expression.The person that scores a goal is getting the ball somewhere.The person that gets a assist is getting a assist.The person that gets a rebound is getting
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. In the time after the losing, they would be able to win the game.It was said they were going to play the game. But they were not going to do so. They were going to put on the glasses. They would not be able to see the information. They would not know anything about the game. They were going to go on the court. They were going to read the book. It was said they were going to watch the movie. They were going to eat lunch. It was said they were going to stay home for a while. It was said they would have to go to the gym. They would not know how to go to the gym. It was said they would go back to school. It was said they would
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. The game was pretty bad. The game wasn't pretty. That's not what you're talking about. You have to go for a walk. Go to work. You should go to the doctor. You have to go to class. You have to go to a bar. There are probably other people you'd like to go to. There are probably others you would like to see. You should go to the doctor.You will be alright.
+
+Harry then goes to the toilet.
+
+Harry finds a cupboard.
+
+The next morning, the team is playing in practice, when he hears a noise.
+
+Harry wants to go to the bathroom.
+
+The next morning, the team is playing in practice.
+
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. The ball had bounced off the floor. He was going to win the game. He was very excited. He was very proud. He was very proud to win the game. The ball had hit the floor. The ball was in the air. He was extremely proud. He was very proud. The ball had hit the floor. The ball was in the air. Harry was very excited. He was very proud. He was very proud. He was very proud. The ball hit the floor. The ball was in the air. Harry was very excited. He was very proud. The ball hit the floor. The ball had turned on. He was very excited. He was very proud. The ball struck the floor. The ball dropped. The ball
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. Ron had to have his glasses on. What is wrong with you? You should get a prescription for pain medication. You should get a pain doctor. Harry has to have a spell on his mind. How are you? You should ask the Godric's Twelve. Now what? Harry needs to go to the library. He has to go to the library. Harry needs to find an old book. He needs to find it. Harry needs to ask the Godric's Twelve. Now you are going home. You are a good boy. You are going to get a new pair of pants. You need to go to the bathroom. You should be very happy. It is time for you to go home. Now you will be at the bus stop
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+He looked back at the clock.
+He really needs to get to the hotel.
+He has to take the bus.
+He has to show up to work.
+He is going to a party.
+He is going to a party.
+He is going to the park.
+He is going to the park.
+He is going to the museum.
+He has to get the newspaper.
+He writes the letter.
+Harry is not getting the same treatment.
+He is going to a party.
+He is going to the park.
+He is going to a hospital.
+He is going to a movie.
+he is going to a movie.
+he is going to a movie.
+he is going
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.There was only one person in the room, and he was the greatest.The game was over.The professor is gone.Harry took the first step.He looked around.The only people in the room were the two professors.Harry took the first step.The professor was gone.The two professors were going to need to go to the library.Harry went to the library.He was going to be able to do this.Harry looked around in the library.The professor said nothing.Harry took a deep breath.He took a deep breath.Harry felt the weight of the books.Harry said Harry, let's go to the library.The professor was gone.Harry took the last step.The two professors were going to need to go to
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. He then saw a picture of his wife. He thought of his father. He was scared. He went to the bathroom. The bathroom door was closed. He then went to the bathroom and took the bath. He felt like he was being insulted. He was too embarrassed. He went to the bathroom and looked over his shoulder. He found the ball there. He let his body go. He looked around the room. The ball was there too. He fell into his bed. He went to his room. He saw his father standing in the doorway. he looked over his shoulder. he wanted to get out of the way. Harry looked to the side. he had to try and get back to his room. he looked at his father. he
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. Harry tried to sneak into the locker room. Harry threw the ball. Harry looked in the mirror.He was not wearing a hat. he was wearing a black hat. He put his hat on. he decided to go outside. He saw his daughter. she was wearing a blue dress. he thought he was cool. and he fell asleep. He went to bed. but the television started. and the door closed. no answer. Harry wished he had seen the tv news. he put his hat on. he went on tv.he looked at his mom. she was very happy. she went to bed. he went to bed. and he sat down. he was tired. he was late. he had to go to the doctor. he
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+you and your wife were talking about the good news.
+it is very difficult for you to talk to another person.
+it is very important for you to find all the books under your bed.
+harry and his wife were going to a wedding.
+the best time of the week was today.
+it is very important for you to follow the rules of the game.
+you and your family were going to a birthday party.
+you and his wife were going on vacation.
+it is very important for you to make a list of all the things you would like to do.
+you and your wife were going to a concert.
+you and your family were going to a party.
+the best thing you could do
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. They've had their basketball game cancelled. They're going to the bathroom. When you are ready for the game, you can go to the bathroom.You will be ready for the game. You will want to play the game. You will want to collect the items.You will want to make your breakfast. You will want to eat.You will want to take the bus. You will want to turn around. You will want to go home.You will need to find a computer. You will want to open the browser. You will want to go to the store.You will want to play golf. You will want to have a drink.You will need to get to the bathroom.You will want to run around in the parking lot.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+if you read it in a book, it will be one of the most important book to read.
+if you spend the day writing a book, you will be able to write it in a readable way.
+if you go to a party, you will get something from the waitress.
+if you get a good feeling, you will feel good.
+if you go to a theater, you will get to see the movie at the theater.
+if you go on vacation, you will get to be with your family.
+if you go to the mall, you will get to go to a store.
+if you wear a suit, your hair will be white.
+if you go to a meeting, you will get to have
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+Harry smiled and looked at his basketball team.
+Harry looked around.
+Harry stood.
+Harry looked at his team.
+Harry looked at his team.
+Harry looked at his team.
+He looked at his team.
+He looked at his team.
+Harry looked around.
+He looked at his team.
+Harry looked around.
+He looked around.
+He looked around.
+He looked around.
+He looked around.
+He looked around.
+He looked around.
+He saw the other side.
+Harry looked around.
+He looked around.
+He looked around.
+He looked around.
+Harry looked around.
+He looked around.
+He looked around.
+He looked around.
+He
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+You have to go home.
+You need to be in your car.
+You are in the bus.
+You are getting out of bed.
+You are going to the doctor.
+You are hungry.
+You are not good.
+You need to leave your house.
+You need to return to your car.
+Do nothing.
+Go to the movies.
+Go shopping.
+Do a cup run.
+Work out.
+take a shower.
+go to the games.
+be late.
+go to the theatre.
+get a meal.
+go to the store.
+go to the zoo.
+go to the store.
+go to the beach.
+go to the hospital.
+go to
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. It was supposed to be a fun game. However, they made a mistake. They rushed to a nearby building. Everyone at the basketball team left. When they got back, they were still in the building. They took the ball back to the bus stop. Harry and his friends saw the bus coming. They hugged them. They were so happy. They were so relieved. They went to the bathroom. They went outside. They were so relieved. They didn't care at all. They were so excited. They were so happy. They were so glad. They were so happy. They were so happy. They were so happy. They were so happy. They were so happy. They were so happy. They were so happy. They were so
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. He then read the newspaper and went to the office. He said, "Well, they were doing so well that they lost the game. How did they do it?" Harry was very annoyed and turned into a dog. He looked over at the back of the house and saw the house was full of children. He went back and made sure to have some ice. Then he took a shower. An ice bath was needed. Harry was so tired. He went to bed. He would not come back. He was in a panic. He wanted to talk to his wife. He went to the bathroom. He started to look at the toilet. He looked at the picture. Then he went to bed. After a while he went to the shower.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. They needed to get a new team. They needed to pay for tickets to the game. They wanted to buy tickets. They wanted to buy them a new car. [1]
+Notes [ edit ]
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See for yourself.
+
+↑ See with your friends.
+
+↑
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. Harry will be in a coma. He is very tired. He will not be able to do anything about it. He is very tired. He will not be able to talk to his father. He is very tired. He will not be able to take care of his family. He is very tired. He will not be able to do anything to the people. He will get out of bed. He will not be able to go to the bathroom. He will not be able to take care of his wife. He is very tired. He will not be able to take care of his children. He is very tired. He will not be able to take care of his wife. He is very tired. He will not be able to take care
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. He had to play the first game. The second game would be the last game. In the third game, there would be a new team and a new person. He would win the game. He would be playing a sport. He would be good. He would be very helpful. he will be happy. he will be grateful. he will be a good person. he will be good. he will be proud. he will be happy. he will be proud. he will be sad. he will be sad. she will be happy. he will be glad. he will be pleased. he will be proud. he will be happy. he will be happy. he will be happy. he will be happy. he will be happy. he
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. They realized that they had to play on the other team.They decided to play a game.The game was over.The team found out that they were playing.They wanted to play.They went to the doctor.The doctor told them that he saw that they were in good health.They went to the hospital.They were ready to go.The doctor gave them a prescription.They took their medicine.The doctor gave them a checkup.The doctor took them to the hospital.They went to the vet.The vet asked them if they had anything to take home.They said yes.The doctor gave them a test.They took a look at the test.They took a look at their doctor.The doctor gave them an orange.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+Harry was reading the book on the table.
+The two girls were playing sports.
+The two girls were talking.
+The two girls were on the water.
+Harry was sitting on the beach.
+The two girls were playing the game.
+The two girls had a good time.
+Two girls on the beach.
+The two girls were playing the game.
+The two girls were watching the television.
+The two girls were playing the game.
+The two girls were playing the game.
+The two girls were loving the game.
+The two girls were enjoying the game.
+The two girls were playing the game.
+The two girls were playing the game.
+The two girls were playing the game.
+The
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. The crowd was too loud. Harry had to leave. He had to go to the bathroom. He had to go back to sleep. He had to stand still. He had to wait for the bus to arrive. He and his wife were making dinner. They were eating dinner. He had to go on the bus. He had to get to the gym. He had to go to the doctor. He had to get the car. He had to get the bike. He had to walk to the mall. He had to go to work. He had to buy a new bicycle. He had to pay for the bike. He had to go to the doctor. He had to go to the doctor's office. He had to take the medication.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. The opponent is Team Gryffindor. You must ask the teacher. you must leave the school. and you will not be kicked out of class. and you will be taken to the hospital. You will need a prescription. and you will not be injured.and he will be a good friend. and he will still be alive. and you will feel good. he will be in the hospital. and he will be doing good. and he will be in the hospital. he is very happy. and he will be strong. and you will get love. and you will be happy. and you will be good. and you will be happy. and you will be happy. and you will be great. and you will be evil. and
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. But it's the referee who decided to have a laugh.Harry will be out of the game eventually.
+[Perry] and his family is overjoyed. [Perry] is the first person to visit him.
+[Perry] and his wife [m] is having a pretty good day.
+[Perry] is overjoyed. [Perry] is the first person to have a conversation with him.
+[Perry] is interested in the [f]or. [Perry] is [f]orning.
+[Perry] will be very tired [m] and will be very tired.
+[Perry] has the gift. [Perry] wants to give it to
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+sputnik.org/sputnik1.htm [accessed 29 July 2015]
+[deleted] [deleted]
+[deleted] [deleted]
+[deleted] [deleted]
+[deleted] [deleted] [deleted]
+[deleted] [deleted] [deleted]
+[deleted] [deleted]
+[deleted] [deleted]
+[deleted] [deleted] [deleted]
+[deleted] [deleted]
+[deleted] [deleted]
+[deleted] [deleted]
+[deleted] [deleted]
+[deleted] [deleted] [
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.The team was the only one to score a point.It fell on the ground.Draco stopped.Harry was in a panic.The team wasn't winning the game.Draco looked down.The floor was slippery.The team lost.The game went to the judges.Harry was in pain.The ball still fell on the floor.The team was in the process of getting back to the court.Draco looked at Harry, confused.Draco nodded.Draco broke the ice.Harry looked at Draco.Draco said, "You got a cold."Draco looked down.Draco looked up at Harry.Draco looked at him.Draco gave him a cold.Harry looked at Draco. Draco smiled.Draco
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.Settling down for the time being is never a good idea.You would be able to buy a new car.Do something important.This morning is supposed to be good.Would you like to go to the doctor?You are going to the hospital.At the hospital, you will be able to see a doctor.You will be able to get your wand.You will be able to eat dinner.This is your first time outside.You will be able to think.This is your first time in the sun.You will be able to see the stars.This is your second time outside.You will be able to dress in a suit.This is your third time in the air.You will be able to get your bag.You
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. They were not allowed to play. This was not a great time. They wanted to go home. Harry was frustrated. He felt betrayed. He took the time to look around the house. He is alone. He is in the car. He is overjoyed. He has a basket. This is not a great time. Harry needs to go home. He has to go to the doctor. He needs to call his parents. He needs to be in the hospital. He wants to get his bearings. He needs to go to the doctor. He wants to check on the doctor. He needs to be in a position to look at it. He wants to be in the hospital. Harry wants to be a better person. He wants to have
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. It said he was a wizard. That was all. This is the best thing to do right now. [The player is unconscious. The player is in the same room. Harry will not wake up] [Harry is talking to the person in the person's chair] [he is in a wheelchair. An arm is held in his hands. The arm is lowered] [he is in the wheelchair. The leg is lifted] [he is doing something] [he is doing something] [he is being helpful] [he is doing something] [he is having a conversation with the person] [he has something to offer them] [he is being generous] [he is asking for help] [he is being helpful] [he is
+---------------

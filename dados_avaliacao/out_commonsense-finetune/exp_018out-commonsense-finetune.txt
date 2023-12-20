@@ -1,0 +1,521 @@
+Overriding: out_dir = out-commonsense-finetune/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tim was sick for school picture day.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tim was sick for school picture day.
+have an epileptic fit.
+the dentist is available.
+get in line.
+diving.
+cooking.
+someone sees you.
+drinking water.
+climbing.
+playing football.
+stopping the car.
+getting out of the car.
+an animal.
+going to the zoo.
+a book.
+a movie..
+a movie theater.
+a movie.
+a newbie.
+a book.
+a room.
+a person.
+going to school.
+a movie.
+a teacher.
+a boss.
+a restaurant.
+going to the circus.
+going for a walk.
+a meal.
+a dog.
+a person.
+a bed
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+the person who put you in the water has a heart attack.
+the person who was asked to buy a new car has a need for a new car.
+the person who was asked to help has a need for help.
+the person was asked by a friend to put a shoe on.
+the person who was asked to cook for them has a cooking job.
+someone was taking the stairs.
+the person who was asked to buy a house.
+the person who was asked to be a teacher.
+the person who was asked to be a guest of the president.
+someone was holding a cigarette.
+the person who was asked to watch a film.
+someone was having a hard time.
+the person who was
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a person walks to the subway.
+a person is at a gym.
+a person is in business.
+a person does not desire go to work.
+a person is sitting in a car.
+a person is doing not much.
+a person is not feeling well.
+a person does not desire have children.
+a person is not in a hurry.
+a person is not in the mood.
+a person is having a party.
+a person is at a party.
+a person desires has property nice.
+a person is having fun.
+a person desires have children.
+a person is at a party.
+a person does not desire be a hanger.
+a person is getting ready for bed
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.You are not allowed to drive while on vacation.You are not allowed to have pets.You are not allowed to keep in your car.You are not allowed to take a break.You are not allowed to have a party on the weekend.You do not have the proper keys.You are not allowed to carry anything.You are not allowed to take a picture.You are not allowed to drive home.You are not allowed to take a taxi.You are not allowed to take a car test.You are not allowed to run a marathon.You are not allowed to buy a new shirt.You are not allowed to travel with a dog.You are not allowed to get a haircut.You are not allowed to drive home.You are not
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a mens rea has a two children:Tim is a good mate.
+a person is capable of has three children:Tim is good.
+a person is capable of has two children:Tim is good.
+a person is capable of has two children:Tim is good.
+a person is capable of has two children:Tim is good.
+a person is capable of has two children:Tim is good.
+the weather is capable of has a one day.
+a person is capable of has two children:Tim is good.
+a person is capable of has two children:Tim is good.
+a person is capable of has two children:Tim is good.
+a person is capable of has two children:
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] asks the teacher if they are interested. [MALE] wants to talk to the teacher.
+[MALE] takes none to the zoo. [MALE] wants to see what the zoo has to offer.
+[MALE] buys none for personx's birthday. [MALE] wants to offer the gift.
+[MALE] goes to the mall. [MALE] is friendly.
+[MALE] thinks persony's head was spinning. [FEMALE] wants to ask persony about the situation.
+[MALE] takes none to the vet. [MALE] wants to get their evaluation done.
+[MALE] makes a video. [MALE
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+theres some food for your dog.
+a lot of people hate to eat.
+the first time you see the film.
+i went to a movie.
+a new favorite food.
+a new favorite food.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a new favorite movie.
+a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. x was looking for something. y was in situation. x was at home.
+[MALE] tries to stop [FEMALE] from going to school. [MALE] wants to stop [FEMALE] from going to school.
+[MALE] sees the next person. [MALE] wants to think of the next person.
+[MALE] raises the alarm. [MALE] is afraid.
+[MALE] takes none to the grocery store. [MALE] is determined.
+[MALE] puts none under persony's nose. [FEMALE] will receives a hug.
+[MALE] is having a party. [MALE] gets a date.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] is playing basketball. [MALE] is trying to play basketball.
+[MALE] gets none from the store. [MALE] wants buy some snacks.
+[MALE] takes none for a drive. [MALE] is fun with car.
+[MALE] wants to write the book. [MALE] needs to have been planning the project.
+[MALE] pulls none from the closet. [MALE] is upset.
+[MALE] is in the process of paying. [MALE] is paying attention.
+[MALE] gets none from the store. [MALE] is responsible.
+[MALE] lays a blanket. [MALE
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+have a cigarette is at university.
+you gets hit by a car.
+you is at the beach.
+take a test is at the water park.
+get a haircut is at the salon.
+you is a dog.
+you is going to a baseball game.
+you is having a bad day.
+you is coming to work.
+you is at a restaurant.
+we is in a war.
+you is having a bad day.
+you is at a restaurant.
+you is at a restaurant.
+you is going to eat something.
+you has the same birthday.
+you is playing a game.
+you is at a party.
+you is playing in the movie.
+you is at the
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+you is capable of move your hand.
+you has property useful.
+you is capable of talk to another person.
+you is capable of play the harp.
+you is capable of eat rice.
+you is capable of make your own food.
+you is capable of listen to music.
+you is capable of play the guitar.
+you receives action make from a flower.
+you is capable of find something.
+someone is capable of bring you things.
+you is capable of play the harp.
+you has property pretty.
+someone is capable of make a toast.
+you is capable of leave the house.
+you is capable of stand on the floor.
+you is capable of play the harp
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] buys the most expensive item at the store.
+[MALE] begins to drive.
+[MALE] needs to think of something.
+[MALE] gives [FEMALE] the opportunity.
+[MALE] wants to have a party.
+[MALE] sets the alarm.
+[MALE] sees a black cat.
+[MALE] is a good student.
+[MALE] takes none to the library.
+[MALE] gets some advice.
+[MALE] is always on duty.
+[MALE] is playing with persony's dog.
+[MALE] gets tired.
+[MALE] is walking the dog.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+bust the air. [FEMALE] wants to blow on their nose.
+a baby is at the baby. [FEMALE] will excited.
+the state of the art is at the state of america. [FEMALE] needs to drive to the airport.
+a person who has never met another. [FEMALE] wants to return home.
+a person is capable of. [FEMALE] wants to pay a visit.
+a person is capable of. [FEMALE] will satisfied.
+a person is capable of. [FEMALE] will they help a person.
+a person is capable of having. [FEMALE] wants to get a new car.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+cat is at play.
+person is capable of receive reward.
+person is incapable of sleep.
+baby is capable of cry.
+person is capable of get a haircut.
+person is capable of put on a piece of furniture.
+person does not desire to go hungry.
+person does not desire to be on the beach.
+person does not desire drive to a gas station.
+person is at the office.
+person desires the world.
+person is capable of be happy.
+person watches tv.
+person does not desire to eat.
+person does not desire to live in a house.
+person is capable of be very happy.
+person is capable of buy groceries.
+person desires privacy.
+person desires
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+You have to pay the fee.
+You have to buy a new shirt.
+It's the first day of the new year.
+I am worried.
+A friend is watching you.
+You get rid of some of your own junk.
+I am a nurse.
+A family loves you.
+You get a new book.
+It is a very good day.
+it takes a while.
+you is in love.
+it is wrong.
+the truth is true.
+it is always a great time.
+you sees something funny.
+a cat is loving.
+a friend is at your room.
+the weather is bad.
+it is a time of the week.
+you is happy.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+get the ball to play.
+a dog is capable of play.
+go to sleep.
+a dog is at the zoo.
+a dog is at the gym.
+see a movie.
+a dog is at the same town.
+a dog is capable of run in the park.
+a dog is responsible for helping a person be happy.
+go to a concert.
+a dog is capable of play.
+a dog is at the party.
+a dog is at the zoo.
+a dog is at the zoo.
+go to bed.
+a dog is at the zoo.
+a dog is at the zoo.
+a dog is at a zoo.
+a dog is at a zoo.
+a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+celebrity gets a free pass for a new movie.
+you receives a new haircut.
+you is not a person.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a new haircut.
+you receives a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+play card game.
+play sport.
+play game.
+make phone call.
+meet person.
+take bath.
+go to bed.
+make phone call.
+get an appointment.
+go to school.
+buy something.
+eat for dinner.
+get a good job.
+take shower.
+wait person.
+go to movie.
+go for a walk.
+go to pub.
+go to park.
+go to movie.
+play game.
+play game of chess.
+go into coma.
+read book.
+take phone call.
+play hockey.
+play football.
+play game of football.
+play game of football.
+play game of hockey.
+get out of bed
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] takes none to the museum. [MALE] wants to get rid of the artifacts.
+[MALE] is proud of persony's accomplishment. [MALE] hopes to be seen.
+[MALE] starts driving. [MALE] needs to know how to drive.
+[MALE] gives none to personx's family. [MALE] will happy.
+[MALE] has a great time. [MALE] wants to be social.
+[MALE] gives [FEMALE] none. [MALE] is caring.
+[MALE] gets none from persony's mom. [MALE] is nice.
+[MALE] is having
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a person knows nothing about their own self.
+a person is capable of think.
+a person is capable of take a test.
+a person is capable of go to a movie.
+a person is capable of get a cup of coffee.
+someone has a bad day.
+a person does not like a joke.
+a person is capable of make an idea.
+a person is capable of be sick.
+a person is capable of write a poem.
+a person is capable of read a book.
+a person is capable of be at a party.
+a person is capable of drive to work.
+a person is capable of start something.
+a person is capable of use a device.
+a person is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+get the keys to the truck.
+take the road trip.
+get a job.
+enjoy a ride.
+play a game.
+play the violin.
+go to the park.
+eat some food.
+play a game.
+play a game of chess.
+drive the car.
+have a party.
+view the weather.
+play a game.
+see a movie.
+take a stand.
+see a movie.
+go to the store.
+go to a meeting.
+get a haircut.
+go to school.
+going to the zoo.
+lose weight.
+go to an opera.
+play a musical instrument.
+play a game.
+gather enough items.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+examined the person for a crime.
+go to the store.
+examined the person for a drug problem.
+examined the water.
+go to the store.
+examined the person.
+examined the person.
+examined the person for a problem.
+examined the person's wife.
+examined the person for a problem.
+examined the person's children.
+examined the person's action.
+examined the person's reaction.
+examined the person's property.
+examined the person's ability.
+examined the person's property.
+examined the person's action.
+examined
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] wants to go. [MALE] wants to get to a destination with personx.
+[MALE] makes the trip. [MALE] is determined.
+[MALE] asks persony's friends. [MALE] wants to see what they think.
+[MALE] asks persony's wife. [MALE] wants to have the money.
+[MALE] tells [FEMALE] that personx has an accident. [MALE] wants to go to the doctor.
+[MALE] will personx's none. [MALE] is curious.
+[MALE] goes to the store. [MALE] wants to buy something.
+[
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] is the only person in the world that is very popular.
+[MALE] wants to study. [MALE] wants to get something.
+[MALE] is the first person to ever be born. [MALE] needs to have parents.
+[MALE] shows persony's interest. [MALE] wants to communicate.
+[MALE] is driving persony's car. [MALE] is happy.
+[MALE] gets a new car. [MALE] needs get a car.
+[MALE] wants to go to persony's house. [MALE] is careful.
+[MALE] takes a picture of persony. [F
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+the first time you saw the tv show "The Big Bang Theory" was at the cinema.
+there is nothing more good than watching television.
+a book is a book.
+a person is capable of be funny.
+the doctor is capable of have a very good opinion.
+you is capable of do a lot of good things.
+the sun is the largest thing in the sky.
+the first person to die has a bad reaction.
+the first person to marry has a strong will.
+a person is capable of be a good person.
+a book is a book.
+a man is capable of be a good man.
+a person is capable of have a bad reaction.
+the first time you see a
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+sputter is capable of cook fish and cook vegetables.
+sketch is a toy.
+museum is used for learning.
+museum is used for learning about history.
+museum is used for learning about art.
+museum is used for learning about art.
+museum is used for learning about art.
+museum is used for learning about art.
+museum is used for going to the museum.
+museum is used for looking at art.
+museum is used for having fun.
+museum is used for learning about art.
+museum is used for learning about art.
+museum is used for learning about art.
+museum is used for learning about art.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] calls the cops. [MALE] is prepared.
+[MALE] wants to go home. [MALE] wants to go home.
+[MALE] is driving home from work. [MALE] needs to park and park.
+[MALE] buys none for personx's son. [MALE] wants to make sure they have enough money.
+[MALE] is none for personx's son. [MALE] wants to call his mom.
+[MALE] gets none for personx's birthday. [MALE] is affectionate.
+[MALE] puts none in personx's basket. [MALE] will cheerful.
+[MALE
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.Settled down.
+[MALE] runs a marathon. [MALE] is not fit.
+[MALE] takes [FEMALE] to the doctor. [MALE] needs put the appointment in the mail.
+[MALE] sees [FEMALE] in persony's eyes. [MALE] wants to be petite.
+[MALE] makes [FEMALE] promise. [MALE] wants to put the promise down.
+[MALE] tells [FEMALE] how to do it. [MALE] needs to learn her skill.
+[MALE] takes none to the doctor. [MALE] wants to get the treatment.
+[M
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+toy is used for have a seat.
+take a picture is used for share a picture.
+write a story is used for amuse oneself.
+visit a museum is motivated by enjoy it.
+toy is used for keep a car in.
+take a break is used for rest.
+have a good time is motivated by get a good time.
+take a test is motivated by get a grade.
+write a story is motivated by buy a book.
+buy a house is motivated by you have a room.
+go to a party is motivated by go somewhere.
+buy a new car is motivated by it has a price.
+go to a restaurant has a food.
+play tennis has a racket.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+a large portion of the population is not capable of be able to go on a date.
+a person is capable of think about a lot.
+a person is capable of get a haircut.
+a person is capable of buy a new chair.
+a person is capable of take a bath.
+a person has to take a bath.
+a person is capable of buy a new car.
+a person is capable of eat dinner.
+a person is capable of buy a new television.
+a person is capable of pick up a book.
+a person is capable of help out a friend.
+a person is capable of make a phone call.
+a person is capable of put their hand on a pen.
+a person
+---------------

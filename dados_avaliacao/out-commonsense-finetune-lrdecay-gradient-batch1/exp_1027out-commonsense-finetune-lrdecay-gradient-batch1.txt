@@ -1,0 +1,467 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Harry and his basketball team was losing the game.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a room is used for a private place.
+a room is used for a bedroom.
+a room is used for a sleeping pad.
+a room is used for a bathroom.
+a room is used for a bedroom.
+a room is used for bedrooms.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. [MALE] needs to train. [MALE] [MALE] puts the basketball on the floor.
+[MALE] gets a date. [MALE] will happy.
+[MALE] drives home. [MALE] needs get a car.
+[MALE] tells [FEMALE] the truth. [FEMALE] wants to tell [MALE] the truth.
+[MALE] hears none in the distance. [MALE] wants to be the best.
+[MALE] takes none to get there. [MALE] wants to go to the park.
+[MALE] meets a new friend. [MALE] will happy.
+[MALE]
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. [MALE] wants to watch the game and make more money. [MALE] is careful. [MALE] is hardworking. [MALE] needs time to spend.
+[MALE] wants to go to the store. [MALE] wants to put their clothes on.
+[MALE] is an avid golfer. [MALE] wants to win.
+[MALE] finds [FEMALE] way. [MALE] needs to search for the way.
+[MALE] is at work. [MALE] wants to go home.
+[MALE] makes a living. [MALE] needs to earn a living.
+[MALE] decides to adopt a
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. [MALE] needs to score on it. [FEMALE] will happy.
+[MALE] breaks the bank. [MALE] [MALE] becomes rich.
+[MALE] puts none in persony's hands. [MALE] needs to get the money.
+[MALE] is really scared. [MALE] wants to start hiding.
+[MALE] tells [FEMALE] what happened. [FEMALE] will grateful.
+[MALE] is a good kid. [FEMALE] will happy.
+[MALE] is an astronaut. [MALE] wants to start an expedition.
+[MALE] loses personx's keys. [
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a book is defined as a collection of information.
+a book is at a library.
+a book is at any book store.
+a book is at the library.
+children is capable of read books.
+a book is at a storage area.
+a book is at a classroom.
+a book is at the shelf.
+a book is at the shelf.
+a book is at the book store.
+a book is at a small book store.
+a book is at a bookstore.
+a book is at a bookstore.
+a book is at a small book store.
+a book is at a small book store.
+a book is at the kitchen.
+a book is at a small book store.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a person is capable of sit in a chair.
+a person is capable of take a break.
+a person is capable of get a haircut.
+this is a large room.
+a person is capable of walk in a straight line.
+this is a person's birthday.
+this is a person's home.
+a person is capable of turn on the tv.
+this is a person's first day of school.
+this is a woman's birthday.
+this is a book.
+this is a person's birthday.
+this is a person's birthday.
+this is a person's hand.
+this is a woman's hand.
+this is a person's hand.
+this is a book.
+this
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a is for the universe.
+a is for the person.
+the is for the people.
+a is for the people.
+a is for the person.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is for the people.
+the is
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a person does not desire be hit by a car.
+a person desires not be cheated.
+a person does not desire be cheated.
+a person desires a job well done.
+a person desires a good relationship.
+a person does not desire be cheated.
+a person does not desire to be cheated.
+a person does not desire have a nervous breakdown.
+a person does not desire be found out.
+a person does not desire be lied to.
+a person desires a good relationship.
+a person does not desire be told lies.
+a person does not desire be cheated.
+a person does not desire be called a fool.
+a person does not desire be found out.
+a person does not desire
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] is going on a date with persony. [MALE] is dating.
+[MALE] is running late for work. [MALE] wants to start work.
+[MALE] is a student at school. [MALE] wants to learn more about the subject.
+[MALE] hears a loud noise. [MALE] will nervous.
+[MALE] is late for class. [MALE] is late.
+[MALE] keeps persony's promise. [MALE] wants to keep person y's promise.
+[MALE] receives a check. [MALE] needs to pick up the check.
+[MALE] brings forth the __
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] sees none in the room. [MALE] wants to make a discovery.
+[MALE] looks around. [MALE] will surprised.
+[MALE] loses personx's keys. [MALE] is careless.
+[MALE] takes a vacation. [MALE] is tired.
+[MALE] gets better. [MALE] is dedicated.
+[MALE] drives [FEMALE] crazy. [MALE] will bad.
+[MALE] takes the next step. [MALE] needs to go to the bus stop.
+[MALE] hits the gas. [MALE] needs to turn the ignition to begin the engine.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a person does not desire be told the truth.
+a person does not desire be accused of witchcraft.
+the earth receives action covered in ice.
+a person does not desire be accused of being an idiot.
+the earth receives action covered in ice.
+the earth receives action covered in ice.
+the earth receives action covered in ice.
+the earth receives action covered in snow.
+the earth receives action covered in ice.
+the earth receives action covered in snow.
+the earth receives action surrounded by ice.
+the earth receives action covered in ice.
+the earth receives action covered in ice.
+the earth receives action covered in snow.
+the surface receives action covered.
+the earth receives action covered in snow.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. [FEMALE] wants to go home.
+[MALE] raises personx's hand. [MALE] is confident.
+[MALE] buys [FEMALE] a present. [FEMALE] wants to thank personx.
+[MALE] begins to eat. [MALE] is hungry.
+[MALE] calls my mom. [MALE] needs to know the phone number of their mom.
+[MALE] helps the woman ___. [FEMALE] wants to help the woman.
+[MALE] gives [FEMALE] a ring. [FEMALE] will happy.
+[MALE] gets a new bike. [MALE] wants
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+breathe some fresh air soon.
+a person does not desire their hair to become infected.
+a person does not desire the world to end.
+a person does not desire a spouse.
+a person does not desire the world to end.
+a person desires a job.
+a person does not desire to change society.
+a person does not desire to live in poverty.
+a person does not desire to be in debt.
+a person does not desire the world to end.
+a person does not desire a wife.
+a person does not desire a divorce.
+a person does not desire a divorce.
+a person does not desire to lose weight.
+a person does not desire to die.
+a
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a cat is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a cat is at a shelter.
+a dog is at a shelter.
+a dog is at a shelter.
+a cat is at a shelter.
+a dog is at a shelter.
+a cat is at a shelter.
+a cat is at a shelter.
+a cat is at a shelter.
+a cat is at a shelter.
+a cat is at a shelter.
+a cat is at a shelter.
+a cat is at a shelter.
+a cat is at a shelter.
+a cat is at a shelter.
+a cat is at a shelter.
+a cat is at a
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a person does not desire be left alone.
+a person desires a wife.
+a person does not desire a spouse.
+a person desires a good job.
+a person desires sex.
+a person does not desire a divorce.
+a person does not desire a divorce.
+a person does not desire a divorce.
+a person desires a good job.
+a person does not desire a life.
+a person does not desire a divorce.
+a person does not desire a murder.
+a person does not desire be alone.
+a person does not desire a divorce.
+a person does not desire be alone.
+a person does not desire be alone.
+a person does not desire be alone.
+a person
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a woman is capable of be a mother.
+a person is capable of drink coffee.
+a person desires be at the zoo.
+a person desires a good job.
+a person desires be close to his parents.
+a person desires a good job.
+a person desires the world to be a better place.
+a person desires be with his family.
+a person is capable of be in a relationship.
+a person is capable of cry.
+a person is capable of move.
+a person desires a good job.
+a person is capable of live a long time.
+a person is capable of get away.
+a person is capable of look at a picture.
+a person is capable of love.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a person does not desire fall across a table.
+a person does not desire have too many people with them.
+a person desires something more than a puppy.
+a person does not desire the world to end.
+a person desires a friend.
+a person does not desire be afraid.
+a person does not desire feel like a loser.
+a person does not desire try to make a mess.
+a person does not desire be called a cuckold.
+a person desires a good relationship.
+a person does not desire be stuck.
+bicycle is at the corner.
+a person does not desire the world to end.
+a person does not desire a bad grade.
+a person does not desire be
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a letter is used for communicate information.
+a person does not desire be in a trance.
+an ice cream cone is used for eat ice cream.
+a person does not desire be in debt.
+a person desires be safe.
+a person does not desire be in a bad situation.
+a person does not desire be in debt.
+a person does not desire be in pain.
+a person does not desire be greedy.
+a person does not desire be sick.
+a person does not desire be sad.
+a person does not desire be in poverty.
+a person desires be entertained.
+a person does not desire be alone.
+a person does not desire be in danger.
+a person does not desire
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] takes none of the pie. [MALE] is unimpressed.
+[MALE] tells [FEMALE] would come. [FEMALE] will persony is thanked.
+[MALE] starts personx's none back. [MALE] needs to get out the phone.
+[MALE] pays none to the government. [MALE] wants to take a trip.
+[MALE] gives [FEMALE] a chance. [MALE] needs to ask [FEMALE] for advice.
+[MALE] sees [FEMALE] father. [MALE] wants to hug the person.
+[MALE] takes [FEM
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a person desires a fair trial.
+a person desires a good job.
+a person desires be a good student.
+a person desires a good job.
+a person desires be in touch with an agent.
+a person desires a good job.
+a person desires an important job.
+a person desires a good job.
+a person desires a good job.
+a person desires be in touch with an agent.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job.
+a person desires a good job
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. [MALE] wants to play on the court.
+[MALE] puts on the glasses. [MALE] needs to go to the bathroom.
+[MALE] finds the none to drink. [MALE] wants drink something else.
+[MALE] is really hard. [MALE] is determined.
+[MALE] takes none to lunch. [MALE] wants to have lunch.
+[MALE] wants to be a writer. [MALE] needs to make a good grade.
+[MALE] is a lot of fun. [MALE] will excited.
+[MALE] gets [FEMALE] a gift. [FEMALE] will happy.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a person does not desire a full stomach.
+a person desires a good fit.
+a person does not desire a bad relationship.
+a person does not desire a sore throat.
+a person does not desire to see an ex-girlfriend.
+a person does not desire a terrible reputation.
+a person does not desire a divorce.
+a person does not desire to be an ice cream parlor.
+a person does not desire be involved in a crime.
+a person does not desire be a "floppy" person.
+a person does not desire to be rejected.
+a person does not desire a sore throat.
+a person does not desire be lonely.
+a person does not desire a divorce.
+a
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] plays a none in the life. [MALE] is a person with a life.
+[MALE] makes it home. [MALE] is determined.
+[MALE] lives with personx's wife. [MALE] wants to spend time with his wife.
+[MALE] eats nothing. [MALE] needs to buy the food.
+[MALE] puts none behind persony. [MALE] needs to be close to persony.
+[MALE] is an amazing mom. [MALE] wants to be a mom.
+[MALE] takes the none for granted. [MALE] wants to do something new.
+[MALE]
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] is a good student. [MALE] wants to be a good student.
+[MALE] plays the none well. [MALE] wants to be applauded.
+[MALE] does n't make sense. [MALE] is unsure.
+[MALE] loses the game. [MALE] they lose the game.
+[MALE] puts on personx's shoes. [FEMALE] will happy.
+[MALE] gets a job offer. [MALE] needs get hired.
+[MALE] gives none a huge hug. [MALE] will happy..
+[MALE] spends some time. [MALE] wants to return to work
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+the first time you saw the sun was in the summer.
+the first time you saw the moon was in the year 2000.
+the first time you saw the sky was in the summer.
+the first time you saw the stars was in the year 2000.
+the first time you saw the moon was in the year 2000.
+the first time you saw the stars was in the year 2000.
+the first time you saw the sun was in the year 2000.
+the first time you saw the moon was in the year 2000.
+the first time you saw the stars was in the year 2000.
+the first time you saw the moon was in the year 2000.
+the first time you saw the stars is in the year
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+satisfy hunger with minimum effort.
+a piece of paper with a handle is used for holding items.
+a carafe is used for getting water from a tap.
+play a game is motivated by you like to read.
+a tablecloth is used for holding things.
+a person does not desire be in debt.
+a person does not desire be lonely.
+a person does not desire be alone.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a basketball is a ball.
+a basketball is a ball.
+a basketball is a ball.
+a basketball is a ball.
+a basketball is a ball.
+a basketball is a ball.
+a basketball is a ball.
+a basketball is a ball.
+a basketball is a ball.
+a basketball is a ball.
+a basketball is a basketball.
+a basketball is a ball.
+a basketball is a ball.
+a basketball is a basketball.
+a basketball is a basketball.
+a basketball is a basketball.
+a basketball is a basketball.
+a basketball is a basketball.
+a basketball is a basketball.
+a basketball is a basketball.
+a basketball is a ball.
+a basketball
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a ball is used for holding a ball.
+a person is capable of move a stick.
+the word "virgin" has property singular.
+a person is capable of eat apple juice.
+a person is capable of use a calculator.
+a person is capable of get a divorce.
+a person is capable of wear a hat.
+a person is capable of get a divorce.
+a person is capable of eat a pie.
+a person is capable of take a pill.
+a person is capable of read a book.
+a person is capable of use a calculator.
+the word "virgin" has property singular.
+a person is capable of use a calculator.
+a person is capable of eat.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+the earth is at the center of the planet.
+an electric guitar is used for playing music.
+people is capable of stand up.
+a person is capable of turn the water.
+two fingers is used for holding music.
+a person is capable of make a pot of beans.
+an electric guitar has property useful.
+a person is capable of use his feet.
+a person is capable of make a pot of beans.
+a person is capable of play basketball.
+the sun is capable of rise in the morning.
+someone is at the bathroom.
+a person is capable of stand up.
+the earth is capable of looks like a flower.
+the earth is defined as origin of the sun.
+a
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game. [FEMALE] wants to go to bed. [MALE] needs to be at their house.
+[MALE] gives [FEMALE] the benefit of the doubt. [MALE] wants to have a good relationship.
+[MALE] hits the gas. [MALE] is negligent.
+[MALE] is going to college. [MALE] wants to finish up.
+[MALE] eats my heart out. [MALE] wants to be in control.
+[MALE] wants to be a scientist. [MALE] needs to be a scientist.
+[MALE] takes none to the dog park. [MALE] wants to make sure it is clean.
+---------------

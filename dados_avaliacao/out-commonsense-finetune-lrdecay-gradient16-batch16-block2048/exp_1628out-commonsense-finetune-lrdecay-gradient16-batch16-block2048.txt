@@ -1,0 +1,6 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient16-batch16-block2048/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:My best friend had an alcohol problem.

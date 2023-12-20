@@ -1,0 +1,434 @@
+Overriding: out_dir = out-commonsense-finetune/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Harry and his basketball team was losing the game.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a room with four people is used for be a lot of people.
+a refrigerator is used for store food.
+a cat is used for play with.
+a good friend has property good for.
+a person is capable of has a bad opinion of.
+a store is used for buy stuff.
+a person is capable of has a bad idea.
+a person is capable of has a desire.
+a person is capable of has a bad opinion.
+a person is capable of has a bad idea.
+a person is capable of has a bad idea.
+a person is capable of has a bad idea.
+a person is capable of has a bad idea.
+a person is capable of has a bad idea.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] takes none to the doctor. [MALE] is not the patient.
+[MALE] makes [FEMALE] smile. [MALE] will happy.
+[MALE] is in the shower. [MALE] needs to wash their face.
+[MALE] runs [FEMALE] away. [MALE] wants to go somewhere.
+[MALE] takes none to the vet. [MALE] is patient.
+[MALE] knows none well. [MALE] is very helpful.
+[MALE] pays none to the bank. [MALE] needs to find a bank account.
+[MALE] takes none to the opera.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a person walks to the subway.
+a person is at a gym.
+a person is in business.
+someone is in a relationship.
+a person is at a restaurant.
+a person is not capable.
+a person is capable.
+a person is in the hospital.
+a person is capable.
+someone is at the house.
+a person is not capable.
+a person is at a pub.
+a person is at a bar.
+a person is capable.
+someone is at a concert.
+a person is at a shop.
+a person is capable.
+someone is at the library.
+a person is capable.
+a person is capable.
+a person is at a bar.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+Determine the existence of a god by looking at an image.
+MALE THREATENS
+get in shape.
+MALE THREATENS
+get ready for the new year.
+MALE THREATENS
+fart.
+MALE THREATENS
+get a haircut.
+MALE THREATENS
+get the new haircut.
+MALE THREATENS
+get ready for the new season.
+MALE THREATENS
+get ready for the holidays.
+MALE THREATENS
+get ready for the holidays.
+MALE THREATENS
+get the first date.
+MALE THREATENS
+get in shape.
+MALE TH
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a book is defined as a collection of information.
+a book is at a library.
+a book is at any book.
+a book is at a museum.
+a book is at a store.
+a book is at a library.
+a book is at a museum.
+a book is at a museum.
+a book is at a library.
+a book is at a museum.
+a book is at a library.
+a book is at a museum.
+a book is at a museum.
+a book is at a library.
+a book is at a museum.
+a book is at a library.
+a book is at a museum.
+a book is at a library.
+a book
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] asks the teacher. [MALE] wants to ask for help.
+[MALE] gets the cat. [MALE] needs to find a cat.
+[MALE] makes a joke. [MALE] wants to laugh.
+[MALE] finds the answer. [MALE] is diligent.
+[MALE] gives none a final exam. [MALE] will grateful.
+[MALE] thinks it was time for bed. [MALE] wants to relax.
+[MALE] becomes [FEMALE] hero. [FEMALE] wants to be avenged.
+[MALE] is late for school. [MALE] wants to be
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a new book is at the library.
+a book is at the classroom.
+a book is at the home.
+a book is at the library.
+a book is at the library.
+a book is at the home.
+a book is at the classroom.
+a book is at the library.
+a book is at the classroom.
+a book is at the classroom.
+a book is at the library.
+a book is at the classroom.
+a book is at the library.
+a book is at the house.
+a book is at the library.
+a book is at the library.
+a book is at the house.
+a book is at the house.
+a book is at
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a person has property capable of be an expert, but not capable of be competent.
+a person has property capable of love a person.
+a person has a property capable of keep track of a person.
+a person has a property capable of do drugs.
+a person has a property capable of be very special.
+a person has a property capable of love a person.
+a person has a property capable of be proud.
+a person has a property capable of play football.
+a person has a property capable of enjoy a good meal.
+a person has a property capable of get a haircut.
+a person has a property capable of be a better person.
+a person has a property capable of make mistakes.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] is caring. [MALE] needs to be nice to persony.
+[MALE] takes a picture. [MALE] needs to go to persony's house.
+[MALE] sends personx's none to the post office. [MALE] needs to send a letter.
+[MALE] pays none to the church. [MALE] wants to be able to visit a church.
+[MALE] calls none to the police. [FEMALE] wants to be in court.
+[MALE] takes up the no. [MALE] is determined.
+[MALE] gives [FEMALE] the chance. [MALE] needs to
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] sees [FEMALE] none in [FEMALE] eyes.
+[MALE] eats the last bowl of cereal.
+[MALE] wants to buy something.
+[MALE] takes [FEMALE] to the doctor.
+[MALE] puts [FEMALE] in the way. (MALE)
+[MALE] eats the meal. (MALE)
+[MALE] makes a phone call. (MALE)
+[MALE] keeps [FEMALE] company. (MALE)
+[MALE] does [FEMALE] good. (MALE)
+[MALE] has to have to go to the doctor
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] buys the most expensive item. [FEMALE] wants to find out what they bought.
+[MALE] does not feel tired. [MALE] wants to get fit.
+[MALE] is none at the time. [MALE] will good.
+[MALE] is none upon the earth. [MALE] wants to see a sunset.
+[MALE] meets persony's none at party. [MALE] is curious.
+[MALE] is none again. [MALE] wants to go home.
+[MALE] buys none for personx's son. [FEMALE] wants to eat.
+[MALE] loves the none
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] wants to help someone else. [MALE] wants to help someone.
+[MALE] is finally ready. [MALE] is ready.
+[MALE] does something helpful. [MALE] wants to thank persony.
+[MALE] asks for help. [MALE] needs to get a hand.
+[MALE] thinks it was a good idea. [FEMALE] wants to pay a fine.
+[MALE] meets persony's eyes. [MALE] is caring.
+[MALE] is going to the store. [MALE] is excited.
+[MALE] becomes [FEMALE] partner. [MALE]
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] loves to cook. [MALE] is intelligent.
+[MALE] takes none to the vet. [MALE] wants to get a vet.
+[MALE] gives [FEMALE] the keys. [MALE] wants to get the keys.
+[MALE] gives [FEMALE] the right. [MALE] wants to be thanked.
+[MALE] gives the none to the twins. [MALE] wants to make a new friend.
+[MALE] willed the none to come. [MALE] wants to make sure that the none is ok.
+[MALE] visits the local library. [MALE] wants to read
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] is good enough. [MALE] wants to have a good time.
+[MALE] loves [FEMALE] so much. [FEMALE] will happy.
+[MALE] gives [FEMALE] a raise. [MALE] wants to make them feel better.
+[MALE] is a great cook. [MALE] will eager.
+[MALE] gets none around the corner. [MALE] wants to get some food.
+[MALE] is an avid gamer. [MALE] wants to play an online game.
+[MALE] gets a new pair of shoes. [MALE] wants to go to the store.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a woman expresses her anger.
+a dog is capable of play.
+a person is capable of do a lot of chores.
+a person is capable of be in charge.
+a person is capable of hold the ball.
+a person is capable of walk.
+a person is capable of be angry.
+a person is capable of be afraid.
+a person is capable of get something.
+a person is capable of make a bed.
+a person is capable of be friendly.
+a person is capable of do things.
+a person is capable of get some food.
+a person is capable of be good.
+someone is capable of get out of a car accident.
+a person is capable of love.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] tries to make something of it. [MALE] wants to be in the mood..
+[MALE] tells [FEMALE] not to worry. [MALE] needs to be able to read something.
+[MALE] goes to bed. [MALE] needs to be at bedtime.
+[MALE] decides to leave. [MALE] wants to be safe.
+[MALE] asks [FEMALE] to come. [FEMALE] will grateful.
+[MALE] gets a new one. [MALE] wants to do it better.
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] thinks of the best thing to do.
+[MALE] wants to go home.
+[MALE] finishes the job.
+[MALE] keeps an eye on persony.
+[MALE] returns the dog.
+[MALE] gives persony's money.
+[MALE] makes a video.
+[MALE] gets personx's doctor's appointment.
+[MALE] makes a phone call.
+[MALE] is happy to see personx.
+[MALE] likes personx's hair.
+[MALE] is looking forward to the day.
+[MALE] finds none together.
+[MALE] loses the game.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] throws none at [FEMALE] enemy. [MALE] wants to have fun.
+[MALE] drops the none on [FEMALE] lips. [MALE] wants to avoid the other person.
+[MALE] is a [FEMALE] student. [MALE] will happy.
+[MALE] gives [FEMALE] the opportunity. [MALE] wants to learn.
+[MALE] gives [FEMALE] a chance. [MALE] is loving.
+[MALE] takes none to the store. [MALE] is friendly.
+[MALE] puts none in the oven. [MALE] is upset
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a bordello is a french word for 'beverly tree'
+a book is used for create a story
+a book is used for record information
+a ball is used for play a game
+a ball is used for measure a ball
+a bottle is used for drink
+a bowl is used for hold food in
+a piece of paper is used for write on
+a person desires a glass of wine
+a person desires a person
+a person desires a person
+a person desires a person
+a person desires a bowl
+a person desires a bowl
+a person desires a bowl
+a person desires a bowl
+a person desires a bowl
+a person desires a bowl
+a person desires a bowl
+a person desires a
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] wants to be friends with persony.
+[MALE] is the only person in the room.
+[MALE] feels good. [MALE] will happy to have gotten some good news.
+[MALE] makes none in the last few days. [MALE] needs to find the time.
+[MALE] has lunch with persony. [MALE] will happy.
+[MALE] is really good at. [MALE] needs to make a good impression.
+[MALE] is always close to persony. [MALE] wants bring things closer to persony.
+[MALE] is very much. [MALE] will happy.
+
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] takes none to the park. [MALE] is careful.
+[MALE] takes none to the doctor. [MALE] will well.
+[MALE] has a great time. [MALE] wants to have a good time.
+[MALE] puts on a show. [MALE] is fun.
+[MALE] makes a lot of money. [MALE] wants to make a good living.
+[MALE] sets none on fire. [MALE] is protective.
+[MALE] learns to play chess. [MALE] needs to have played something.
+[MALE] goes with persony. [MALE] wants to see
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] wants to go. [MALE] wants to get away from persony.
+[MALE] is taking none to a family. [MALE] wants to be sad.
+[MALE] is making a lot of money. [MALE] is talented.
+[MALE] asks persony's name. [MALE] wants to be helpful.
+[MALE] puts none behind persony's back. [MALE] needs to be in the car.
+[MALE] calls personx's parents. [MALE] is helpful.
+[MALE] is working hard. [MALE] wants to be successful.
+[MALE] gives [FEM
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] is the only person in the world that is very intelligent.
+[MALE] wants to study. [MALE] wants to get something.
+[MALE] is the first person to ever be born. [MALE] needs to have parents.
+[MALE] shows [FEMALE] the way. [MALE] is determined.
+[MALE] receives none from others. [MALE] is happy.
+[MALE] gets a lot of money. [MALE] is generous.
+[MALE] gives none to a friend. [MALE] will good about himself.
+[MALE] gives none to a friend. [FEMALE]
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+the first time you saw the moon, you would be excited.
+the first time you saw a dog, you would be happy.
+the first time you saw a person, you would be sad.
+the first time you saw a rock, you would be hurt.
+the first time you found out the truth about the existence of the sun, you would laugh..
+the first time you heard the news in the evening, you would be sad.
+the first time you saw a person, you would be curious.
+the first time you saw the news in the evening, you would be tired.
+the first time you walked on the grass, you would be happy.
+the first time you saw a cat, you would
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+sputnik.org is a tool for people to find information.
+gazelle.com is a media outlet.
+machinoos.com is a media outlet.
+gazelle.com is a media outlet.
+gazelle.com is used for gazelle.
+machinoos.com is used for gazelle.
+machinoos.com is used for gazelle.
+gazelle.com is used for gazelle.
+gazelle.com is used for gazelle.
+gazelle.com is used for gazelle.
+gazelle.com is used for gazelle.
+gazelle.com is used
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] calls the cops. [MALE] is prepared.
+[MALE] wants to go home. [MALE] wants to go home.
+[MALE] is driving home from work. [MALE] needs to park and park.
+[MALE] buys none for the kids. [MALE] wants to go to school.
+[MALE] plays the none together. [MALE] needs to play a game.
+[MALE] tells [FEMALE] has a bad day. [FEMALE] will relieved.
+[MALE] takes a break. [MALE] needs to go out to eat.
+[MALE] gets back. [
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a ball is used for holding a ball.
+a person is capable of be a nurse.
+a person is capable of ride a horse.
+he receives action visit on the earth.
+a person is capable of sit on the throne.
+a person is responsible for their environment.
+a person is capable of eat something.
+a person has property good.
+a person is capable of get a job.
+a man receives action visit again.
+a person is capable of believe the story.
+a person is capable of go on a vacation.
+a person is capable of be on the good side of things.
+a person receives action visit every year.
+a person is capable of get in line.
+a person
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+[MALE] wants to play a game. [MALE] is playful.
+[MALE] is not capable. [MALE] needs has a very good understanding.
+[MALE] buys none after school. [MALE] wants to make friends.
+[MALE] has a very good laugh. [MALE] needs to is funny.
+[MALE] gets a bag of chips. [MALE] will rich.
+[MALE] gets personx's wallet. [MALE] needs to get personx's wallet.
+[MALE] gets none to attend. [MALE] needs to be a student.
+[MALE] gives [FEMALE] a
+---------------
+Complete the following text within five sentences:Harry and his basketball team was losing the game.
+a large portion of the population shares a common ancestor.
+a well-connected person has a high wealth.
+a house is a lot nicer.
+a person does not desire a divorce.
+a person does not desire a heart attack.
+a person desires a place to live.
+a person does not desire to live in a mansion.
+a person desires a happy ending.
+a person is at a party.
+a person desires a home.
+a person desires a happy ending.
+a person desires a change.
+a person desires a party.
+a person desires a happy ending.
+a person desires a happy ending.
+a person desires a happy ending.
+a person desires a happy ending.
+a
+---------------

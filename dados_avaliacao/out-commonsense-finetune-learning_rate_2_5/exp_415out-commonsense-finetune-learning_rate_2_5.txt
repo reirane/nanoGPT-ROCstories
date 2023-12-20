@@ -1,0 +1,275 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Anna was spending all her money on drugs.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Anna was spending all her money on drugs. She wanted to go to Disneyland. But when they finally found out about it, they refused. She wanted to go home and see her family again.But they told her they had an appointment.She was pretty. They watched TV.But she wanted to be a nurse.But they were waiting for the bus.But they were late.Anna turned around to see who it was. And it was her boss. But she knew he was a lot better with her.But she wanted to tell the person she went to the hospital to say something. But they asked if they could call the doctor.But they refused. They went to the hospital.But they were late.But they would not come back.Anna looked at the clock. It was
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She's very lucky.
+[MALE] is very confused.
+[FEMALE] is a friend.
+[MALE] asks the person in question.
+[MALE] asks the person in question.
+[MALE] buys the person in question.
+[MALE] willed.
+[MALE] has some knowledge.
+[MALE] takes the person in question.
+[MALE] hears a person.
+[MALE] is kind.
+[MALE] wants to be in the park.
+[MALE] is responsible.
+[MALE] wants to be the next one.
+[MALE] is attentive.
+[MALE] becomes a parent
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.Anna would be going to the dance.Anna wants to go to the gym.It's late today.Anna gets lost.Anna gets attacked by a dog.Anna gives up.Anna needs to have a dog.Anna wants to get a job.Anna wants to get a job.Anna wants to be a princess.Anna wants to be a hero.Anna wants to be married.Anna wants to have some money.Anna wants to make a money.Anna wants to have a job.Anna wants to have fun.Anna has a baby.Anna wants to be a grandmother.Anna wants to have fun.Anna is a very nice person.Anna wants to have a baby.Anna will love her baby.Anna knows what needs to be done.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. The next day, they found that they were going to be treated for cancer. How did they do it? They invited the person they were going to be with to the party they wanted to attend. Everyone is very excited. Now, how did Anna do that? She went to the hospital. Everyone is very happy. They are safe. They had another drink. Anna told the person they was going to be with her. The person responded, "Oh my gosh, they are so nice. I am so glad to have met them. I wish I could have asked them to stop, but I wouldn't have been able to." Anna was very protective. They would never hurt anyone. She would say to the person she was going with,
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+Anna had never seen such a beautiful blonde go on a date.
+Anna tried to escape the house.
+Anna was sad.
+Anna was very good.
+Anna was happy.
+Anna was very generous.
+Anna was pretty.
+Anna had a good day.
+Anna was pretty.
+Anna was happy.
+Anna went to the beach.
+Anna was in the hospital.
+Anna called her friend.
+Anna took a shower.
+Anna went over the phone.
+Anna was lonely.
+Anna had a good time.
+Anna went from the house.
+Anna loved a good fight.
+Anna was crazy.
+Anna was happy.
+Anna was really happy.
+Anna had a good day.
+Anna
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[MALE] asks the question:what does it say about your parents?
+[MALE] is self-centered.
+[MALE] has a bad day.
+[MALE] gives the question:what is your favorite meal?
+[MALE] is motivated.
+[MALE] walks on eggshells.
+[MALE] is a professional.
+[MALE] is happy.
+[MALE] is capable.
+[MALE] needs to fix a computer.
+[MALE] takes a shower.
+[MALE] does not want to be seen.
+[MALE] becomes [MALE]'s best friend.
+[MALE] is proud.
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+You are not capable of make it to the end of the world.
+The goal is to make it to the end of the world.<|endoftext|>The world's largest cryptocurrency exchanges has announced that they will no longer be accepting withdrawals.
+
+In a press release released on Wednesday, exchange Kraken said they will no longer accept withdrawals in the future.
+
+Kraken is a US-based exchange which offers a variety of services, from exchange-traded funds, to online trading platforms.
+
+"Kraken is a global leader in the world of cryptocurrency and blockchain. We plan to continue to add to our platforms in the future," said CEO Aleksandar Kornenko.
+
+Kraken has been in the
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.There was no way to get answers to your question, but it would make her happy.It's not a good idea to lie, so it is not ok to deny yourself a drink.
+
+[MALE] needs to act like a dad. [MALE] is like a dad. [MALE] is very happy. [MALE] wants to thank him for his help. [MALE] wants to thank him.
+
+[MALE] needs to give [FEMALE] something. [MALE] needs to buy something. [MALE] needs to open the refrigerator. [MALE] needs to find something.
+
+[MALE] needs to stay home. [MALE] is tired
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+[F4M] puts you in love with a girl. [F4M] will they get married.
+[MALE] goes on a date with someone like you. [MALE] is adventurous.
+[MALE] gives [FEMALE] an exam. [MALE] will satisfied.
+[MALE] calls you. [MALE] will happy.
+[MALE] keeps you company. [MALE] is energetic.
+[MALE] plays with your friends. [MALE] is supportive.
+[MALE] is the best. [MALE] is smart.
+[MALE] gives [FEMALE] a kiss. [FEMALE] needs
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.She always wanted to go back to school.She was tired of doing work.She wanted to go to the gym.She was drunk.She wanted to be with someone.She wanted to be with someone.She wanted to go out with friends.She liked to be in a group.She was happy.She liked to be in the mood to relax.She was busy.She wanted to be productive.She wanted to be in a mood to relax.She was relaxed.She wanted to be in a place to go.She was tired.She wanted to eat something.She was happy.She wanted to go home.She wanted to be in the right place.She was happy.She wanted to be in the right place.She was
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+you will be able to read it:this is a poem
+you will be able to open the door:you will be able to open the door
+you will be able to see the sunset:this is a beautiful sunset
+you will be able to buy something:you will be able to buy something
+you will be able to smell the roses:this is your smell
+you will be able to eat something:this is your meal
+this is a friend:you will be able to talk to her
+this is a dream:you will have a dream
+this is a dreamy fantasy:you will remember a dream
+you will be able to do something:this is a trick
+this is a dreamy dream:you will
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. [SEND HIM A DOG]
+[FEMALE] asks the other person for her phone number. [FEMALE] needs to call the person. [FEMALE] will get a message.
+[FEMALE] takes the person's phone number. [FEMALE] will get a phone number. [FEMALE] will has a good time.
+[FEMALE] places the person's phone. [FEMALE] will has a good time.
+[FEMALE] gives the person their number. [FEMALE] will receives a phone call.
+[FEMALE] works harder. [FEMALE] will gets a job.
+[FEMALE]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.She was going to meet the man soon.This was after her parents met their son.Anna was going to meet him tomorrow.This is the day the man will be accepted.This is the day the man is arrested.This is the day the man is charged.This is the day the man will get a phone number.This is the day the man will find the money.This is the day the man will decide.This is the day the man will pay a fine.This is the day the man will walk away.This is the day the man will have a haircut.This is the day the man will be in a car accident.This is the day the man will leave the room.This is the day the man is in
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She wanted to make money.
+[MALE] is not invited. [MALE] wants to get invited.
+[MALE] feels guilty. [MALE] wants to apologize to this person.
+[MALE] wants to have dinner. [MALE] wants to get a nice meal.
+[MALE] makes a joke. [MALE] wants to make a joke.
+[MALE] is cute. [MALE] is cute.
+[MALE] watches every movie. [MALE] wants to relax.
+[MALE] wants to go to the theater. [MALE] wants to watch movies.
+[MALE] becomes a millionaire. [MALE] wants
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.
+You have to pay the fee.
+You must be in the bank.
+You are in the bus.
+You are getting out of bed.
+You are home.
+You will be fine.
+You will not be injured.
+You will not have any problems.
+You will not be sick.
+You are not wearing shoes.
+You will not lose anything.
+You will not be mad.
+You will not have a heart attack.
+You will not be angry.
+You cannot buy a new car.
+You will not be hungry.
+You will not be tired.
+You will not be in pain.
+You will not be poor.
+You will not be tired.
+You will not be
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.She was really sick.The only person she liked was her boyfriend.
+Anna had a problem.She didn't like her boyfriend.
+Anna was not happy.She was angry.
+Anna was lonely.She was sad.
+Anna took the step.She got into a fight.
+Anna is not angry.She was not angry.
+Anna was exhausted.She was tired.
+Anna was not in the mood.She was sad.
+Anna was happy.She enjoyed herself.
+Anna was bored.She was bored.
+Anna wanted to go to the pub.She wanted to go to the pub.
+Anna was overjoyed.She was overwhelmed.
+Anna was getting ready for bed.She looked around.
+Anna
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. But then she found out she was pregnant...and found out she was pregnant. So she went to check it out. She found out that it's filled with water. It's a good thing.So she got up to take a shower. She went to the restroom. They were looking for anything. She went to the bathroom. They found something. They wanted to see if it was there.Anna gave a thumbs up. And then the doctor came over to see what happened. And they said, "That was a big mistake. They left her in the hospital for a few days. She's not sure what happened."So Anna was in the hospital. She did a lot of research. She wanted to make some decisions. And she spent
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. It was time to go on a date.
+The following text within five sentences:Anna was in an accident. She was hurt.
+The following text within five sentences:Anna was a prisoner.
+The following text within five sentences:Anna is a ghost.
+The following text within five sentences:Anna is a friend.
+The following text within five sentences:Anna is a dog.
+The following text within five sentences:Anna is a friend.
+The following text within five sentences:Anna is a bad person.
+The following text within five sentences:Anna is a dog.
+The following text within five sentences:Anna is a witch.
+The following text within five sentences:Anna is a witch.
+The following text within
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She was going to find a motel. She was going to get a new pair of shoes.
+[MALE] is very popular, but you have a hard time finding it.
+[MALE] is very lazy.
+[MALE] wants to impress the other person. [MALE] will will become very popular.
+[MALE] becomes more famous. [MALE] will has become more famous.
+[MALE] will has to be in the audience. [MALE] will will will will is popular.
+[MALE] is very satisfied. [MALE] will happy.
+[MALE] is satisfied. [MALE] will satisfied.
+[MALE] is very good
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She also had a lot of money on her.
+[FEMALE] goes to the grocery store. [FEMALE] is happy.
+[FEMALE] orders dinner. [FEMALE] is satisfied.
+[FEMALE] has a great time. [FEMALE] is relaxed.
+[FEMALE] is a genius. [FEMALE] wants to be the best.
+[FEMALE] comes back. [FEMALE] needs to call a friend.
+[FEMALE] gives [FEMALE] money. [FEMALE] is generous.
+[FEMALE] wants to get in touch. [FEMALE] is helpful.
+
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She was worried about her appearance. She was not satisfied yet. Everything is in order.
+Anna tried looking at the clock but found out it was already past. She wanted to go to the park to watch the show.
+Anna's eyes were open. She was in the middle of the night.
+Anna was sitting in front of the computer.
+Anna stopped reading books.
+Anna's head was shaking.
+Anna opened the door to the apartment.
+Anna's head hurt.
+Anna took a bath.
+Anna walked to the restroom.
+Anna picked up some food.
+Anna found the book.
+Anna looked around.
+Anna saw the tv.
+Anna sat down.
+Anna got up from the bathroom.
+
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She was worried about the person that was buying it.The person in question is going to you. you cannot stop them.The person in question is going to you.you must be able to see it.the person in question is going to you.you must be able to see it.the person in question is going to you.you must be able to see it.the person in question is going to you.you must be able to see it.the person in question is going to you.you must be able to see it.the person in question is going to you.you must be able to see it.the person in question is going to you.you must be able to see it.the person in question is going
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She doesn't like a drug. She needs help. She wants to get help.
+[MALE] is attracted to [FEMALE]
+[MALE] gives [FEMALE] a kiss. [MALE] will happy. [MALE] wants to go home. [MALE] will excited.
+[MALE] needs to make [FEMALE] money. [MALE] will happy.
+[MALE] wants to see [FEMALE] on the road. [MALE] is scared.
+[MALE] wants to leave. [MALE] is curious.
+[MALE] is an expert. [MALE] is a professional. [MALE]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She gave up her job. She had a boyfriend.
+[MALE] is angry. [MALE] is not. [MALE] needs to get something.
+[MALE] is the one who needs to be present. [MALE] needs to hold the conversation.
+[MALE] is willing. [MALE] [MALE] wants to act like a good person.
+[MALE] gives [MALE] a pass. [MALE] wants to look to the store.
+[MALE] is in charge. [MALE] wants to help.
+[MALE] sends [MALE] a message. [MALE] wants a message.
+[MALE]
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. But she had a plan. She would have to go to the doctor. But she would still have to pay for it. Anna would be anxious. She would hate to be called selfish. But the doctor would agree. You would love to get a job. But the doctor would be suspicious. She would not understand the situation. You would be in a state of shock. But you would be able to make the decision. But it would be a long time. But you would be in a tough situation. But you would be able to talk to the doctor. But you would be in a lot of pain. But you would be able to laugh. But you would be able to feel the pain. But you would feel cold. But your health
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She wanted to go to the local store. She would call the store, get the product. She would then go back to the store to get the product. She would finish the order.
+The following text has been deleted:The last person to buy this item is the person taking the picture.
+[The following text has been deleted: [The following text has been deleted]] [The following text has been deleted]
+[The following text has been deleted: [The following text has been deleted]] [The following text has been deleted]
+[The following text has been deleted: [The following text has been deleted]] [The following text has been deleted]
+[The following text has been deleted: [The following
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.The girl was the only one to use a condom.It fell on the ground.Anna gave the girl a hug.Anna felt the girl was moving.She gave the girl a hug.She is grateful.The girl is happy.A person is happy.The person is in a good mood.The person is still.The person is in a good mood.The person is happy.The person is relaxed.The person is happy.The person is happy.The person is in the good mood.The person is in the good mood.The person is in the good mood.The person is in the good mood.The person is in the good mood.The person is in the good mood.The person is in the good mood.The
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs.Sitting on the couch, she stopped at the counter.The doorbell rings.a woman is at home.the doorbell rings.a woman is at work.the doorbell rings.a woman is at home.the doorbell rings.a woman is at work.the doorbell rings.a man is at home.the doorbell rings.a man is at work.the doorbell rings.a man is at home.the doorbell rings.a man is at work.the doorbell rings.a man is at work.the doorbell rings.a man is at home.the doorbell rings.a man is at work.the doorbell rings.a man is at home.the doorbell rings.a
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. That's not fun. [FEMALE] will not like you. is angry. [FEMALE] will sad. [FEMALE] needs to be very carefree. [FEMALE] is mean. [FEMALE] needs to be helpful. [FEMALE] will has a very good job. [FEMALE] will is open to new ideas. [FEMALE] will is free. [FEMALE] needs to be caring. [FEMALE] wants to be comfortable. [FEMALE] is beautiful. [FEMALE] needs to be happy.] [FEMALE] looks good. [FEMALE] is happy. [FEMALE] wants to
+---------------
+Complete the following text within five sentences:Anna was spending all her money on drugs. She said he was a bad person.
+[I]m still talking to a friend right now. [I]m like a kid.
+[I]m in a great rage. [I]m angry.
+[I]m very proud. [I]m grateful.
+[I]m very nice. [I]m very happy about the situation.
+[I]m very disappointed. [I]m angry.
+[I]m very excited. [I]m happy.
+[I]m very funny. [I]m sad.
+[I]m really pleased. [I]m happy.
+[I]m so happy. [I]m happy.
+[I
+---------------

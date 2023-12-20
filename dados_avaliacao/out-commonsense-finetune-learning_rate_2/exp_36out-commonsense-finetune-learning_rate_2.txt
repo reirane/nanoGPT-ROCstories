@@ -1,0 +1,224 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. She wanted to see the apple. But the apple fell so far away that it fell apart. Abby's father wanted to see the apple. But the apple fell apart. Abby's mother wanted to see the apple. But the apple fell apart. Abby had the pleasure of going out with the family. But the apple fell apart. Abby's brother wanted to see the apple. But the apple fell apart. On the way home, the father gave the tree a kiss. But the tree fell apart. On the way home, the mother gave the tree a kiss. But the tree fell apart. Abby's brother wanted to see the apple. But the apple fell apart. Abby's sister wanted to see the apple. But
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. She would be at the market. There were many vendors there. She would go to the shops.
+[PAN] [FEMALE] is holding a dog. [FEMALE] would be very mad.
+[PAN] [FEMALE] loves the dog. [FEMALE] is very jealous of this.
+[PAN] [FEMALE] is driving the car. [FEMALE] will be very excited.
+[PAN] [FEMALE] knows the laws. [FEMALE] will be very proud.
+[PAN] [FEMALE] is the cook. [FEMALE] will be very happy.
+[PAN] [F
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.Sooo, you took all the time.You had more fun than you could have imagined.You were excited about your job.You were going to take full advantage of the opportunity.You were enjoying yourself.You were getting your hair done.You were getting ready.You would have had to do a lot of work to get what you were looking for.You would have gotten a lot of work.You would have been able to make a living.You would have gotten a job.You would have been able to find a job.You would have been able to shop.You would have been able to get some money.You would be able to put in a few hours.You would be able to get a good look at the scenery.
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.You were lucky enough to be at the apple orchard to see a few new fruits.The apple was right in front of you.You were enjoying the fruits.The apple was on the ground.The apple was close to the tree.You were hungry.The apple was tasty.There was a light at the end of the tree.You had another opportunity to enjoy the fruits.You had a good time.The apple was good for you.The apple was fresh.You wanted to eat it.The apple was tasty.The apple was good for you.The apple was right.You had a good time.The apple was warm.The apple was cold.The apple was dirty.The apple was bad.The apple was really dirty.
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+Abby was sitting on a chair on a patio.
+Abby was playing with the dog.
+Kate was walking.
+Kate is in a crowd.
+Kate is a party animal.
+Kate is a new celebrity.
+Kate is a nurse.
+Kate is a person.
+Kate is a member.
+Kate is taking a shower.
+Kate is a friend.
+Kate is a teacher.
+Kate is a cook.
+Kate is a scientist.
+Kate is a nurse.
+Kate is a friend.
+Kate is a nurse.
+Kate is a teacher.
+Kate is a woman.
+Kate is a person.
+Kate is a teacher.
+Kate is a teacher.
+Kate is a person.
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.When you see the apple you'll be able to see the tree. You should get a good haircut.When you try to open a door you'll get rejected.When you see someone else you'll be excited.When you want to play basketball you'll be motivated.When you need something to eat you'll be entertained.When you want something to eat you'll be satisfied.When you don't want to do anything you'll be grateful.When you get tired you'll go to bed.When you want to go to the bathroom you'll be bored.When you find some food you'll be satisfied.When you want something to eat you'll be hungry.When you want something to drink you'll be satisfied.When you run into other people
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+the largest tree in the yard is a small one.
+one person has the advantage of being able to take the pain away from the others.
+one person has the benefit of having many friends.
+one person has the same social position as the other.
+every single person has the same feelings.
+an apple is a tree.
+every single person has the same hair color.
+one person has the same level of education.
+one person has the same time of year.
+one person has a high degree of strength.
+one person has no job.
+one person has the same type of hobbies.
+one person has the same family.
+one person has the same number of friends.
+one person has the same
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.There was an apple tree near your house.At the top of the tree, you will see a star. There will be lots of stars.You will be in a state of awe.You will die.You will be in a coma.You will be ill.You will be in a state of disgrace.You will be in a state of despair.You will be in a state of despair.You will be in a state of disgrace.You will be in a state of disgrace.You will be in a state of distress.You will be in a state of distress.You will be in a state of distress.You will be in a state of shock. You will be in a state of shock.You will be in a state
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. You've a perfect view of the world. Congratulations to your mom for the wonderful apple.You've got time to do homework. You've got the time. You're not a bad person.You're full of energy.You are not an idiot.You are a good person.You are good.You are grateful.You're the person you want to be.You are satisfied.You are the person you want to be.You will be happy.You will be happy.You are happy.You will be beautiful.You will be wonderful.You want to have a good time with your family.You want to go out with friend.You want to have a good meal.You want to go out with a few friends.You want
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.She always looked after the apple.I just want to go home.I want to be entertained.I want to spend time with my family.I want to go somewhere.I want to be happy.I want to be a good neighbor.I want to be a good leader.I want to be married.I want to have a good time.I want to be active.I want to go to the zoo.I want to be helpful.I want to get a job.I want to be with a friend.I want to feel great.I want to feel good.I want to go to the park.I want to think.I want to be loved.I want to be happy.I want to go to the park
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+you were very good at this.
+this was a difficult task.
+you liked the work.
+there was a lot of food in the bakery.
+it was a good time.
+you were very happy.
+you were going to school this week.
+you liked the food.
+this was not your first time.
+it was a good time.
+you were very good at it.
+it was a good experience.
+you thought about it.
+you were very good at it.
+it was a good time.
+you enjoyed the food.
+you felt your legs.
+you were very satisfied.
+you were very productive.
+this was a hard one.
+you had to learn the language.
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.You've had a great time.Abby has a great time.Abby wants to eat her lunch at the restaurant.You's at the restaurant.You wants to thank your mom for your visit.You wants to walk home.Abby is very hungry.You's at the home.A good friend is in the house.A good friend is present.A good friend is in the garden.A good friend is in the closet.A good friend is in the garage.You has a great time.You wants to go to the store.You's in the store.You wants to buy a new pair.You's in the store.You wants to run away.You's in the store.A good friend is in the garage
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+the apple has a hard shell with a fine texture.
+the apple has a soft surface.
+the apple has a soft spot.
+the apple has a bright color.
+the apple has a shiny appearance.
+the apple has a bright red head.
+the apple has a white beard.
+the apple has a white hair.
+the apple has a bad habit.
+the apple is hungry.
+the apple has a good smell.
+the apple is a good friend.
+the apple meets the eye.
+the apple meets the eye.
+the apple meets the eye.
+the apple is very clever.
+the apple meets the eye.
+the apple is very hardworking.
+the apple is very helpful.
+
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. She was happy there too.
+The apple orchard is not a garden.
+The apple orchard is not a building.
+If you see a tree growing inside a tree, stop the tree.
+If you find a person is holding a gun, stop that person.
+If you get a call from someone online, have a call with the person.
+The person is not in the house.
+If you find an animal is not the same as a dog is not a dog is not a dog is not a dog is not a dog is not a dog is not a dog is not a dog is not a dog is not a dog is not a dog is not a dog is not a dog is not a dog is not a
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.
+You have the opportunity of eating a good meal.
+You have the opportunity of getting a haircut.
+You have the opportunity of going to the mall.
+You have the opportunity of going to the mall.
+You have the opportunity of making a good impression.
+You have the opportunity of a good meal.
+You have the opportunity of drinking a beer.
+You have the opportunity of getting a new job.
+You have the opportunity of getting a new home.
+You have the opportunity of getting a new job.
+You have the opportunity of going to the store.
+You have the opportunity of going to a movie.
+You have the opportunity of getting to know the director.
+You have the opportunity of becoming a celebrity
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.She was looking for something to eat.She had some tea.You had to pick it up.You were having another cup of coffee.You were not going to the store.You wanted to buy something.She was looking around.You missed the opportunity.You got a nice job.You are a good person.She was going to be seeing a movie.You wanted to get dressed.You will be in a great position.You will be able to go home at your own pace.You will be in the hospital.You are tired.You want to be home.You want to get your keys.You have a great time.You are satisfied.You want to be home at the right time.You want to meet someone.You
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. He then took the apples and gave them to a friend. He also took the apple and gave it to a stranger. He then took the apple and gave it to a stranger.He was able to get the following information from the computer:What a fine appleapple is. He ate the apple. He then gave the apple to a friend. He also took the apple and gave it to a stranger.He was able to get the following information from the computer:What a fine appleapple is.He ate the apple. He then gave the apple to a friend. He then took the apple and gave it to a stranger.He was able to get the following information from the computer:What a fine appleapple is.He ate the apple.
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.The apple was beautiful and the fruit was ripe.
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.The employee is a great cook.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is a good person.The employee is
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. She had the choice of open the apple carefully.
+She looked at the apple carefully.
+She looked at the sign.
+She looked at the sign.
+She looked at the sign.
+She looked at the sign.
+She looked at the sign.
+She looked at the sign.
+She looked at the sign.
+She looked at the sign.
+She looked at the sign.
+She looked at the sign.
+She looked at the sign.
+She looked at the sign.
+She looked at the sign.
+She looked at the sign.
+The other person sees the same.
+The person looks at the other person.
+The person sees the same.
+The person sees the same.
+The other
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. She was so happy. You are on your way to the store.You were a model. You are looking for a job. Your mom has been there for you..you will miss her. Your mom is working at a gas station. You will need to go to the gas station.Adrienne is also on the road. You are tired.You have a call. You have to go to the phone.The girl is in your life. You are in love.You will be happy.You can't make up your mind.You will be sad.You have to get your medications.It will give you a cold.You will get a headache.You will be in a panic.You will feel sorry for yourself.You will
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. She was a good-natured and popular person.The apple had a bright yellow color.She would be happy to help you out.You were on the way home.An apple is the sum of the best components. You are the person who chose to spend money on a new computer.The person who gave you the phone number is the person you have met the day you left the house.You will be in the area when you get home.You will be excited to feel happy.You will be able to run.You will be able to take care of your family and your dog.You will be able to read books and make friends.You will be able to drive.You will be able to meet people.You will be able
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.The apple is too small for a human.She does not need to look.The apple is just being a part of the human family.The human family has the gift of food.The apple is the part of the human family.The human family is the place where the human being is.The apple is the part of the human family.The human family needs to make the decision.The human family needs to get the help.The apple is the part of the human family.The human family needs to look for the apple.The apple is an apple.The apple is very popular.The human family needs to make the decision.The apple is a really beautiful fruit.The human family needs to do some research.The human family is happy
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. She ate the apple. Abby put the apple in the fridge.
+The following text within five sentences:Abby had to go to the grocery store. She had to walk to the grocery store. Abby got the apple.
+The following text within five sentences:Abby has a hard time finding a job. Abby is not satisfied with what she has.
+The following text within five sentences:Abby is proud. Abby needs to be satisfied.
+The following text within five sentences:When the dog is at home. Abby will need to get him home.
+The following text within five sentences:When the person in the house is leaving. Abby will need to leave the person in the house.
+The following text within five sentences:
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. But she had a very bad day. Abby told her about the cat. But she has a bad day. Abby has the pleasure of watching the cat. But she has a bad day. Abby wants to talk more. But she has a bad day. Abby wants to show her friends. But she has a bad day. Abby wants to take the bus. But she has a bad day. Abby needs to be in an old car. But she has a good day. Abby wants to make sure everyone is doing well. But she has a bad day. Abby has the opportunity. But she has a bad day. Abby will be mad. But she has a good day. Abby will get a
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. She was tired of trying to go to bed and would rather enjoy the day.You had a good time.You will continue to be an avid hunter.You will be in good health.You will be able to travel all day.There is a reason for the letter.It is the right thing to do.
+
+Your child is bored.You will be in good health.You will love the family.You will be able to fly to the airport.You will feel better about yourself.You will be able to talk to your kids.
+
+Your child is not interested in you.You will be interested in the work.You will enjoy the adventure.You will have fun.
+
+Your child is more interested in you.You
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.The girl was the parent of the little boy.His aunt fell in love with a man.He lost his virginity.He has to get in touch with the person.He is not satisfied with his wife's attitude.He does not want to go to the park.He wants to go shopping.The girl is the person in charge of the garden.He is the person in charge of the family.He is the person in charge of the kids.He is the person that brings the good news to the world.He wants to go back to school.He is the person that keeps the peace.He is the person that takes care of the sick.He takes care of the sick children.He is not satisfied with his job.He wants
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.Sugar is a natural part of the food we eat.The person who eats sugar will feel bad for eating it.The person who eats sugar will feel good.The person who eats sugar will feel guilty.The person who eats sugar will feel sad.The person who eats sugar will have a sad day.The person who eats sugar will regret their decision.The person who eats sugar will feel embarrassed.The person who eats sugar will like them.The person who eats sugar will have a good night.The person who eats sugar will have a good day.The person who eats sugar will feel happy.The person who eats sugar will feel good.The person who eats sugar will enjoy a lot of food.The person who eats sugar will enjoy their
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard.The apple-collector wants to take a look at the apple.The house owner wants to see the apple.The child will be bored.The person will be weak.The person will be hardworking.The person will be successful.The person will be beautiful.The person will be happy.The person will be happy.The person will be happy.The person is eager.The person is satisfied.The person is determined.The person is satisfied.The person is satisfied.The person is satisfied.The person is satisfied.The person is satisfied.The person is satisfied.The person is satisfied.The person is satisfied.The person is satisfied.The person is satisfied.The person is satisfied.The person is satisfied.The person is
+---------------
+Complete the following text within five sentences:Abby had the pleasure of passing by a huge apple orchard. She said he was a good boy.
+The audience wanted to know the truth.
+The audience wanted it to be heard.
+The audience wanted to be entertained.
+Abby was busy.
+They liked the story.
+The audience wanted to enjoy the story.
+The audience wanted to enjoy it.
+The audience wanted to enjoy the story.
+The audience wanted to enjoy the story.
+The audience wanted to enjoy the story.
+The audience wanted to enjoy the story.
+The audience wanted to be entertained.
+The audience wants to be entertained.
+The audience wants to be entertained.
+The audience wanted to be entertained.
+The audience wanted to be entertained.
+The audience wants to be entertained.
+The audience
+---------------

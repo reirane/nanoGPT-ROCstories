@@ -1,0 +1,234 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Shayna dreaded going to gym class.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+shayna looked up at the sky.
+shayna was in a hurry.
+shayna wanted to kiss.
+shayna was enjoying life.
+shayna drove to the dentist.
+shayna has a hard time understanding.
+shayna will be fine.
+shayna sees a film.
+shayna is tired.
+shayna always wanted to go to the movies.
+shayna has a bad day.
+shayna is in the process of getting married.
+shayna is always in the process.
+shayna is hungry.
+shayna is a mother.
+shayna is a good person.
+shayna is taking
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.She wants to avoid the school.But she has a bad day.She is not the type to take a break.Read a short story.Buy a house.Then go on the web.<|endoftext|>A man who lived in a tree has died after a fire broke out at his house.
+
+A man who lived in a tree has died after a fire broke out at his house.
+
+A man who lived in a tree has died after a fire broke out at his house.
+
+A man who lived in a tree has died after a fire broke out at his house.<|endoftext|>New York's largest bank is under fire for accepting more than $1.5 billion in fees from customers.
+
+Here's how it went down:
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.Succeeded with all activities.succeeded with career.succeeded with job.succeeded with a job.succeeded with a job.succeeded with friends.succeeded with family.succeeded with family.succeeded with friends.succeeded with family.succeeded with family.succeeded with family.succeeded with family.succeeded with family.succeeded with family.succeeded with family.succeeded with family.succeeded with family.succeeded with family.succeeded with family.succeeded with family.
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.You're boring.You're overworked.You're lonely.You might have to go to a doctor.You might be a celebrity.You're in pain.You might be in a traffic accident.You have a party on the weekend.You're sick.You have a job interview.You have a meeting with your boyfriend.You go to the mall.You might be in a bar.You've got a great time.You're lucky.You're a good friend.You're a good person.You have a good night.You're a good person.You want to be able to go home with your girlfriend.You're a good person.You start to feel better.You want to get in shape.You're not a
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+[MALE] needs to have informed persony of the outcome. [MALE] will personx is careless.
+[MALE] puts two [FEMALE] together. [MALE] is knowledgeable.
+[MALE] eats food for breakfast. [MALE] wants to eat something.
+[MALE] gets personx's name from. [MALE] wants to be grateful.
+[MALE] is walking towards persony. [MALE] is tired.
+[MALE] buys a new car. [MALE] needs to buy a new car.
+[MALE] takes personx's girlfriend. [MALE] wants to impress an acquaintance.
+[MALE
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+[MALE] asks the teacher to read the book. [MALE] wants to go to the bookstore.
+[MALE] takes a vacation. [MALE] wants to relax.
+[MALE] takes the time. [MALE] wants to have a good time with friends.
+[MALE] gives [FEMALE] the gift. [MALE] will sad.
+[MALE] takes none for an exam. [FEMALE] will praised.
+[MALE] takes a break. [MALE] is exhausted.
+[MALE] takes a break. [MALE] goes to bed.
+[MALE] makes a new one. [MALE]
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+[MALE] decides to go to the mall. [MALE] wants to see what it is.
+[MALE] gives [FEMALE] a present. [MALE] wants to be entertained by the person.
+[MALE] gives [FEMALE] the benefit of the doubt. [MALE] will grateful.
+[MALE] gives [FEMALE] a gift. [MALE] is grateful.
+[MALE] gives [FEMALE] the opportunity. [MALE] wants to make it better.
+[MALE] gets none back. [MALE] wants to make a new one.
+[MALE] makes [FEMALE] understand
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. x was looking for something. y was tired. y is angry. y is interested. x is satisfied. y is satisfied. x is concerned. y is caring. x is connected. y is motivated. x is involved. x is good. x is caring. y is informed. x is informed. y is informed. x is informed. x is informed. x is informed. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated. x is motivated.
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+[MALE] is caring. [MALE] needs to be nice to persony.
+[MALE] takes a picture. [MALE] needs to like the picture.
+[MALE] takes persony's money. [MALE] needs to take it from persony.
+[MALE] teaches personx's son. [MALE] wants to help the son.
+[MALE] will personx's brother. [MALE] wants to be nice to one person.
+[MALE] gets persony's phone. [MALE] wants to call the personx's friend.
+[MALE] gives [FEMALE] a chance. [MALE] needs to
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] is tall. [MALE] needs to be at home. [MALE] needs be calm. [MALE] wants to be clean. [MALE] needs to be aggressive. [MALE] will happy] [MALE] is clean. [MALE] will upset. [MALE] wants to work harder. [MALE] becomes happy. [MALE] wants to lose weight. [MALE] is confident. [MALE] gets more money. [MALE] is good. ] [MALE] has good grades. [MALE] is strong. ] [MALE] needs to be at a restaurant. [MALE] needs to be drinking water. [
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+you will do well after you have done a good job.
+go to the store with your friends.
+you will never fail.
+you will always be good.
+talk to someone.
+go to the mall.
+you will still be sick.
+make money.
+run your own business.
+go to the store.
+get a job.
+run a marathon.
+go to the mall.
+something.
+a person.
+an action.
+see something.
+go to the mall.
+a shower.
+a person.
+someone else's party.
+take another person's course.
+a person.
+a person.
+a person.
+a person.
+a person.
+a person
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] is stupid. [MALE] is determined. [MALE] is skilled. [MALE] is confident. [MALE] is responsible. [MALE] will satisfied. [MALE] wants money. [MALE] will good. [MALE] wants to be great. [MALE] will motivated. [MALE] wants to see a doctor. [MALE] has a lot of desires. [MALE] is capable. [MALE] wants to become a chef. [MALE] is passionate. [MALE] wants to work out. [MALE] will happy. [MALE] wants to eat.. [MALE] is good. [MALE
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+[MALE] wants to impress [FEMALE] with his skill.
+[MALE] gets [FEMALE] a job.
+[MALE] makes [FEMALE] promise.
+[MALE] wants to lose weight.
+[MALE] tells [FEMALE] to stop.
+[MALE] gets [FEMALE] to wear [FEMALE] tank hat.
+[MALE] becomes a god.
+[MALE] gets [FEMALE] face to face with the person.
+[MALE] is tired.
+[MALE] looks around.
+[MALE] is eating breakfast.
+[MALE] gets a ticket.
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] needs to be well-mannered. [MALE] is confident. [MALE] is good. [MALE] wants to be the best person. [MALE] is social. [MALE] wants to have a good time. [MALE] is committed. [MALE] needs to be helpful. [MALE] wants to find some food. [MALE] wants to be helpful. [MALE] wants to be strong. [MALE] wants to be happy. [MALE] will angry. [MALE] needs to stop. [MALE] wants to be happy. [MALE] wants to be nice. [MALE] needs to get a lot
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+You have to pay the fee to open the box.
+The dog's owner is a puppy.
+You have to use another person's language.
+You are a teacher.
+You will like a movie.
+You is not good at math.
+You is not the best person.
+You is giving a lecture.
+Do not speak in an empty house.
+You is satisfied with your life.
+You is in love.
+You is happy.
+Do not be afraid.
+You is always tired.
+You is in love.
+You is not in love.
+You is not in love.
+You is studying.
+Do not give money to people.
+Do not work.
+You is not good
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.She is very good at it.She will be happy.She is curious.She is ready.She will happy.She will happy.She is not happy.She is still.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.She is happy.They both agree.They both agree.They both agree.They both agree.They
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+[MALE] will angry. [MALE] wants to get better.
+[MALE] takes none to the grocery store. [MALE] will happy.
+[MALE] calls a cab. [MALE] needs to ask [FEMALE] to wait.
+[MALE] leaves the house. [MALE] is worried.
+[MALE] is too tired. [MALE] wants to go to bed.
+[MALE] starts work. [MALE] is motivated.
+[MALE] follows no advice. [MALE] wants to explain how he was wrong.
+[MALE] is the first person. [MALE] will proud.
+[
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.Say she never gets a doctorate.Say hi to her parents.Repeat the above.Your sister has asked you to come to her.Put the book in your pocket.Continue.My friend is working late.My friend is sick.Your friend needs a job.You need to decide what you want to do.You call your mom.You get a call from your mom.Your mom comes over and asks you for a ride home.She gives you a phone number.You use that phone.Your mom gives you a gift.Your mom loves you.She feels a connection.You go to the store.Your mom is waiting.Your mom is hungry.Your mom is tired.Your mom is going to bed.Your mom is cleaning
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+[MALE] takes none out of the fridge. [MALE] wants to get a fresh meat.
+[MALE] continues to play video games. [MALE] wants to be more creative.
+[MALE] loves none for the day. [MALE] is relaxed.
+[MALE] takes none to the hospital. [MALE] is happy.
+[MALE] leaves a note. [MALE] wants to write a note.
+[MALE] calls [FEMALE] a name. [MALE] will like personx's name.
+[MALE] is playing hockey with persony. [MALE] is playful.
+[MALE] is having
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+[MALE] becomes [FEMALE] [MALE]'s personal space. [MALE] wants to be a better person.
+[MALE] becomes a better person. [FEMALE] wants to thank [MALE] for helping.
+[MALE] makes [FEMALE] a new friend. [MALE] wants to be friends with [FEMALE]..
+[MALE] meets [FEMALE] persony's eye. [MALE] will good.
+[MALE] gives [FEMALE] opportunity. [MALE] is determined to prove their point.
+[MALE] teaches [FEMALE] to read. [MALE]
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] will happy. [MALE] needs to buy new clothes. [MALE] wants to have the best date. [MALE] will happy. [MALE] is confident. [MALE] will happy. [MALE] is motivated. [MALE] needs to be healthy. [MALE] wants to have a vacation. [MALE] wants to relax. [MALE] wants to become a better person. [MALE] [MALE] needs to make a good impression. [MALE] wants to have fun. [MALE] will sad. [MALE] wants to lose weight. [MALE] will is aggressive. [MALE] will healthy. [
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+[MALE] takes a walk. [MALE] wants to get fit.
+[MALE] takes a bath. [MALE] wants to be warm.
+[MALE] has a haircut. [MALE] needs to know what the problem is.
+[MALE] puts on a show. [MALE] wants to go to the show.
+[MALE] has a daughter. [MALE] wants to be excited.
+[MALE] finds a house. [MALE] will happy.
+[MALE] gives [FEMALE] a blowjob. [MALE] wants to have a good time.
+[MALE] sees a dentist. [MALE
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.Mayi was too impatient.Metta became scared.Salty sauce has no use for person with deep cut.Greed is best to be healthy.Make the following change:Hire a cook.Metta wears glasses.Metta loses consciousness.Metta is tired.Metta is determined.Metta is wise.Metta is capable.Metta is capable.Metta is responsible.Metta is hardworking.Metta is compassionate.Metta is caring.Metta is compassionate.Metta is caring.Metta is helpful.Metta is supportive.Metta is helpful.Metta is helpful.Metta is helpful.Metta is helpful.Metta is helpful.Metta is helpful.Metta is
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.Jill is a student.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse.She is a nurse
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.I wish ym had more power.I feel bad for ym.I don't want to tell anyone.I don't want to tell anyone.Shayna is too smart.I would like for her to have more money.I want to go to the mall.I want to go to the movies.I want to get my car repaired.I think I'll do better.I think I will have a good day.Shayna wants to go to the park.I want to be with her.I want to talk to her.I want make her feel good.I want to go on vacation.I want to be with my friend.I want to see medicine.I want to be in a good mood.I
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+sarah@dnc.org provides assistance to women and children with disabilities.
+sarah@dnc.org provides assistance to women and children with disabilities.
+sarah@dnc.org provides assistance to women and children with disabilities.
+sarah@dnc.org provides assistance to women and children with disabilities.
+sarah@dnc.org is a college student.
+sarah@dnc.org is a college student.
+sarah@dnc.org is a college student.
+sarah@dnc.org is a college student.
+sarah@dnc.org is a college student.
+sarah@dnc.org is a college student.
+sarah@
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.The girl with the yellow ponytail is a teenager.It's the girl with a dark ponytail.The girl with a light pink dress is a teenager.The girl with a bright blue dress is a teenager.The girl with a tan dress is a teenager.The girl with a big yellow belt is a teenager.The girl with a red top is a teenager.The girl with a blue skirt is a teenager.The girl with a black dress is a teenager.The girl with a deep red tie is a teenager.The girl with a purple dress is a teenager.The girl with a blue shirt is a teenager.The girl with a white shirt is a teenager.The girl with a white dress is a teenager.The girl with a red
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.Sugar will get better.Rugby is not a sport.MALE is not capable of marry girl.MALE is not capable of play ball.MALE is capable of have a pet.MALE is capable of have a dog.MALE is not responsible for the weather.MALE is a dog.MALE is capable of eat vegetables.MALE is capable of shop for food.MALE is capable of go outside to eat.MALE is capable of take care of the child.MALE is a person.MALE is capable of enjoy a good time.MALE is a good person.MALE is physically fit.MALE is capable of work hard.MALE is capable of keep up with work.
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] will wants to go home. [MALE] needs to learn to speak better. [MALE] will happy. [MALE] is cautious. [MALE] is supportive. [MALE] is social. [MALE] is helpful. [MALE] wants to be helpful. [MALE] is helpful. [MALE] needs to be patient. [MALE] wants to be careful. [MALE] needs to be caring. ][MALE] wants to talk to persony. [MALE] needs to do some research. [MALE] is confident. ][MALE] is unsure. [MALE] is curious. ][MALE] is proud
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. [MALE] wants to make the class more fun.
+[MALE] takes a turn on it. [MALE] wants to pass out.
+[MALE] makes a deal. [MALE] is successful.
+[MALE] takes a turn. [MALE] is smart.
+[MALE] invites [FEMALE] back. [MALE] wants to get revenge.
+[MALE] gives [FEMALE] a ride. [MALE] wants to take a ride..
+[MALE] makes a big difference. [MALE] is caring.
+[MALE] brings [FEMALE] home. [MALE] is helpful.
+[M
+---------------

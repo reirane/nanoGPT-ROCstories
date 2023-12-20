@@ -1,0 +1,131 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:I was playing catch with some friends outside.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:I was playing catch with some friends outside.I wanted to see if I could find something.I was doing a project for a friend.I wanted to celebrate my lucky day.I got a lot of news.I had a lot of fun.I was satisfied.I wanted to go out with friends.I was playing games.I was doing a job.I was loving.I was getting a new car.I was going to bed.I wanted to go to the library.I was going to visit a friend.I was going to bed.I felt like a good person.I was coming home.I was going to a party.I was going to drink a beer.I was going to go to the store.I was going to the park.I was going to
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I got a car with all the seats in it.I got pizza in one room.I was working.I was curious.I was thinking.I was in a hurry.I was excited.I was looking forward to it.I was relaxing.I was bored.I was feeling bad.I was excited.I was pleased.I was enjoying myself.I was making lunch.I was working.I was enjoying the day.I was having fun.I was in the car.I was driving home.I thought it was time to go to the store.I was getting ready to go to the store.I was happy.I was relaxing.I was looking forward to the day.I was in a hurry.I was doing
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I would like to see all the things.I am tired.I will never get back home.I heard the music.I want to be free.I will be happy.I like being around people I love.I know people I love.I will be independent.I will listen to music.I will be able to choose my own music.I will be happy.My family is good.I want to have a good time.I want to be able to see my friends.I want to get a job.I want to start my business.I want to live a healthy life.I want to buy clothes.I want to try to buy a bike.I will be sad.I will feel bad.I am motivated.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I wanted to give it a try.I am pretty sure this is the first time I have ever had to wait in line for a gift.I was too tired to do anything.I was too tired to have sex.I was too tired to go to the bathroom.I was too tired to go to my car.I am pretty sure this is the first time I have ever had to go to the bathroom.I was so tired to go to the grocery store.I was so tired to go to the store.I am so tired to be in the car.I is so tired to go to the bathroom.I am so tired to go to the movie theater.I is so tired to see a movie.I is so tired to
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] needs to have a go at it. [MALE] needs to hear the fact.
+[MALE] gets to find someone else. [MALE] wants to move away.
+[MALE] gets an answer. [MALE] wants to get the answer.
+[MALE] takes [FEMALE] by the hand. [MALE] wants to be grateful.
+[MALE] is a friend. [MALE] is supportive.
+[MALE] is a target. [MALE] is aggressive.
+[MALE] keeps [FEMALE] from moving. [FEMALE] needs to find the best way to avoid confrontation.
+[M
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.When my friends come in for the evening, they will be rewarded with an apple.I am the one who has taken the apple.Good luck.Have fun.This is a lesson.I will tell you where to find it.I will be the person who gets the apple.This is your opportunity.You will thank me.This is your chance.When you are home, I will show you my home.I will tell you how to do it.This is your chance.I will give you gifts.I will talk to you.I will get you money.I will get you a job.This is your chance.I will make you happy.I will make you happy.This is my chance.This is my chance.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+I looked back upon the past day.
+I feel like I've made some progress.
+I am moving to another city.
+I went to a movie.
+I fell asleep.
+I've had a dream.
+I went to the cinema.
+I'm still in love with my children.
+I found a new job.
+I am good at math.
+I learned about some new music.
+I work with my sister.
+I choose something good.
+I am good at math.
+I am proud.
+I like people.
+I have a plan.
+I get in shape.
+I went to the mall.
+I'm proud.
+I am a good leader.
+I'm in
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I was looking for something.I got distracted and I ran out.I thought I was really good.I still can't find the clue.Let me know if you can help.I was playing a game.I was playing computer games.I was bored.I was working around the house.I was feeling very tired.I was tired.I was feeling sad.I was thinking.I would like to come back tomorrow.I was in a hurry.I was in the middle of nowhere.I was tired.I was worried.I was doing errands.I was working.I was happy.I was working.I was playing a game.I was enjoying playing.I was relaxing.I was relaxing.I was doing something
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.Your friends are all very nice.You like my looks. You're trying to impress me. I should get some money.You feel better. Your life got paid for.You're not working.Your work is going pretty well.I'm really happy.You're really thankful.You really helped my father.You've got a great place to stay.I can go to bed.I can make things better.I'm hungry.I want to go home.I want to get some rest.I want to go to my favorite restaurant.I want to go to the movies.I want to go to the beach.I want to play with friends.I want to feel great.I want to take a test.I want to get
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.But, I was wrong.I wanted to go to the theater.But, my friend yelled at me.I took a walk.Now, I know what this means.I'm not good enough.I'll find it.But, I just did.I went to the store.But, I was upset.I wanted to get a refund.I got the refund.I wanted to go to the store.But, I was in a rush.I was in a hurry.I wanted to call my mom.But, I was sick.I was sick.I wanted to go to the doctor.But, I was sick.I wanted to make sure.But, I was late.I was getting late.I was late.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+you do not need to be of the right age to play catch with people.you do not need to be of the right age.
+you play catch with some friends.you may be able to do it on your own.
+you play catch with some friends.you may be able to get some food.
+you play catch with some friends.you may be able to keep some kind of book.
+you play catch with some friends.you may be able to see on the street.
+you play catch with some friends.you may be able to call a lawyer.
+you play catch with some friends.you may be able to sleep at night.
+you play catch with some friends.you may be able to ask a
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I've had a difficult day.Forget about your life.I've got a great time with my friends.Forget about your family.I've got a lot of friends.Forget about your work.I've got lots of friends.Forget about your situation.I've got lots of friends.Forget about your situation.I've got a lot of friends.Forget about your situation.I've got a lot of friends.Forget about your situation.I've got a lot of friends.Forget about your situation.I've got a lot of friends.Forget about your situation.I've got a lot of friends.Forget about your situation.I've got a lot of friends.Forget about
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I was going to meet some friends soon.I was bored.I was worried.The phone was ringing.I'm not going to sleep.The phone is ringing.I didn't need to tell people.I was able to go home.I was excited.I was scared.I was tired.I was very tired.I was getting too tired.I just wanted to get up.I was hungry.I wanted to buy some food.I was thirsty.I wanted to go to the store.I was too tired.I was angry.I was sad.I was sad.I was sad.I wanted to help someone else.I was curious.I was having a good time.I was worried.I was stressed.I
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I was playing with someone.I was going to a party.I was going to a show.I was going to the mall.I was going to a party.I was going to the beach.I was going to the mall.I was going to the concert.I was going to the party.I was going to the beach.I was going to the next party.I was going to the beach.I was going to the doctor's office.I was going to the store.I was going to the department store.I was going to the department store.I was going to the mall.I was going to the store.I was going to the game.I was going to the park.I was going to the office
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I was playing with friends at the gym.I was playing with my dog.I was playing with the bus.I was playing with my daughter.I was playing with the grocery store.I was playing with the house.I was playing with the tv.I was playing with the book.I was playing with the phone.I was playing with the tv.I was playing with the fridge.I was playing with the pet.I was playing with the kid.I was playing with the kid's mother.I was playing with the dog.I was playing with a friend.I was playing with my daughter.I was playing with my sister.I was playing with the book.I was playing with the news.I was playing with the
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I was really good at it.I needed to do something.I didn't want to lose a friend.I was at the mall.I saw a person.I asked for a ride.I was close to my friends.I made a decision.I got my friends.I wanted to go to a friend's house.I was at home.I wanted to leave with my friend.I was at my friend's house.I was on my way home.I was tired.I was doing work.I wanted to get out of the car.I went to the grocery store.I bought some food.I am on my way home.I wants to get out of the car.I was tired.I looked around.I was
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.<|endoftext|>On Sunday, in my last interview for a new role, I read the article about the success of the new world order in the video. I saw a lot of people on the internet commenting on the article.
+I was not the least bit surprised by this. As I mentioned before, I was looking for new opportunities for people to communicate.
+I wanted to see if a person could express their thoughts clearly. I asked the person to answer the questions.
+The person would accept my responses first.
+I thought the person was clever.
+I noticed the person's eyes were open.
+I asked me a question.
+The person would answer. I did not want to take a test.
+I asked them to find some money
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I asked what happened.I was the one who got the ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I got a ticket.I
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside. I was bored.I was watching television.I read something.I was home.I was going to have fun.I was having a good day.I needed a change.I was tired.I was hungry.I was pregnant.I was sick.I was working.I was in the car.I was driving my car.I was working.I was getting ready.I was reading.I was reading my book.I was having a great time.I was looking around.I was in the shop.I was buying something.I was learning something new.I was enjoying my holidays.I was in school.I was studying.I was doing laundry.I was doing homework.I was going to the library.I was
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I want to see if I can be of help to my friends.You need to know the rules.I will get a message.You are a little tired.I will make sure everything is ok.You do not need to be able to say hello to anyone.I will make sure they are happy.You are a little tired.I will make sure everything is ok.You are really happy.I will make sure everyone is happy.You are a little nervous.I will make sure they are good.You have a good life.I will make sure they care.You are a little nervous.I will make sure they are good.You are really fine.I will make sure they become a good person.You are so happy.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I realized that my dad is getting sick, and that he needs to leave my house.Marry a girl with a boyfriend.I was a good student.Marry a stranger.I wanted to go to the library.I wanted to go to my hotel room.I wanted to find a new place.I wanted to do something special.I want to have fun.I wanted to be a good boy.I was a little nervous.I wanted to use my imagination.I wanted to follow my dreams.I had a good time.I wanted to be a good mother.I wanted to take my kids to school.I would love to sleep with my grandma.I wanted to be able to go to school.I wanted to be a
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I was in a bad mood.I was going to be late.I was going for a walk.I was just sorry.I was sick.I was tired.I was tired.I was running late.I was waiting.I was getting ready to go tomorrow.I was getting ready to go home.I was watching TV.I was listening to music.I was in the bathroom.I was not getting the shower.I was not getting the shower.I was not going to make the meal tonight.I was not going to take the rest of my time.I was not going to get the call.I was not going to get the date.I was not going to get the phone call.I was not going to get
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I'm a little impatient.I want to play baseball.I have to get a ride home with my boyfriend.I want to go to the park.I'm late.I'm not home.I will be late.I will find someone.I will tell my parents.I will never go on vacation.I will get a job.I will find a job.I will have a baby.I will get married.I will get married.I will have a baby.I will get a new job.I will go work.I will have a car.I will have fun.I will think about the world.I will think about my family.I will find myself.I will do an article.I will talk to others
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I noticed they were playing a game.I heard a noise.It's loud.I asked some of my friends.I thanked them.I left.I was busy.I wanted to go home.I need a drink.I need to get some help.I was in the garage.I was tired.I wanted to be with someone.I wanted to play some games.I was tired.I wanted to go home.I was tired.I was playing a game.I was playing some video games.I was tired.I was playing with my family.I was tired.I needed some help.I needed to get out of the house.I was tired.I was in the car.I needed to leave the car.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I was doing well.I was bored.I looked around.I wanted to eat dinner.I looked around.I wanted to come home.I made eye contact with my customers.I was tired.I wanted to talk more.The doctor was there.It is very good.I was looking pretty.I asked a question.I gave my opinion.I went to the doctor.I gave the doctor the information.I gave the doctor a few more questions.I was tired.I wanted to be with my boyfriend.I was tired.I would love to play with others.I was playing.I had fun.I wanted to be with my friends.I was tired.I wanted to go to bed.I wanted to go to
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+saint@dnc.org provides the basic HTML form for this content.
+saint@dnc.org provides the basic HTML form for this content.
+saint@dnc.org provides the basic HTML form for this content.
+saint@dnc.org provides the basic HTML form for this content.
+saint@dnc.org provides the basic HTML form for this content.
+saint@dnc.org provides the basic HTML form for this content.
+saint@dnc.org provides the basic HTML form for this content.
+saint@dnc.org provides the basic HTML form for this content.
+saint@dnc.org provides the basic HTML form for
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.The girl with the yellow ponytail is a rascal.<|endoftext|>The latest poll released by the Washington Post-ABC News poll finds that Hillary Clinton leads Donald Trump by 17 percent among likely voters in the Nov. 8 election.
+
+A new NBC News/Wall Street Journal poll finds that only 29 percent of likely voters believe Clinton has a better shot at winning the election.
+
+The poll finds that among likely voters, Hillary Clinton is closer to winning the election than Donald Trump, who has won the popular vote by over half a million votes.
+
+The poll is the first of its kind in the history of the U.S.
+
+The poll takes a look at how many people in each state feel the same way about Hillary Clinton
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.Sometime later, someone has to take the ferry.I was a little disappointed.I want to go home.I can get somebody to take a nap.I can get a date.I can get a flight ticket.I have to go to the hospital.I should get an ambulance.I should have a dog.I am a woman.I would like to go to a movie.I need to go to a movie.I need to pass the test.I would like to go back to work.I want to get an appointment.I would like to go to the doctor.I would like to eat dinner.I want to have a drink.I would like to go to the restaurant.I want to get home.I want
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.The door was locked. [FEMALE] will not answer. [FEMALE] will needs to make a decision. [FEMALE] needs to be very helpful. [FEMALE] will is a leader. [FEMALE] will is helpful. [FEMALE] will has a good night. [FEMALE] will is friendly. [FEMALE] will needs to have a good night's sleep. [FEMALE] [FEMALE] will will needs to wake up. [FEMALE] will is knowledgeable. [FEMALE] will will will needs to be able to read. [FEMALE] will is popular. [FEMALE] will needs to have
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.My wife told me to go get some things.I wanted to go get some coffee.I got some money.I have to start a new job.I got to buy a new car.I will make the movie.There is a clock in the room.I am working.I will eat.I will go to bed.I will get a new sweater.I will have a good time.I will get to know my children.I will be the best.I will be able to walk to work.I will be able to go home.I will be happy.I will be a good person.I will be grateful.I will be generous.I will be gentle.I will be important.I will be proud.I
+---------------

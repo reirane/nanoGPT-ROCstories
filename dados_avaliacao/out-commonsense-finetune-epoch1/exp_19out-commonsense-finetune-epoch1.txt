@@ -1,0 +1,409 @@
+Overriding: out_dir = out-commonsense-finetune-epoch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:She didn't care.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:She didn't care.
+[MALE] wants to have a conversation with you.
+[MALE] wants to be a better person.
+[MALE] has a good day.
+[MALE] leaves.
+[MALE] wants to have a meeting.
+[MALE] will be out of date.
+[MALE] wants to have a beer.
+[MALE] is always a good girl.
+[MALE] wants to visit.
+[MALE] wants to make a party.
+[MALE] stops.
+[MALE] wants to start the car.
+[MALE] wants to stay.
+[MALE] lives a good life.
+[MALE] needs to
+---------------
+Complete the following text within five sentences:She didn't care. She didn't know what it was.
+[MALE] is in trouble. [MALE] wants answer.
+[MALE] walks the dog. [MALE] will happy.
+[MALE] wants to go to work. [MALE] wants to get to work.
+[MALE] is playing basketball. [MALE] is ready.
+[MALE] is in the hospital. [MALE] wants to go home.
+[MALE] lives in the 'hood. [MALE] wants to get ready for bed.<|endoftext|>Image copyright EPA Image caption A new poll found that more than half of people were under the age of 24
+
+New Hampshire has voted to amend the state
+---------------
+Complete the following text within five sentences:She didn't care.
+[FEMALE] has a vision and wants to know what it is.
+[FEMALE] keeps [FEMALE] company. [FEMALE] is friendly.
+[FEMALE] is doing good. [FEMALE] wants to be a good person.
+[FEMALE] takes a shower. [FEMALE] wants to wash their hair.
+[FEMALE] is [FEMALE]'s friend. [FEMALE] is friendly.
+[FEMALE] is determined. [FEMALE] wants to feel good.
+[FEMALE] needs to buy a new car. [FEMALE] wants to get used to the car.
+---------------
+Complete the following text within five sentences:She didn't care.You can't be stupid.Why am I not stupid?You're too busy watching tv.You need to catch up.You won't regret it.You are the queen of the world.You need to have a party for yourself.You really do love them.You need to get the job done.You have no idea what to make of it.You're the king of the world.You've never met a better person.You will pass the test.You will not fall behind.She is so beautiful.You want to help her.You need to go back to work.You can't wait to be away.You need to go home.You will get a job.You need to get in shape.You must get a
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] needs to make a decision.
+[MALE] takes [FEMALE] to the doctor.
+[MALE] gets [FEMALE] to the doctor.
+[MALE] is pretty.
+[MALE] buys [FEMALE] food.
+[MALE] takes [FEMALE] to the dentist.
+[MALE] plays football with the team.
+[MALE] runs [FEMALE] errand.
+[MALE] is caring about.
+[MALE] gives [FEMALE] the chance.
+[MALE] takes [FEMALE] to the hospital.
+[MALE] is very satisfied.
+
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] asks the question. [MALE] wants to know.
+[MALE] makes the plan. [MALE] wants to go to the store.
+[MALE] gives the plan. [MALE] starts to think about what they need.
+[MALE] raises the alarm. [MALE] needs to sit down.
+[MALE] puts on the hat. [MALE] wants to look good.
+[MALE] gives the gift. [MALE] needs to take the gift.
+[MALE] sends the message. [MALE] wants to be accepted.
+[MALE] tells none. [MALE] wants to be truthful.
+
+---------------
+Complete the following text within five sentences:She didn't care.
+(talk)
+(hears)
+(sheets are on)
+(hears it goes on)
+(hears the sound)
+(hears the sound)
+(hears the sound)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+(hears the noise)
+---------------
+Complete the following text within five sentences:She didn't care.
+[A-F] put it in my mouth.
+[A-F] let it go.
+[A-F] is studying.
+[A-F] takes my breath away.
+[A-F] is caring.
+[A-F] is good.
+[A-F] is on my way to work.
+[A-F] takes my hand.
+[A-F] is loving.
+[A-F] is sad.
+[A-F] gets up.
+[A-F] finds the person.
+[A-F] is good.
+[A-F] sees the person.
+[A-F] gets the person's attention
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] is caring.
+[MALE] is trying.
+[MALE] gets none back.
+[MALE] gives [FEMALE] none back.
+[MALE] takes [FEMALE] to the hospital.
+[MALE] gets none back.
+[MALE] spends [FEMALE] time.
+[MALE] takes [FEMALE] to a party.
+[MALE] becomes [FEMALE] family.
+[MALE] wins the contest.
+[MALE] takes [FEMALE] to the hospital.
+[MALE] goes to the hospital.
+[MALE] lays a bed.
+[M
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] sees something.
+[MALE] throws away.
+[MALE] is not capable of take care of.
+[MALE] spends a lot of time with persony.
+[MALE] becomes a master.
+[MALE] is good.
+[MALE] gives [FEMALE] advice.
+[MALE] makes [FEMALE] answer [FEMALE] question.
+[MALE] is a good student.
+[MALE] meets [FEMALE] persony's family.
+[MALE] is capable of be successful.
+[MALE] is loved by persony's family.
+[MALE] hears persony
+---------------
+Complete the following text within five sentences:She didn't care.
+you do. You will.
+you will. You will.
+you will. You will.
+you will. You will.
+you will. You will.
+you will. You will.
+you will. You will.
+you will. You will.
+you do. You will.
+you will. You do.
+you will. You do.
+you do. You do.
+you do. You do.
+you do. You do.
+you do. You do.
+you do. You do.
+you do. You do.
+you do. You do.
+you do. You do.
+you do. You do.
+you do. You do.
+you do
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] starts to cry.
+[MALE] asks the other person.
+[MALE] is friendly.
+[MALE] puts [FEMALE] in a room.
+[MALE] wants to tell [FEMALE] what they found.
+[MALE] sets the alarm.
+[MALE] is very caring.
+[MALE] takes [FEMALE] to the hospital.
+[MALE] helps [FEMALE] get in shape.
+[MALE] is tired.
+[MALE] receives [FEMALE] call back.
+[MALE] tells [FEMALE] how to do something.
+[MALE]
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] wants to impress the person.
+[MALE] is the best. [MALE] needs to get the person's attention.
+[MALE] wants to have a good time. [MALE] wants to get to work.
+[MALE] wants to be in another person's company. [MALE] needs to be in a company.
+[MALE] feels good. [MALE] wants to get a good feeling.
+[MALE] wants to leave. [MALE] wants to be home.
+[MALE] is tired. [MALE] gets up.
+[MALE] goes to the restroom. [MALE] wants to walk.
+
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] needs to get a new job.
+[MALE] wants to be a chef.
+[MALE] eats lunch in the same restaurant.
+[MALE] is determined. [MALE] is happy.
+[MALE] sees [FEMALE] in the mirror. [MALE] will happy.
+[MALE] needs to go somewhere. [MALE] will happy.
+[MALE] wants to be a teacher. [MALE] wants to be a teacher.
+[MALE] comes to work. [MALE] wants to make sure they are fine.'
+[MALE] reads books. [MALE] will satisfied.
+[MALE
+---------------
+Complete the following text within five sentences:She didn't care.
+You have to pay the fee.
+You have to finish your job.
+You are studying.
+You are tired.
+You are running.
+You are motivated.
+You are grateful.
+You are loving.
+You are helpful.
+You are relaxed.
+You are determined.
+You are satisfied.
+You are hopeful.
+You are proud.
+You are satisfied.
+You are knowledgeable.
+You are motivated.
+You are happy.
+You are curious.
+You are curious.
+You are curious.
+You are curious.
+You are curious.
+You are curious.
+You are curious.
+You are curious.
+You are curious.
+You are curious.
+You are curious
+---------------
+Complete the following text within five sentences:She didn't care.She was content with her job.She needed to do something.She didn't want to be a thief.She was at the mall.She is not going to the gym.She wanted to go to the store.She is bored.She is tired.She wants to go home.She wants to be back home.She is tired.She is tired.She is tired.She is tired.She is tired.She wants to make a decision.She is at the store.She wants to buy something.She wants get a ride.She wants to be honest.She wants to be nice.She wants to be creative.She wants to learn how to read.She is at the store.She wants drink.She is content.
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] will someone to ask a question.
+[MALE] is holding the hand of [FEMALE]
+[MALE] starts to walk.
+[MALE] wants to be in a good mood.
+[MALE] makes [FEMALE] look bad.
+[MALE] wants to be able to get the job.
+[MALE] wants to keep [FEMALE] happy.
+[MALE] wants to be a good boyfriend.
+[MALE] puts [FEMALE] to sleep.
+[MALE] goes to bed.
+[MALE] is determined.
+[MALE] finds [FEMALE] in the shower.
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] thinks. [MALE] wants to be happy. [MALE] wants to feel good about themselves.
+[MALE] changes [FEMALE] mind. [MALE] is more relaxed.
+[MALE] is not happy. [MALE] is worried.
+[MALE] makes [FEMALE] money. [FEMALE] wants to thank [MALE] for their efforts.
+[MALE] takes back [FEMALE] home. [MALE] wants to get dressed.
+[MALE] goes on a date. [MALE] wants to have a good time.
+[MALE] is with [FEMALE] for
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] takes a step.
+[MALE] wants to get back to work.
+[MALE] sees the other person.
+[MALE] gives [FEMALE] a new handjob.
+[MALE] receives [FEMALE]'s orders.
+[MALE] takes a bath.
+[MALE] says [FEMALE] a lot.
+[MALE] provides [FEMALE] with a bed.
+[MALE] gets [FEMALE] a job.
+[MALE] takes a bath.
+[MALE] sits down.
+[MALE] makes [FEMALE] happy.
+[MALE] becomes [
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] goes to the store.
+[MALE] wants to sell the item.
+[MALE] gives [FEMALE] money.
+[MALE] finds a new job.
+[MALE] is on vacation.
+[MALE] will happy.
+[MALE] looks at [FEMALE] carefully.
+[MALE] wants to get a job.
+[MALE] gets a haircut.
+[MALE] wants to go to a concert.
+[MALE] is talking to someone.
+[MALE] needs to buy food.
+[MALE] takes [FEMALE] in.
+[MALE] wants to make something good
+---------------
+Complete the following text within five sentences:She didn't care. She was sorry.
+the person who is not satisfied yet is not satisfied.
+the person is satisfied now.
+the person is not satisfied yet.
+the person is satisfied at the time.
+the person is satisfied in the moment.
+the person is satisfied in the future.
+
+
+the person is satisfied in their position.
+the person is satisfied in their mind.
+the person is satisfied in the way.
+the person is satisfied through the action.
+the person is satisfied in their home.
+the person is fulfilled.
+the person is satisfied in their home.
+the person is satisfied in their profession.
+the person is satisfied through the action.
+the person is satisfied in their homes.
+the person is
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] takes a walk. [MALE] makes a remark.
+[MALE] raises a glass. [MALE] needs to be drinking.
+[MALE] becomes a magician. [MALE] wants to be a magician.
+[MALE] looks for a friend. [MALE] would like to talk to the person.
+[MALE] is lonely. [MALE] needs to be alone.
+[MALE] provides for the poor. [MALE] needs [MALE] has money.
+[MALE] willy needs to take a shower. [MALE] willy needs to be clean.
+[MALE] brings food. [MALE
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] wants to go. [MALE] wants to help.
+[MALE] is working. [MALE] wants to be productive.
+[MALE] is sad. [MALE] wants to be happy.
+[MALE] wants to go to the zoo. [MALE] wants to be there.
+[MALE] is at the store. [MALE] wants to get something.
+[MALE] asks [MALE] to look for the right item. [MALE] is curious.
+[MALE] turns the light on. [MALE] wants to yell.
+[MALE] runs into the crowd. [MALE] is friendly.
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] is the only person in the world to care.
+[MALE] is happy.
+[MALE] wants to buy supplies.
+[MALE] makes [FEMALE] a gift.
+[MALE] uses [FEMALE] in the gift shop.
+[MALE] is proud.
+[MALE] is in the water.
+[MALE] needs to be in the water.
+[MALE] wants to go to the store.
+[MALE] has no interest in work.
+[MALE] gets a new job.
+[MALE] sees [FEMALE] for what they are.
+[MALE] writes a poem
+---------------
+Complete the following text within five sentences:She didn't care.I'm not ready.Don't you have any idea what happened?I guess she's still waiting.
+[MALE] gives [MALE] a drink. [MALE] wants to continue the conversation.
+[MALE] puts [MALE] up for sale. [MALE] wants to get paid.
+[MALE] gets a haircut.. [MALE] needs to clean up.
+[MALE] runs the errand. [MALE] is ready.
+[MALE] is walking around the house. [MALE] is friendly.
+[MALE] puts the refrigerator on. [MALE] will happy.
+[MALE] is going on vacation. [MALE
+---------------
+Complete the following text within five sentences:She didn't care.
+sputnik.org/index.php/topic,3370.0,1719.0 [FEMALE] receives reply.
+[FEMALE] receives message.
+[FEMALE] wants to be nice.
+[FEMALE] is aware.
+[FEMALE] asks [FEMALE] questions.
+[FEMALE] receives a gift.
+[FEMALE] takes [FEMALE] to the park.
+[FEMALE] is excited.
+[FEMALE] makes [FEMALE] happy.
+[FEMALE] takes personx's hand.
+[FEMALE] works hard.
+[FEMALE] is
+---------------
+Complete the following text within five sentences:She didn't care.The girl with the yellow ponytail is a teenager.It's the girl with a dark ponytail.It's the girl without the black ponytail.She is the only one who wants to get rid of the ponytail.You want to get rid of the ponytail.you don't want to.it's the girl who is the exception.it's when you want to get rid of it.you have to go get it.it's the girl who is the exception.you need to get rid of it.you have to go to the store.it's the girl in the store.you have to buy something.it's the girl you need.you need to go to a restaurant.it's the girl you need.
+---------------
+Complete the following text within five sentences:She didn't care.Settled down to her...<|endoftext|>SALT LAKE CITY — The Utah state Senate is considering a bill that would ban the sale of marijuana.
+
+The bill would require an attorney who sells marijuana to obtain a license.
+
+The bill would also require that the pot be in a pot jar.
+
+The bill is expected to get a vote in the Utah House of Representatives.
+
+Marijuana is a Schedule 1 controlled substance.<|endoftext|>MALE.
+"I know what you're thinking."
+"I'm very sorry. I could have been a better person."
+"I was wrong. I should have known better."
+"I know the system needs a lot of work. But you do it like I do.
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] wants to talk. [MALE] wants to get his stuff together.
+[MALE] will happy. [MALE] is not very sociable.
+[MALE] is in charge. [MALE] needs to be in charge.
+[MALE] has a computer. [MALE] needs to have a computer.
+[MALE] wants to meet. [MALE] is excited.
+[MALE] gets to know. [MALE] needs to be able to communicate.
+[MALE] gives [FEMALE] a chance. [FEMALE] wants to be a part of something.
+[MALE] is getting ready. [M
+---------------
+Complete the following text within five sentences:She didn't care.
+[MALE] has an interest. [MALE] wants to get a job right.
+[MALE] finds a hobby. [MALE] wants to get paid.
+[MALE] is talking. [MALE] will sad.
+[MALE] is in a coma. [MALE] will tired.
+[MALE] becomes comfortable. [MALE] is anxious.
+[MALE] eats my lunch. [MALE] needs to be in bed.
+[MALE] is a good student. [MALE] wants to be a good student.
+[MALE] goes to the mall. [MALE] wants to get a good ticket.
+[MALE
+---------------

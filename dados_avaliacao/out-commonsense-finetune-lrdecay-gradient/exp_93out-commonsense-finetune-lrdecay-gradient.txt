@@ -1,0 +1,166 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:I am always concerned about my online business sales.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:I am always concerned about my online business sales. I sometimes have to explain to my customers why they are so interested in my products and services. And then the customer has to decide whether he sees the value in their product or services.Do you have a product or service that you would like to sell to your customers? Does the customer have the right to buy it? Does the company have the right to sell it to you? I'll tell you my answer. What I want to do is create the desired response. What I want to do is create the product in the best way possible. I want to make it available to more people.I want to make it available to my customers first. I want to make it available to the most satisfied customers. I want to make it available for everyone
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. I have a great understanding of the business's needs. I have a great understanding of the business's problems.I have a great understanding of the business's solution.I have a great understanding of the business's solution.I have a great understanding of the business's solution.I have a great understanding of the business's solution.I have a great understanding of the business's solution.I have a great understanding of the business's solution.I have a great understanding of the business's solution.I have a great understanding of the business's solution.I have a great understanding of the business's solution.I have a great understanding of the business's solution.I have a great understanding of the business's solution.I have a great understanding of the
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. In the time I have spent on business, and I am worried about the online business, I will never be able to return to a regular pattern of sales.But, I will not be able to return to the pattern. I will not be able to keep the information about the online business.I will not be able to stay in contact with the sales person. I will be unable to do so. In order to avoid the problem, I will try to keep the information.In order to avoid the problem, I will try to keep the information.I will make my online business a success. In the time it has been in the store, I will have a great time. But, I will not be able to continue to make my business
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I hope you realize I will always be able to sell to you.I have always supported my friends and family.I will never ask for anything I never ask for from you.I will always be committed to you.I will never ask for anything I never ask for from you.I will never ask for anything I never ask for from you.I will never ask for anything I never ask for from you.I will never ask for anything I never ask for from you.I will never ask for anything I never ask for from you.I will never ask for anything I never ask for from you.I will never ask for anything I never ask for from you.I will never ask for anything I never ask for from you.I will
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+
+My online business sales are the most important kind of business.
+
+When you create your online business, you are putting your own back in the company.
+
+Your online business is the first thing you need to do to attract potential customers.
+
+Your online business is the first thing you need to do to earn the attention of customers.
+
+Your online business is the first thing you need to do to make your customers happy.
+
+You will have to be prepared.
+
+You will have to be ready.
+
+You will have to be prepared.
+
+If you want to be successful, you have to be prepared.
+
+You have to be prepared.
+
+You have to be prepared.
+
+
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.When my online business sales are the focus of my attention, I'm concerned about my online business sales.When my online business sales are the focus of my attention, I'm concerned about my online business sales.When my online business sales are the focus of my attention, I'm concerned about my online business sales.When my online business sales are the focus of my attention, I'm concerned about my online business sales.When my online business sales are the focus of my attention, I'm concerned about my online business sales.When my online business sales are the focus of my attention, I'm concerned about my online business sales.When my online business sales are the focus of my attention, I'm concerned about my online business sales.When my online
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+
+I am always concerned about my online business sales.
+
+I am always concerned about my online business sales.
+
+I am always concerned about my online business sales.
+
+I am always concerned about my online business sales.
+
+I am always concerned about my online business sales.
+
+I am always concerned about my online business sales.
+
+I am always concerned about my online business sales.
+
+I am always concerned about my online business sales.
+
+I am always concerned about my online business sales.
+
+I am always concerned about my online business sales.
+
+I am always concerned about my online business sales.
+
+I am always concerned about my online business sales.
+
+I am always concerned
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I often hear about how I can make a profit, but I will not be able to help you.I will never hurt you, so don't do something you don't want to do.I will never ask for anything.I will never give you something you don't want to pay for.I will never be selfish.I will never make a mistake.All of my friends are important to me.All of my friends are important to me.I will never let you be ashamed of yourself.I will never be jealous.I will never let you feel bad about yourself.I will never hurt you.I will never be selfish.I will never be selfish.I will never be selfish.I will never be selfish.I will never
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. I've always been very satisfied with that. I have a lot of friends who buy a product I use every day, and they go to a store and buy it. They like it and they like it. But they are not satisfied. If they don't buy it, they will never get back to their customers. They will often start to think there is no way to get back to their customers. They will think, 'You don't need to be here anymore, I don't need to be here anymore.' I will always be concerned about that.And they will think, 'I will never own this product again.' Which is great. But they are very satisfied. They will never decide that they want to have a product again. They
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. But, I only recently started to realise that my work is worth more to me than the products I sell. Do you have a list of products that I love to spend more time on? Do you have a list of products that you have come to believe are worth more? Do you actually believe in these products? Do you even think of them?Do you even think that they are worth more? I wouldn't be able to imagine a situation where your life is going to be better than mine. You would never be able to explain to your friends how much you love something and not think about the consequences.Do you really believe in the need to have a good day? Do you really believe in the need to be productive to achieve the goal of
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. I want to be able to pay for the rest of my life. I want to have the freedom to choose what to do with my time. I want to be able to make a better life for myself.I have always wanted to be able to afford this. I have always wanted to be able to pay for the cost of my education.I was never happy with the way my company was run. I never felt like I could trust the people who run the company.I have never regretted the decisions I made. I have never regretted leaving the job I loved.I have always wanted to be able to make it to the end. I have always wanted to do what my family wants to do.I have always wanted to be able to make
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I've had a couple of customers who have been very patient and well on the sales end.I'm expecting this to be a great time.I think they are very happy with their business and are a great business for you.I have a new product, which is new.I have a new manager and a new product.I'm expecting to be able to get your product in a timely way.I have a new product.I am expecting to be able to get your product in a timely way.<|endoftext|>The European Parliament has voted 6 to 3 to reject the EU referendum on same-sex marriage in the face of pressure from the European parliament.
+
+The decision to withdraw the deal came after a vote in favor of the UK to leave
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. I am worried about my online business sales. Then I am worried about my online business sales. That is what worries me.
+
+When I have to sell my business, I have to talk about it. I have to talk about it.
+
+I need to do a lot of talking. I need to do a lot of talking.
+
+I need to be happy. I need to be happy.
+
+I need to be confident. I need to be confident.
+
+I need to be consistent. I need to be consistent.
+
+I need to be a good friend. I need to be a good friend.
+
+I need to be strong. I need to be strong.
+
+I need to be a
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I always want to see if my online business goes over budget." "I don't have a lot of time for that. I can't afford to send you a letter that you couldn't write to my address." "I'm afraid that you'll have to borrow a few hundred dollars on the way home." "I have a problem with your mother. I'm a very smart person. I can help you with your issues." "You know why I'm a big fan of you? Because your mother is a great person. You're my friend. I will never have a problem with anyone else." "I have a problem with my brother. He's a good person. I will never have problems with him. I will never have a problem
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. And I have always been. I think I am doing well. I hope to win a lot of business. And I will be getting my money back. I don't know what it is, but I will make my money's back.I have always been a good person. And I have always been. And I have always been. And I have always been. I have always been. And I have always been. I think I am doing well. I hope to win a lot of business. and I will be getting my money's back. I don't know what it is, but I will make my money's back.I have always been a good person. And I have always been. And I have always been. And I
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. My advice to my customers is:Read the following text within five sentences:I want to learn a new skill. I want to share it with them in person. I want to learn how to use it in my own way. I want to make a phone call to them. I want to tell them that I am a responsible person and have a plan to meet them. I want to do something about things I am concerned about. I want to do something about my business. I want to make a phone call to them. I want to tell them that I am doing something right. I want to do something about my business. I want to make a phone call to them. I want to tell them that I am doing something wrong.I
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. But then, I find my e-commerce business is not working. I have a question about the e-commerce business.The answer is, of course, "your business" is not working.So, you need to take your time to consider the situation and understand what is the problem. I will explain your problems and how to fix them.So, your first step is to make sure that your online business is working. And, the first step is to review the information. So, you first have to ask your online business if it is working. And, your questions to a customer like "How long has your e-commerce business been running?" are the answers to the questions. You go to your online business to check it out.
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. I am never truly satisfied with the level of professional attention I receive from my customers. I often forget that I have the right to sell something, or have a right to do something.My customers is always motivated by my product or service. I will never lose sight of their trust in the product or service they are buying. I will always feel my customers have an equal right to choose their own products or services.I will always be faithful to my customers. I will never lie. I will never doubt my customers' faith in me. I will always take my money well. I will always be honest with my customers. I will always have a good time. I will always be able to give the right answer to my customers. I will always
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. I am concerned about my online business sales. I read about other people's online business sales. I have seen their online business sales. I have seen their online business sales. I even read their online sales. I wonder what they are doing over there. I wonder what they are doing over there. I think it's a good idea to try to get your online business sales listed on the Internet. I think it's a good idea to try to get your online business sales listed on the Internet. I said to myself, this is really important to me. They're not doing this. I said to myself, this is really important to me. They're not doing this. They're doing it. I thought to myself, this is really important
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. If you can do nothing about it, I will be in a little trouble, but I am not going to let you take your business elsewhere and lose your job. You will need to change your business and keep your employees safe. I will be here on business as usual. You will have to make your own money and your customers will have to pay you back. I will be here as usual.You will have to make your own money and your customers will have to pay you back. I will be here as usual. You will have to make your own money and your customers will have to pay you back.I will be here as usual. You will have to make your own money and your customers will have to pay you back.I will
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. If I am allowed to sell anything on the Internet, I will buy it back. However, the only sale I have to make on the Internet will be for the money I will spend on the items to be sold.The buyer will have to complete the transaction on the internet, preferably in a browser.This also applies to online sales. I will only have to sell items on the internet at a certain price.The buyer will have to purchase the items through the online store, or through another web store.This is called a "pre-sale", and I will sell the item to the buyer in my store. This is called an "action," and I will buy the item in my store.This is called an "action-through-
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. I use a variety of different types of products and services in order to get the best results. However, I find it very hard to work at my online business. I am always concerned about the online business sales. I use a variety of different types of products and services in order to get the best results. However, I find it very hard to work at my online business. I use a variety of different types of products and services in order to get the best results.
+
+Anonymous 05/06/17 (Tue) 04:41:20 AM No. 72777 >>72776
+
+>>72772
+
+It sounds like you have a pretty busy schedule. It sounds like you have a pretty busy schedule.
+
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. I'm always concerned about my online business sales. I'm always concerned about my online business sales.
+
+Anonymous 07/04/15 (Wed) 10:10:43 AM No. 253053 >>253050
+
+>I am always concerned about my online business sales. I'm always concerned about my online business sales. I'm always concerned about my online business sales. I'm always concerned about my online business sales.
+
+Anonymous 07/04/15 (Wed) 10:11:51 AM No. 253054 >>253050
+
+>I am always concerned about my online business sales. I'm always concerned about my online business sales. I'm always concerned about my online business sales.
+
+
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. My online business sales are a great success. I am always worried about my online business sales.My online business sales are a great success.
+
+Anonymous 09/21/16 (Wed) 06:56:45 PM No. 21625 >>21625
+
+I think you just went to a store and bought a new mattress.
+
+
+What they have in store is a new mattress. I think you just went to a store and bought a new mattress.What they have in store is a new mattress.
+
+Anonymous 09/21/16 (Wed) 07:06:08 PM No. 21631 >>21631
+
+>your work is for your own amusement, and your own amusement is for the enjoyment of those you
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I have to take more time to manage my accounts.I can't afford to have others tell me what to do.I can't afford to have my phone number ring.I need a credit card number for the information.I can't afford to have my birthdate.I need to show the birthdate.I need to show the date.I need to show the date.I need to show the date.I need to show the date.I need to show the date.I need to show the date.I need to show the date.I need to show the date.I need to show the date.I need to show the date.I need to show the date.I need to show the date.I need to
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. I'm tired of trying to earn a living and I want to get a job. I'm in the middle of selling new products to an ad agency. I have a bad day. I don't know where my phone is. I have to go buy a new computer. I have to go buy a new car. I have to pay my student loans. I have to pay my car insurance. I have to buy a new new wardrobe. I have to pay my landlord. I have to pay my landlord's mortgage. I have to pay my insurance premiums. I have to pay my bank account. I have to pay my bank's check. I have to pay my mortgage. I have to pay my car insurance. I have to pay my
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.The sales price will be determined in advance.I will have my salesperson sign a form to the buyer.I will then sell the goods in the store.I will make sure the goods are kept in good condition.The clerk will check the condition of the goods and make sure they are in good condition.My purchase will be shipped by the manufacturer.The buyer will be referred to the dealer and will be informed of the buyer's destination.I will also make sure the items are in good condition.The local store clerk will check the condition of the goods and make sure they are in good condition.The local store clerk will also have the seller check the condition of the goods and make sure they are in good condition.I will also make sure
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. I don't have to pick up a phone and talk to my friends. I have a great life and I am a successful person.My email is always in. I have a great job.I have a great friend.I have a great school.I have a great family.My telephone is always in. I have a good job.I have a great home.I have a great house.I have a great family.My phone is always in. I have a great home.I have a great school.I have a great school.My phone is always in. I have a great home.I have a great home.I have a great school.I have a great school.My phone is always in. I have a
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. I know you don't like the way my sale is handled. I really want to help you with your online business sales. What do I do? You understand. I know you don't like the way your sales is handled. I really want to help you with your online business sales. What do I do? I will make sure you are satisfied. I will make sure you are happy. I will make sure you have a good experience. I will make sure you have a good experience.I will make sure you have a good experience. I will make sure you have a good experience.I would like to thank you for your time. I would like to thank you for your time.
+
+I think of your business every day. Do
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. It is a very simple thing: I will keep my orders. But sometimes it is a difficult task to keep the order. The online business sales is a big one. In the past, I was very careful to make sure that I was in a position that I could keep the order in a timely manner. But now, in my new job, I have gotten the call that I will need to keep the order for a long time.In doing so, I will be able to increase my sales. For the first time, I have found a way to keep the order in order. I will be able to keep the order on my phone to keep the money. This will be a great opportunity for my business. But, my business is not
+---------------

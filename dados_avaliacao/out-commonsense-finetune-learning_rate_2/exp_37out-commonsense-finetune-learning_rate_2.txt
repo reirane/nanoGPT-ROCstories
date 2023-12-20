@@ -1,0 +1,170 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Susie was tired of her cell phone plan.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She wanted to call her brother. But when they finally call his wife, it is too late.<|endoftext|>The number of people who work in the country has increased by a quarter since 2012.
+
+More than 400,000 people have been employed in the UK in 2012
+
+The number of people working in the UK has increased by a quarter since 2012.
+
+The number of people working in the UK has increased by a quarter since 2012.
+
+The number of people working in the UK has increased by a quarter since 2012.
+
+The number of people working in the UK has increased by a quarter since 2012.
+
+The number of people working in the UK has increased by a quarter since 2012.
+
+The number of people
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She spent the night with her friends. She has a very good job.
+You are in a lot of trouble.
+Sitting on your side is fine.
+You are in a lot of trouble.
+Please,
+You are in a lot of trouble.
+Please, please,
+I love you.
+Sleeping is fine.
+You are in a lot of trouble.
+please, please,
+I can't do this.
+I can't do this.
+please, please,
+I know you have a lot of problems.
+please, please,
+I love you.
+please, please,
+We are doing well.
+I enjoy my work.
+please, please,
+I love you
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.Sylvia was tired of her business.Sergio was tired of the weather.Sophie was tired of the school.Sophia was tired of her time.Sophia was tired of the friends.Sophia was tired of the company.Sophia was tired of the job.Sophia was tired of the house.Sophia was tired of the shop.Sophia was tired of the job.Sophia was tired of the job.Sophia was tired of the house.Sophia was tired of the shop.Sophia was tired of the money.Sophia was tired of the time.Sophia was tired of the day.Sophia was tired of
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.You were lucky enough to be at the motel.You were looking for something to eat.You wanted to go to the mall.You wanted to go to work.You wanted to go to the store.You did not like the smell of the cigarette in the car.You were tired of the smell of the cigarette.You wanted to try something else.You tried to get out of bed.You tried to find a way out.You did not like the smell of the car.You did not like the smell of the car.You did not like the smell of the car.You looked forward to the day that you will be able to find a job.You wanted to buy something for your family.You wanted to be able to go to
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She went to the washroom.The laundry was on the floor.She was playing with the toy.The person next to her was playing with the toy.The person next to her was playing with the toy.The person next to her was playing with the toy.The person next to her was playing with the toy.The person next to her was playing with the toy.The person next to her was playing with the toy.The person next to her was playing with the toy.The person next to her was playing with the toy.The person next to her was playing with the toy.The person next to her was playing with the toy.The person next to her was playing with the toy.The person next to her was playing with
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.When you open the phone you'll see that the number is on the end of the line.You'll have to try to call a number to do it.<|endoftext|>This is a list of the available tools.
+
+Bundles of the Free Software Foundation (FSF)
+
+FSF is a non-profit organization that has a mission to help the development of the open source software and make them more accessible. (FSF)
+
+Forked packages are used to create software. (FSF)
+
+An alternative to the standard computer software is to buy a new one. (FSF)
+
+Forked packages are used for free software development. (FSF)
+
+An alternative to the standard computer
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She got a new one. She had a heart attack. She was out of the hospital. She asked for help. She would accept the help. She would have a happy heart. She would be able to go to work. She would be able to go home and enjoy her vacation. She would like to go on vacation. She would go to the grocery store. She would want to buy something. She would like to buy something,
+
+Read the following text within five sentences:Jane was tired of her phone. she went to the store.
+
+Read the following text within five sentences:Jane was out of the hospital. she went to the store.
+
+Read the following text within five sentences:Jane was hungry. she went
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.After talking to her for a few minutes, you will see the person in the other room.You will hear another person.You will be able to see the person in the other room.You will notice the person.You will want to go to bed.The person you is looking at is in the other room.You will see the person.You will want to go to bed.The person is in the other bedroom.You will notice the person.You will want to be in the place you want to be.The person is in the other bathroom.You will notice the person.You will want to go to bed.The person is in the other room. You will notice the person.You will want to go to the restaurant.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She went to the lobby. There was a girl at the counter. She had to go to the bathroom. She was tired. She cried.
+
+9. The word 'f**k' is a word you might not know.
+
+10. The word 'fuck' is a word you might not know.
+
+11. When there is a disturbance in the air.
+
+12. You would like to be able to leave your room.
+
+13. The name 'Bitch' is a word you might not know.
+
+14. You want to be able to go to the beach.
+
+15. Feeling uncomfortable.
+
+16. Getting in the car.
+
+17. You want to get
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She tried to call the phone number.She was a student. [sigh]She wanted to go back to school. [sigh]She is a teacher. [sighs]The weather is good. [sigh]She went to the park. [sigh]She was happy. [sigh]She is a good person. [sigh]She wanted to go to the store. [sigh]She was satisfied. [sigh]She is a good person. [sigh]She was a good friend. [sigh]The good thing is she is a good person. [sigh]The bad thing is she is a bad person. [sigh]The good thing is she is
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. When she decided to call, she had the phone number. However, when they looked at the plan she bought, she decided to throw the phone away.She was shocked to find, that there was no phone. They tried to get ahold of the person to help.They came to the plan.Susie was able to save it.They was glad to have the person to help.She found a new job.Susie was at home.She found a job.Susie was sad.At her job, she asked if she could go to the hospital. She was sure they would see her.They looked at the plan.She decided to go to the doctor.They asked her.Susie looked at the doctor.She felt
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She went to check the clock. Amy would be at the store. Susie would be at her friend's house. She would be at the store.You are not late. The next time you get home the next day. Your mom is sick. You will not be able to get your groceries. The next time you are home.You will not be able to write. You will not be able to find a job. The next time you are home.You will not be able to drive. You will not be able to drive into town. The next time you are home.You will not be able to pay your bills. The next time you are home.You will not be able to drive to the store. The next time you
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She went to the bathroom.She went to the bathroom.She went to the bathroom.Susie went to the bathroom.She went to the bathroom.She went to the bathroom.Susie went to the bathroom.She went to the bathroom.She went to the bathroom.Susie went to the bathroom.She went to the bathroom.She went to the bathroom.Susie went to the bathroom.She went to the bathroom.Susie went to the bathroom.She went to the bathroom.Susie went to the bathroom.She went to the bathroom.Susie went to the bathroom.She went to the bathroom.She went to the bathroom.She went to the bathroom.Susie went to the bathroom.She went to the
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She put it there and dialed the number. She returned to her cell phone and saw a button. She looked up the number.She got up and went for the bathroom.She found the water.She put on her t-shirt and went in the bathroom. She got some snacks and went to bed.She had some coffee and got ready for work. She called the doctor.The doctor took his medicine.Susie ate a cup of coffee. She grabbed a cup and went to the refrigerator.She saw the package.She looked at the package and said 'so yy.'She went to the store and bought the ticket.She went to the store and she saw the sign.She went to the store and bought the ticket.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She went to the office. She went inside.She came out.She saw a person on the phone.Susie said:Call my boss.I'll take a look.You take a picture.She called my boss's office.You get a job.You get a job offer.You go to work.You get a check.you call your boss's office.you find out the answer.you get a job. you put in the work.you have a good time.you don't get punished.you go back to work.you get a raise.you go to class.you work on the computer.you go to the bathroom.you find the toilet.you go to the bathroom.you fall asleep.you go
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She checked the phone to see if there was anything on it.She read the book.She is tired of being on her cell phone.She goes to the store.She has a baggie.She is out of the store.The customer gives her the baggie.She checks the baggie.The customer gives the baggie.She takes the baggie.The customer gives the baggie.She takes the baggie.The customer gives the baggie.The customer gives the baggie.The customer gives the baggie.The customer gives the baggie.The customer gives the baggie.The customer gives the baggie.The customer gives the baggie.The customer gives the baggy.The customer gives the baggy.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. Instead of calling, find another cell phone for her. You will be rewarded. You will be able to call her later. You will be able to get a credit card. You will be able to buy something for your family. You will be able to clean your house. You will be able to buy some gifts. You will be satisfied. You will be able to see your new baby. You will be able to keep your job. You will be able to pay the bills. You will be able to buy something. You will be able to keep your job. You will be happy. You will be able to buy something. You will be able to wear something. You will be happy. You will be able to tell your friends. You
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.Instead, she went to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the store.Susie was going to the
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She went to the store with friends. She took a nap. Then, she went back to work. She thought she would like to go to work. She needed her phone.So, after a long week of working, she came home and got a new phone. She took the phone from the drawer and opened it. The phone is in good working order. She went to the store. She was happy. She put them in the back of the car. She was happy. She got a new phone. A new one.She started to use the service. She talked to the service. She thought she would like it. There is something wrong. She is not happy. She is unhappy.She went to your doctor. She is upset
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She went to the restroom. She washed her hair.She went to the grocery store.She went to the office.She looked for something to do.She went to the park.She opened her mouth.She enjoyed herself.She was hungry.She got the job.She liked to play games.She wanted to be on the team.She took a shower.She got up.She saw what happened.She wants to go to the hospital.She wants to tell her parents.She wants to find out what she's doing.She wants to get to the hospital.She wants to meet her husband.She wants to go to church.She wants to start something.She wants to write.She wants to get the job done.She
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She realized that she had to make a phone call. She knew that she had to pay for the contract. She went to work.She decided to take the bus.The bus was slow. The bus stopped.Susie was confused. She was walking. She was in the middle of the road.She was walking along.She was curious.She wanted to ask her friends.She was asking for more information.She was curious.She wanted to know what happened.She went to the doctor.The doctor was on the phone. The doctor decided to check on her.The doctor was frustrated.He was going to work next week.He wanted to take the test.The doctor was very aggressive.He got angry.The doctor sat with
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She checked the plan box. She was hungry.That was the last of the plan.She went back to her room.The doctor was at the door.He sat inside.He told the doctor he was sick.They sat down.They put the phone down.The doc was at the door.He gave the doc a big hug.They sat down.He took the phone away.A doctor is not like a doctor.They were not going to take their medication.An ambulance is not like a truck.The doc is not going to help.The doctor was waiting to see what happened.When the doc gave the doc the hug,the doc was able to get him to move.He got to the doctor.He went to the
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She went to the bathroom. No alarm.She looked at the phone. It was a short one.She went back to sleep. She picked it up. She went to her computer. No one has ever put the phone down.She got home from work. She sat in the car. No one has ever put the phone down.She went back to the store. No one has ever put the phone down.She went to the store. No one has ever put the phone down.She went home. No one has ever put the phone down.She went to her dentist. No one has ever put the toothbrush down.She went to her doctor. No one has ever put the toothbrush down.She checked the fridge. No
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She gave up her cell phone. She walked over to the other side.She looked around to find the other two.Susie looked at the other two.Susie went to the other side.Susie is a little tired.She went to the other side.Susie is worried.She is tired.The other two will get together.The two will have a good time.The two will be friends.The two will get together.The two will be happy.The two will be in love.The two will be alone.The two will be fulfilled.The two will take a break.The two will be tired.The two will be very tired.The two will be in their beds.The two will be in a good
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She asked for a new one.She asked for a new card.She asked for a refund.She wants to get a new car.She wants to get out of the house.She wants to get a new suit.She wants to get a new phone.She wants to get flowers.She wants to pick up a phone.She wants to get the flowers.She wants to get a new car.She wants to get a new job.She wants to get a new car.She wants to be a mother.She wants to have a baby.She wants to live in a city.She wants to be a good mother.She wants to get a new job.She wants to get out of the house.She wants to get a
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She went to a gas station. They found out about the gas station. They got into a car. They ran.
+[LINKS] [FOCUS] [FEMALE] [CLIP] [FEMALE] [CLIP] [CLIP] [FEMALE] [CLIP] [FEMALE] [LINKS] [FEMALE] [FEMALE] [CLIP] [FEMALE] [FEMALE] [CLIP] [FEMALE] [FEMALE] [FEMALE] [FEMALE] [CLIP] [FEMALE] [FEMALE] [FEMALE] [FEMALE] [F
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.The girl was the only one to use the phone.Susie is the only one with her phone.The girl was the only one to call the doctor.The girl was the only one to get the appointment.The girl was the only one to understand the whole situation.The girl was the only one to hear the news.The girl was the only one to know how to use the phone.The girl was the only one to buy the food.The girl was the only one to go to the library.The girl was the only one to read the newspaper.The girl was the only one to start a new life.The girl was the only one to get a job.The girl was the only one to get the information.The girl
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.Sugar's mom is the one who brought you the phone.Sugar is having a great time at work.Sugar is tired of having a bad day.Sugar is being lazy.Sugar wears a hat.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.You are going to the bathroom.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She asked you to call her.You gave her a number.She called you back.She opened your phone.She looked at you.You took a deep breath.Yup.She told you it's fine.She thanked you.She looked over her shoulder.You called around to see if she was ok.She walked over.You took a nap.She is very fast.You watched some tv shows.You sat on the couch.You asked the person to take the phone.You took a picture.You gave her the phone number.You took a look at the picture.You would like to go home.You want to call your mom.You were lucky.They were all in the same room.You went to visit your
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She said he was a police officer.
+
+I wanted to pick up my phone. I got a text from my mom.
+
+I saw your new car.
+
+You're here for the holidays.
+
+There is a good reason that you went to the mall.
+
+I want it to be nice.
+
+You're playing chess.
+
+I want to pick you up.
+
+I'm afraid you have a headache.
+
+I didn't want to see your mother.
+
+You're a hard worker.
+
+You're happy.
+
+You're going to be late.
+
+I want to show you.
+
+I want to talk to you.
+
+I want to know what
+---------------

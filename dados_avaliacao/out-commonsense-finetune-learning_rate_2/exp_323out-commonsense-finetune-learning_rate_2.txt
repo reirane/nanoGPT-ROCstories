@@ -1,0 +1,340 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He wanted to go to a doctor. He wanted to go to a doctor for a heart attack.The doctor asked Carl for a prescription. He took the prescription.Carl was good. He wants to help.He wants to help the others. He wants to be able to do anything.The doctor wants to take care of the others. The doctor wants to give Carl an exam.The doctor wants to get a lawyer.The doctor wants to check the details.The doctor wants to order a meal.The doctor wants to bring a cup.The doctor wants to take the test.The doctor wants to be happy.The doctor wants to know what he is doing.The doctor wants to be satisfied with the results.The doctor wants to be able
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He's barely at the halfway point of his life. He needs to get help. What would you do?Send him to a hospital. He needs to get a doctor. Will you accept it. If not, you'll regret it.Scheduled for tomorrow's meeting. Call the doctor.What would you do?Slept.Slept with a friend. What would you do?Slept out of the house.What would you do?Slept with a stranger. What would you do?
+
+MALE
+
+FEMALE
+
+MALE
+
+MALE
+
+FEMALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He couldn't get to the hospital. He wants to go home.He needs to get some food.He needs to go to a movie.He needs to get some time off.He is getting a job.He wants to get his wife's number.He wants to go to a friend's house.He needs to get some money.He needs to go to the store.He wants to go to the doctor.He wants to watch a movie.He wants to see the movie.He wants to buy some groceries.He wants to buy his car.He wants to take a trip.He needs to go to the store.He wants to put in a call.He needs to get out of bed.He needs to go on his
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. The doctor said he needed to go to the emergency room to get help. He told him to go to the clinic. He told the doctor. He told the doctor. He told the doctor. The doctor is very good. The doctor is very happy. The doctor is more careful. The doctor is good at his job.The doctor is scared. The doctor is patient.The doctor is too tired. The doctor is too sick.The doctor is sleepy.The doctor is not able to pay the bills.The doctor is too busy.The doctor is too tired.The doctor is tired.The doctor is tired.The doctor is tired.The doctor is tired.The doctor is tired.The doctor is tired.The doctor is tired.The
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+The 'MILLION IS COLD' is not a word you are aware of.
+Cannot find a new job.
+It is considered a crime to live in a house with a woman.
+Fruit is not necessary.
+There is no difference between a person who is sick or tired and someone who is healthy.
+Do not go out.
+A person is not at the house.
+The street is not long.
+Sometimes you will have trouble with your husband.
+You will get attacked by a person.
+The house is empty.
+It is not very good.
+Someone is not at your door.
+The apple is a good size.
+You will never get an erection.
+The apple is
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+You should have seen the person you were talking to before.
+I should get a new job.
+You should have seen a movie.
+Have you seen a movie in the past.
+You should have taken a walk.
+I want to buy more wine.
+You should have your dog.
+You should have an air conditioner.
+When you are a teenager.
+You should have a job.
+You should have a job.
+You should have a vacation.
+You should have a vacation.
+That is a good idea.
+You should have a new baby.
+You should have a new job.
+You should have a job.
+You should have a vacation.
+You should have a vacation.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+He didn't make the decision to buy the new car.
+Carl could not go to the doctor.
+He wants to go to the dentist.
+Carl is a good guy.
+I'm a good person.
+I want to see the movie.
+I'm the best.
+I'm the best.
+I'm a good person.
+I'm a good person.
+I want to work.
+I want to get a job.
+I want to see the movie.
+I want to get married.
+I'm not a good person.
+I feel bad.
+I want to go to the movie.
+I want to go to the doctor.
+I want to get some supplies.
+I want
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.There was some bad situation.If you go and buy something, you will get the same help.If you still can't find the right item, you will have a bad experience.If you still can't obtain the item, you will regret it.if you take a break, you will feel you are tired.if you don't have the right food, you will have a bad experience.if you go to a store, you will get a bad item.if you walk around for a long time, you will get a bad experience.if you get lucky, you will win the lottery.if you buy a new car, you will find it in your car.if you work hard, you will win the event.if you want
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He's a bad person. He's a drug dealer. You're the one who needs to get a prescription. He's like a fish. Your life is full of waste. You're about to lose your job. He wants to be an accountant. You should be able to find a job.He wants to buy a new car.He wants to get a job.He's a thief. He wants to get money from us. He wants to be a good father to his kids.He wants to take care of his wife.He wants to go to the doctor.he has no money.he's going to lose his job.he just wants to be a good father.he wants to fix his computer.he's going to get
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He needs to go to a hospital.He's a doctor. [He] has to find someone to be a doctor.Carl is a new kid.
+
+[MALE] wants to save money. [MALE] wants to come up with something.
+
+[MALE] needs to go to school. [MALE] wants to talk to the teacher.
+
+[MALE] is a good person. [MALE] is a good person.
+
+[MALE] wants to go to the movies. [MALE] wants to go home.
+
+[MALE] is scared. [MALE] is scared.
+
+[MALE] needs to go to the doctor. [MALE
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+you can put a picture of him in a book.
+it's okay to have sex.
+a man's body needs to be clean.
+you will find all your friends under the bed.
+honey is good for kids.
+your food is good for you.
+a man's stomach needs to be full.
+a man's heart needs to be full.
+a man's body needs to be healthy.
+a man's body needs to be healthy.
+a man's body needs to be healthy.
+a man's body needs to be healthy.
+a man's body needs to be healthy.
+a man's body needs to be healthy.
+a man's body needs to be healthy.
+a man
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+The following text is a transcript of:
+Carl is a well person.
+This sentence is not a transcript of this story.
+I'm confused.
+I told my mom.
+I want to play football.
+I want to tell my mom.
+My mom is with me.
+What is wrong with my body.
+This is my training.
+I need to see a doctor.
+I want to go to the doctor.
+I want to go to the park.
+I want to play basketball.
+I want to get my prescription.
+I want to play football.
+I am tired.
+I really want to know.
+I want to get some rest.
+I want to be good.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+b) You have the right to ask for your health insurance.
+c) The health insurance company will give you your credit card.
+d) Your health insurance company will pay you a $15 gift card.
+e) The health insurance company will give you something to eat.
+f) Your health insurance company will pay you a $10 gift card.
+g) You will find your perfect match in your health insurance company.
+h) The health insurance company will pay you a check.
+i) You will find a new job.
+j) You will find your perfect match in your health insurance company.
+k) You will find a new hobby.
+l) You will find your perfect match in your health insurance
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Advertisement
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+You have to pay the health insurance.
+You have to pay the health insurance.
+You still have to pay the health insurance.
+You still have to pay the health insurance.
+You are still hungry.
+You are not hungry.
+You have to have a meal.
+You need to do something.
+You have to have a book.
+You have to wear gloves.
+You want to go.
+You will not get the call.
+You will not get the call.
+You will not get called.
+You will not get a call.
+You will get the phone call.
+You will get the call.
+You will get the call.
+You will get the call.
+You will get
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+The woman was able to get a job.
+The woman is capable of make the appointment.
+The woman is capable of work.
+The woman's mind is free.
+The woman's mind is healthy.
+The woman needs to make a phone call.
+The woman needs to check on her kids.
+The woman is capable of be quiet.
+The woman is responsible.
+The woman has a boyfriend.
+The woman needs to make the appointment.
+The woman is mentally healthy.
+The woman's stomach is full.
+The woman needs to wash the dishes.
+The woman is mentally healthy.
+The woman is responsible.
+The woman is capable of find a job.
+The woman is capable of go through
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He was not able to pay his health insurance. You will be lucky. But he is not.You will be lucky. But you will not get sick.You will be lucky. But you will not have a car.You will be lucky. But you will not have a house.You will be lucky. But you will not have children.You will be lucky. But you will not have money.You will be lucky. But you will not know the way to the store.You will be lucky. But you will not have a job.You will be lucky. But you will not have kids.You will be lucky. But you will not have children.Your wife is sick.You will be lucky. But you will not have
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+He didn't even have a car.
+The person who has to take care of he.
+The person who has to look after him.
+The person who does the thing.
+The person who's not a big guy.
+The person who is in danger.
+The person who is tired.
+The person who is in pain.
+The person who has to do everything.
+The person who has to go to the doctor.
+The person who has to use their computer.
+The person who has to drink a cup of tea.
+The person who is a teacher.
+The person who has to go to school.
+The person who is a teacher.
+The person who has to go to the store.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+Carl is using a restroom.
+Carl is getting ready for work.
+The only way to find out what you need is to go to the doctor.
+Carl will be an oddball in the park.
+Carl is not going to school.
+Carl will be dating a girl.
+Carl is going to the beach.
+Carl will not have kids.
+Carl will have trouble walking.
+Carl will have a bad day.
+The only way to find out what you need is to go to the doctor.
+There is something wrong with the bathroom.
+The only way to find out what you need is to go to the bathroom.
+The only way to find out what you need is to go to the bathroom.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He needs to find a doctors office.He needs to take his medication. He needs to go to go shopping.He needs to buy something and get a haircut.He needs to put makeup.He needs to do a job.He needs to say hello to the family.Carl is a very shy person. He has a lot of fear. He loves to talk to people.He needs get a job.He needs to have a car.He needs to write a book.He needs to get some money.He wants to make some money.He needs to have a job.He wants to go to the doctor.He wants to sleep well.He wants to make sure he get in shape.Some people are more stubborn than others.They
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He was having problems with his health insurance, and he must have bought it.He took the medicine and drank it. He ate the medicine. He fell asleep.He ate breakfast. He was really tired.He took his medicine. He took it to the doctor. He took the medicine.He went to the doctor. He took the medicine. He went to the doctor.He took the medicine. He took the medicine. He went to the gym.He took the medicine. He went to the movie theater.He went to the restaurant.He ate lunch.He went to the store.He ran from the store.He would have gotten a check.He goes to the store.He gets a new car.He gets an order.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+That's weird, isn't it?
+That's an issue, doesn't it?
+That's not something to worry about.
+Let's see.
+This is my first time watching something.
+Good.
+You're not getting your lunch.
+Hey, Carl.
+You should go to bed.
+It's going okay.
+What the hell is wrong with you?
+You're getting worse.
+You're not going to get into trouble.
+Carl's not going to be able to help you.
+Wait.
+Let me get you some food.
+Yeah, we'll get you some food.
+You're hungry.
+I don't need your money.
+You're a good person.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.He doesn't know a thing about the law.What does he expect to happen?Do you want to make a gift to him?What is the importance of the gift?What is the difference between the gift and the gift of life?What is your role in the project?What is your job?What is the purpose of your job?What is your motivation in this job?What is the purpose of this job?What is your motivation in this job?What is your role in this job?What is your motivation in this job?What is your motivation in this job?What is your motivation in this job?What is your motivation in this job?What is your motivation in this job?What is your motivation in this job?What
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He has no health insurance.
+EAST LANSING -
+AUSTRALIA -
+THE NEW WORLD -
+AUSTRIA -
+THE UNITED STATES OF AMERICA -
+AUSTRALIA -
+AUS -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+AUSTRIA -
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. But Carl has a plan. He is good at his job. You can save money. They like their food. You can buy food. You can drink it. You will never think bad. You will never think bad. You will have problems. You will have to work harder. you will lose your jobs. You will get paid less. You will miss your job. You will get a new one. you will find new ones. you will see your friends. you will find out more. you will get to know others. you will be the best at your job.you will not regret your decision. you will never be unhappy.you will never be bored. you will be happy.you will never be embarrassed. you will never regret
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+satisfied with the fact that he was able to find a job.
+satisfied with the fact that he had a good job.
+satisfied with the fact that he was able to find a car.
+satisfied with the fact that he was able to find the person he was looking for.
+satisfied with the fact that he was able to find the person he was looking for.
+satisfied with the fact that he gave up his car.
+satisfied with the fact that he had to use a phone app.
+satisfied with the fact that he had to use a person service.
+satisfied with the fact that he had to use the person service.
+s
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.The doctor told the fact that the payment had been made.Carl is prepared to go home.The doctor wants to see the doctor.The doctor decides to go alone.The doctor is satisfied with his decision.The doctor is satisfied with his success.The doctor is happy.The doctor wishes to go to the hospital.The doctor wants to go to the hospital.The doctor wishes to see the doctor.The doctor wants to go to the doctor.The doctor is satisfied.The doctor wants to buy food for his family.The doctor wants to go to the doctor.The doctor wants to know his son.The doctor wants to go to the doctor.The doctor takes a look at the picture.The doctor is satisfied.The doctor is not satisfied
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.Settling for food.Rent the car.Eat well.Marry a friend.Go to a movie.Go to the movies.Find a new job.Have a good time.Marry a second parent.Go to the movies.Maintain a healthy lifestyle.Maintain a job.Maintain food.Have a good time.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain a good relationship.Maintain
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. That's not allowed. [unclear]That's not allowed. That is not allowed. [a bit frustrated] [weak]It is not allowed. That is not allowed. [weak]It is not allowed. [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused] [a bit confused]
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He said he will not go to the doctors.I wanted to make sure he was working right.I got the car.The doctor called.I will get the car.I will get here safely.I will have a good time.I will go to work.I will run the errand.I will need to go to the store.I will need to go back.I will buy a new dress.I will be very happy.I will be in the hospital.I will see a doctor.I will get the doctor's name.I will buy a new dress.I will be happy.I will be in the hospital.I will need to go to the doctor's office.I will need to get my doctor's number
+---------------

@@ -1,0 +1,154 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_3_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Susie was tired of her cell phone plan.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She wanted to call her brother.She wants to go to his house.She is walking.She is looking at books.She is curious.She has a son.She had an appointment.She was having lunch.She is late to the party.She has a boyfriend.She wants have a party.She has a baby.She is sleeping.She is healthy.She has a job.She is a lawyer.She is with a friend.She is being entertained.She is playing tennis.She is visiting friends.She is at the store.She is with family.She is in a restaurant.She is with her son.She is getting ready for school.She is a teacher.She is the boss.She is caring.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She got a new phone.You're getting ready for the final exam.You're spending time with your friends.You can see the sun.You get your diploma.You're getting married.You don't need to buy a new car.You put on your pants.You put on your sweater.You go out.You can't go for a walk.You take the bus.You drive for a long time.You get a new job.You get a job.You get a job.You're the best.
+
+[reading] [giggles] [good] [goes] [happens] [happens] [goes] [goes]
+
+[read] [horses]
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.Sylvia was driving home from work.Sergio was getting ready for work.Maisie was driving home.Maisie was getting ready to go to the grocery store.Maisie was having a baby.Maisie was loving.Maisie was playing catch.Maisie was going to the mall.Maisie was in a coma.Maisie was eating breakfast.Maisie was watching a movie.Maisie was having lunch.Maisie was in a state of shock.Maisie was in a state of shock.Maisie was an idiot.Maisie was a clown.Maisie was having fun.Maisie was a walking circus performer.Mais
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.You were out for a drive.You heard the doorbell ring.You have to go to the bathroom.You will be late.You will need to work.You will be on the phone.You will have a party on the way.You will be on the bus.You will be a good friend.You will sleep safe.You will have a good time.You will make friends.You will be good to go.You will be a good person.You will not fall.You will be lucky.You will want to help people.You will be friendly.You will be able to hear people's laughter.You will stay well.You will be healthy.You will be good.You will get rid of their bad habits.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.
+[MALE] needs to make a decision.
+[MALE] is determined.
+[MALE] is determined.
+[MALE] is impatient.
+[MALE] is very curious.
+[MALE] is content.
+[MALE] asks [MALE] to eat.
+[MALE] wants to buy something.
+[MALE] loves [MALE] much.
+[MALE] wants to have dinner with [FEMALE]
+[MALE] is caring.
+[MALE] is proud.
+[MALE] wants to hold [FEMALE] back.
+[MALE] is talking to [FEMALE] in persony's
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.When you open the phone you will see that there is a timer. You will get a notification.You will need to turn off your phone for a few mins.You will need to rest for a few hours.You will need to wear a tie.You will need to take a shower.You will need to get a new pair of shoes.You will need to put your phone away.You will need to pick it up.You will need to make an appointment.You will need to wait for the car to go by.You will need to go to the supermarket.You will need to pick up your keys.You will need to be very cooperative.You will need to be able to give a good answer.You will need to be
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.
+the following text within five sentences:We see you at the mall.
+the following text within five sentences:There are two people in the restaurant.
+the following text within five sentences:I need to go to work.
+the following text within five sentences:I'm working.
+the following text within five sentences:I'm a good citizen.
+the following text within five sentences:I bought a new car.
+the following text within five sentences:it's raining outside.
+the following text within five sentences:there are lots of people looking.
+the following text within five sentences:it's late.
+the following text within five sentences:it's a trip.
+the following text within five sentences:it's in
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.If you turn on the television and you see a picture of the person in the picture, you are not a good person.You are so sick.You are so stupid.If you turn off the television, you will be guilty.You will not be able to take a break.If you talk to a person who is very upset, you will be praised.You will not be able to get a job.If you go to a park in a city, you will be found.You will not be able to take a shower.If you turn on the television and you see the person in the picture, you are not a good person.You are so tired. You is having a bad day.You will angry.You is jealous.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.Your friends will be very satisfied with you.You will make new friends.I will be able to choose what to do.You will feel fulfilled.I will spend the rest of my life with you.You will reach a certain point.I will pay my bills.You will feel appreciated.You will make a decision.I will write a new book.I will make some money.I will make money.I will change my life.I will be happy.I will get married.I will make a good impression.I will get my hair cut.I will live with my family.I will be safe.I will be happy.I will learn new things.I will take them to school.I will write a letter.I
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She tried to call the phone number.She was a student. [FEMALE] would be angry. [FEMALE] would be disappointed.
+[MALE] hears the noise of the car. [MALE] will happy. [MALE] will happy.
+[MALE] puts [FEMALE] on the spot. [MALE] will happy. [MALE] will happy.
+[MALE] is a slave to someone. [MALE] is impatient. [MALE] will is greedy.
+[MALE] eats a lot. [MALE] needs to put a lot in the fridge. [MALE] needs eat dinner.
+[MALE] hears more of
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.
+you has to choose your own time.
+you has to buy something.
+you is capable of talk to someone.
+you is capable of play.
+you is capable of drive.
+you is capable of eat.
+you is capable of be able to.
+you is capable of get rid of.
+you is capable of take.
+you is capable of pick up.
+you is capable of have a car.
+someone is capable of keep you company.
+someone is capable of keep good company.
+someone is capable of have a conversation.
+someone is capable of see.
+someone is capable of leave.
+someone is capable of pick up.
+someone is capable of give up.
+someone is capable of
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.You've had a great day.You're enjoying yourself.You're enjoying your day.You're enjoying life.You're enjoying your family.You think of your family.You're enjoying your day.You're enjoying your day.You're enjoying your day.You're loving your life.You're loving your life.You're loving your day.You're loving your day.You're loving your day.You're loving your day.You're loving your day.You're living your life.You are loving your life.You are loving yourself.You are loving your life.You are loving your life.You are loving your life.You are loving your life.You are loving your life.You are loving your life.You are
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She gave her cell phone to her husband.This was the last meal she had in the day.She was feeling sad.She was tired.This is the last time she would eat.This is the last time they would go fishing.This was the last time they would drive.This is the last time they ran.This is the last time they would fight.This is the last time they would go to a party.This is the last time they would pay a bill.This is the last time they would walk.This is the last time they would work.This is the last time they would go to a restaurant.This is the last time they would pick up a phone.This is the last time they would go to a movie
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She moved it to the front of the car. She returned to her apartment.
+[MALE] takes the last picture of a beautiful person. [MALE] wants to show they are beautiful.
+[MALE] wants to go to the bar. [MALE] wants to get a drink.
+[MALE] gives [FEMALE] a gift. [MALE] will excited.
+[MALE] begins the process. [MALE] wants to get done.
+[MALE] does not understand. [MALE] will overwhelmed.
+[MALE] spends none on the kitchen table. [MALE] wants to make sure they are clean.
+[MALE] takes none to
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. you will be able to get a new one soon.you will be able to buy a new phone.you will be able to buy tickets.you will be able to pick up the phone.you will be hungry.you will be tired.you will be stressed.you will be in a coma.you will be a lost cause.you will be able to be proud.you will be satisfied.you will be able to achieve your goals.you will be able to make more money.you will be healthy.you will be happy.you will be able to have fun.you will be proud.you will be able to support others.you will be proud.you will be able to relax.you will be happy.you will be
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She checked the phone.The package was within the package.She asked the person for the receipt.The person will thank her for the receipt.The person will reply.The person will be grateful for the response.The person will be relieved.The person will be satisfied.The person will be grateful.The person will be responsible for the loss.The person will be grateful.The person will be satisfied.the person will be satisfied.the person will be in high spirits.the person is friendly.the person will be good.the person will be respected.the person will be generous.the person will be helpful.the person will be happy.the person will be generous.the person will be in good health.the person will be sad
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. you then read the text and you go for a walk.you also read the text and you make a reservation.you make reservations you make.you get a credit card.you sign up for the program.you is connected.you is doing well.you is giving up.you is going to university.you is at your car.your car is safe.you is good.you is friendly.you is helpful.you is caring.you is happy.you is caring.you is a good person.you is loving.you is helpful.you is fun.you is caring.you is loving.you is motivated.you is caring.you is determined.you is devoted.you is caring.you is careful.you is loving
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.You asked her if she had a key.You asked her to call you.You were very lucky.Your only regret was not to get the phone.You did not have time.You were busy.You wanted to go for a walk.You went to the store.You forgot the key.You want to go pick up your keys.You want to go home.You is a good friend.You need to go to a store.You will lose money.You want to use the computer.You is a good person.You is generous.You will have fun.You is a good person.You is satisfied.You is working.You are getting better.You will need to go to the grocery store.You is working hard.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She went for a walk with friends.She took a nap.She wants to go home.
+[MALE] is scared. [MALE] wants to go home. [MALE] wants to be safe.
+[MALE] starts driving. [MALE] needs to know how to drive. [MALE] will happy.
+[MALE] is dressed. [MALE] wants to take a shower. [MALE] is really nice.
+[MALE] is motivated. [MALE] needs to be motivated to work.
+[MALE] goes to the store. [MALE] is scared.
+[MALE] puts the phone away. [MALE] is happy.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She needs to be at the airport.She needs to go to the mall.She needs to be close to her boyfriend.She needs to be close to your mother.She needs to be in a place where she can relax.She needs to be on the bus.She wants to have a good time.She needs to have a family.She needs to be on the beach.She wants to be in the shopping mall.She wants to be on a bus.She wants to get a haircut.She wants to have a good day.She wants to be at the airport.She wants to go to the movies.She wants to sleep well.She wants to make sure she has a good night's rest.She wants to get a good
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She gets a new one yesterday.<|endoftext|>The world is getting closer to being a completely new reality.
+[MALE] is the first person ever to become the first person to live in the world. [MALE] is the first person to have children. [MALE] is capable of lead a life. [MALE] is capable of become a successful artist. [MALE] wants to go to the opera. [FEMALE] wants to be a part of the orchestra. [MALE] is capable of make a gift. [MALE] is capable of make money. [MALE] will happy. [MALE] will happy. [MALE] is capable of eat. [MALE] will
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She checked the plan box. She was hungry.That was an accident.She was lucky.She's a good friend.She has a lot.Step by step.This is a good idea.Step by step.This is an interesting experience.Step by step.This is a good place to be.This is a good place to be.This is a good place to be.This is a good place to be.This is a good place to be.This is a good place to be.This is a good place to be.This is a good place to be.This is bad.This is bad.This is bad.This is bad.This is bad.This is bad.This is bad.This is bad.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She wants to go to the store.you will get a new phone.you will be in a happy mood.you will get a gift.you will not be late.you will not hurt anyone else.you will be happy.you will get a wallet.you will be able to afford it.you will be a socialite.you will be happy.you will be happy.you will be proud.you will be satisfied.you will get a gift.you will welcome it.you will be on the good side.you will get an award.you will be proud.you will be talented.you will get a job.you will benefit from it.you will be intelligent.you will be a teacher.you will be happy
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.Your wife is lonely.Someone put a blanket over you.You are very upset.Try to say something good to your friend.Your family has a great idea.Your phone is good.Your friend is worried.Your parents is in the middle of their workday.Your boss is worried.Your friend is watching TV.Your family is holding family functions.Your boyfriend is having a dream.You will be on the phone with your boss.You will be in the hospital.Your job is important.You will be married.Your girlfriend is pregnant.You is in a relationship.your friend is a friend.Your husband is caring.Your friend is in the hospital.Your friend is depressed.Your friend is in a relationship.your boyfriend is
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She says to herself.She will not have any money to spend.<|endoftext|>If you're a fan of the anime it is possible that your computer has been used to send messages to others.
+
+If you're a fan of the manga it is possible that your computer has been used to show you manga.
+
+If you're a fan of the movie it is possible that your computer has been used to watch it.
+
+If you're an astronaut you will be interested in the space station.
+
+If you're a fan of the cartoon you will be interested in the cartoon.
+
+If you're a fan of the movie you will be interested in the film.
+
+If you're a fan of the film you will be
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She went to a park.She was holding a book.She grabbed a book.She was in the car.she was driving.she hated going to the store.she hated being late.she was too tired.she wants to be nice.she wants to hug.he is in the car.he is eating.he wants to get a snack.he is in the car.he wants to go home.he wants to be late.he wants to be late.he wants to get a job.he wants to get money.he wants to be in shape.he wants to be good.he wants to have fun.he wants to have a good time.he wants to be nice.he wants to be friendly.he is
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.The girl with the yellow ponytail is a teenager.It's the first time you have to walk with a cane.Everyone is happy.There is a flower shop.The girl with the red rose is a teenager.The girl with the black beanie is a teenager.The person with the white dress is a teenager.The person with the green scarf is a teenager.The person with the blue scarf is a teenager.The person with the blue scarf is a teenager.The person with the brown coat is a teenager.The person with the gray coat is a teenager.The person with the two-penny box is a teenager.The person with the black umbrella is a teenager.The person with the yellow umbrella is a teenager.The person
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.Sugar is sick.I am in the wrong place at the wrong time.I am out of my element.I can get away with it.I will.I am a good person.I will.I will.I have a good time.I will.I will.I will.I will.I will.I will.I will.I will.I will.I is angry.I is sorry.I am going to bed.I will.I needs help.I will.I needs help.I needs help.I takes care of my puppy.I needs to be on time.I needs to get a new phone.I needs be at home.I needs to do something about the situation.I needs to
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She asked you to leave.She needs to ask for a refund.You are too clever.You might not make it.You need to sell your house.You might win a prize.You is too smart.You would be successful.You is overworked.You can make money.You is loved.You is tired.You needs to wear a hat.You is caring.You needs to be social.You is fun.You is loving.You is fun.You is caring.You is working.You is competent.You is caring.You is caring.You is caring.You is caring.You is caring.You is caring.You is caring.You is caring.You is sharing.You is sharing.You is sharing
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She said he was a police officer.
+[MALE] gets a new car. [FEMALE] wants to drive it.
+[MALE] finally gets a job. [MALE] will happy.
+[MALE] buys a new computer. [MALE] needs to buy a new computer.
+[MALE] is getting ready to go. [MALE] is ready for it.
+[MALE] gives [FEMALE] the keys. [MALE] needs to take the keys..
+[MALE] makes [FEMALE] own. [MALE] wants to sell the house to a friend.
+[MALE] buys a new car. [MALE]
+---------------

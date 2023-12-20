@@ -1,0 +1,116 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch16/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Susie was tired of her cell phone plan.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She wanted to call her brother. But when the phone call went unanswered, it took a minute to resolve the issue. She was worried that her brother was really old. She had an appointment for the doctor. But that was not the case. He would be a few hours late.Susie was worried that if she didn't call her brother, she would be charged with a misdemeanor. She didn't know what to do. But with a lot of frustration, she went to the doctor. The doctor gave her a call. When she called the doctor, she was shocked. He didn't know what to do. He was like a puppy. He would lie down and lie down. He wanted to get to the doctor. He wanted to talk
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She spent the day with her phone on her lap. This morning she called her mom. Susie's mom called her, too. She told her mom about the new plan she wanted, but she didn't want to give it to her mom.Susie's mom called her, too. She told her mom about the new plan she wanted, but she didn't want to give it to her mom. Susie's mom called her, too. She told her mom about the new plan she wanted, but she didn't want to give it to her mom.Susie's mom called her, too. She told her mom about the new plan she wanted, but she didn't want to give it to her mom.Susie's mom
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. Just like the rest of the day, she took a call from a friend. She was told they were going to be visiting the hospital. After a short conversation, she asked how much time they had left for the visit. The friend told her they would be getting back to work on their new project.
+
+"I don't care about the phone number. I just want to call you to ask you something."
+
+"No. No. No."
+
+"You're a weirdo."
+
+"No. No."
+
+"I'm not weird."
+
+"You're an idiot."
+
+"I'm a fool."
+
+"You're a hater."
+
+"I'm not a h
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. The next day, she found that it wasn't working. That afternoon, she told her boyfriend that she was going to go for a walk. He told her to take a break from work. The next morning, he called her. She told him that the phone had been disconnected. Susie was sick. She lost consciousness. The next day, she told her boyfriend that he told her that she was going to go for a walk. He told her that the phone had been disconnected. Susie was sick. She lost consciousness. The next day, she told her boyfriend that he told her that he told her that she was going to go for a walk. He told her that the phone had been disconnected. The next day, she told her
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. The phone had been lost.Her parents were on the phone.In the middle of the night, the family drove to the same grocery store. They called two different people, and once they arrived at their destination, they were greeted by one of the neighbors. The neighbor told the family that they were just about to eat. Susie's mother said she thought the neighbor was acting funny. "They're saying they're going to try to get you to eat and they're going to push you over the fence," she said.With the help of a friend, the family arrived at their destination. Susie's mom, who grew up in the area, was upset because they had to drive to the grocery store. With help from friends, the
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She had to turn it off. Then she called the nearest police station. So she went to the police station.They came back a few hours later. She went to the police station.She called the nearest hospital.They came back a few hours later. She called the nearest hospital.They came back a few hours later. She called the nearest hospital.When she called the nearest police station and told them she was tired of her phone plan, they came back a few hours later. They said she was sick.They asked her to get a prescription. She told them she could get one. They asked her to pay a visit.They said she needed to get a new job.They told her to get a new house.She told them
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She got a new one, but it had a really crappy one. It had a battery that was very short. The battery had been replaced with another one. The battery had to be replaced with another one. It was about to start. It is about to start again. She had to get it replaced. She had to get a new one. It had a good one. It has a good one. The battery was replaced with another one. The battery had to be replaced with another one. It was about to start. It is about to start again. She had to get it replaced. It had a good one. It has a good one. The battery was replaced with another one. The battery had to be replaced with another one.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She was tired of how much money others gave her, and the way people used to tell her she was a good person. She was tired of the way people looked at her and liked her as someone who could tell them who they were.She was tired of the way people tried to tell her they liked her.She was tired of the way people looked at her and liked her for who she was.She was tired of the way people tried to tell her they didn't like her.She was tired of the way people tried to make her feel bad for being tired.She was tired of the way people told her she was a good person.She was tired of the way people tried to tell her she was a good person.She was tired
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She tried to take a coffee break.The girl sat on the couch.Susie sat on the pillow.Pubert looked at the girl.She got up and walked over to the couch.Pubert reached for the phone.Pubert grabbed the phone.Susie held the phone.Pubert read the book.Susie opened the book.Pubert read the book.The girl said, "You don't need to be here anymore, you just need to get out of here."Pubert turned around and walked away.Pubert sat in the corner.Susie threw the phone out of the window.Susie looked at the girl.Pubert got up and walked over to the couch.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She tried, only to be told she couldn't use it. That's when she started to panic, a reminder that she was in danger. Now, she's getting ready for a big fight. She's ready.<|endoftext|>The House Appropriations Committee on Tuesday approved a nonbinding resolution to make funding for the U.S. Department of the Interior to provide certain services to the National Historic Landmark in the eastern part of North Dakota, a first for the state and a first for the state in a decade.
+
+The resolution was sponsored by Rep. Dave Brat (R-Va.) and was approved by the House Appropriations Committee by a vote of 11-2.
+
+"This resolution sets our sights high on the National Historic Landmark
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. When she decided to call, she had the phone number of her high school crush, who had no way to call her phone, and she had been asked to call them all the time. She'd never known it was her sister that had the problem. Susie cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried. She cried
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She thought about running away to the bathroom. She thought about starting over on her own. She thought about taking her own advice. She thought about going to church. She thought about going back to the dorm. She thought about moving across the country. She thought about moving around the world with her boyfriend. She thought about moving around the world with her dog. Her boyfriend's family was in hot water recently. She thought about moving around the world with her dog. She thought about moving around the world with her dog. The next morning, she went to the emergency room. She was told that the emergency room was closed. She was told that the emergency room was closed. She was told that the emergency room was closed. She was told that the
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She needed to see a doctor. Then she got a call from her mom. She called to say she was feeling better. She called the doctor. The doctor said she had a heart condition. Susie asked if they could go check it out. She said, "Yes." The doctor said it was OK. Susie asked if she could take the pain medication. She said yes. The doctor said she was anxious. Susie asked if she could use the bathroom. She said yes. The doctor said it was normal. The doctor said she was nervous. Susie asked if she could take the shower. She said yes. The doctor said she was very happy. Susie asked if she could come to the doctor. The doctor said yes
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She asked for a replacement. She agreed. Then she told the receptionist. Her phone went unanswered. She got angry.Susie tried to take her phone for a walk. She started the phone. But the receptionist told her that it was in the wrong hands.Susie went into the office.The receptionist said, "No phone. I'm sorry. You can find your phone online."She called the police. They took her into custody. She was charged with a felony. The state has no idea where the phone came from. It will be tried in court.If she goes to court, she will be considered innocent until proven guilty.<|endoftext|>I have a lot to say about the new version of the new game, but
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She woke to find her phone in a pocket. She took it back. She called a number on the phone. She said she was going to take care of it. She talked about how her phone had a ring but her phone was not working. She called a number on the phone. She said she would call them back.She called another number on the phone. She called a number on the phone. She said she would call them back. She called the number on the phone. She said she would call them back.She called the number on the phone. She said she would call them back.She called the number on the phone. She said she would call them back.She called the number on the phone. She said she would
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.She went to the bathroom.Susie went back to her phone.Susie went to sleep.Susie went to her cell phone.Susie went back to her phone.Susie went to her cell phone.Susie went to her cell phone.Susie went to her cell phone.Susie went to her cell phone.Susie went to her cell phone.Susie went to her cell phone.Susie went to her cell phone.Susie went to her cell phone.Susie went to her cell phone.Susie went to her cell phone.Susie went to her cell phone.Susie went to her cell phone.Susie went to her cell phone.Susie went to her cell phone.Susie
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. Instead of calling, she called the manager for a new one instead. Susie found out that the new cell phone was the same one that had been used in the previous trip. She was frustrated at the lack of customer service. But the manager offered to provide her with a new phone. The employee who had once helped her find the new phone told her that he was worried about the customer. An employee at the local supermarket told her that he had seen the new phone before and would not be mad at her for having a new one. They both went to the store and picked up a new one. They both thanked the manager for the new phone and went back to the store.Susie called the manager again. She found out that he had
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She needed to get a new one. However, instead of waiting for the phone call, he called an employee at the state's largest health department.The employee asked if she could check the phone. Susie's answer is almost identical to the one the employee gave her. As the doctor, Dr. Phil, said, she could do it.Susie says the call went out immediately. The employee then asked if she could get the new one. She said no.The employee responded that he was right. The employee replied that he was confused. The employee made a call and asked if he could get the new one. He said yes.The employee's response is similar to the one the doctor gave the employee. The employee asked if he
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She went to the grocery store. She didn't read the book. She walked to the bus stop. She thought she was going to go to the doctor. She went to the hospital. She didn't understand. She tried to tell her mom. She tried to tell her dad. She tried to tell her brother. She tried to tell her sister. She tried to tell her sister's parents. She tried to tell her sister's sister. She tried to tell her mom. She tried to tell her sister's mom. She tried to tell her sister's sister. She tried to tell her sister's mom. She tried to tell her mom's parents. She tried to tell her mom's parents. She tried to tell her mom's parents.
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She had to find a way to use it.
+
+3. You need to stop using them.
+
+4. You need to be more creative.
+
+5. You don't have to spend anything on a phone.
+
+6. You have to be more creative.
+
+7. You can't have a phone.
+
+8. You can't have a phone.
+
+9. You have to give them a chance.
+
+10. You don't have to waste a lot of time on a phone.
+
+11. You have to give them a chance.
+
+12. You don't have to waste a lot of time on a phone.
+
+13. You have to give them a
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She'd recently started to get tired of the noise in her bedroom, but it seemed like it made her restless.The next day the phone rang.It sounded like a call to the police. They told her that her phone was ringing. She was called to the front desk of the hospital. The first thing the police did was call the police. They told her that she'd been raped. They gave her a case number. They told her how long she'd been on the phone. She was told to drop the case.They told her to call the police. They told her that she'd been found. The next thing she would remember was the time when she'd last called. She'd go to sleep. They told her that she'd
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She checked her phone, then turned it on.That was it. She's going to be home from work all day. She has work to do on the way home. She is just going to take a nap. Susie is tired of her phone plan. She checked her phone, then turned it on.That was it. She's going to be home from work all day. She has work to do on the way home. She is just going to take a nap.
+
+Anonymous 02/28/16 (Fri) 09:20:34 No.277775 >>277934
+
+>She's going to be home from work all day. She has work to do on the way home. She is just going
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She needed a rest, so she called her mom. "Mom, I'm going to call you," she told her. She got to the hospital and the doctor informed her that she had pneumonia. The doctor said that she should get it checked out. She got back to her parents. She got on the family car and walked to her parents' house. The doctor noticed that the child was breathing well, but she didn't know what to do. She went to sleep and woke up the next morning. She woke up and she was in a coma. Her parents told her that she would be okay. She never told them if she was okay, but they informed her that she had pneumonia. They informed her that she might be okay. A
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She asked for a one-time charge. The phone had been picked up by a local business. She decided to call to see if the company would charge for the service. The company did so. The phone rang. The caller was not aware of the service. The phone rang again. The caller failed to respond. Susie returned to the phone and they tried to talk. But the caller did not understand them. The caller went back to the phone. He told the caller he was not a customer of the company. The call was called back. The caller went to the house. The caller said he did not want to go. The caller told the caller he would pay the bill. The call was a success. The caller told the caller
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. But she wanted to save it. She could get the phone back at any moment. She looked like she was just getting off the phone.She smiled and moved out of the house. She knew the police are there. She knew the police had a warrant for her arrest. She felt like she was just a little kid.She paid the bill.She received the following message:When police arrived at the house, they found two men in their late teens. A man was carrying a handgun. The other man was holding the gun. He told the police he was afraid for his life.He did not. The police did not want to see their son.He was black. He was from a poor family. He was scared.He yelled at
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She wanted to call her husband. She wanted to go to work. She wanted to do her homework. She was tired of the stress of her job. She wanted to finish school.She wanted to get a job, but she didn't have the money. She wanted to get a job but the person who would be the manager of the company didn't have the money."The person you want to talk to is not your boss. They are your family," says the therapist. "You have to go through life as a person to find the right person for you, and they have to be the person that understands your needs and wants to help you. The person you want to talk to is not your boss. They are your family."When the
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. So, she dialed 911. "I'm ready to leave the house. I'm ready to go home."The five-second call was the first time Susie had heard what she was thinking. "Susie, you're not home. You're in the garbage." But the phone rang again. "What the fuck is going on?" The caller asked when he could leave. "You're going to the mall."Susie said she was going to the mall. But the call was not over. She went back to her phone. "I'm ready to go home," she said. "How am I going to get home? I don't have a car."Susie was at the mall when she heard the call. "
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan.Sometime later, when she returned home from having a child, her phone was ringing.Sometime later, when she went downstairs to change her phone, it was gone.Sometime later, the phone suddenly started ringing again.In the last few moments, a voice from downstairs told her, "I think you've lost your phone.You're out of town. You're back at work."Sometime later, she went to go outside to check again. When she went back inside, the voice from downstairs said, "Call me back. I'm here to check on you."After the phone rang again, it started ringing again.Finally, she went up the stairs to her room to check on her phone.All of a sudden,
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. That's when they went to the office. She turned off her phone and looked up to see the door was unlocked. She looked up at the clock, dialed the number and the phone rang.She looked back at the clock and saw that it was 10:30. She looked up at the time again and realized that her phone was in the office. Her phone is open. She looked over and saw that there was someone waiting for her. She nodded and walked over to the locked door. She was shocked to see the person wait for her. She looked back and saw the person was a man in a dark shirt and tie. He was dressed in a white shirt and tie and was talking to her. He asked her if she was okay
+---------------
+Complete the following text within five sentences:Susie was tired of her cell phone plan. She said he was a police officer and wanted to make sure she didn't get distracted. He gave her a call and asked to start a timer. She replied he wasn't a police officer and was frustrated that she didn't have time to go to work. He told her to stop texting and start a timer. She responded he was upset that she didn't want to go back to work. He told her she had to go back to work. She responded he was frustrated that she didn't want to go to school. He told her she had to go back to school. He told her she had to go back to school. He told her she had to go back to school. He told her she had to go back to school. He
+---------------

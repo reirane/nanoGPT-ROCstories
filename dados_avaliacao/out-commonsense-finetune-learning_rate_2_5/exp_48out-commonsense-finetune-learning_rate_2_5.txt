@@ -1,0 +1,188 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.This is the day you get a new pair of glasses.This is the day you learn how to play poker.This is the day you grow a beard.This is the day you get a new pair of hair.This is the day you buy a new shirt.This is the day you buy the new shoes.This is the day you get a new backpack.This is the day you get rid of a hat.This is the day you buy a new jacket.This is the day you learn how to play poker.This is the day you get a new pair of glasses.This is the day you get a new gift.This is the day you get a new pair of socks.This is the day you use the restroom.This
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. She's very happy.Today is the day the day the camera is in. You're in a lot of trouble.You've never been in trouble before.You've always been in trouble.You don't want to get in trouble.You're still in trouble.You want to help others.You want to be a good person.You want to try something new.You want to be able to make money.You want to be able to get a job.You want to be more than a person.You want to be happy.You don't want to get in trouble.You want to make a difference.You want to make a difference.You want to tell everyone something nice.You're still in trouble.You want to get
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.Today is the day she went to the doctor.Today is the time she got the doctor's note.Today is the time she left the doctor's office.Today is the time she got the doctor's dog.Today is the time she went to the store.Today is the time she found the car keys.Today is the time she bought the house.Today is the time she met the girl.Today is the time she looked at a book.Today is the time she drank.Today is the time she took a shower.Today is the time she was at the store.Today is the time she made the order.Today is the time she got a cup of tea.Today is the time she had a good laugh.Today is the
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.You're probably pretty bad at text.Today is pretty bad.Today is less bad.Today is good.Today is good.You're probably pretty bad at text.Today is bad.Today is bad.Today is good.Today is good.You're probably pretty bad at text.Today is good.Today is good.Today is good.You're probably pretty bad at text.Today is good.Today is good.Today is good.You're probably pretty bad at text.Today is good.Today is good.You're probably pretty bad at text.Today is bad.Today is bad.You're probably pretty bad at text.Today is bad.Today is bad.You're probably pretty bad at text.Today is bad.
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was getting new glasses.
+Today was the day Jane was
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.When you open the window you see a bright yellow light.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm sorry.I'm not sure.I'm not sure.I'm not sure.I'm not sure.I'm not sure.I'm not sure.I'm not sure.I'm not sure.I'm not sure.I'm not sure.I'm not sure.I'm not sure.I'm not sure.I'm not sure.I'm not sure
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Today is the day Jane was getting new glasses.
+Tomorrow is the day Jane was
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.Today was the day I decided to stop using my phone.Today was the day I decided to start the fire.Today was the day I went to the hospital.Today was the day I was arrested.Today is the day you read the book.Today is the day you go to the doctor.Today is the day you have your first kiss.Today is the day you get a haircut.Today is the day you eat your breakfast.Today is the day you have a new job.Today is the day you turn off the TV.Today is the day you have a new car.Today is the day you buy a new car.Today is the day you get a haircut.Today is the day you go to the store.Today is the
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.Your friends are always watching TV.You are very lonely. You will be happier today.You will be more prepared for the day.You will receive an invite to the next meeting.You will make money.You will make money.You will make money.You will be thankful for your life.You will be grateful for your family.You will be lucky.You will be lucky.You will be lucky.You will be lucky.You will be lucky.You will be lucky.You will be lucky.You will be lucky.You will be proud.You will be proud.You will be proud.You will be proud.You will be proud.You will be proud.You will be proud.You will be proud.You will
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.She always wanted to go to university.She always wanted to work.She wants to be a good mother.She wants to take care of other people.Today was the day I went to the toilet.She wants to make a new batch of cookies.Today was the day she was in the car.She wants to get a new car.She wants to attend the same school.She wants to go to the zoo.She wants to go to the park.She wants to open the door.She wants to be on time.She wants to use the restroom.She wants to have fun.She wants to be in charge.She wants to have a good day.She wants to be late to the meeting.She wants to get more sleep
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+you will do this after you have done a little work.
+go to sleep.
+take a bath.
+go to the beach.
+eat dinner.
+go into a museum.
+play music.
+play chess.
+go to the park.
+make a purchase.
+go to the zoo.
+eat cereal.
+eat.
+have a drink.
+go on a date.
+go to the park.
+play tennis.
+play golf.
+play a game.
+play sports.
+go to the park.
+play golf.
+have a party.
+take a walk.
+go to the park.
+play football.
+play hockey.
+play a sport.
+go to the mall.
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.You've had a great day.Forget about tomorrow.Next day will be a great day for you.But that night is cold.I'll be lonely.I'll never get back to you.I will do my best.Just find something to eat.I will find my bag.A good party is great.I'll be happy.If you need to write something in a language other than English.I'll be patient.I will never pass out.I will carry on.If you need something to put on your leg.I will be brave.I will always be there for you.I will be more than you could ever hope for.I will become a father to everyone.I will learn new skills.I will eat
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.<|endoftext|>One of the most well known and popular books in the history of the world is The Art of War. It is an award-winning book about the art of fighting.
+We are a team of dedicated military veterans dedicated to the happiness of our families.
+We have a great job.
+We are in our 40s.
+We are in our 20s.
+We are in our 20s.
+We are in our 20s.
+We are a military family.
+We are friends with our friends.
+We are in our 20s.
+We are a business.
+We are friends with our friends.
+We are in our 20s.
+We are in our 20s.
+We are in our 20
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.I told you there was a problem.I have to get your help.I told you it's ok.I thought it was a joke.I am completely fine.I told you I will fix this quickly.I told you I is not a good person.I told you of you will get your money back.I told you I will do it.I told you I will find you something.I told you I will join you in your thoughts.I told you I has a baby girl tonight.I told you there is a problem.I told you it is a lot of hassle.I told you it is fun.I told you it is a good thing.I told you I will be a good person.I told you it
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+You have to use the name "Jane" in the current sentence.
+[You] will be taking this exam.
+You are a student.
+[You] needs to take the exam.
+[You] is proud.
+[You] is a good person.
+[You] will do well.
+[You] is careful.
+[You] is kind.
+[You] is knowledgeable.
+[You] is good.
+[You] is curious.
+[You] needs to go back.
+[You] is a good person.
+[You] is nice.
+[You] is respected.
+[You] is a good friend.
+[You] is smart.
+[
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.She was really good at it.She needed to do so.You need to remember the date.You do not need to wait in line.You will get a refund.You will be in a rage.You are the one who needs to make a decision.You need to make a decision.You will feel better.You will be in peace.You will feel tired.You will be in shape.You will be in hot water.You will be in high spirits.You will be friendly.You will be brave.You will be good.You will be generous.You will be generous.You will be nice.You will be happy.You will be the good one.You will be in love.You will be content.You
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.You're not looking around anymore.There's a lot more to be done.Go on a date.You're getting a great time.You're going to see the stars.Go to the mall.You got a great job.You're back in the house.You want to go to work.You want to go to the store.You want to pay the bills.You want to get out of the car.You want to be with your girlfriend.You want to relax.You want to finish your work.You want to have a good day.You are never going to get a job.You're late.You need to go to a job.you are a friend.you go shopping.you put your phone away.you
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.Yesterday was the day you had a baby.Yesterday was the day you found the food.Today was the day you went to bed.Yesterday was the day you finished your homework.Today was the day your friends got to know you.Today was the day you began your new job.Today was the day you went to pick up your keys.Today was the day you gave your girlfriend a ring.Today was the day your friends got to talk to you.Today was the day you got to go to the store.Yesterday was the day you got a job.Yesterday was the day you went to a party.Yesterday was the day you got a new chair.Today was the day you found an apartment.Yesterday was the day you got a new
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. I will be using them to make breakfast next week. [pause] [pause] [sigh] [examine] [pause] [laugh] I will eat lunch next day. [pause] [sigh] [examine] [pause] [sigh] [examine] [pause] [laugh] [sigh] [examine] [pause] [sigh] [examine] [pause] [laugh] [examine] [pause] [pause] [sigh] [examine] [pause] [sigh] [examine] [pause] [pause] [sigh] [examine] [pause] [sigh] [examine] [pause] [s
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.I will write the text on the computer screen.I will read from it.I will never forget this book.I will be a better person.I will be a good friend.I will have a great time.This is my first time to make such a statement.This is important.This is important.This is my first time to tell a story.This is important.This is important.This is important.This is important.This is important.This is important.This is important.I will be a good person.I will be a nice person.This is important.I will be a good person.I will be a good person.I will be a good person.I will be a good person.I will be
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. She was having a hard time getting on the phone.She was not well looking.She was being a little nervous.She wanted to go home.She feels good..she wants to get back home to her husband.The world is not a complete mess.She is in good health.She wants to go to a doctor.She is very tired.She is hungry.She is with her boyfriend.She is looking for something.She is tired.The world is not a complete mess.She is in good health.She is getting better.She is getting better.She is a real person.She is a lucky person.She is in a good mood.She is with a new friend.She wants to come home.The world is
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. She was in a tizzy.
+You see the window. Is that what you see?
+You find a sign. What do you do?
+You are in a hurry. You will be late.
+You are in love. You will be together.
+You are doing well. You will be proud.
+You are in the middle of a storm. You will be lost.
+You see the stars. Is that where they shine?
+You are in the middle of a storm. You will be out.
+You are in love. You will be in love.
+You feel sorry for yourself. You will be angry.
+You get back to work. You are late.
+You are getting ready. You will feel
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.I'm sorry.I don't want to be rude.I'll try to use a new tool.You're working late.I know.You're not the one.I've been home.I'm not even close.I'm not home.I'm not going home.I'm not on my way home.I'm in the car.I'm in the car with my girlfriend.I want to go home.I want to go home.I don't want to cry.I don't want to hurt yourself.I just want to have a good time.I want to be safe.I want to get my hair cut.I want to take my car to the hospital.I want to call my mom.I want to
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.You were walking to the mall.You were having a drink.You heard a scream.You felt sorry for yourself.You wanted to call your mom.You had a cup of tea.You wanted to walk to the restaurant.You were satisfied.You wanted to give your mom a hug.You wanted to go out with friends.You wanted to have a good day.You wanted to look good.You wanted to be in a restaurant.You was tired.You wanted to go home.You were very sad to be away.You wanted to get back home.You wanted to have a good day.You were tired.You wanted to go to the hospital.You were very sad.You wanted to move out of the way.You were
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.I bought a new one today.I have no idea what happened to it.I wonder what it looks like.I need to find out.I hope it is safe.I think my sister is crazy.I took my sister out to the pub.I want to see what she is doing.I found something.I want to get my medicine.I have a lot to do.I want to make the best of it.I want to see the doctor.I want to know my doctor.I want to go home.I want to go back to school.I want to go to my father's house.I want to see my doctor.I want to talk to my god.I want to be in my room.I want
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. She was tired of trying to go to the store. She was going to get some rest. She needs to go to the car. This is all wrong. She wants to go somewhere. She wants to have a drink. This is wrong. She wants to get in the car. She wants to walk. This is wrong. She wants to get on the bus. This is not right. She wants to go to the doctor. This is not right. She wants to go to a party. This is not right. She wants to go home. This is not right. She wants to go to a party. This is not right. She wants to go to the grocery store. This is not right. She wants to buy something. This
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.The girl with the glasses looked in a mirror.The girl with the glasses was in the bath.The girl with the glasses was in the mail.The girl with the glasses was in the hospital.The girl with the glasses was in a hospital.The girl with the glasses was ill.The girl with the glasses was ill.The girl with the glasses was in the garage.The girl with the glasses was in the mall.The girl with the glasses had a bad day.The girl with the glasses was in the country.The girl with the glasses was in the store.The girl with the glasses was in the hospital.The girl with the glasses was in the grocery store.The girl with the glasses was in the business.The girl with
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.Settling down for the time being is a good idea.Searches for a new computer.Willing to be able to find a job.Searches for a home.Sets the alarm.Sets the car to go.Sets a alarm clock.Sets a boat to come to service.Sets a bed.Sets a bed to lie on.Sets the car to go on a trip.Sets the train to go by.Sets the car to drive by.Sets a person's house.Sets a person's room.Sets the person's children.Sets the person's child.Sets the person's wife.Sets a person's home.Sets the person
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.  She wants to see the stars.  She wants to be in a relationship with the person. If the person is good, then they will understand.  The person will understand the problem.  And she will be happy.  She is a normal person.
+Today was the day Jane was getting new glasses.
+I found the book on the computer.
+Let me tell you something about me.
+I am beautiful.
+I am having trouble understanding the person.
+I am not your friend.
+I am not for sale.
+I do not have a car.
+I am not your friend.
+I am not your friend.
+I am not your friend.
+I am your friend.
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. It said he was a bit nervous.
+[I]nitiate the task you wish to complete it on. [I]nitiate your reaction.
+[I]nitiate the task you wish to complete it upon. [I]nitiate your reaction.
+[I]nitiate the task you wish to complete upon. [I]nitiate your reaction.
+[I]nitiate the task you wish to complete upon. [I]nitiate your reaction.
+[I]nitiate the task you wish to complete upon. [I]nitiate your action.
+[I]nitiate the task you wish to complete upon. [I]niti
+---------------

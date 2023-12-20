@@ -1,0 +1,234 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:I am always concerned about my online business sales.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:I am always concerned about my online business sales.I want to see your product.You have bought the product.I want to purchase it.You have gotten the product.You have saved your money.I want to test your product.I want to compare the results.I am very satisfied.I am understanding.I am going to have a good time.I am ready.I am satisfied.I am paying attention.I am caring.I am a good person.I am happy.I am fulfilled.I am a good person.I am happy.I am a good person.I am a good person.I am a good person.I am a good person.I am a good person.I am happy.I am a good person.I am happy.I am
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I am very happy with my work.I am grateful to the person in charge.I am pleased with my friend.I am happy to work.I am grateful to my family.I am happy to be healthy.I am happy to play with my children.I am happy to take a nap.I am happy to be healthy.I am happy to take a breather.I am happy for my child.I am happy to celebrate my birthday.I am happy for myself.I am happy to be healthy.I am happy for my family.I is very proud.I is very proud.I am very happy.I is very happy.I is very happy.I is very happy.I is very happy.I is very
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I would like to see your application.I will make more money.I will get more credit card information.I will be less stressed.I will be more successful.I will not be ashamed.I I will not make mistakes.I I will have more success.I I will not feel like I am wasting my time.I I will make more money.I I will not be depressed.I I I will have more money.I I I will be happier.I I I will be more successful.I I I I will have more people to thank.I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I hope you enjoy your time at work.I am to keep a journal.I am to hold your hand.I am to ask for help.I am to take a break.I am to be in a good mood.The book is very valuable.I buy more books.There is a money at my door.I am to go to the store.I am to start a new business.I am to buy a new car.I am to buy a new home.I am to take a shower.I am to relax.I am to make a gift.I am to look after children.I is to make a plan.I am to buy my first car.I am to plan to take my car to school.I
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] needs to test your math skills.
+[MALE] needs to hear the facts.
+[MALE] is in possession of [MALE] car.
+[MALE] is knowledgeable.
+[MALE] will be in [MALE] situation.
+[MALE] is willing.
+[MALE] is very happy.
+[MALE] wants to go to the store.
+[MALE] wants to say [MALE] name.
+[MALE] wants to go to the movies.
+[MALE] needs a good haircut.
+[MALE] is good.
+[MALE] is knowledgeable.
+[MALE] wants to eat lunch
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] asks the question "what does it cost to have a computer now?"
+[MALE] needs to get a car.
+[MALE] goes to the mall.
+[MALE] decides to play basketball.
+[MALE] gives the person a gift.
+[MALE] pushes the person's head.
+[MALE] will not listen to persony.
+[MALE] takes persony's money.
+[MALE] gives the person another gift.
+[MALE] works out.
+[MALE] sends persony's brother.
+[MALE] turns persony's back on.
+[MALE] changes persony's mind.
+[
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+
+I am always concerned about my online business sales. Receive the following text within five sentences:I have a nice day.
+
+I have a nice day. Receive the following text within five sentences:I am happy.
+
+I am happy. Receive the following text within five sentences:I am anxious.
+
+I am anxious. Receive the following text within five sentences:I is patient.
+
+I is patient. Receive the following text within five sentences:I is smart.
+
+I is smart. Receive the following text within five sentences:I is good.
+
+I is good. Receive the following text within five sentences:I is dedicated.
+
+I is dedicated. Re
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I am looking for a person to help me.So, you are in the game.It is the right time.I was in the right place.I feel safe.I am ready to go.I is the best.I will be proud.I is the best.I is the most.I is the most.I is the best.I is the future.I is the best.I is the best.I is the best.I is the best.I is the best.I is the best.I is the best.I is the best.I is the best.I is the best.I is the best.I is the best.I is the best.I is the best.I is the best
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+I am always concerned about my online business sales.Get my car fixed.
+I am always concerned about my online business sales.
+Get the housecleaning supplies.
+Get the housecleaning supplies.Lift the curtain.
+Get the housecleaning supplies.Smell the smell of good wine.
+Get the housecleaning supplies.Drink water.
+Get the housecleaning supplies.Seat.
+Get the housecleaning supplies.Get the best bed.
+Get the housecleaning supplies.Get the best bed.
+Get the housecleaning supplies.Get the best bed.
+Get the housecleaning supplies.Get the best bed.
+Get the housecleaning supplies.Get the best
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+I am always worried about my online business sales.I want to learn more about the market.
+I want to learn more about the market.I want to lose some weight.
+I want to lose some weight.I want to have a good night.
+I want to have a good night.I want to be healthy.
+I want to be healthy.I want to get out of bed.
+I want to get out of bed.I want to be better.
+I want to get better at my business.I want to have more time to do.
+I want to have more time to do.I want to have more time to talk to a friend.
+I want to have more time to talk to a
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+you do not need to be of the same age as me
+go to the store is not necessary if you are in the dark
+get a haircut is not necessary if you are under 40
+do not have any physical problems is not required if you are able to get to the bathroom
+go to the zoo is not necessary if you are able to swim
+go to a party is not necessary if you are having a good day
+go to a party is not necessary if you are having a good time
+go to a bar is not necessary if you are having a good time
+go to your favorite movie is not necessary if you are having a good time
+go outside is not required if you are in a bad mood
+go to a
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I've had an exam to get more information.I want to become a better person.I'm not expecting this person to be able to drive.I'm tired of work.I have a question to ask the questioner.I have a date to meet.I'm having a party.I've got a great time.I'm not feeling well.I'm doing my best.I hope to get the job done.I want to save some money.I'm going to the mall.I want to get in shape.I am tired.I'm tired.I think about the situation.I'm out.I want to have some fun.I want to become a better person.I'm not satisfied with my time.I'm
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+I am always concerned about my online business sales.I'm worried about my online business expenses.
+I am worried about my online business expenses.I'm worried about my online business results.
+I am worried about my online business results.I'm worried about my online business results.
+I am worried about my online business results.I'm worried about my online business results.
+I am worried about my online business results.I'm worried about my online business results.
+I am worried about my online business results.I'm worried about my online business results.
+I am worried about my online business results.I'm worried about my online business results.
+I am worried about my online business results.I'm worried about my online
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I put my mind to it.I am an expert in the world.I desire to get things done.I is a loyal customer.I will be grateful for the offer.I wish the person is good.I will be thankful for the offer.I will be proud for the offer.I will be grateful for the offer.I will be a proud man.I will be caring.I desire to be accepted.I will be grateful for the offer.I will use my power.I will be healthy.I will be careful.I will be caring.I will be brave.I will be caring.I will be generous.I will be responsible.I will be happy.I will be understanding.I will be motivated.I
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+You have to pay the fee to open the business.
+The bank will not accept your money.
+You will get a credit card.
+You will not enter another country.
+You will go to a hospital.
+You have an accident.
+You have a problem.
+You have a big problem.
+You are not satisfied.
+You are a writer.
+You will not understand.
+You will not achieve your goals.
+You will not have a family.
+You will not get married.
+You will not have children.
+You will not make a successful career.
+You will not be smart.
+You will not have fun.
+You will not have a family.
+You will not order your lunch
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+I am always concerned about my online business sales. I'm a virgin.
+I am a virgin. I don't have a boyfriend.
+I don't have a boyfriend. I don't have a boyfriend.
+I don't have a boyfriend. I don't have a boyfriend.
+I don't have a boyfriend. I have an allergy.
+I have an allergy. I get sick.
+I get sick. I make a decision.
+I make a decision. I take action.
+I will take action. I am satisfied.
+I will take action. I am satisfied.
+I will take action. I am happy.
+I will take action. I want to go to school.
+I want to go
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+Now read the following text within five sentences:I will be lucky to have a job soon.
+I will be thankful for you for your kindness.
+You will be relieved of your anxiety.
+You will be grateful for your service.
+You will be grateful for the ability to be connected.
+Now read the following text within five sentences:You is smart.
+You will be happy.
+Now read the following text within five sentences:You is in love.
+Now read the following text within five sentences:I will be your friend.
+Now read the following text within five sentences:I will be glad.
+Now read the following text within five sentences:I will be thankful.
+Now read the following text within five
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I want to know how the salesperson is doing.I want to help the salesperson.I want to feel the pressure.I want to get an exam.I want to be a good employee.I want to be happy.I want to go to the store.I want to keep the food.I want to call my mom.I want to have a good time.I want to go to the pub.I want to give my information.I want to be in a good mood.I want to be happy.I want to be at my place.I want to be independent.I want to be caring.I want to have fun.I want to get a job.I want to be a good husband.I want
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales. I will be using my computer in order to achieve my goals. I will be in a position to choose my choices. I will be happy. I will be happy. I will be successful. I will be good. I will be motivated. I will be intelligent. I will not judge others. I will be self-motivated. I will not become bored. I will not become angry. I will not become depressed. I will not become anxious. I will not be sad. I will be careful. I will not be rude. I will not be dishonest. I will be generous. I will not be selfish. I will not be sad. I will not be sad. I will not be sad. I will not be disturbed.
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I want to be able to afford a new computer.I want to get a job offer.I go shopping for a new car.I am going to your friend's wedding.I want to have a baby.I want to be able to afford a car.I want to support my family.I want to go fishing.I have to drive a car.I want to be able to afford a car.I want to visit my family.I want to go to a movie.I want to find a job.I want to be able to pay my bills.I want to be able to buy something.I want to make a new car.I need to go to bed.I want to go to the cinema.I want to
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I read the news.I write my emails.I go on walks.I feel better.I order the cupcakes.I order the cupcakes.I have a new puppy.I get a new job.I have a new car.I have a dream.I have a new car.I love my dog.I am the best.I have a vacation.I go with my boyfriend.I go to the store.I look for a new car.I buy a new car.I take a bath.I have a friend.I eat a meal.I go to the movies.I be a good person.I work hard.I take care of my children.I live a happy life.I have a great time.
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[NEW] [FEMALE] stands in the middle of the road.
+[NEW] [FEMALE] has a lot of time to think about the situation.
+[NEW] [FEMALE] is very good at math.
+[NEW] [FEMALE] is proud and happy.
+[NEW] [FEMALE] becomes more comfortable.
+[NEW] [FEMALE] plays a game.
+[NEW] [FEMALE] finds a way out.
+[NEW] [FEMALE] keeps the person in the corner.
+[NEW] [FEMALE] wants to write a book.
+[NEW] [FEMALE] is happy.
+
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I'm always in a hurry to get started.I'm always in the mood.I'm just being a good customer.I'm constantly trying to find the right prices.I'm not content with any of this.I don't want to get into any trouble.I want to go home.I want to show my friends.I want to come home to my family.I want to relax.I want to be in control.I want to be a good husband.I want to be healthy.I want to be in the right place.I want to be in charge of my business.I want to be in control of the business.I want to have a good time.I want to be pleasant.I want to be happy
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[F4M] [MALE] finds a new job. [FEMALE] wants to give [FEMALE] more money.
+[MALE] lets the [FEMALE] do [FEMALE] thing. [MALE] wants to be a good person.
+[MALE] tells [FEMALE] to [FEMALE] tomorrow. [FEMALE] needs to be satisfied.
+[MALE] comes home every day. [FEMALE] wants to be close.
+[MALE] visits the local mall. [MALE] wants to get out of the way.
+[MALE] turns in [FEMALE]'s [FEMALE
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I have to take the time to get the job done.I need to get a new job.I get my insurance approved.I make a plan.I read the news.I get a new job.I get my degree.The doctor will give me my job.I will thank my doctor.The doctor will give me a call.I will miss my job.I will get a new job.I have a new phone.I go to the grocery store.I find a new way to use my cell phone.The doctor will give me a call.I will be in the hospital.I read the news.I will have a new relationship.I will have a new home.The doctor will give me a call.I will
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+satisfy your curiosity by reading the following text within five sentences:I will soon get the job.
+climb the mountain to get a job by reading the following text within five sentences:I will never reach the top.
+eat with the help of your friends by taking the free food in the restaurant
+chop a steak with your fork by reading the following text within five sentences:I will be hungry soon.
+dance with your friends by reading the following text within five sentences:I will be relaxed.
+clean your house by reading the following text within five sentences:I will not feel your presence.
+fiddle with a computer game by reading the following text within five sentences:I will open your computer.
+d
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.The internet has the power to make it a better place.<|endoftext|>The latest issue of Shueisha 's Weekly Shonen Jump magazine announced in November that it will publish the manga "Goku no Tojo" on October 28. The magazine also announced the release of a new issue in October.
+
+The magazine will also publish a new art book in English on October 28.
+
+The magazine will also publish a new art book in English on October 28.
+
+The magazine will also publish a new art book in English on October 28.
+
+The magazine will also publish a new art book in English on October 28.
+
+The magazine will also publish a new art book in English on October 28.
+
+The magazine will
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.Settled down to the ground in the middle of a city.I would like to hear from you.I want to get your name and phone number.I want to buy some coffee.Settled down to the ground in the middle of a city.I would like to have a nice conversation.I want to see the world.I would like to see how it looks.I would like to have a good time.I want to pass the test.I want to know what the result is.I want to get you a job.I want to have a good relationship.I want to learn more about myself.I want to go to the doctor.I want to relax.I want to get in shape.I want to
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.The best way to avoid these situations is to keep your hands in your pockets.The internet is for your best.I will protect my customers with my internet.I will prepare my computer with all the necessary software.It is my duty to keep my customers informed.I can make money doing my work.I will not regret my decision.I will get a new computer.I will have fun.I will listen to music.I will get a good job.I will have fun.I am not interested in giving up your work.I will not want to be on the wrong side of history.I am not interested in my work.I will not get caught.I am not interested in doing my work.I am not interested in having
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I am willing to work hard to meet my goals.I am willing to accept a job offer.I am willing to have a lot of fun.I am willing to live a happy and healthy life.I am ready to have a baby.I am willing to buy a new house.I am willing to go to college.I am willing to go to school.I am willing to have family.I am willing to have a car.I am willing to go to college.I am willing to be part of the team.I am willing to be part of a team.I am willing to meet new people.I am willing to visit a friend.I am willing to make a purchase.I am willing to get my nails done.
+---------------

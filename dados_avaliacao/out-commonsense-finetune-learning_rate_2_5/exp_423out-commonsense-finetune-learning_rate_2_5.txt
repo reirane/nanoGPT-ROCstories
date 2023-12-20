@@ -1,0 +1,448 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He wanted to go to Disneyland. But we didn't have his card in the house. He wanted to go to the zoo. But he got a lot more cash. We had to call 911.I thought the doctor was out of town. He would be ok. But he was gone. I knew he didn't like my husband. I needed to find someone to talk to. And I didn't know what to do.I heard a lot of voices call me.But I didn't know what they were.I went to the doctor. The doctor asked if I wanted to see my husband. I asked him. He said no. I asked for him to give me an exam. He gave me a exam. I told him I would
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He's very sick.
+[MALE] is very confused.
+[FEMALE] wants to sell.
+[MALE] walks the dog.
+[MALE] gets the dog's attention.
+[MALE] wants to learn new skills.
+[MALE] gives [FEMALE] a treat.
+[MALE] is the only person in the world.
+[MALE] is friendly.
+[MALE] gets their new car.
+[MALE] wants to have a drink.
+[MALE] pushes [FEMALE] away.
+[MALE] is knowledgeable.
+[MALE] is nice.
+[MALE] is very caring.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+You will get a letter from the department and you will get a reply.
+You will get a job and you will get a bonus.
+You will get a job and you get a promotion.
+You will get a job and you will get a job.
+You will get a job and you will get a job.
+You will get a job and you will get a job.
+You will get a job and you will get a job.
+You will get a job and you will get a job.
+You will get a job and you will get a job.
+You will get a job and you will get a job.
+You will get a job and you will get a job.
+You will get a
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.You can't give him money.He wasn't able to keep a job.You're having a hard time.He's a loser.You're in too much pain.You're tired.You're tired.You're tired.You've got to go home.You've got to get a job.You have to go to the hospital.You have to go to the doctor.You have to go to a hospital.You have to go to the grocery store.You're hungry.You're tired.You have to run.You don't like the look on your face.You look like a fool.You want to get a job.You just want to get a job.You want to get in shape.You want to be
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+The book is full.
+The book is full.
+The book is full.
+You're paying.
+You're paying.
+You must help.
+You must help.
+You must help.
+You must help.
+You must help.
+The book is full.
+The book is full.
+The book is full.
+That's it.
+You have to leave.
+You must make one.
+You must make one.
+the book is full.
+You must make one.
+You must take a test.
+the book is full.
+the book is full.
+The book is full.
+The book is full.
+the book is full.
+the book is full.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+You didn't know he was sick.
+You didn't know your parents died.
+You didn't know your father is a criminal.
+You didn't have a reason to visit the doctor.
+You didn't want to have a fight.
+You didn't want to have sex with your boyfriend.
+You didn't want to go to the doctor.
+You didn't want to go to the hospital.
+You didn't want to make an appointment.
+You didn't want to get into fights with your boyfriend.
+You didn't want to get in a car accident.
+You didn't know your parents were killed.
+You didn't want to see how they looked.
+You didn't want to lose weight.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+He is able to support his family.
+He is not hurting the other.
+He is capable of take care of his family.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is a beautiful day.
+This is
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.There was an accident.
+[MALE] just talked to [FEMALE] for a minute.MALE has to be in the middle of something.
+[MALE] was having a party.MALE is ready.
+[MALE] is a good friend.MALE is going to be friends.
+[MALE] wants [FEMALE] to learn to read.MALE wants to help.
+[MALE] is a good friend.MALE is a good friend.
+[MALE] is doing errands.MALE is doing other work.
+[MALE] is a good friend.MALE is better.
+[MALE] is having a good day.MALE
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+He was in a long line.
+He was a girl.
+He was scared.
+He was afraid to go to school.
+He was scared to go to a concert.
+He was a good boy.
+He was an instructor.
+He was a good teacher.
+He was good at his job.
+He was good at his job.
+He was capable of do the things he did.
+He was a good worker.
+He was a good friend.
+He was a good person.
+He would be in a fight.
+He wasn't sure.
+He was not sure where to go.
+He was not sure if he would be in hospital.
+He was in debt.
+He was
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+have the following action happen:the phone rings.
+have the following effect:the phone rings again.
+have the following result:the phone rings again.
+have the following effect:one day.
+have the following effect:the phone rings.
+have the following result:the phone rings.
+have the following effect:the phone rings.
+have the following effect:the phone rings.
+have the following result:the phone rings.
+have the following effect:the phone rings.
+have the following result:the phone rings.
+have the following effect:the phone rings.
+have the following result:the phone rings.
+have the following effect:the phone rings.
+have the following result:the phone
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+you isn't able to pay your health insurance.
+you is in danger.you is in danger.you
+you is in danger.you is in danger.you
+you is in danger.you is in danger.you
+you is in danger.you is in danger.you
+you is in danger.you is in danger.you
+you isn't able to pay your health insurance.you is not able to pay
+you is in danger.you is in danger.you
+you is in danger.you is in danger.you
+you is in danger.you is in danger.you
+you is in danger.you is in danger.you
+you is in danger.you is in danger.you
+you
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+you are not able to buy something nice
+you is not able to be married
+you is not at a party
+you is at the pool
+you is not at a party
+you is at a party
+you is at the bar
+you is at a party
+you is at the bar
+you is at a party
+you is at a party
+you is at a party
+you is at a party
+you is at a party
+you is at a party
+you is at a party
+you is at a party
+you is at a party
+you is at a party
+you is at a party
+you is at a party
+you is at a party
+you is at a party
+you is at a
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+bust the second time you pick up a phone.
+bastard is a character in the anime.
+bastard is a male person.
+bastard is a person.
+bastard is a person.<|endoftext|>On Tuesday, the new school year begins.
+The first and last school year begins on Saturday, April 13.
+But there will be a limit on the number of students enrolled.
+The new school year ends on Sunday, April 15.
+At the beginning of the year, you will want to call the school to find out what is going on.
+A lot of times, a person from the same family will want to visit.
+You will want to buy a ticket.
+You will
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Advertisement
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click here to view original GIF
+Your browser does not support HTML5 video tag.Click
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+You have to pay the fee.
+You must be able to say something.
+It's the person.
+You have to go to the doctor.
+You can't walk.
+You can't talk to a person.
+You have to go to a restaurant.
+You can't leave it.
+You can't look at the map.
+You have to go to the mall.
+You have to go to a movie.
+You have to have a car.
+You have to take the bus.
+You can't have a conversation.
+You have to take the bus.
+You have to be able to read.
+You have to go to a place.
+You don't have to use the restroom.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+Election day is a special day for the winner.
+If you are a millionaire, you will get a raise.
+The reason you are not wealthy is because you are poor.
+The reason you are not rich is because you don't have many children.
+The reason you are not rich is because you are not smart.
+If you are not a lawyer, you will not get a divorce.
+If you are a professional, you will get a job.
+If you are not a professional, you will get a divorce.
+If you are a doctor, you will get your primary care office.
+If you are a nurse, you will get a job.
+If you are a doctor, you will get a check
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He was fired. He was rejected. He was a drug dealer. He quit. He was arrested.
+[MALE] is having a beer. [MALE] wants to get a beer.
+[MALE] is in a car. [MALE] is driving.
+[MALE] is at the mall. [MALE] is spending money.
+[MALE] is at the movies. [MALE] is planning to see the movie.
+[MALE] is in a fit. [MALE] is stressed.
+[MALE] is running. [MALE] wants to run.
+[MALE] is a lawyer. [MALE] is competent.
+[MALE
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+He never gave a doctor's appointment.
+The person gave him a ticket.
+The person gave him a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket.
+the person gave the person a ticket
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+Carl is using a restroom.
+Carl is getting ready for work.
+The only way to find out what you need is to go to the store.
+Carl will be tired.
+Carl is trying to get to work.
+Carl is washing dishes.
+The only way to get rid of people is to become better.
+Carl will be able to handle the emotions.
+The only way to get rid of them is to try to find them.
+Carl will be used.
+Carl is happy.
+The only way to find out is to go to the restaurant.
+The only way to find out is to go to the store.
+The only way to get rid of them is to kill your friend.
+The only
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He needs to find a way to get the money. [Laughter] He needs to find a way to make it. [Laughter] He needs to be a good person. [Laughter] [Laughter] [Laughter]Carl is in the middle of his work day. [Laughter] [Laughter] [Laughter] he is doing all the work. [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter] [Laughter]
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.Carl gets a job.Carl walks to the mall.Carl gets a new car.Carl finds the new car.The bank says the loan is due.Carl gets a new car.The bank is closing.Carl walks to the store.The bank says the loan is due.The bank says the loan is due.The bank says the loan is due.The bank is closing.The bank is making more money.The bank is getting more money.The bank is paying bills.The bank is getting ready to go on vacation.The bank is getting paid.The bank is getting home.The bank is checking the mail.The bank is buying a new watch.The bank is checking the mail.The bank is getting ready to go to a
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+This is your last day.
+You're tired of being in a relationship.
+You've gotten a new car.
+You're having too much fun.
+You're tired of the life you've just been in.
+You've been dating someone.
+You want to buy a bicycle.
+This is your last day.
+You don't want to drink.
+You're tired of being lonely.
+You're not a good person.
+You're tired of being around people.
+You want to go to the store.
+You're tired of being in a relationship.
+You're not interested.
+You're not interested.
+You're tired of being in the hospital.
+You are tired of losing weight.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+A couple of aunts and uncles is not capable of buy a car.
+A person is not capable of work as a cook.
+A family is capable of make a new home.
+A person is not capable of pay taxes.
+A person is capable of make a new acquaintance.
+A person is capable of get the help of another person.
+A person is capable of build something.
+A person is capable of have sex with a stranger.
+A person is capable of hold another person's hand.
+A person is capable of find something.
+A person is capable of think aloud.
+A person is capable of have sex with a person other than a loved one.
+A person is capable of talk to
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He has no idea what he's doing. You must call the doctor.You need to put your insurance together. He's in a bad position.You think you can help.He is so angry.You need to talk to him.He is sad.You are important.You want to save money.You need to buy what you need.You want to have a good time.You are so happy.You are doing good.You are doing well.You want to be able to walk.You want to be strong.You need to get into a car.You will fall.You will get a call.You will get the phone.You will get the date.You will get your date.You need to leave the house.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.I asked him to come to the doctor.
+You are not able to save money.You are not able to buy groceries.
+You are not able to read.You are not able to eat healthy foods.
+You are not able to cry.You are not able to walk.
+You are not able to drive.You are not able to drive.
+You are not able to open your eyes.You are not able to open your eyes.
+You are not able to eat.You are not able to eat.
+You are not able to eat breakfast.You are not able to eat breakfast.
+You are not able to talk to your friends.You are not able to talk to your friends.
+The man at the
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+satisfy the following question within five sentences:If you get sick, you'll get the doctor's appointment.
+satisfy the following question within five sentences:What is your favorite dish?
+satisfy the following question within five sentences:Can I fix my car?
+satisfy the following question within five sentences:I'm so sorry.
+satisfy the following question within five sentences:You're doing fine.
+satisfy the following question within five sentences:What do you think of my haircut?
+get a new phone number within five minutes:Your new phone number is not in the right hands.
+get a new ticket within five minutes:Your new ticket is not valid.
+get a new
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.The doctor has the keys to the house.The person who paid the bill has a receipt.The child wants to play.The teacher is in charge.The person who paid the bill wants to get a job.The person who paid the bill is in charge.The person who paid the bill wants to get a job.The person who paid the bill wants to go to a movie.The person who paid the bill wants to get a job.The person who paid the bill wants to go to the library.The person who paid the bill wants to go to the store.The person who paid the bill wants to take the day off.Those who don't have a health insurance will have to cancel their plan.The person who paid the bill
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.Settling for work.Rent the car.Eat.yourself.at.the.spouse.and.other.people.in.the.next.hour.have.a.proper.workout.and.you.know.it.could.have.a.proper.workout.and.you.know.it.could.have.a.proper.workout.and.you.know.it.was.possible.to.get.someone.to.know.it.was.very.good.i.did.not.know.it.was.somewhere.else.for.the.last.time.you.saw.it.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+The text is still under discussion.
+The text is in your possession.
+The text is not currently on your computer.
+The text is in a museum.
+The text is in the library.
+The text is no longer in your possession.
+The text is not currently in the museum.
+The text is in the car.
+The text is in the building.
+The text is in the house.
+The text is in the classroom.
+The text is in the room.
+The text is in the room.
+The text is on the shelf.
+The text is in the closet.
+The text is in the closet.
+The text is in the dining room.
+The text is in the bathroom
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. He said he was in a car accident.
+I wanted to make a comment or something that would make it on the radio.
+I saw a dog.
+I'm a pretty girl.
+I wasn't at the park when you came.<|endoftext|>MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+MALE
+
+---------------

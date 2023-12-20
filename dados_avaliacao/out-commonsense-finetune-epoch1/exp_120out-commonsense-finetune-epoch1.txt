@@ -1,0 +1,262 @@
+Overriding: out_dir = out-commonsense-finetune-epoch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tim was at the bar.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tim was at the bar. He wanted to sit down. He was in the store.Tim wants to go to the store.<|endoftext|>The number of people who work in the country has more than doubled over the last decade.
+
+The number of people working in the country has more than doubled over the last decade.
+
+The number of people working in the country has more than doubled over the last decade.
+
+The number of people working in the country has more than doubled over the last decade.
+
+The number of people working in the country has more than doubled over the last decade.
+
+The number of people working in the country has more than doubled over the last decade.
+
+The number of people working in the country has more than doubled over the
+---------------
+Complete the following text within five sentences:Tim was at the bar. He didn't know what to do.
+[MALE] enters the alleyway. [MALE] will angry.
+[MALE] is holding a dog. [MALE] will nice.
+[MALE] leaves the house. [MALE] will warm.
+[MALE] returns home. [MALE] needs to get a job.
+[MALE] is not happy. [MALE] will sad.
+[MALE] is watching movies. [MALE] will tired.
+[MALE] is very angry. [MALE] will miserable.
+[MALE] is holding the leash. [MALE] wants to get their dog.
+[MALE] starts
+---------------
+Complete the following text within five sentences:Tim was at the bar.Sylvia was with the girl.Romeo was at the gym.Ita was a bad day.Ariel was in a coma.Teddy sat on the bed.Elmer sat in bed.Mabel felt lonely.Maggie was in charge.Maggie would like to see her brother.Maggie would want to go home.Maggie would like to go to the doctor.Maggie would like to have a bath.Maggie would like to have fun.Maggie would like to watch tv.Maggie would like to go to the store.Maggie would be the best.Maggie would be the person to go back to school.Maggie would like
+---------------
+Complete the following text within five sentences:Tim was at the bar.You were at the restaurant.Why did it happen?It was a big event.You were out of town.Is there a way to get to the bar?You should go outside.Is there a restaurant near the bar?The bar is very crowded.You are at a party.The party is at a restaurant.You are in the car.You are getting ready for work.You are driving to work.You will be in charge.You have a job.You are happy.You will be at work.You want to help people.You want to go to the grocery store.You want to buy a new car.You want to have fun.You want to be in action.You want to be noticed.You want a
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+[MALE] needs to have a go at the bar.
+[MALE] takes the bar.
+[MALE] gets to the bar.
+[MALE] goes to the store.
+[MALE] gets the best part of the day.
+[MALE] takes the next step.
+[MALE] gets the best part of the day.
+[MALE] tries the other person's idea.
+[MALE] takes [FEMALE] to the bathroom.
+[MALE] wants to be closer.
+[MALE] takes the other person's money.
+[MALE] goes to the grocery store.
+[MALE] is very brave.
+[
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+[MALE] asks the [FEMALE] questions. [MALE] has the right to ask the question.
+[MALE] gets the job done. [MALE] gets a promotion.
+[MALE] is the persony's daughter. [MALE] is happy.
+[MALE] gives [FEMALE] the gift. [MALE] is sad.
+[MALE] takes a car ride. [MALE] needs to give the car care.
+[MALE] is a good person. [MALE] will loyal.
+[MALE] wants to be close to the persony. [FEMALE] will annoyed.
+[MALE] is
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+He is engaged.
+[MALE] asks for the fee.
+[MALE] wants to take the test.
+[MALE] is in a hurry.
+[MALE] raises the alarm.
+[MALE] is in the middle of a meeting.
+[MALE] asks the person in the middle.
+[MALE] provides the group.
+[MALE] will to the man.
+[MALE] is in the middle of the action.
+[MALE] wants to go home.
+[MALE] places the person in the shower.
+[MALE] puts the person's hand out.
+[MALE] is in the mood.
+[MALE
+---------------
+Complete the following text within five sentences:Tim was at the bar.Tim was looking for something.Time was at the kitchen.Tim was in the woods.Tim was in a hurry.Tim was in trouble.Tim was in danger.Tim was in danger's way.Tim is at the back.Tim is at the bridge.Tim is in the middle of the ditch.Tim is in the house.Tim is in the house's place.Tim is in the house's room.Tim is in the house's room.Tim is in the grocery store.Tim is at the grocery store's store.Tim is at the store's counter.Tim is at the supermarket.Tim is at the supermarket's counter.Tim is at the supermarket's store.Tim is in the park.Tim is in the park's
+---------------
+Complete the following text within five sentences:Tim was at the bar. He wanted to get a coffee. The waiter was at the counter. The customer was sitting in his seat. The person was having a great time. The customer was looking at the menu. The person was looking at the items. The person was hungry. The customer was looking at his watch. The person was relaxing. The person was the person. The customer was relaxing. The customer was in the mood. The customer was sad. The customer was very sad. The customer was eager. The customer was angry. The person was in the mood. The customer was excited. The person was satisfied. The customer was content. The person was happy. The customer was very satisfied. The person was eager. The customer was in the mood. The customer
+---------------
+Complete the following text within five sentences:Tim was at the bar. He is not here for entertainment. He is a guest at the bar.The table is full.He is not in the mood to have dinner.It is time to go home.The situation is bad.The problem is a dog is roaming the yard.I has something to ask.He is having a drink. It is time to get going.I is the neighbor.I will get in touch with the owner.It is a cold day.The situation is dangerous.The problem is a house is falling apart.I will get the help.I will get my dog home.I will get a ride home.I am the person to take the person home.The situation is bad.The thing has been brought to justice.The person
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+you was at a place.
+you was at a party.
+you is at the same place.
+you is at the same time.
+you was at the same time.
+you is at the same place.
+you is at the same time.
+you is at the same time.
+you is at the same time.
+you is at the same time.
+you is at the same time.
+you is at the same time.
+you is at the same time.
+you was at a party.
+you was at the same time.
+you is at the same time.
+you is at the same time.
+you was at a bar.
+you was at a bar.
+you was
+---------------
+Complete the following text within five sentences:Tim was at the bar.You've had a great time.You're enjoying yourself.You're enjoying your day.You're enjoying life.You were fired at work.You were fired at work.You're enjoying your day.You're enjoying your day.You're enjoying your day.You're enjoying your day.You're enjoying your day.You're enjoying your day.You're enjoying your day.You're enjoying your day.You're enjoying your day.You're enjoying your day.You're enjoying your day.You are enjoying your day.You are enjoying yourself.You are enjoying your day.You are enjoying your day.You are enjoying your day.You are enjoying your day.You are enjoying your day.You are enjoying your day.You are
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+bust the second time you pick up a phone.
+bastard is a man.
+flee from the city.
+go for a walk.
+be a scientist.
+gather food.
+play chess.
+go to the dentist.
+walk around.
+drink a beer.
+see a movie.
+play a game.
+take a walk.
+leave the house.
+go to bed.
+rest.
+wait for a car.
+buy something.
+go to a park.
+take a walk.
+wait at a restaurant.
+take a shower.
+get a haircut.
+play basketball.
+play sports.
+go to the mall.
+play at a park.
+have
+---------------
+Complete the following text within five sentences:Tim was at the bar.I told him there was a problem.He goes to the doctor.I told him it's ok.I got a ticket.He is walking.I picked up the car.he needs to leave my seat.I told him how to do it.he's a bad boy.I gave him the ticket.he needs to have a hard time finding a new one.I told him to go somewhere else.he is in an accident.I told him to get a prescription.he needs to get a job.it's the same on the tv show.I told him to get a new phone.he wants to talk to his wife.he needs to visit his doctor.he wants to be with his family.he wants to go to
+---------------
+Complete the following text within five sentences:Tim was at the bar. you will be in the park.you will be in the car.you will be getting ready for the party.you will be getting ready for your car.you will be in the store.you will be shopping.you will be selling your things.you will be in the garden.you will be in your car.you will be taking care of your children.you will be in the shopping mall.you will be walking. you will be in the park.you will be in the country.you will be having a great time.you will be watching television.you will be getting ready for the work.you will be getting in shape.you will be in the yard.you will be enjoying the day.you will be playing cards
+---------------
+Complete the following text within five sentences:Tim was at the bar.She was looking for something.I asked about the contract.She said it is simple.I asked about the date.She said she is not in school.I asked how many people wanted to go to the concert.She said they can go to the concert.I asked if i can buy some food.She said no, it is expensive.I asked if they can get a new car.She said they can get a new car.I asked what is on the menu.She said they can check if they like it.I asked if they can change their clothes.She said yes.I asked if they have a child.She said yes.I asked the car to get back to me.She said they will not be late.
+---------------
+Complete the following text within five sentences:Tim was at the bar. He was thirsty. [MALE] needs to find the person. [MALE] needs to check with the bartender. [MALE] needs to be careful. [MALE] is in the mood for something to eat. [MALE] will be in the mood for something to drink. [MALE] needs to be careful. [MALE] needs to be cautious. [MALE] needs to be able to control themselves. [MALE] will happy. [MALE] is relaxed. [MALE] needs to understand what the situation is. [MALE] needs to be a good listener. [MALE] is determined. [MALE] is brave. [MALE] is capable of fight
+---------------
+Complete the following text within five sentences:Tim was at the bar. The bartender asked if he had a drink. Tim was going to the store. The barista looked at Tim. Tim was very happy.
+The barista asked if he had a drink. The bartender said yes. The bartender asked if he has a drink.
+The bartender asked the customer for food. The customer looked at the item. The food was good.
+The customer asked the customer for the correct answer. The customer replied yes. The customer was very helpful.
+The customer asked the customer for more information. The customer answered yes.
+The customer asked for the answer. The customer asked if it was 'right' to ask the customer. The customer was helpful.
+The customer asked the customer for a beer. The customer
+---------------
+Complete the following text within five sentences:Tim was at the bar.com.
+[MALE] asks [FEMALE] if they can get together.
+[MALE] is very good at math.
+[MALE] is an athlete.
+[MALE] thinks they are good at basketball.
+[MALE] is a doctor.
+[MALE] wants to go to baseball practice.
+[MALE] is good at painting.
+[MALE] reads.
+[MALE] is a good business man.
+[MALE] is a good customer.
+[MALE] asks [FEMALE] to leave.
+[MALE] is a bad person.
+[MALE] is a nice person.
+[MALE] is
+---------------
+Complete the following text within five sentences:Tim was at the bar. He had a great time. He had a great time. He had a great time. He had a great time. He had a great time.
+Tim was a good friend. He was very helpful. He enjoyed learning.
+Tim was a good man. He was helpful. he enjoyed learning.
+Tim was a good cook. He was a good cook. he enjoyed cooking.
+Tim was a good neighbor. He was a good neighbor. he enjoyed the food.
+Tim was a good person. He was good person. he enjoyed the food.
+Tim was a good friend. He was good friend. he enjoyed the food.
+Tim was a good person. He was good person. he enjoyed the food.
+Tim was
+---------------
+Complete the following text within five sentences:Tim was at the bar. The bar was still empty. The bar is not satisfied yet.
+[MALE] finds the key. [MALE] needs to go to the store.
+[MALE] finds the key. [MALE] wants to open the key.
+[MALE] is in a hurry. [MALE] wants to get from the store to the office.
+[MALE] is a little less than good. [MALE] wants to be a little less.
+[MALE] is having a good day. [MALE] is happy.
+[MALE] performs the act. [MALE] wants to take the test.
+[MALE] receives a call. [MALE] wants
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+Tim was at the bar.
+Tim was tired of the job.
+Tim was at home.
+Tim was at the doctor.
+Tim was at the hospital.
+Tim was at the hospital.
+Tim was at the courthouse.
+Tim was at the mall.
+Tim was at the mall.
+Tim was at the mall.
+TIM is at the store.
+Tim is at the store.
+Tim is at the store.
+Tim is at the store.
+Tim is at the store.
+Tim is at the store.
+TIM is at the store.
+TIM is at the store.
+TIM is at the store.
+TIM is at the store.
+TIM is at
+---------------
+Complete the following text within five sentences:Tim was at the bar. The bar is too close. No one is interested. Tim is alone. You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be in trouble.You will be
+---------------
+Complete the following text within five sentences:Tim was at the bar. He gave the person the ring.
+The person who gives the person the ring is the one who gave the person the ring.
+The person who gives the person the ring is the one who gave the person the ring.
+The person who gives the person the ring is the one who gave the person the ring.
+The man who is the ring is the one who gives the person the ring.
+The person who gives the person the ring is the one who gives the person the ring.
+The person who gives the person the ring is the one who gives the person the ring.
+The person who gives the person the ring is the one who gives the person the ring.
+The person who gives the person the ring is the one
+---------------
+Complete the following text within five sentences:Tim was at the bar.I asked him to come over.I have a question to ask him.If he does not like it,he will give me a bill.I will get out of the house.I will be fine.I will have someone to call to help me.It is very depressing when you see the eyes.I asked a friend to call me.I wanted to ask the person to take care of me.I have a question to ask my friend.It is very important what the person is working toward.I will be fine.I will be in a good mood.I will be in a good mood.I will get out of the car.I will be in a good mood.I will be happy.I will get the groceries.
+---------------
+Complete the following text within five sentences:Tim was at the bar.
+sputnik.org/index.php/topic,2370.0.html#p16982
+sputnik.org/index.php/topic,1580.0.html#p16982
+sputnik.org/index.php/topic,1577.0.html#p16982
+sputnik.org/index.php/topic,1576.0.html#p16982
+sputnik.org/index.php/topic,1575.0.html#p16982
+sputnik.org/index.php/topic,1574.0.html#p16982
+sputnik.org
+---------------
+Complete the following text within five sentences:Tim was at the bar.The man with the glasses looked in the mirror.His eyes fell on the man.I gave the man a hug.He smiled.The man looked at the man.He took a picture.The man looked at the picture.he looked at the man.He told the man he had a problem.The man smiled.the man loved the picture.the man looked at the picture.the man was happy.the man told the man to take a bath.the man was in the bath.the man was in the bath.the man spoke.the man said hello.the man looked at the picture.the man looked at it.the man smiled.the man gave the man a hug.the man was warm.the man thanked the
+---------------
+Complete the following text within five sentences:Tim was at the bar.Settled down to the ground.Sewing a lot of oil.Sewing a hair.Sewing a little.Sewing a lot.Working on the computer.Sewing a computer program.In the presence of your family.Sewing the weather.Sewing a dog.Sewing a lot.Sewing a lot.Sewing the car on the way home.Sewing the car.Sewing the dog.Sewing the room.Sewing a house.Sewing a puppy.Sewing the dog.Sewing the dog at the zoo.Sewing the home.Sewing a dog.Sewing the dog.
+---------------
+Complete the following text within five sentences:Tim was at the bar.Amy was at the store.They were going to get lunch.Chris and Mike would not be there.Michele would not be there.John was at the church.Michele would not be there.John would be in the parking lot.Michele would not be there.?
+
+[MALE] tries to walk through the door. [MALE] wants to get to the door.
+
+[MALE] is in class. [MALE] needs to put the class down.
+
+[MALE] is not in the mood. [MALE] would be bored.
+
+[MALE] works hard. [MALE] wants to break things down.
+
+[MALE] is
+---------------
+Complete the following text within five sentences:Tim was at the bar. He said he was in the neighborhood.
+[MALE] sees the bad guy. [FEMALE] wants to talk about it.
+[MALE] does something. [MALE] wants to make the next thing.
+[MALE] takes [FEMALE] to the vet. [MALE] will happy.
+[MALE] takes [FEMALE] to the doctor. [FEMALE] wants to be in the hospital.
+[MALE] has a big heart. [MALE] will proud.
+[MALE] starts a new business. [MALE] needs to be paying the bills.
+[MALE] plays hockey. [MALE] wants to be
+---------------

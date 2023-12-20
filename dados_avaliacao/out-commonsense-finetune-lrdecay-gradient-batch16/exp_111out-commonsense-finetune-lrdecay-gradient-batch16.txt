@@ -1,0 +1,395 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch16/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:[MALE] wanted to get a snack.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+MALE wanted to get a snack.
+
+MALE want to get a bite.<|endoftext|>The number of people who work in the UK has more than doubled over the last decade.
+
+That's according to a new study by the University of Oxford, published in the journal Industrial Relations.
+
+The UN study found that the number of working and casual jobs in the UK has increased from 7.6m in 1999-2000 to 24m in 2010-2011, a 20% increase.
+
+The number of people who work in the UK has more than doubled over the last decade.
+
+That's according to a new study by the University of Oxford, published in the journal Industrial Relations.
+
+The study found that
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE]
+
+I liked it.
+
+[MALE]
+
+I liked it.
+
+[MALE]
+
+I liked it.
+
+[MALE]
+
+I liked it.
+
+[MALE]
+
+I liked it.
+
+[MALE]
+
+I liked it.
+
+[MALE]
+
+I liked it.
+
+[MALE]
+
+I liked it.
+
+[MALE]
+
+I liked it.
+
+[MALE]
+
+I liked it.<|endoftext|>Image copyright EPA Image caption A new poll found that more than half of likely voters prefer to be informed about EU membership
+
+More than half of people in
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wanted to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wants to get a snack. [MALE] wanted to get a snack. [MALE] wants to get a snack.
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] needed to get on the bus. [MALE] wanted to get a job. [MALE] wanted to get a house. [MALE] wanted to get a house. [MALE] wanted to get a ride. [MALE] wanted to get a ride. [MALE] wanted to get a ride. [MALE] wanted to get a ride. [MALE] wanted to get a ride. [MALE] wanted to get a ride. [MALE] wanted to get a ride. [MALE] wanted to get a ride. [MALE] wanted to get a ride. [MALE] wanted to get a ride. [MALE] wanted to get a ride
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+"MALE," you said. "It's alright now. You can eat now."
+
+"MALE," you said back. "I'll get you some food. It's okay."
+
+"MALE," you said. "I'll get you some food. It's okay."
+
+"MALE," you said. "I'll get you some food. It's okay."
+
+"MALE," you said. "I'll get you some food. It's okay."
+
+"MALE," you said. "I'll get you some food. It's okay."
+
+"MALE," you said. "I'll get you some food. It's ok."
+
+"
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack. I'm your friend.
+
+[MALE] wanted to get a snack. I was going to have a good meal.
+
+[MALE] wanted to get a snack. Your mommy is your friend.
+
+[MALE] wanted to get a snack. I need you to care for my baby.
+
+[MALE] wanted to get a snack. I'll be your friend.
+
+[MALE] wanted to get a snack. I'm your best friend.
+
+[MALE] wanted to get a snack. I love you.
+
+[MALE] wanted to get a snack. I'm your best friend.
+
+
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+[MALE] want to get a snack.
+
+[MALE] want to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] want to get a snack.
+
+[MALE] want to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE]
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. MALE: I want to put you in my car. MALE: It's something really good. The only thing I'm not doing is driving me to school. I'm gonna keep you in a van. MALE: But if you don't, I'll probably hit the ground and kill you. MALE: But your name is not my. MALE: I'm the one who's gonna be getting you to school. MALE: I'm going to make sure you don't come back to school. MALE: But you're not my friend. MALE: I need to get you to the gym. MALE: But you're not my friend. MALE: I need to get you to the gym. M
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+"I'm a mom. I love your mom. We have a lot of fun together. And you do a great job. You know how I feel about you like a son? I told you it's time we put your mom in charge.
+
+[MALE] I guess you don't even know what you want. But there's always the chance you might regret it.
+
+[MALE] Do you really want to be my mom? I mean, you're the one I'm gonna miss the most. But you have the potential. And you need to put the work in.
+
+[MALE] I think you want to be with them.
+
+[MALE] I know. And you
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] told me to eat. [MALE] gave me an order. [MALE] told me to take a dose. [MALE] told me to take a dose. [MALE] got a sip of water. [MALE] told me to drink. [MALE] gave me a dose of water. [MALE] gave me a dose of water. [MALE] gave me a dose of water. [MALE] gave me a dose of water. [MALE] told me to use the next item. [MALE] told me to use the next item. [MALE] got a snack. [MALE] told me to eat. [MALE] gave me
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+[MALE] wanted to go to a sushi restaurant.
+
+[MALE] wanted to eat a meal at the restaurant.
+
+[MALE] wanted to go to a movie theater.
+
+[MALE] wanted to go to the beach.
+
+[MALE] wanted to go to the beach.
+
+[MALE] wanted to go to the beach.
+
+[MALE] wanted to go to the lake.
+
+[MALE] wanted to go to the beach.
+
+[MALE] wanted to go to the lake.
+
+[MALE] wanted to go to the beach.
+
+[MALE] wanted to go to the beach.
+
+[
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] is a nerd. [MALE] wants to get a workout. [MALE] has a girlfriend. [MALE] is a nerd. [MALE] wants to get a playdate. [MALE] is a nerd. [MALE] is a nerd. [MALE] has a girlfriend. [MALE] is a nerd. [MALE] is a nerd. [MALE] has a boyfriend. [MALE] is a nerd. [MALE] wants to sleep with a guy. [MALE] is a nerd. [MALE] is a nerd. [MALE] is a nerd. [MALE] wants to eat. [MALE] is a
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+I'm not going to pick up a vending machine.
+
+I am going to get a snack. I'm going to get a snack.
+
+I'm going to get a snack. I'm going to get a snack.
+
+I'm going to get a snack. I'm going to get a snack.
+
+I'm going to get a snack. I'm going to get a snack.
+
+I'm going to get a snack. I'm going to get a snack.
+
+I'm going to get a snack. I'm going to get a snack.
+
+I'm going to get a snack. I'm going to get a snack.
+
+I'm going to get a snack. I
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] has a boyfriend. [MALE] has a girlfriend.
+
+To be able to get a snack, you must have been in a relationship for at least five years.
+
+To be able to get a snack, you must have been a person for at least five years.
+
+To be able to get a snack, you must have been a person for at least five years.
+
+To be able to get a snack, you must have been a person for at least five years.
+
+To be able to get a snack, you must have been a person for at least five years.
+
+To be able to get a snack, you must have been a person for at least five years.
+
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE] wanted to get a snack.
+
+[MALE]
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+You can't take it off any more than you can take it off.
+
+You'll get a lot of stuff in it.
+
+You'll get something for your birthday.
+
+You'll get the most out of it.
+
+You'll be a good kid.
+
+You'll be the best person in the world.
+
+You'll be the best person in the world.
+
+You'll be the best person in the world.
+
+You'll be the best person in the world.
+
+You'll be the best person in the world.
+
+You'll be the best person in the world.
+
+You'll be the best person in the world.
+
+You'll be the best
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. He was thirsty. [MALE] said, "I'm thirsty." [MALE] said, "I'm hungry." [MALE] said, "I'm hungry." [MALE] said, "I'm hungry." [MALE] said, "I'm hungry." [MALE] said, "I'm hungry." [MALE] said, "I'm hungry." [MALE] said, "I'm hungry." [MALE] said, "I'm hungry." [MALE] said, "I'm hungry." [MALE] said, "I'm hungry." [MALE] said, "I'm hungry." [MALE] said, "I'm hungry." [MALE
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. I want to get a cigarette. I want to get a cup of coffee. I want to get an ice cream cone. I want to get a book. I want to get a sandwich. I want to get a piece of cake. I want to get a piece of bread. I want to get a piece of paper. I want to get a piece of paper. I want to get a piece of paper.
+
+MALE wanted to get a snack. I want to get a cup of coffee. I want to get a piece of coffee. I want to get a piece of coffee. I want to get a piece of coffee. I want to get a piece of coffee.
+
+MALE wanted to get a snack. I
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. I understand. [MALE] I need to read something. [MALE] I want to eat something.
+
+MALE wants to eat something. [MALE] I want to be a better person. [MALE] I need to be a better person.
+
+MALE wants to eat something. [MALE] I want to be a better person. [MALE] I need to be a better person.
+
+MALE wants to be a better person. [MALE] I want to be a better person.
+
+MALE wants to be a better person. [MALE] I want to be a better person.
+
+MALE wants to be a better person. [MALE]
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+"Hey, I know you can't eat right now, but I think you should at least try to get a snack. I mean, it's been a while since I've eaten something so full. I mean, it's been a while since I've eaten something so full. I mean, I know you can't have to eat right now, but I feel like you want me to try. I mean, it's been a while since I've eaten something so full. I mean, I know you can't eat right now, but I wish I could be smarter about that. I know that you're kinda hungry right now, but I need something to help get you moving. I know that you're kinda hungry right now
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] had a friend who was a lot older than me. [MALE] is a good actor. [MALE] loved to talk to the other students. [MALE] you have no idea. [MALE] was funny. [MALE] was very funny. [MALE] we have a lot of kids. [MALE] has lunch with the class. [MALE] we have a lot of hours. [MALE] we have a lot of homework. [MALE] is the person to whom I will speak once a week. [MALE] is my role. [MALE] is the person to whom I will be able to go to school. [MALE] has
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+[MALE] wanted to go see the movie.
+
+[MALE] wanted to find a friend.
+
+[MALE] wanted to see a movie.
+
+[MALE] wanted to see an artist.
+
+[MALE] wanted to listen to music.
+
+[MALE] wanted to take a shower.
+
+[MALE] wanted to go to the park.
+
+[MALE] wanted to pick up a car.
+
+[MALE] wanted to pick up a dog.
+
+[MALE] wanted to feel good.
+
+[MALE] wanted to get to bed.
+
+[MALE] wanted to meet up with someone.
+
+
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. I'm a little impatient. [MALE] I think you'll be alright. [MALE] I'd like to get a soft drink."
+
+"Sorry, you've been waiting for the right moment. You don't want to get into any trouble. [MALE] What's the point?"
+
+"I have to see you soon, Dad. Go get some ice cream."
+
+"Well, it's not just ice cream. I think it's about time it's done."
+
+"What do you mean, Dad?"
+
+"When you were little, you asked me to play. I'm pretty sure you really mean that. [MALE] You always told me you wanted to be a doctor
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+"I need to eat some food. I won't lie to you, but I'd like to make something for you. I want to go home and get something. I wanted to be able to walk around with my family. I wanted to eat something. You can have me. As long as you can get what you need. I want to be able to walk around with my family."
+"I can't wait to get you something. I can't wait to get something."
+"I can't wait to get something."
+"I just need to have something. I want to get something. I want to get something. I want to get something. I want to get something. I want to get something. I want
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+"Hear the buzzer."
+
+[MALE] wanted to eat cake.
+
+[MALE] wanted to tell mom.
+
+[MALE] wanted to tell dad.
+
+[MALE] wanted to tell grandma.
+
+[MALE] wanted to tell mommy.
+
+[MALE] wanted to tell dad.
+
+[MALE] wanted to tell mommy.
+
+[MALE] wanted to tell dad.
+
+[MALE] wanted to tell mommy."
+
+[MALE] wanted to say goodbye.
+
+[MALE] wanted to say goodbye.
+
+[MALE] wanted to say goodbye.
+
+[MALE]
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack.
+
+"I wanted to go to the store. I mean get a snack. I mean come home."
+
+"My mom told me that you need to go to the store. We need to have a snack. We need to have a snack. I mean come home."
+
+"I want the money. I want to get a snack. I mean come home."
+
+"I want to go to the store. I mean get a snack. I mean come home."
+
+"I want to go to the store. I'm scared, I'm scared. I'm scared. I'm scared. I'm scared."
+
+"I want to go to the store. I want to get a snack. I want
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] would like to go to the bathroom. [MALE] wants to go in the kitchen. [MALE] wants to eat a movie. [MALE] wants to go to the arcade. [MALE] wants to eat a snack. [MALE] wants to go to the library. [MALE] wants to go to the garage. [MALE] wants to go to the beach. [MALE] wants to go to the park. [MALE] wants to go to the shop. [MALE] wants to go to the park. [MALE] wants to go to the pool. [MALE] wants to go to the pool. [MALE] wants to go to
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] wanted to eat a meal. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack. [MALE] wanted to eat a snack.
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] is sick. [MALE] wants to go to school. [MALE] is a nurse. [MALE] is a teacher. [MALE] is a lawyer.[MALE] wants to get a haircut. [MALE] is in a hurry.[MALE] has a plan.[MALE] is a doctor.[MALE] wants to get a haircut. [MALE] is a nurse.[MALE] is a teacher.[MALE] is a lawyer.[MALE] wants to get an appointment for a doctor.[MALE] is a doctor.[MALE] is a nurse.[MALE] is a nurse.[MALE] is a nurse.[MALE] wants an appointment
+---------------
+Complete the following text within five sentences:[MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack. [MALE] wanted to get a snack.
+---------------

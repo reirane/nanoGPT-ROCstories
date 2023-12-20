@@ -1,0 +1,396 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_3_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Sandy fell off her bike.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy is doing something harmful to herself.
+Sandy wants to go to the library.
+Sandy is very upset.
+Sandy has a son.
+Sandy has a long hair.
+Sandy is always afraid of people.
+Sandy is playing games.
+Sandy is at work.
+Sandy is having a hard time.
+Sandy is caring.
+Sandy is having a laugh.
+Sandy pulls out the phone.
+Sandy is in the apartment.
+Sandy is at the store.
+Sandy is leaving.
+Sandy is walking home.
+Sandy is leaving.
+Sandy is at the school.
+Sandy is doing homework.
+Sandy is
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She's very tired.
+[MALE] continues to hurt. [MALE] will angry.
+[MALE] meets [FEMALE] in persony's home. [MALE] will happy.
+[MALE] takes persony's dog. [MALE] will happy.
+[MALE] takes a new tack. [MALE] wants to continue working.
+[MALE] takes [FEMALE] to a party. [MALE] wants to be in the party.
+[MALE] finds [FEMALE] in personx's apartment. [MALE] is friendly.
+[MALE] eats persony's meals. [MALE] wants to talk
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy falls from the bus.Sandy wants to go somewhere.Sandy needs get some money.Sandy wants to buy a new car.Sandy wants to go on vacation.Sandy wants to go to the grocery store.Sandy wants to buy something.Sandy wants to stop by the store.Sandy is guilty.Sandy wants to be found.Sandy is not guilty.Sandy wants to go to a concert.Sandy wants to see the concert.Sandy gets scared.Sandy has a girlfriend.Sandy is loving.Sandy wants to go to the beach.Sandy needs to be at a party.Sandy needs to be a good person.Sandy wants to go to a concert
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.You're so pretty.
+1201a. [FEMALE] is watching a tv show. [FEMALE] will wants to watch the show.
+1201b. [FEMALE] sees something they don't want to see. [FEMALE] is jealous.
+1201c. [FEMALE] gets a gift. [FEMALE] wants to thank the person they lost.
+1201d. [FEMALE] sees every person. [FEMALE] wants to help them.
+1201e. [FEMALE] wants to buy new shoes. [FEMALE] wants to start selling shoes.
+1201f. [FEMALE] is a
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] needs to talk to someone.
+[MALE] takes [FEMALE] to a party.
+[MALE] gets [FEMALE] to the mall.
+[MALE] is not doing anything.
+[MALE] wants to get into bed.
+[MALE] wants to have a meal.
+[MALE] is at the house.
+[MALE] needs to approach persony.
+[MALE] is about to go out.
+[MALE] wants to buy something from the store.
+[MALE] keeps [FEMALE] from doing.
+[MALE] tells [FEMALE] an idea.
+[MALE
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy is in love with a man.
+Sandy is in love with a man.
+Sandy is in the woods.
+Sandy is in a coma.
+Sandy is going to bed.
+Sandy is in a coma.
+Sandy is in a coma.
+Sandy is in a coma.
+Sandy is in a coma.
+Sandy is in love.
+Sandy is in a coma.
+Sandy is in a coma.
+Sandy is in a coma.
+Sandy is in a coma.
+Sandy is in a coma.
+Sandy is in a coma.
+Sandy is angry.
+Sandy is in a coma.
+Sandy is in
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy has a very good day.
+Sandy is getting ready to go to the movies.
+Sandy is looking around the house.
+Sandy is having a good day.
+Sandy is getting some money.
+Sandy is walking.
+Sandy is having a good day.
+Sandy is in the park.
+Sandy is tired.
+Sandy is having a good day.
+Sandy is getting ready to go to the grocery store.
+Sandy is going shopping.
+Sandy is caring.
+Sandy is having a good day.
+Sandy is in the car.
+Sandy is getting ready for the winter.
+Sandy is playing.
+Sandy is having fun
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] buys the cat. [MALE] will happy.
+[MALE] tries to stop. [MALE] is aggressive.
+[MALE] takes a break. [MALE] will ready.
+[MALE] is a good person. [MALE] is helpful.
+[MALE] is a good person. [MALE] is caring.
+[MALE] sends a text. [MALE] wants to give a message.
+[MALE] gets a new job. [MALE] is successful.
+[MALE] gets a new job. [MALE] wants to work better.
+[MALE] eats lunch. [MALE] is
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] is caring.
+[MALE] receives the reward.
+[MALE] becomes the one to go to the courthouse.
+[MALE] is not happy.
+[MALE] is satisfied.
+[MALE] is able to take care of herself.
+[MALE] is the person to go to the hospital.
+[MALE] needs to go to the store.
+[MALE] finds a home.
+[MALE] is the one person to call.
+[MALE] is in the middle of the night.
+[MALE] receives the reward.
+[MALE] is in the process of getting ready.
+[MALE] is very
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+so, yi, yu, yu, i [f] [m] needs not be in a relationship.
+it is the last task of [f] [m] to get a job.
+this is a [f] [a] bad thing.
+it is a person's duty to care.
+the weather is good.
+this is a part of yu's education.
+you is a person's friend.
+this is a way.
+this is a place.
+this is a place for [f] [m] to go.
+this is a place.
+this is a person's friend.
+this is a place.
+i will the whole time.
+i will the
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+you do not need to be obese.
+you are capable of make a mistake.
+take a shower.
+you never tried.
+you play the piano.
+you would be lucky.
+you would be beautiful.
+you is capable of be able to.
+you is capable of make a mistake.
+you is capable of take.
+you receives your reward.
+you is capable of eat food.
+something was set.
+you is capable of smell something on.
+someone stole your money.
+someone is capable of shop at.
+someone is capable of make a purchase.
+someone is capable of leave.
+someone is capable of pick up.
+something was used.
+someone is capable of take a trip
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] is stupid. [MALE] is determined. [MALE] wants to thank someone. [MALE] wants to give [FEMALE] a reward. [MALE] wants to be grateful.
+[MALE] makes a new one for the week. [MALE] needs to find new items. [MALE] wants to get a new toy. [MALE] wants to work hard.
+[MALE] sees world news. [MALE] wants to catch up. [FEMALE] wants to see news. [MALE] will happy.
+[MALE] finds a new job. [MALE] wants to take advantage. [MALE] is active
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] wants to help someone else.
+[MALE] is a writer.
+[MALE] is a writer.
+[MALE] gets a new job.
+[MALE] wants to go shopping.
+[MALE] gets a new job.
+[MALE] is good.
+[MALE] is very important.
+[MALE] is very helpful.
+[MALE] receives a divorce.
+[MALE] is bored.
+[MALE] is really angry.
+[MALE] is a good friend.
+[MALE] is a witness.
+[MALE] is having a dream.
+[MALE] is learning new skills.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] needs to take a shower.
+[MALE] takes two pills. [MALE] is desperate.
+[MALE] gives [FEMALE] a gift. [MALE] is loving.
+[MALE] has a bad day. [MALE] is disappointed.
+[MALE] makes a big deal. [MALE] is creative.
+[MALE] takes a vacation. [MALE] wants to relax.
+[MALE] watches every show. [MALE] is caring.
+[MALE] gives [FEMALE] a chance. [MALE] is generous.
+[MALE] raises [FEMALE] from the dead.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+You have to pay the fee.
+You have to bring your dog to the vet.
+You have to take the bath.
+You will be grateful for the money.
+You will be safe.
+You will be proud.
+You will be very happy.
+Find a good job.
+Read the newspaper.
+go to work.
+go to the movies.
+be satisfied.
+play a game.
+pay bills.
+go to school.
+go to the mall.
+buy something.
+get some work done.
+play basketball.
+go to the movies.
+go on a date.
+go to the beach.
+get back to work.
+go to the park.
+go to school.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.She is really good at driving.Sandy wants to be a doctor.People want to have a drink with her.Sandy wants to try out new products.She wants to go to the doctor.Sandy is the best.Everyone wants to have a good time.People want to have fun.Sandy wants to be helpful.She wants be with friends.Sandy is the best.People want to have a good time.Sandy is the best.Sandy is the best.Everyone wants to have a good time.Sandy is the best.Sandy is the best.Sandy is the best.Sandy is the best.Sandy is the best.Sandy is the best.Sandy is the best.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] will [MALE] find the person.
+[MALE] will to [MALE]'s. [MALE] will to their degree.
+[MALE] calls a cab. [MALE] needs to ask [MALE] for a ride).
+[MALE] leaves the house. [MALE] asks [MALE] where to go.
+[MALE] buys the dog. [MALE] wants to adopt a dog.
+[MALE] needs a good job. [MALE] needs to get a job.
+[MALE] wants to go fishing. [MALE] is a fisherman.
+[MALE] takes [MALE] to
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] is sad. [MALE] wants to help. [MALE] wants to feel better.
+[MALE] gets a ride. [MALE] will happy.
+[MALE] finds a new job. [MALE] will fulfilled.
+[MALE] takes a walk. [MALE] needs to find a place to go.
+[MALE] sees a girl. [MALE] wants to make sure.
+[MALE] goes to see a doctor. [MALE] will satisfied.
+[MALE] finds the best. [MALE] is fit.
+[MALE] finds a family. [MALE] will happy.
+[M
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy is using a restroom.Sandy is having a good time.Sandy is dating a friend.Sandy is having a good time.Sandy is a good person.Sandy is at a party.Sandy is at a party.Sandy is at a party.Sandy is sad.Sandy is sad.Sandy is enjoying the evening.Sandy is crying.Sandy is getting compliments.Sandy is having fun.Sandy is learning new skills.Sandy is having fun.Sandy is having fun.Sandy is having fun.Sandy is happy.Sandy is happy.Sandy is sad.Sandy is sad.Sandy is happy.Sandy is happy.Sandy is
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] goes to the store.
+[MALE] wants to know what is wrong with the store.
+[MALE] is in debt.
+[MALE] finds a new job.
+[MALE] is having fun.
+[MALE] will happy.
+[MALE] looks at other people's faces.
+[MALE] gets money.
+[MALE] wants to get a new car.
+[MALE] wants to get a haircut.
+[MALE] brings none to the store.
+[MALE] sees none in the street.
+[MALE] sees none on the internet.
+[MALE] takes it to the store.
+[
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] will happy.
+[MALE] walks to the car. [MALE] wants to get away.
+[MALE] feels good. [MALE] will happy.
+[MALE] plays baseball. [MALE] is skilled.
+[MALE] is getting ready. [MALE] wants to enjoy themselves.
+[MALE] keeps looking. [MALE] is in need of a new look.
+[MALE] raises a kid. [MALE] wants to grow up.
+[MALE] keeps the dog. [MALE] wants bring the dog in to a shelter.
+[MALE] is talking to someone. [MALE] is curious
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] takes a walk. [MALE] wants to get a better view.
+[MALE] pays [FEMALE] the price. [MALE] will pays one.
+[MALE] is not capable. [MALE] is lazy.
+[MALE] teaches [FEMALE] a lesson. [MALE] wants to learn something new.
+[MALE] makes a good impression. [MALE] is happy.
+[MALE] goes to the store. [MALE] is grateful.
+[MALE] calls the restaurant. [MALE] wants to get a handle on the situation.
+[MALE] works hard. [MALE]
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy is a student at the University of Michigan.
+Sandy is a student at the University of Michigan.
+Sandy is a student at the University of Michigan.
+Sandy is a student at the University of Michigan.
+Sandy is a student at the University of Michigan.
+Sandy is a student at the University of Michigan.
+Sandy sits on the sofa.
+Sandy is a student at the University of Michigan.
+Sandy rides a bike.
+Sandy is a student at the University of Michigan.
+Sandy is a student at the University of Michigan.
+Sandy is a student at the University of Michigan.
+Sandy is a student at the University of Michigan.
+Sandy
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Jill is lost.Someone put a blanket over her.Someone is hungry.Maggie is going to the hospital.Maggie wants to buy some food.Maggie is going to college.Maggie is in need.Maggie is working.Maggie is getting married.Maggie is sick.Maggie is pregnant.Maggie is pregnant.Maggie is going to church.Maggie is in trouble.Maggie is playing basketball.Maggie is loving.Maggie is getting paid.Maggie is getting married.Maggie is driving.Maggie is getting ready for bed.Maggie is going to school.Maggie is getting
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.I'm sorry.
+[MALE] needs to go to the store.
+[MALE] wants to get a good job.
+[MALE] is a person.
+[MALE] becomes a teacher.
+[MALE] tells [FEMALE] to go home.
+[MALE] is social.
+[MALE] is in the shop.
+[MALE] writes [FEMALE] a note.
+[MALE] is working.
+[MALE] wants to go to the movies.
+[MALE] is driving the car.
+[MALE] is a good person.
+[MALE] is a successful businessman.
+[MALE] goes to
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+sandy lost her job.
+sandy is doing well.
+sandy is in the hospital.
+sandy is doing well.
+sandy is a bad person.
+sandy is at a party.
+sandy is leaving the house.
+santana washes the dog.
+santana becomes pet.
+santana is starving.
+santana is at a pet store.
+santana is getting ready for bed.
+santana is getting ready for bed.
+santana is getting ready for bed.
+santana is going to bed.
+santana is getting ready for bed.
+santana is playing.
+santana is playing with the
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.The girl with the cat is the same as the cat.<|endoftext|>The latest issue of Game Informer magazine is the first issue of the series in the United States.
+
+A new game in the series is the latest on the map of the United States.
+
+The world is full.You have to go to the mall.
+
+The weather is perfect when you are on a plane.
+
+The world waits for you to leave.
+
+The time is right.
+
+The world is full.
+
+The world is full.
+
+The world is full.
+
+The world is full.
+
+The world is full.
+
+The world is full.
+
+The world is full.
+
+The world
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy's mom is in the hospital.Sandy's mom is sick.Sandy is in need.Sandy is sad.Sandy is proud.Sandy is on the move.Sandy wears shoes.Sandy is healthy.Sandy is a good leader.Sandy is a good person.Sandy is a good friend.Sandy is competent.Sandy is caring.Sandy is caring.Sandy is competent.Sandy is determined.Sandy is determined.Sandy is competent.Sandy needs to go on a date.Sandy needs to go on a bike ride.Sandy needs to be physically fit.Sandy needs to be healthy.Sandy needs to be in good shape.Sandy
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+[MALE] wants to take a walk. [MALE] is lazy.
+[MALE] is sad. [MALE] will content.
+[MALE] calls the cops. [MALE] is sympathetic.
+[MALE] comes in from the rain. [MALE] has a hard time getting home.
+[MALE] receives [FEMALE] award. [MALE] wants to be recognized.
+[MALE] is doing well. [MALE] is successful.
+[MALE] takes the bath. [MALE] needs to be bathing.
+[MALE] looks like a pig. [MALE] needs a coat.
+[MALE]
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. [MALE] wants to make a good impression. [MALE] needs to show that person they have a problem. [MALE] will cheerful.
+[MALE] makes [FEMALE] famous. [MALE] wants to impress [FEMALE] with their appearance. [MALE] will happy.
+[MALE] stops to rest. [MALE] wants to get back to work. [MALE] wants to cry.
+[MALE] tells [FEMALE] to get dressed. [MALE] will happy.
+[MALE] puts the ball on the table. [FEMALE] wants to leave. [MALE] will helpful.
+[MALE
+---------------

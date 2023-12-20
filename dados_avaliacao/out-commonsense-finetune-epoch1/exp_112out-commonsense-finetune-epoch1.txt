@@ -1,0 +1,315 @@
+Overriding: out_dir = out-commonsense-finetune-epoch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has some food. He is in the kitchen. He is not in the house. He is away from home. He has work. He has an appointment. He has had an appointment. he is happy. He wants to go to the store. he is happy. he is happy. he wants to go to the store. he wants to be a part of it.. He wants to show him the way. he is excited. he wants to be nice. he is nervous. he is happy. he is happy. he is done. he is done. he is exhausted. he is fatigued. he is hungry. he is excited. he is thankful. he is happy. he is proud. he is helpful. he is helpful
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You have a car.You are at home.You want to watch tv.You are in a lot.You are curious.You like to have a good time.You are happy.You are young.You are tired.You are proud.You want to be well.You are dedicated.You are caring.You are talented.You are your own man.You are responsible.You are caring.You want to get the job done.You don't go to a job.You don't want to be in debt.You don't like to be caught.You don't want to fall in love.You are getting better.You want to have fun.You are healthy.You want to have a great time.You are brave
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[FEMALE] has been in and out of the area for the past five years.
+[FEMALE] is a good student.
+[FEMALE] asks you to come back.
+[FEMALE] moves with you.
+[FEMALE] wants to make sure everything is ok.
+[FEMALE] sees the world.
+[FEMALE] is tired of doing their job.
+[FEMALE] will you be ok.
+[FEMALE] starts a new career.
+[FEMALE] wants to become stronger.
+[FEMALE] sees the world in a new light.
+[FEMALE] knows what they are doing.
+
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You are a pretty good cook.But look at the food.Your food is tasty.You are good.You will be a good person.You will work hard.Your job will be good.You will have good health.The price is high.You will be more careful.There is a good price.You will be safe.You will have a good life.You will be generous.You will be good.You will be better.You will be kind.You are good.You will be lucky.You will be great.You are good.You will be proud.You will be important.You will love.You are amazing.You will be powerful.You will be good.You will be generous.You will be a
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] needs to have a wife.
+[MALE] is a writer.
+[MALE] wants to have a baby.
+[MALE] is curious.
+[MALE] is a good person.
+[MALE] is outgoing.
+[MALE] wants to run.
+[MALE] is good at sports.
+[MALE] wants to be an accountant.
+[MALE] wants to have a son.
+[MALE] wants to be a good father.
+[MALE] is proud.
+[MALE] wants to hold a job.
+[MALE] is good.
+[MALE] is an expert.
+[MALE
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] wants to cook food.
+[MALE] sees the persony's dog.
+[MALE] will to do.
+[MALE] is very good.
+[MALE] decides to play basketball.
+[MALE] will to have lunch with one another.
+[MALE] gives [MALE] a gift.
+[MALE] is sad.
+[MALE] takes [MALE] to school.
+[MALE] asks [FEMALE] why they are sick.
+[MALE] wants to be a gentleman.
+[MALE] will to be comfortable.
+[MALE] gives [FEMALE] directions.
+[M
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+
+[W]hale is a love song.
+
+[F]at will be able to take care of his duties.
+
+[W]ell is capable of help another person.
+
+[W]hear a story.
+
+[W]hear a person.
+
+[F]anyone wants to learn how to get a job.
+
+[W]hear a song.
+
+[F]receive a phone call.
+
+[W]hear the music.
+
+[W]hear a person.
+
+[F]receive a letter.
+
+[W]hear a person.
+
+[W]hear someone else.
+
+
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.If you have a job, then you have been hired.If you have a pet, then you have been pet.If you have a cat, then you have been cat.If you have a dog, then you have been dog.If you have a horse, then you have been horse.If you have a pig, then you have been pig.If you have a dog, then you have been dog.If you have a cat, then you have been cat.If you have a dog, then you have been dog.If you have a dog, then you have been dog.If you have a dog, then you have been dog.If you have a dog, then you have been dog.If you have a cat,
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[KIRK] puts on a disguise to make their appearance.
+[KIRK] gets a new one.
+[KIRK] eats the apple cake.
+[KIRK] buys a new watch.
+[KIRK] runs away with the dog.
+[KIRK] becomes the new kid on the block.
+[KIRK] needs to call the police.
+[KIRK] finds a home.
+[KIRK] plays soccer.
+[KIRK] gets the children.
+[KIRK] goes to the beach.
+[KIRK] plays basketball.
+[KIRK] gets a new car.
+[KIR
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] sees [FEMALE] funny. [MALE] is not interested in the conversation.
+[MALE] sees [FEMALE] face. [MALE] wants to find out who is talking to the person.
+[MALE] is good. [MALE] is skilled.
+[MALE] is the person. [MALE] is independent.
+[MALE] makes [FEMALE] dinner. [MALE] wants to spend the time with his family.
+[MALE] makes [FEMALE] lunch. [MALE] wants to eat.
+[MALE] leaves a note. [MALE] needs to take a nap.
+
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+you has completed a crime.
+you is a person who has been at the wrong place.
+a man has a woman.
+you has a great time.
+you has a big family.
+a woman has a child.
+a man has a wife.
+a man has a daughter.
+one of a kind has a husband.
+a man has a wife.
+a man has a pet.
+something has a life.
+japanese has a country.
+a people has a culture.
+a person has a family.
+a man has a family.
+all men have a desire.
+a man has a desire.
+a man has a desire.
+a person has a desire.
+a
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You've had a great day.You're enjoying your day.You've got a great day.You're getting ready for work.You don't think much of it.You're too tired.Get a job or something.go for a picnic.play golf.go to the park.go to a restaurant.go outside.go to the park.go to the store.get a haircut.go to the store.go to the park.go out to the woods.go to the park.go back home.go to the store.go to work.go home.go to the house.go to the store.go to the office.go to the office.go to the drive.go to the bathroom.go to
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] wants to impress [FEMALE] with his skill.
+[MALE] gets [FEMALE] some food.
+[MALE] makes [FEMALE] promise.
+[MALE] wants to be a doctor.
+[MALE] wants to get back to work.
+[MALE] is not working.
+[MALE] is not satisfied.
+[MALE] wants to go to a baseball game.
+[MALE] is [FEMALE] angry.
+[MALE] wants to see [FEMALE] well.
+[MALE] gets [FEMALE] head full.
+[MALE] is full.
+[
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You put in your work.You are good.You will succeed.You will get credit.You will get a promotion.You will get a promotion.You will get a vacation.You will get a good job.You will get a job.You will get a job.You will get a promotion.You will get a promotion.You will get a promotion.You will get a promotion.You will get a vacation.You will get a vacation.You will get a good work.You will get a good job.You will get a vacation.You will get a vacation.You will get a vacation.You will get a vacation.You will get a vacation.You will get a vacation.You will get a vacation.You will
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+You have a pet.
+you have a cat.
+you have a thing.
+you are a good person.
+you are a good person.
+you can't walk.
+you are a good person.
+you have an adventure.
+you have a duty.
+you are a good person.
+you are a good person.
+you is in danger.
+you are a good person.
+you is in danger.
+you is in danger.
+you is in danger.
+you is a good person.
+you is in danger.
+you is a good person.
+you is a good person.
+you is a good person.
+you is a good person.
+you is a good person.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] calls [FEMALE] to the store.
+[MALE] has been in another country for a long time.
+[MALE] has a great job.
+[MALE] is bored.
+[MALE] wants to play hockey.
+[MALE] gives [FEMALE] an opportunity.
+[MALE] spends every night at the same place.
+[MALE] is always in high spirits.
+[MALE] eats at the same restaurant.
+[MALE] puts [FEMALE] in danger.
+[MALE] sends out an email.
+[MALE] is always at the door.
+[MALE] turns [F
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has never used a car.
+[MALE] wants to read the books. [MALE] will gets to decide what he wants to read.
+[MALE] is working in the field. [MALE] is doing a fine job.
+[MALE] gets a call from your boss. [MALE] wants to get their boss's attention.
+[MALE] takes the time off. [MALE] is running errands.
+[MALE] leaves you. [MALE] wants to thank you.
+[MALE] throws the ball. [MALE] wants to catch the ball.
+[MALE] is really motivated. [MALE] will takes it seriously.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You might have seen a doctor.You are good at your job.You is happy.Your boss has asked you to come to work.You is healthy.You is not guilty.You is happy.You is not sad.You is responsible.You is caring.You is smart.You is intelligent.You is fit.You is fast.You is good.You is accomplished.You is determined.You is responsible.You is happy.You is determined.You is motivated.You is fun.You is beautiful.You is good.You is successful.You is accomplished.You is happy.You is satisfied.You is satisfied.You is beautiful.You is capable.You is helpful.You is intelligent.You is sociable
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] is in love.
+[MALE] wants to be part of the team.
+[MALE] wants to be with [FEMALE] for the rest of the week.
+[MALE] wants to take a vacation.
+[MALE] is [FEMALE]'s boss.
+[MALE] wants to get out of bed.
+[MALE] is a great person.
+[MALE] wants to be at a party.
+[MALE] asks [FEMALE] to take a shower.
+[MALE] is in school.
+[MALE] raises the person's hand.
+[MALE] wants to see the sunset.
+
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is happy.
+[MALE] takes [FEMALE] to the park. [MALE] wants to be a better person.
+[MALE] takes a photo. [MALE] wants to get a picture.
+[MALE] raises his hand. [MALE] is thankful.
+[MALE] pays [FEMALE] [MALE] back. [MALE] will happy.
+[MALE] gets [FEMALE] some money. [MALE] needs to go to the store.
+[MALE] brings [FEMALE] back. [FEMALE] will grateful.
+[MALE] decides to break away from the herd. [M
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He gets the job. You are capable of accomplish your goals.
+[MALE] finds the key to the door. [MALE] wants to get the key.
+[MALE] finds the persony. [MALE] wants to be alone.
+[MALE] gets the personx's keys. [MALE] needs to have keys.
+[MALE] gets the persony's money back. [MALE] wants to get the money.
+[MALE] writes a note. [MALE] will be in a hurry.
+[MALE] performs the act. [MALE] will happy.
+[MALE] turns the persony's back. [MALE] will
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+[MALE] takes a walk. [MALE] makes a friend.
+[MALE] gets a new car. [MALE] wants to see person y.
+[MALE] gets married. [MALE] needs to have a woman.
+[MALE] gets a new job. [MALE] is responsible.
+[MALE] is an adult. [MALE] learns a new skill.
+[MALE] becomes fast. [MALE] wants to get fast.
+[MALE] has a lot of fun. [MALE] needs to have a lot of fun.
+[MALE] has a lot of money. [MALE] will rich.
+[
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.If your enemy is a snake, you need to get a snakebite.If your enemy has been killed by a bogeyman, you need to get a dog.If you have not made it to the end of your rope, it is very hard to get back to the ground.If you have done nothing in the past, your goal is to find the truth.If your enemy is an enemy, you need to get him out of jail.If your enemy is not in the right place at the right time, you need to get out of jail.If your enemy will not be around to speak, you need to go to the friend you have.If your enemy has not been successful at the job, you are not competent enough.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has a lot of money.
+[MALE] goes to the store. [MALE] wants to buy food. [MALE] wants to get something.
+[MALE] is the one who is in charge. [MALE] wants to share information.
+[MALE] wins the lottery. [MALE] needs to earn money.
+[MALE] wants to run away. [MALE] is scared.
+[MALE] is having a party. [MALE] wants to celebrate.
+[MALE] is getting ready. [MALE] wants to leave.
+[MALE] is in charge. [MALE] wants to move into his new house.
+[
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You have to have a job.you have to be a waitress at the restaurant.you have to have two kids.you have to go to your car.you have to drive to your house.you are a worker.you have to get a job.you have to have a car.you have to pick up a phone.you have to drive the car.you have to get a new car. you have to have a job.you have to pick up a phone.you have to go to a restaurant.you have to go to the restaurant.you have to wait in line.you have to pay your bill.you have to go to the store.you have to get a haircut.you have to be a nurse at a
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+sputnik.org/index.php/viewtopic.php?t=1719
+[L]instruct the editor.
+[F]everyone in the studio.
+[M]he's using his phone.
+[M]he knows the answer.
+[F]he's eating.
+[M]he knows how to.
+[F]he receives a call.
+[M]he is at the park.
+[M]he is at the tv show.
+[M]he speaks to their mother.
+[M]he has a lot to eat.
+[F]he has a lot of money.
+[M]he is under the influence.
+[M]
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.The team has the keys to the store.The person who is the owner is often the manager.The person who is the manager is often the janitor.The person who is the owner is often the manager.The person who is the owner is usually the manager.The person who is the owner is often the manager.The person who is the owner is often the janitor.The person who is the owner is often the manager.The person who is the owner is often the janitor.The person who is the owner is often the manager.The person who is the owner is often the manager.The person who is the owner is often the janitor.The person who is the owner is often the manager.The person who is the
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.Settled down to the ground in the backyard.Makes a large breakfast.Makes a very happy family.Makes friends.Makes a good family.Makes an appearance in the show.Makes a family.Makes a big family.Makes a family.Makes a community.Makes a good friend.Makes a good pet.Makes a good person.Makes a good person.Makes a good friend.Makes a good person.Makes a good person.Makes a good person.Makes a good person.Makes a good person.Makes a good person.Makes a good person.Makes a good person.Makes a good person.Makes a
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+Ken has worked at Taco bell for many years. He has a big house.
+Ken has a big house. He has a big room.
+Ken has a big room. He has a lot of money.
+Ken has a lot of money. He is very satisfied.
+Ken has a lot of money. He is in love with a girl.
+Ken has a lot of money. He is happy.
+Ken has a lot of money. He is having fun.
+Ken has a lot of money. He is thankful.
+Ken has a lot of money. He is bored.
+Ken has a lot of money. He is proud.
+Ken has a lot of money. He is proud.
+Ken has a
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is willing to work for you.
+[MALE] sees the truth. [MALE] needs to be very experienced.
+[MALE] becomes the [FEMALE] [MALE] for the next time. [MALE] wants to be the person in charge.
+[MALE] sees the [FEMALE] [MALE] next year. [MALE] is grateful.
+[MALE] gives [FEMALE] the [FEMALE] [MALE] needs to ask what they want.
+[MALE] starts a new business. [FEMALE] wants to show their interest in the industry.
+[MALE] tries to get [FEMALE
+---------------

@@ -1,0 +1,301 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_6/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] gives [FEMALE] a gift card. [MALE] will happy.
+[MALE] takes none to the store. [MALE] needs to go to the store.
+[MALE] gives [FEMALE] a big hug. [FEMALE] will hugs person x.
+[MALE] finds a new job. [MALE] will hopeful.
+[MALE] pulls none away. [MALE] needs to get out of the house.
+[MALE] takes [FEMALE] to a laundromat. [MALE] needs to get some money.
+[MALE] gets a ticket to the concert. [MALE]
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. [MALE] will relieved.
+[MALE] takes none to school. [MALE] wants to continue working.
+[MALE] gets a new puppy. [MALE] needs to have the puppy.
+[MALE] buys none for persony's baby. [MALE] wants to give it to persony.
+[MALE] gets none from personx's dad. [MALE] wants to get a new one.
+[MALE] drives home from work one night. [MALE] wants to get home.
+[MALE] talks to persony's girlfriend. [FEMALE] will they tell [MALE] they're sorry.
+[MALE] starts
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. [MALE] wants to watch tv.
+[MALE] buys none on the beach. [MALE] wants to go fishing.
+[MALE] calls none to the fact. [MALE] wants to know why.
+[MALE] gets persony's friend. [MALE] wants to be friends with personx.
+[MALE] gives none to personx's family. [MALE] wants to have enough food to eat.
+[MALE] has a party with personx's friends. [MALE] wants to have fun.
+[MALE] visits the doctor. [FEMALE] will excited.
+[MALE] plays video games. [MALE]
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. [MALE] needs to go to school.
+[MALE] gets [FEMALE] into trouble. [MALE] is unkind.
+[MALE] goes none today. [MALE] is excited.
+[MALE] is in a good mood. [MALE] wants to sleep.
+[MALE] goes to the mall with persony. [MALE] is adventurous.
+[MALE] comes none for christmas. [MALE] wants to let the christmas boy go.
+[MALE] takes [FEMALE] to the hospital. [MALE] is patient.
+[MALE] goes back to persony's house. [MALE]
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] needs a new job. [MALE] wants to buy new ones.
+[MALE] goes to the aquarium with persony's dad. [MALE] needs to have a new aquarium.
+[MALE] eats at the restaurant. [MALE] wants to eat dinner.
+[MALE] gets personx's things together. [MALE] wants to be an expert.
+[MALE] wants to have a party. [MALE] needs to have gone out.
+[MALE] calls none to complain. [MALE] will like they can get to their destination.
+[MALE] calls persony's none to the fact. [MALE] wants
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] gives none a discount. [MALE] wants to get their money back.
+[MALE] never gave [FEMALE] a chance. [MALE] gets a new job.
+[MALE] starts persony's lunch. [MALE] is friendly.
+[MALE] gives [FEMALE] the money. [MALE] is generous.
+[MALE] takes none for christmas. [MALE] is good.
+[MALE] changes personx's position. [MALE] is new.
+[MALE] goes none with persony's mom. [FEMALE] wants to visit person x.
+[MALE] is
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to recover from the pain.
+[MALE] is playing a game of chess. [MALE] is skilled.
+[MALE] gets a new puppy. [MALE] needs to have the puppy.
+[MALE] spends the night. [MALE] wants to sleep at night.
+[MALE] puts none in the fridge. [MALE] is careful.
+[MALE] spends none with friends. [MALE] is loving.
+[MALE] takes none to the movie. [MALE] wants to eat popcorn.
+[MALE] gives [FEMALE]
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] buys a new tv. [MALE] will happy..
+[MALE] is at a concert. [MALE] wants to watch a movie.
+[MALE] is driving home. [FEMALE] wants to take a break.
+[MALE] helps personx's team win. [MALE] needs to get a plan.
+[MALE] uses none to get. [MALE] is helpful.
+[MALE] takes a turn for the worse. [MALE] needs to go to the hospital.
+[MALE] takes [FEMALE] to the hospital. [MALE] is unwell.
+[MALE] gets a tattoo
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] likes to cook. [MALE] is full.
+[MALE] gets none back. [MALE] needs to find it somewhere.
+[MALE] uses none at work. [MALE] wants to make new friends.
+[MALE] comes to [FEMALE] mind. [MALE] wants to start a relationship.
+[MALE] takes none on vacation. [MALE] will clean.
+[MALE] comes across the ___. [MALE] needs to see the location of the item.
+[MALE] turns none into bricks. [MALE] will happy.
+[MALE] gets a good night's sleep. [M
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] puts none right. [MALE] [MALE] is responsible.
+[MALE] eats well. [MALE] wants to go home.
+[MALE] loves none in persony's arms. [MALE] is hopeful.
+[MALE] puts none behind persony. [MALE] is friendly.
+[MALE] leaves the none behind persony. [MALE] is helpful.
+[MALE] tells [FEMALE] to leave. [MALE] wants to rest and recover.
+[MALE] takes time off from work. [MALE] wants to enjoy a rest.
+[MALE] takes none for a walk.
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] pays the bill. [MALE] wants to pay the bill.
+[MALE] gives [FEMALE] a ride. [FEMALE] wants to give them a ride.
+[MALE] starts none last week. [MALE] wants to finish the project.
+[MALE] finds none in personx's backyard. [MALE] is determined.
+[MALE] is in the finals. [MALE] wants to compete with peers.
+[MALE] goes none on the internet. [MALE] will relieved.
+[MALE] tells [FEMALE] to go. [MALE] is considerate.
+[MALE]
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. [MALE] is observant.
+[MALE] is on a camping trip. [MALE] will relaxed.
+[MALE] gives [FEMALE] a blow. [MALE] wants to make money.
+[MALE] never noticed. [MALE] wants to ignore person x.
+[MALE] gets personx's stuff. [MALE] gets credit for it.
+[MALE] does a great job. [MALE] wants to get the job done.
+[MALE] is a huge success. [MALE] will successful.
+[MALE] finds none in the attic. [MALE] wants to put the thing in the attic.
+
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] wants to go somewhere. [MALE] needs to get a phone.
+[MALE] is playing video games. [MALE] gets tired.
+[MALE] is still hungry after lunch. [MALE] wants to eat.
+[MALE] loses personx's keys. [MALE] wants to not be able to leave.
+[MALE] feels none in personx's neck. [MALE] is tired.
+[MALE] is really hot. [MALE] is hot.
+[MALE] is a big success. [MALE] needs to earn extra money.
+[MALE] is a big hit at the store. [M
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. [MALE] needs to have a good time.
+[MALE] takes none to the store. [MALE] needs to get their glasses.
+[MALE] needs a friend. [MALE] wants to see them again..
+[MALE] takes none to the zoo. [MALE] needs to go to the zoo.
+[MALE] makes a video. [MALE] wants to know why the video was made.
+[MALE] takes none to the park. [MALE] will excited.
+[MALE] gives none a raise. [MALE] wants to be generous.
+[MALE] gives none a ring. [MALE] will happy.
+
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] is a virgin. [MALE] wants to have a party.
+[MALE] is a lot of work. [MALE] is lazy.
+[MALE] is a big hit. [MALE] wants to get a promotion.
+[MALE] writes none on the wall. [MALE] wants to express themselves.
+[MALE] takes a selfie. [MALE] wants to call persony's friend.
+[MALE] runs errands. [MALE] will satisfied.
+[MALE] gets none back. [MALE] wants to return the item.
+[MALE] eats none together. [MALE] needs to have a
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] calls none to complain. [MALE] is communicative.
+[MALE] sets none in motion. [MALE] is determined.
+[MALE] drives to work. [MALE] is busy.
+[MALE] makes a lot of money. [MALE] will satisfied.
+[MALE] tells persony's mom. [MALE] wants to tell [MALE] what she said.
+[MALE] calls none to the fact. [FEMALE] wants to be honest.
+[MALE] becomes a millionaire. [MALE] will happy.
+[MALE] eats [FEMALE] according. [FEMALE]
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] tries to make [FEMALE] happy. [MALE] wants to smile.
+[MALE] tells [FEMALE] had eaten. [MALE] wants to be helpful.
+[MALE] takes none to the store. [MALE] is adventurous.
+[MALE] makes [FEMALE] a point. [FEMALE] wants to learn.
+[MALE] gives [FEMALE] some tips. [MALE] wants to be more informed.
+[MALE] throws the none away. [MALE] will satisfied.
+[
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] thinks was bored. [MALE] needs to find a place to sit.
+[MALE] takes none to the store. [MALE] will happy.
+[MALE] is feeling really bad. [MALE] wants to be honest.
+[MALE] takes none to japan. [MALE] wants to spend time with persony.
+[MALE] spends the next year. [FEMALE] wants to write back.
+[MALE] takes [FEMALE] to the store. [MALE] is friendly.
+[MALE] is in the hospital. [MALE] is hospitalized.
+[MALE] loses every ___. [
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] takes none of persony's money. [MALE] will happy.
+[MALE] tells [FEMALE] to leave. [MALE] wants to be a good friend.
+[MALE] starts personx's none back. [MALE] needs to get out the car.
+[MALE] pays none of personx's bills. [MALE] wants to get back to work.
+[MALE] is at a party. [MALE] wants to go out.
+[MALE] gives [FEMALE] a ring. [MALE] is nice.
+[MALE] gives the persony's none a big hug. [MALE
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] becomes a millionaire. [MALE] is lucky.
+[MALE] spends time with persony. [MALE] is social.
+[MALE] finds a new job. [MALE] wants to make money.
+[MALE] takes [FEMALE] to the hospital. [MALE] is caring.
+[MALE] takes none to a veterinarian. [MALE] wants to give a prescription.
+[MALE] pulls [FEMALE] aside. [MALE] wants to go to the other side.
+[MALE] takes none to the store. [MALE] wants get something.
+[MALE] gets a divorce. [
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. [MALE] will happy.
+[MALE] takes a seat. [MALE] is dutiful.
+[MALE] takes none to the movies. [MALE] to watch the movies.
+[MALE] knows [FEMALE] was pregnant. [MALE] wants to get something to eat.
+[MALE] has lunch with persony's mom. [FEMALE] will glad.
+[MALE] puts none in the oven. [MALE] will responsible.
+[MALE] is a big fan. [MALE] wants to see how things go.
+[MALE] gets personx's homework done. [MALE] will happy.
+
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] takes none to the park. [MALE] is careful.
+[MALE] takes none on a date. [MALE] will like they've met.
+[MALE] lets [FEMALE] know. [FEMALE] will gets thanked.
+[MALE] makes [FEMALE] breakfast. [MALE] needs to have food.
+[MALE] plays a none in forming. [MALE] is talented.
+[MALE] takes the money. [FEMALE] wants to pay for it.
+[MALE] gets the none straight. [MALE] is prepared.
+[MALE] works so hard. [MALE
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] wants to go to the beach. [MALE] is a loving person.
+[MALE] works all week. [MALE] is diligent.
+[MALE] gets a new puppy. [MALE] needs to go to a pet store.
+[MALE] takes none to the vet. [MALE] wants to get the information.
+[MALE] gets a new kitten. [MALE] wants to adopt animal.
+[MALE] plays a none in development. [MALE] wants to build a team.
+[MALE] buys a ticket. [MALE] is excited.
+[MALE] takes [FEMALE] to the doctor
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] is driving home from work one afternoon. [MALE] is tired.
+[MALE] invites [FEMALE] to dinner. [MALE] wants to see what is going on.
+[MALE] works for a year. [MALE] is tired.
+[MALE] moves to a new house. [MALE] wants to move to another city.
+[MALE] finally asked ___. [MALE] wants to get an answer to what is going on.
+[MALE] spends none with personx's family. [MALE] wants to spend time with family.
+[MALE] plays the drums. [MALE] will happy.
+
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] is a professional golfer. [MALE] will proud of themselves.
+[MALE] gets none from personx's mom. [MALE] wants to tell their mom about it.
+[MALE] loses persony's money. [MALE] wants to get their money back.
+[MALE] gets a new apartment. [MALE] will happy.
+[MALE] gives [FEMALE] a piece of my mind. [MALE] needs to listen to personx.
+[MALE] takes none to the store. [MALE] will happy.
+[MALE] finds a lost item. [MALE] is curious.
+[M
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] becomes very angry. [MALE] get's upset.
+[MALE] receives a new car. [MALE] needs to go to the dealership.
+[MALE] is playing basketball with friends. [MALE] wants to play with friends.
+[MALE] is going to see persony. [MALE] wants to get in line.
+[MALE] gives [FEMALE] a ride. [MALE] wants to have fun.
+[MALE] takes none to school. [FEMALE] wants to tell [MALE] to get up.
+[MALE] is really bad. [MALE] wants to be bad.
+[
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] goes to a party with personx's friends. [MALE] is social.
+[MALE] wins [FEMALE] award. [MALE] is grateful.
+[MALE] knows persony's place. [MALE] needs to talk to persony.
+[MALE] hears none in the evening. [MALE] needs to go to the party.
+[MALE] sends persony's none to the school. [MALE] wants to help persony.
+[MALE] calls persony's none in the morning. [MALE] wants to be helpful.
+[MALE] walks to the store. [MALE] is nervous.
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] writes persony's poems. [MALE] will helpful.
+[MALE] raises none to pay. [MALE] wants to save money.
+[MALE] provides none to students. [MALE] is responsible.
+[MALE] is a great cook. [MALE] will accomplished.
+[MALE] tells personx's stories. [MALE] wants to tell a story.
+[MALE] takes [FEMALE] to the doctor. [MALE] takes medicine.
+[MALE] takes none to the park. [MALE] wants to go to the park with friends.
+[MALE] makes none for fun. [M
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses.
+[MALE] wants to go home. [MALE] needs to get a new one.
+[MALE] goes back to work. [MALE] needs to go to the office.
+[MALE] is really good. [MALE] is talented.
+[MALE] gives [FEMALE] the time. [FEMALE] will happy.
+[MALE] puts none in a bowl. [MALE] is playful.
+[MALE] spends none with personx's family. [MALE] is friendly.
+[MALE] gets none to eat. [MALE] needs to be eating.
+[MALE] is late for school. [MALE
+---------------
+Complete the following text within five sentences:Today was the day Jane was getting new glasses. [MALE] wants to make the glasses look good.
+[MALE] takes none to the store. [MALE] wants to buy something.
+[MALE] makes none at home. [MALE] is responsible.
+[MALE] takes the medicine. [MALE] will satisfied.
+[MALE] has a great time. [MALE] wants to see the movie.
+[MALE] eats my heart out. [MALE] wants to be in control of the situation.
+[MALE] watches none on youtube. [MALE] has a movie.
+[MALE] takes none to the beach. [MALE] is adventurous.
+[MALE] is
+---------------

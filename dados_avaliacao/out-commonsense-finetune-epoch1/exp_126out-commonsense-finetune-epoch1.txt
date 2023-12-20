@@ -1,0 +1,157 @@
+Overriding: out_dir = out-commonsense-finetune-epoch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Shayna dreaded going to gym class.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Shayna dreaded going to gym class. She wanted to be a competitive athlete. She wanted to be in a good position. She wanted to be a better person. She is curious. She has a good understanding. She wants to find something to do.She wants to become a good person.She is caring.She wants to have a good relationship with her partner. She is friendly. She wants to make others happy.She wants to be happy.She wants to be with a friend.She is helpful.She is helpful.She wants to make a better life.She wants to be happy.She wants to be a good person.She is generous.She wants to be a good person.She is caring.She wants to enjoy life.She wants to learn more.she
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. She wants to avoid the stress.But she has a very small amount of stress.She wants to take a break.Read a short story.She wants to get a job. Read a book.Read a newspaper.Read a movie.Read a book.Read a book.But she is not going to be there.Sleeping is required.If the person is asleep they will be restless for a long time.It will be more rewarding.The person go to a shop.If they did not drink the beer they would have a headache.Sleeping is not required.<|endoftext|>Image copyright AFP Image caption A new poll of EU membership data reveals that the country's leaders are still divided over the issue
+
+The EU has re-
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.Shesh was a good girl.she was a good person.she was a good person.she was a good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.she was good person.s
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.You're lucky you got a good degree.You're a lot better than you think.You're good.You need to listen.You need to be able to relate to others.You need to be in a good mood.The next time you see the person is in a good mood.You have a good time.You like to go to the mall.You might be in a bad mood.You're good.You're in charge.You have a good time.Your heart is pounding.You have a good time.You're good.You're going to lose weight.You look like a good guy.You're a bit nervous.You're walking the dog.You're good.You get in the car.You get a
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.Shayna wanted to get a tattoo on her leg.Shayna was playing with her friends.Shayna was frustrated.Shayna wanted to talk to personx.personx is angry.personx is scared.personx is happy.personx is happy.personx wants to be happy.personx wants to be helpful to personx.personx is happy.personx wants to be grateful.personx needs to go to personx's place.personx is about to go out.personx is worried about their safety.personx is confused.personx needs to go to the bathroom.personx is sad.personx is angry.personx wants to go back to school.personx is not
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.When you are in class you will be able to see the instructor. You will get a credit for your knowledge.Your computer is on.You do not need to have a computer to use the program.You will get a credit for the work. Your computer is on.You will have a good time.You will have a lot of fun.the dog is on.you is a good person.you is walking.you is walking.you loves to see the beach.you is being entertained.you is getting a good day.you is getting a good shower.you is making new friends.you is spending time with friends.you is enjoying the experience.you is enjoying how the world is.you is being made fun of.you
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+Shayna was the one who first found the truth about the truth.
+Shayna was the one who gave the lie to the people.
+Shayna was the one who took the money.
+Shayna was the first person to eat the dinner.
+Shayna was the first person to make a joke.
+Shayna was the first person to learn the new language.
+Shayna, the last of the kids left, came to earth.
+Shayna is the last person to have sat down.
+Shayna looked at the stars.
+Shayna got the money.
+Shayna is the one who took the money.
+Shayna stayed at the house.
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.Shayna was excited.Shayna should have taken the bus.Shayna wanted to go to prom.Shayna wanted to be in shape.Shayna liked people's smiles.Shayna would like to be good parents.Shayna would like to go to another city.Shayna wants to be a singer.Shayna is a person who is friendly.Shayna wants to go to university.Shayna is worried.Shayna wants to be a good parent.Shayna wants to be educated.Shayna wants to do well.Shayna wants to read books.Shayna wants to eat.Shayna wants to go to the store.Shayna
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. You've already gone to gym class.The girl is a girl.You will regret it.But you will regret the time.You will wonder why.You will love the girl.You will want to try it.But you are not capable.You will be a failure.You will get more money.You will become famous.You will achieve power.But you will lose your job.You will find out the money is in bank account.You is not capable.You will get a loan.You will be accepted by your children.You will have the money.You will get promotion.You will be the manager.You will earn money.You will want to try it.But you will regret it.But you will have the money
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.She always wanted to go to university.She always wanted to work.She wants to be entertained.She is not a good person.Now you will know the truth.You is a good person.You is good.You is right.She is good.I want to learn more.I am happy.I am happy.I is good.I is good.I is good.I wants to be with my girlfriend.I wants to go to school.I wants to get help.I wants to use the bathroom.I wants to feel great.I wants to feel comfortable.I needs to use the restroom.I wants to be helpful.I needs to be loved.I needs to be in the car.I wants to go to
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+you do not need to be obese.
+you are not fit to be married.
+some women may be offended by this.
+you are not fit for an all women's event.
+you do not have an appetite.
+you do not have enough food.
+you are not fit for a house.
+you are not fit for a job.
+you make a fool of yourself.
+you is not a man.
+someone needs to do something.
+someone needs to be in the same class as you.
+someone has to have a job.
+someone buys food.
+someone is in need of a haircut.
+someone is capable of pick up a phone.
+someone is capable of ask you.
+someone is
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.You've had your exam done.You've reached your goal.You've got a great relationship with your boyfriend.You were fired.You don't think about your problem.You're too tired.Get a new computer.You've got a new job.You're good.You're comfortable.you're a great person.you're family.you're a good person.you're a good person.you are beautiful.you have a good time.you have a great time.you are beautiful.you have a good time.you are a good person.you are a good person.you are good person.you have a great time.you are good.you have a good time.you are a good person.you are a
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.<|endoftext|>One of the biggest changes to the way we use the internet is the increasing number of people sharing information. There is a sense that the internet is somehow important, and that sharing information is a way of knowing something about the world. The internet is not where these people live anymore.
+
+An example of a social media platform
+
+One of the most successful social media platforms for people is social media. It is not the most popular platform, and it is not a social network.
+
+A social media platform is not usually used for sharing information. There are many ways to use social media to share information.
+
+A social media platform is used for sharing information. It is used for sharing information.
+
+A social media platform is
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. She wanted to be good. [MALE] wants to feel good. [MALE] wants to get better. [MALE] will feels good. [MALE] wants to be happy. [MALE] will wants to look better. [MALE] wants to relax. [MALE] will will is sad. [MALE] wants to make new friend. [FEMALE] feels good. [MALE] is happy. [MALE] wants to get some food. [MALE] is tired. [MALE] is kind. [MALE] wants to ignore him. [MALE] is helpful. [MALE] wants to be better. [MALE] will motivated. [
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.
+You have to pay the fee.
+You are a person.
+You will be arrested.
+Receive a reward.
+Gaining some knowledge.
+A complete understanding.
+Good health.
+You will be in a good mood.
+You will have a good day.
+You will love your family.
+You will be home free.
+You will be in a happy mood.
+You will be healthy.
+Being in control.
+Treat the person in a way.
+You will always be in the right place.
+You will love your life.
+Enjoy your life.
+Have fun.
+Read the article.
+Have a nice day.
+Enjoy the results.
+You will keep quiet.
+
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.She wanted to go to a movie.She wants to be on a date with a friend.She wants to get another job.She wants to get her degree.She wants to be in the business.She wants to be around people.She wants to read.Shayna wanted to buy some food.She wants to get some money.She wants to meet her husband.She wants to get back at her husband.She wants to make a decision.she wants to make a decision.she wants to get paid.she wants to be in the middle of it.she wants to find someone to call.she wants to spend money.she wants to be in the right place.she wants take a bath.she wants to love.she
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.<|endoftext|>Olympic gold medalist, former U.S. ambassador to the European Union, and former Israeli prime minister.
+SCHOOLYMALE
+Olympic athlete, former US ambassador to the European Union, and former Israeli prime minister.
+MAGIC
+Olympic sports fan, former US ambassador to the European Union.
+MALE
+Olympic athlete, former US ambassador to the European Union, and former Israeli prime minister.
+MAGIC
+Olympic athlete, former US ambassador to the European Union.
+SCHOOLYMALE
+Olympic athlete, former US ambassador to the European Union, and former Israeli prime minister.
+MALE
+Olympic athlete, former US ambassador to
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.Say she never gave you the money.Say hi to her.Say something else.Say he liked you.Say she liked your job.
+
+[MALE] does not have a large mouth.MALE [MALE] takes the time.MALE [MALE] uses a new computer.MALE [MALE] gives [MALE] a call.MALE [MALE] looks for the person.MALE [MALE] will make the call.
+
+[MALE] is unharmed.MALE [MALE] wants to thank [MALE] for their kindness.MALE [MALE] gives [MALE] a hug.MALE [MALE] will be a good
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.Sikh is a temple with a library.Mental illness is a sign of insanity.Sikh will have more than one wife.Mental health is a mental condition.Sikh will have more than one house.Mental health is a mental condition.Mental health is a mental condition.Mental health is a mental condition.Mental health is a mental condition.Mental health is a mental condition.Mental health is a mental condition.Mental illness is a mental condition.Mental illness is a mental condition.Mental illness is a mental condition.Mental illness is a mental condition.Mental illness is a mental condition.Mental illness is a mental condition.Mental illness is a mental condition.Mental
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.You will be the best.You will be responsible.You will be loving.You will be comfortable.You will feel good.You will be healthy.You will be happy.You will be popular.You will be powerful.You will be good.You will be very helpful.You will be happy.You will be loved.You will be beautiful.You will be very safe.You will be content.You will be fulfilled.You will be adventurous.You will be fun.You will be good.You will be good.You will be happy.You will be loved.You will be good.You will be happy.You will be happy.You will be happy.You will become a person.You will be happy.You
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. She gets so sore. You are capable of stay satisfied.You are capable of be successful. [Shayna goes to the bathroom]Thank you. [Shayna gives up] [x] [y] is helpful. [x] knows how to work in the program. [y] is helpful. [x] is curious. [x] is helpful. [x] has a lot of money. [y] will tired. [x] will fulfilled. [x] will determined. [x] will responsible. [x] is helpful. [x] is safe. [x] is responsible. [x] is willing. [x] is reliable. [x] wants to do them right. [x
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. She always wants to go to a gym. She will be happy.She is going for exercise.She has a friend.Shayna wants to go to a restaurant. She is going for a walk.She is bored.She is not satisfied.She wants to go home.She is happy.She is on vacation.She wants to take a shower.She is hungry.She is tired.She is getting worse.She wants to go to a friend.She is caring.She wants to be helpful.She is satisfied.She is talented.She is caring.She is sad.She is having a hard time.She wants to be healthy.She is sad.She is very lonely.She is happy.She is motivated.
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.May your body be a better place.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will be a better person.you will
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.Jill ran a marathon.She had a boyfriend.Jill was very upset.The doctor told them to give the person a checkup.They asked for the money.She wanted to be treated properly.Jill was very excited.She picked up their phone.They asked for the checkup.They gave it to the man.They brought the checkup back.Jill was very sad.She was going to take a bath.You will regret it.Jill stopped crying.When the doctor gave to the man, she wanted to get him a drink.Jill liked the idea of going to the doctor.The doctor gave a good report.Jill smiled.He was in love with a woman.Jill was worried.
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.I wish y'all would have loved thee well enough to do that.If you're not satisfied, please just leave the room.If you leave the room,you will never return.If you continue for a while, it will get to you.If you continue for a while,it will come to you.If you continue for a while,it will come to you.If you continue for awhile,it will come to you.I will make a mess.I will make my own tea.I will clean my house.I will be a good husband.I will be a good husband.I will be a good wife.I will be a good mother.I will be a good mother.I will be a good mother.
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. She wanted to be in the gym.She was hungry.She grabbed a cup of coffee.She needs to go to the car.She is going to the store.She wants to be in the store.She is going to the store.She wants to be in the store.She wants to be in the store.She wants to get a gift.She wants to bring to the office.She wants to be in the office.She hates to go to the store.She wants to get a car.She wants to get a job.She wants to take care of themselves.She wants to be healthy.She wants to be fair.She wants to feel like a good person.She wants to get married.She wants to start the
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.The girl with the yellow ponytail is a teenager.Shayna wants to go home.The girl with the red ponytail is a teenager.The girl with the red ponytail wants to go home.The girl with the blue ponytail is a teenager.The girl with the green ponytail is a teenager.The girl with the red ponytail wants to go to a party.The girl with the yellow ponytail is a teenager.The girl with the green ponytail is a teenager.The girl with the yellow ponytail wants to go to bed.The girl with the blue ponytail is a teenager.The girl with the red ponytail wants to go to the bathroom.The girl with the yellow ponytail is a teenager.The
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.Sugar will get better.Rent the car.Marry a certain person.Do something nice for a friend.Do something nice for a friend.Make an appointment.Help someone else.Marry a particular person.Go to the movies.Marry a certain person.Maintain a good relationship.Marry a certain person.Maintain a good relationship.Marry a certain person.Maintain a good relationship.Marry a certain person.Maintain a good relationship.Marry a certain person.Marry a certain person.Maintain a good relationship.Marry a certain person.Maintain a good relationship.Marry a certain person.Maintain a good relationship.Marry a certain person.Marry a certain
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class.The class will be over soon.You will not get the answer.You is not capable of sleep.You is not capable of stand up.You will not be able to do the math.You is not capable of raise your hand.You is not capable of speak.You is not capable of do the math.You is not capable of wear a tie.You is not capable of get the message.You is not capable of make a purchase.You is not capable of play basketball.You is not capable of dress your cat.You is not capable of play the same game.You is not capable of stand on the corner.You is not capable of take a walk.You is not capable of get up.You is not capable of
+---------------
+Complete the following text within five sentences:Shayna dreaded going to gym class. She said he was a bit nervous.
+[MALE] gets the information. [MALE] needs to be very experienced.
+[MALE] puts the question. [MALE] will wants to make the response.
+[MALE] plays baseball. [MALE] wants to become better.
+[MALE] invites [FEMALE] back. [MALE] wants to get to know them.
+[MALE] calls [FEMALE] friend. [FEMALE] will happy with the reply.
+[MALE] visits a doctor. [MALE] wants to get medical to see that they have a stomach ache.
+[MALE] is not happy to see.
+---------------

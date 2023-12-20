@@ -1,0 +1,452 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:John got a pet turtle when he was a kid.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a room is used for a private place.
+a room is used for a bedroom.
+a room is used for a work space.
+a room is used for a bathroom.
+a room is used for a bedroom.
+a room is used for bedrooms.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used for a bedroom.
+a room is used
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [MALE] needs to search for it.
+[MALE] is a college student. [MALE] needs to study.
+[MALE] feels a little better. [MALE] is alert.
+[MALE] takes persony's girlfriend. [FEMALE] wants to have a good time.
+[MALE] comes home to roost. [MALE] wants to get some rest.
+[MALE] sees a doctor. [MALE] wants to take care of their condition.
+[MALE] throws up on persony. [MALE] is mean.
+[MALE] needs a new toy. [MALE] needs to buy one.
+[M
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [FEMALE] will they can return to their old self. ] [MALE] is a good guy. ] [MALE] is a good guy. ] [MALE] is a successful entrepreneur. ] [MALE] is loving. ] [MALE] wants to do well. ] [MALE] is a good person. ] [MALE] they are proud. ] [MALE] is outgoing. ] [MALE] wants to be appreciated. ] [MALE] wants to stay positive. ] [MALE] is helpful. ] [MALE] wants to be helpful. ] [MALE] gets a fresh start. ] [MALE] needs to go to a store. ]
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [MALE] needs to feed it. [MALE] wants to have a pet turtle.
+[MALE] sees a funny guy. [MALE] is funny.
+[MALE] plays the drums for the band. [MALE] is determined.
+[MALE] gives none to the world. [FEMALE] wants to be happy.
+[MALE] breaks persony's leg. [MALE] is kind.
+[MALE] works at a fast food restaurant. [MALE] will satisfied.
+[MALE] gets personx's none together. [MALE] is organized.
+[MALE] goes hiking with persony. [MALE] is a
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a book is defined as a collection of information.
+a book is at a library.
+a book is at any book store.
+a book is at the library.
+a book is at a library.
+a book is at a storage area.
+a book is at a classroom.
+a book is at the shelf.
+a book is at the shelf.
+a book is at the book store.
+a book is at a small town.
+a book is at a magazine.
+a book is at a small town.
+a book is at a small town.
+a book is at a town.
+a book is at a bookstore.
+a book is at a library.
+a book is at
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a man is capable of sit on a chair.
+a person is capable of take a break.
+a person is capable of get a haircut.
+this is a large project.
+a person is capable of walk on a road.
+a person is capable of take a break.
+a person is capable of eat an egg.
+the sky is white.
+this is not a toy.
+a person is capable of take a bath.
+this is a large piece of paper.
+an old woman is at a graveyard.
+go to a party is motivated by you liked dancing.
+a person is capable of smell a thing.
+the sky is white.
+a person is capable of take a shower.
+an
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a is for the universe.
+a is for the universe.
+the is for the universe.
+a is for the universe.
+a is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. x is an adult.
+[MALE] calls the none to account. [MALE] is intelligent.
+[MALE] is a really good student. [MALE] wants to study harder.
+[MALE] takes none to the vet. [MALE] is determined.
+[MALE] finds none in the woods. [MALE] wants to find a place to live.
+[MALE] is a great basketball player. [MALE] wants to win a basketball game.
+[MALE] makes pancakes. [MALE] needs to open the refrigerator.
+[MALE] makes [FEMALE] effort. [MALE] needs to do the work.
+[M
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] is going on a walk. [MALE] will happy.
+[MALE] gives one. [MALE] is helpful.
+[MALE] gets none off the ground. [MALE] wants to get the rest of the things out of the bag.
+[MALE] takes the cat out. [MALE] needs to get the cat out of the catbox.
+[MALE] is going on a shopping trip. [MALE] will responsible.
+[MALE] gives none the go. [FEMALE] will no effect.
+[MALE] takes a break. [MALE] is tired.
+[MALE] finds none to help.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+have a heart attack has subevent get a heart attack.
+take an exam has prerequisite for not be a hard worker.
+a bowl is at a drawer.
+a person does not desire be caught in a police car.
+a person does not desire be robbed.
+a person does not desire be dead.
+a person does not desire be a dick.
+a person desires be treated with respect.
+eat in a fast food restaurant has subevent you will get fries.
+go to a concert has subevent you will feel like an idiot.
+a person does not desire be a dick.
+a person does not desire have a heart attack.
+a person does not desire be a jerk.
+a person does not
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a person does not desire be told the truth.
+a person does not desire be accused of witchcraft.
+a person does not desire be cheated.
+a person does not desire be left behind.
+a person does not desire be treated badly.
+a person does not desire be treated unfairly.
+a person does not desire be hated.
+a person does not desire be killed.
+a person does not desire be accused of witchcraft.
+a person does not desire be ignored.
+a person does not desire be ignored.
+a person does not desire be considered stupid.
+a person does not desire be forgotten.
+a person does not desire be violated.
+a person does not desire be ignored.
+a person does not
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [FEMALE] wants to thank them for their help.
+[MALE] comes with persony's supplies. [MALE] needs to get the supplies.
+[MALE] makes a play for time. [MALE] wants to be free.
+[MALE] is a little late. [MALE] will embarrassed.
+[MALE] helps others. [MALE] needs to know about the others.
+[MALE] buys a new camera. [MALE] needs to go into the shop.
+[MALE] gives [FEMALE] a job. [FEMALE] will happy.
+[MALE] asks persony's friends for help. [FEM
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+bust has subevent get a clean bill of health.
+it has property very cold outside.
+lose weight has subevent you feel healthier.
+a person does not desire a broken bone.
+a book is at the kitchen.
+a person does not desire a lost tooth.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a book is at the shelf.
+a person desires a new job.
+a person does not desire a broken leg.
+a person does
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a cat is capable of run well.
+a cat is capable of eat a ball.
+a cat is capable of feed a dog.
+a cat is capable of do tricks.
+a cat is capable of find food.
+an article is capable of contain information.
+a picture is capable of take many pictures.
+a cat is capable of play a game.
+a cat is capable of feel pain.
+a cat is capable of smell.
+a picture is capable of take many pictures.
+a picture is capable of show a person.
+a picture is capable of be something.
+a picture is capable of be seen.
+a picture is capable of take many pictures.
+a picture is capable of be seen.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a person does not desire be left alone.
+a person does not desire be a victim.
+a person desires be satisfied.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a woman is capable of use a bathroom.
+a person desires read the book.
+a person desires a nice evening out.
+a person desires a nice day out.
+a person desires be close to someone.
+a person desires have a good time.
+a person desires the fact.
+a person is capable of do many things.
+a person is capable of go to the doctor.
+a person is capable of make a bed.
+a person is capable of do a lot of things.
+a person is capable of help the others.
+a person is capable of save time.
+a person is capable of be a good friend.
+a person is capable of take a bath.
+a person is capable of
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a person does not desire fall across a table.
+a person does not desire be in the wrong place at the wrong time.
+a person does not desire be accused of having a heart attack.
+a person does not desire be in trouble with the law.
+joe is a young girl.
+a person does not desire have a bad day.
+something you find underwater is a whale.
+a person does not desire be exposed to the garbage.
+a person does not desire be in debt.
+a person does not desire be in trouble.
+bicycle is at a park.
+a person does not desire be in debt.
+a person does not desire be in debt.
+something you find underwater is some of
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a person does not desire be the center of attention.
+a person is capable of feel regret.
+a person is not capable of listen to music.
+a person is not capable of take a break.
+a person is not capable of go to the doctor.
+a person is not capable of look through a telescope.
+a person is capable of find a toy.
+a person is not capable of eat bacon.
+a person is capable of eat vegetables.
+a person is not capable of eat fish.
+a person is not capable of write a poem.
+a person is not capable of think carefully.
+a person is not capable of wash clothes.
+a person is not prepared to eat a hamburger.
+
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] takes none to the museum. [MALE] wants to go to the museum.
+[MALE] tells the truth. [MALE] needs to be a witness.
+[MALE] runs personx's business. [MALE] needs to have a business.
+[MALE] takes none to the hospital. [MALE] is responsible.
+[MALE] leaves personx's none behind. [MALE] is responsible.
+[MALE] says [FEMALE] was sorry. [MALE] will like they are sorry for persony.
+[MALE] is expecting personx's first child. [MALE] wants to see if they are pregnant
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a person desires a fairytale.
+a person desires read books.
+a person desires be entertained.
+a person desires something to do.
+a person desires a good job.
+a person desires a good job.
+a person desires peace.
+a person desires a beautiful vacation.
+a person desires a good job.
+a person desires a job.
+a person desires be content.
+a person desires more.
+a person desires a friend.
+a person desires happiness.
+a person desires a good job.
+a person desires help.
+a person desires a good career.
+a person desires sleep.
+a person desires something good.
+a person desires a good job.
+a person desires good
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [MALE] wants to play on the beach.
+[MALE] puts on the stereo. [MALE] needs to go to the stereo.
+[MALE] finds the none to drink. [MALE] wants drink something.
+[MALE] is sitting in front of persony. [MALE] is social.
+[MALE] is cleaning personx's house. [FEMALE] will glad.
+[MALE] puts none in the garbage. [MALE] is responsible.
+[MALE] is in a lot of pain. [MALE] wants to take a rest.
+[MALE] does one 's duty. [MALE] will accomplished.
+
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a person does not desire a full-length movie.
+a person does not desire be rushed to the hospital.
+a person does not desire be held captive.
+a person does not desire take a pill.
+a person desires be part of a team.
+a person does not desire be a burden on his family.
+a person does not desire be alone.
+a person does not desire be in debt.
+a person does not desire be in danger.
+a person does not desire be in debt.
+a person does not desire be homeless.
+a person desires a beautiful woman.
+a person does not desire be in debt.
+a person does not desire be lonely.
+a person does not desire be in
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] plays a none in the life. [MALE] is a person with a life.
+[MALE] makes it home. [MALE] is determined.
+[MALE] lives with personx's wife. [MALE] wants to spend time with his wife.
+[MALE] eats nothing. [MALE] needs to buy the food.
+[MALE] puts none behind persony. [MALE] needs to be close to persony.
+[MALE] is an amazing mom. [MALE] wants to be a mom.
+[MALE] goes to a none on the trip. [MALE] needs to plan a trip.
+[M
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+[MALE] is a little prouder than personx.
+[MALE] loses all of personx's money.
+[MALE] gives [FEMALE] a big smile.
+[MALE] gets persony's attention.
+[MALE] is a great fit.
+[MALE] thinks would like.
+[MALE] feels good.
+[MALE] gives [FEMALE] a chance.
+[MALE] sends [FEMALE] to the principal.
+[MALE] is getting tired.
+[MALE] takes in picture.
+[MALE] is in a bad mood.
+[MALE] goes none first.
+[
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+the first time you saw the moon is in the month of the month of the moon.
+the first time you see the moon is in the month of the month of the moon.
+the first time you see the moon is in the month of the moon.
+the first time you see the moon is in the month of the moon.
+the first time you see the moon is in the month of the moon.
+the first time you see the moon is in the month of the moon.
+the first time you see the moon is in the month of the moon.
+the first time you see the moon is in the month of the moon.
+the first time you see the moon is in the month of the moon.
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+satisfy hunger with minimum effort.
+a piece of paper with a handle is used for holding items.
+a carafe is used for getting water from a tap.
+play a game is motivated by you like to read.
+a tablecloth is used for holding things.
+a person does not desire be in debt.
+a person does not desire be lonely.
+a person does not desire be alone.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a person does not desire the use of a laser to drive a car.
+a person does not desire the use of a telephone.
+dressing well causes a better look.
+a person does not desire the use of a phone.
+a person does not desire be a victim.
+a person does not desire the use of a telephone.
+a person does not desire the use of a telephone.
+a person desires a television show.
+a person does not desire the use of a telephone.
+a person does not desire the use of a telephone.
+a person does not desire the use of a telephone.
+a person does not desire the use of a phone.
+a person does not desire the use of a telephone
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+a ball is used for holding a ball.
+a person desires be social.
+a person does not desire be dependent on somebody else.
+a person desires be good.
+a person does not desire be angry.
+a person does not desire be a victim.
+a person desires become a scientist.
+a person desires be an astronaut.
+a person does not desire be depressed.
+a person does not desire be lonely.
+a person does not desire be the victim.
+a person does not desire be a slave.
+a person does not desire be poor.
+a person does not desire be a victim.
+a person does not desire be greedy.
+a person does not desire be in debt.
+a person
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid.
+t-shirts has a button that says "tattoo" and "tattoo"
+theater seats has a cushions and chairs
+theater seats has a cushions and chairs
+theater seats has a cushions and chairs
+theater seats has a cushions and chairs
+theater seats has a cushions and chairs
+theater seats is cushions and chairs
+theater seats has a cushions and chairs
+theater seats has a cushions and chairs
+theater seats has a cushions and chairs
+theater seats has a cushions and chairs
+theater seats has a cushions and chairs
+theater seats has a cushions and chairs
+theater seats has a cushions and chairs
+
+---------------
+Complete the following text within five sentences:John got a pet turtle when he was a kid. [FEMALE] wants to give him a pet.
+[MALE] takes [FEMALE] to the vet. [FEMALE] wants to thank personx.
+[MALE] writes [FEMALE] a check. [FEMALE] wants to take a haircut.
+[MALE] learns a lot. [MALE] wants to do well.
+[MALE] calls the mail. [MALE] is smart.
+[MALE] has to go to the doctor. [MALE] wants to get an appointment.
+[MALE] is a professional basketball player. [FEMALE] wants to thank personx.
+[MALE] goes to the doctor
+---------------

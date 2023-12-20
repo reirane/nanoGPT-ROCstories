@@ -1,0 +1,346 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:I am always concerned about my online business sales.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] is a person. [MALE] wants to be a good person.
+[MALE] gives [FEMALE] a gift. [MALE] wants to help.
+[MALE] receives [FEMALE] message. [MALE] will happy and successful.
+[MALE] is a person. [MALE] wants to show their support.
+[MALE] becomes [FEMALE] person. [MALE] wants to become a better person.
+[MALE] is not good. [FEMALE] will angry.
+[MALE] needs to stay. [MALE] will satisfied.
+[MALE] gets [FEMALE
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] takes a bath. [MALE] wants to go to the bathroom.
+[MALE] makes [FEMALE] smile. [MALE] will grateful.
+[MALE] is good at music. [MALE] will appreciative.
+[MALE] loses none. [MALE] needs to take a trip.
+[MALE] is not happy. [MALE] will sad.
+[MALE] is more than a person. [MALE] wants to be more than person..
+[MALE] is responsible. [MALE] will happy.
+[MALE] gets a laugh. [MALE] will happy.
+[MALE]
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] will has a great time. [MALE] will happy.
+[MALE] keeps [FEMALE] company. [MALE] is happy.
+[MALE] wants to go to the store. [FEMALE] is helpful.
+[MALE] is late. [MALE] is tired.
+[MALE] is walking. [MALE] wants to make a plan.
+[MALE] will thankful. [MALE] is thankful.
+[MALE] is determined. [MALE] is motivated.
+[MALE] needs to be prepared. [MALE] needs to be prepared.
+[MALE] needs to go on vacation
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I hope you enjoy my webcomic.I am a fan of your work.I am curious.I am curious about things.I am curious about how things are.I am healthy.I am curious about the health of my family.I am happy.I am content.I am happy.I am sad.I am loving.I am content.I am happy.I am happy.I am good.I am good.I am good.I am good.I am good.I am good.I am good.I am good.I am good.I am good.I am good.I am good.I is good.I is happy.I is happy.I is happy.I is happy.I
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] needs to understand [FEMALE] is a person. [MALE] will happy.
+[MALE] is proud. [MALE] will proud.
+[MALE] is a nanny. [MALE] needs to buy groceries.
+[MALE] buys [FEMALE] a gift. [MALE] is helpful.
+[MALE] tries to win. [MALE] wants to win.
+[MALE] is lonely. [MALE] will lonely.
+[MALE] sets [FEMALE] aside for another day. [MALE] feels guilty.
+[MALE] wants to go to an art show. [MALE
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] asks the question:what does it mean to be a scientist? [FEMALE] will answer.
+[MALE] gets the job done. [MALE] gets a promotion.
+[MALE] is the only person in the world. [MALE] will loved.
+[MALE] receives a discount. [MALE] will happy.
+[MALE] takes none to the doctor. [MALE] person receives appointment.
+[MALE] buys a new car. [MALE] wants to get a new car.
+[MALE] goes to sleep. [MALE] gets up early.
+[MALE] changes the none to a new color.
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to talk to the patient.
+[MALE] is proud. [MALE] wants to be respected.
+[MALE] asks [FEMALE] to a party. [MALE] is friendly.
+[MALE] comes [FEMALE] close. [MALE] wants to go to the restaurant.
+[MALE] takes [FEMALE] to the hospital. [MALE] is caring.
+[MALE] tells [FEMALE] if they want to go. [MALE] is thoughtful.
+[MALE] is working every day. [MALE] is
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I was looking for a person to help me.So, you are in the game.It is the right time.You will be so good.I will feel better.I will be more helpful.I is good at my job.I is working.The game is over.I want to be happy.My girlfriend is very disappointed.I am not prepared.I need to plan.I is not prepared.I will be angry.I wish I could have a good time.I am not prepared.I is bored.I will have a good time.I is too tired.I is happy.I is working.The game is over.I will feel better.I is good.I is capable.I is responsible.I
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] is caring. [MALE] needs to be nice to persony.
+[MALE] takes a break. [MALE] needs to go to the store.
+[MALE] is tired. [MALE] is tired.
+[MALE] is playing football. [MALE] wants to be a good football player.
+[MALE] takes a break. [MALE] wants to go home.
+[MALE] is being truthful. [MALE] is honest.
+[MALE] keeps [FEMALE] company. [MALE] is helpful.
+[MALE] is in danger. [MALE] is in danger.
+[M
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] sees [FEMALE] heartwarming [FEMALE] story.
+[MALE] eats [FEMALE] pizza.
+[MALE] feels [FEMALE] chest.
+[MALE] goes to the store.
+[MALE] gives [FEMALE] the gift.
+[MALE] gets [FEMALE] to the mall.
+[MALE] wants [FEMALE] to help.
+[MALE] gets [FEMALE] to the next store.
+[MALE] takes [FEMALE] to the doctor.
+[MALE] leaves a message. [FEMALE] will to return the message.
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+you is at a friend's house.
+you has a date with persony.
+some item is at the store.
+a person is at the restaurant.
+a person is at a restaurant.
+someone is at a store.
+someone is at the store.
+someone is at the park.
+someone is at the area.
+someone is at the area.
+someone is at the park.
+someone is at the area.
+some person is at the area.
+someone is at the area.
+someone is at the area.
+someone is at the area.
+some item is at the store.
+a person is at the store.
+something is at the shop.
+someone is at the shop.
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] buys the most expensive item at the store.
+[MALE] receives a gift from a friend.
+[MALE] will tired. [MALE] wants to get up.
+[MALE] is none at the park. [MALE] is hungry.
+[MALE] is a long time. [MALE] wants to go see a movie.
+[MALE] meets persony's boyfriend. [MALE] wants to make love to persony.
+[MALE] is driving. [MALE] is friendly.
+[MALE] buys personx's first dog. [MALE] wants to comfort them.
+[MALE] is good at none
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] wants to impress [FEMALE] to go somewhere else. [MALE] gets angry.
+[MALE] is at [FEMALE] address. [MALE] wants to go to the store.
+[MALE] is having a party. [MALE] wants to talk to their friends.
+[MALE] buys [FEMALE] a new car. [MALE] wants to get a job.
+[MALE] gives [FEMALE] help. [MALE] wants to help.
+[MALE] loses his job. [MALE] wants to get out of it.
+[MALE] finds the internet. [MALE]
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I put my mind to it.I be an expert.I find information.
+[MALE] takes [FEMALE] to the gym. [MALE] wants to break the ice.
+[MALE] wants to go to [FEMALE] house. [MALE] needs take the car.
+[MALE] sees [FEMALE] really well. [MALE] is well-liked.
+[MALE] is good at math. [MALE] wants to learn something.
+[MALE] is kind to [FEMALE]. [MALE] is kind.
+[MALE] takes [FEMALE] to the library. [MALE] wants
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+You have to use the internet to find information.
+You have to have a job.
+You have to take a bath.
+Your family is worried.
+A friend is caring.
+A cat is afraid.
+You have an adventure.
+A person is excited.
+A person loves to do good.
+You have to have a book.
+You lose a friend.
+A person is very happy.
+A person is good at the job.
+A person is very helpful.
+You always have a job.
+A person is caring.
+You are going to get a job.
+you can't find a job.
+you is working.
+you can't find a job.
+you is not paying
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] calls [FEMALE] for help.
+[MALE] is very good.
+[MALE] turns persony's back.
+[MALE] is really close.
+[MALE] is very good.
+[MALE] pays the bill.
+[MALE] is determined.
+[MALE] is with personx's kids.
+[MALE] receives [FEMALE] in persony's arms.
+[MALE] is very good.
+[MALE] is holding persony's hands.
+[MALE] sees [FEMALE] in personx's arms.
+[MALE] asks persony's girlfriend.
+[M
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] will [FEMALE] will [FEMALE] is motivated.
+[MALE] will [MALE] get a new car.
+[MALE] is motivated.
+[MALE] receives a call from [FEMALE] [MALE] is friendly.
+[MALE] desires to be a musician.
+[MALE] will is [FEMALE] is caring.
+[MALE] is happy.
+[MALE] wants [FEMALE] to marry another person.
+[MALE] is running away from me.
+[MALE] is excited.
+[MALE] wants [FEMALE] to marry another person.
+
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] desires to be a good leader. [MALE] will good.
+[MALE] asks [FEMALE] [FEMALE] questions. [MALE] is open.
+[MALE] goes to a restaurant. [MALE] wants to get a meal.
+[MALE] makes [FEMALE] money. [FEMALE] wants to thank [MALE] for their help.
+[MALE] takes [FEMALE] to the doctor. [MALE] will healthy.
+[MALE] finds [FEMALE] keys. [FEMALE] will happy.
+[MALE] takes none with them. [MALE]
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] takes none to the bank. [MALE] wants to get rid of the bank.
+[MALE] is proud. [MALE] will happy.
+[MALE] reads nothing at night. [MALE] wants to be more adventurous.
+[MALE] makes [FEMALE] laugh. [MALE] wants to have fun.
+[MALE] leaves a note. [MALE] wants to be able to find something to write.
+[MALE] hears none at the end. [MALE] wants to be able to find something to write about.
+[MALE] takes a shower. [MALE] needs to put on latex.
+[
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] becomes [FEMALE] [MALE]'s personal computer.
+[MALE] is not a good person.
+[MALE] is good at none.
+[MALE] is a lot of fun.
+[MALE] is at the park.
+[MALE] looks forward to the day.
+[MALE] [MALE] writes the story.
+[MALE] wants to write a book.
+[MALE] [FEMALE] takes [FEMALE] to the hospital.
+[MALE] does well.
+[MALE] wants to eat.
+[MALE] needs to become a chef.
+[MALE] is
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] is getting on your knees
+[MALE] takes a shower
+[MALE] buys the best item
+[MALE] gets a new puppy
+[MALE] is being very good
+[MALE] decides to go dancing
+[MALE] gets a new job
+[MALE] is having fun
+[MALE] is with persony
+[MALE] decides to play tennis
+[MALE] buys a new car
+[MALE] is taking a vacation
+[MALE] is talking to someone
+[MALE] is talking to someone
+[MALE] gives [FEMALE] the opportunity
+[MALE] is playing poker
+[MALE
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] takes a walk. [MALE] wants to get fit.
+[MALE] takes a bath. [MALE] needs water.
+[MALE] pays one's taxes. [MALE] wants to make some money.
+[MALE] looks for a friend. [MALE] is a good person.
+[MALE] takes a vacation. [MALE] will tired.
+[MALE] gets a new car. [MALE] is new.
+[MALE] takes a nap. [FEMALE] will anxious.
+[MALE] takes none to 's. [MALE] needs sleep.
+[MALE] is heading to the
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] will [FEMALE] needs to have a job. [MALE] will happy]
+[MALE] moves to another city. [MALE] will happy]
+[MALE] wants to buy a bicycle. [MALE] wants to be a cyclist]
+[MALE] will happy. [MALE] wants to be happy]
+[MALE] has a great time. [FEMALE] wants to see about the party]
+[MALE] has done well. [MALE] is motivated]
+[MALE] is always talking. [MALE] is sociable]
+[MALE] wants to go to a bar. [MALE]
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] is engaged. [MALE] is engaged.
+[MALE] loses interest in the person. [MALE] needs to get something.
+[MALE] is the only person in the room. [MALE] needs to be in the room.
+[MALE] is not satisfied. [MALE] is satisfied.
+[MALE] wants to be a composer. [MALE] will fun.
+[MALE] is a little nervous. [MALE] will uneasy.
+[MALE] is getting ready. [MALE] is getting ready.
+[MALE] is in the house. [MALE] wants a nice place to sleep.
+[
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.I have to take a course.I have to put my money where my mouth is.I like someone.I am very good.I tell people what is good for me.I want to be a good person.I want to have a good life.It is very depressing when you see people complaining.I am a good person.I feel better when my health improves..I am happy.I want to have a good day.I go to the park.I have to wait.I go to the park.I go to the park.I go to the park.I am good.I go on my way home.I love my family.I am happy.I have a job.I want to be a good person.
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+sputniknewsroom.com is not registered.
+sputniknewsroom.com is not registered.
+sputniknewsroom.com is not registered.
+sputniknewsroom.com is not registered.
+sputniknewsroom.com is not registered.
+sputniknewsroom.com is not registered.
+sputniknewsroom.com is not registered.
+sputniknewsroom.com is not registered.
+sputniknewsroom.com is not registered.
+sputniknewsroom.com is not registered.
+sputniknewsroom.com is not registered.
+sputniknewsroom.com is not registered.
+sputniknewsroom
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] calls the store. [MALE] will wants to sell.
+[MALE] gets a pen. [MALE] needs to work on paper.
+[MALE] gets a tattoo. [MALE] needs to eat and relax.
+[MALE] becomes a teacher. [MALE] wants to learn.
+[MALE] finds persony's car. [MALE] needs to know where persony is driving.
+[MALE] tells persony's mom. [MALE] wants to tell them about what happened.
+[MALE] makes a good impression. [MALE] needs to impress.
+[MALE] returns the favor. [MALE
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] writes the following text within five sentences:I am skilled.
+[MALE] writes the following text within five sentences:I is an accomplished artist.
+[MALE] runs the gamut from car to bike.
+[MALE] provides [FEMALE] with a service.
+[MALE] wants to be good to one another.
+[MALE] is a person of color.
+[MALE] writes the text within five sentences:I is in the grip of an overwhelming desire.
+[MALE] [FEMALE] wants to eat dinner with someone.
+[MALE] has the courage to go to the store.
+[MALE] makes [F
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] [FEMALE] will [FEMALE] would not be happy.
+[MALE] [FEMALE] needs to be very sociable.
+[MALE] [FEMALE] asks [MALE] if they have a date.
+[MALE] has a hard time getting [MALE] signed up.
+[MALE] wants to meet [MALE] personx's father.
+[MALE] is persony's best friend.
+[MALE] is not capable of answer the question.
+[MALE] gets persony's money.
+[MALE] is responsible for persony's work.
+[MALE] wants to get
+---------------
+Complete the following text within five sentences:I am always concerned about my online business sales.
+[MALE] opens the door to the audience.
+[MALE] takes a turn. [MALE] will happy.
+[MALE] finally gets a job. [MALE] will happy.
+[MALE] buys a new computer. [MALE] needs build it.
+[MALE] learns a new language. [MALE] is sociable.
+[MALE] calls the police. [MALE] will relieved.
+[MALE] has an accident. [FEMALE] will hurt.
+[MALE] starts a new business. [MALE] needs to be promoted to a position at the next company.
+[MALE] invites my mom. [
+---------------

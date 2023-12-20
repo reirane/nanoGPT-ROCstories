@@ -1,0 +1,302 @@
+Overriding: out_dir = out-commonsense-finetune-lowgradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] is at the bar. [MALE] wants to drink beer.
+[MALE] answers [FEMALE] question. [MALE] wants to answer the question.
+[MALE] brings [FEMALE] to see. [FEMALE] will learns more about the person.
+[MALE] plays the guitar. [MALE] is brave.
+[MALE] gives the baby ___. [MALE] is kind.
+[MALE] sees [FEMALE] coming. [MALE] wants to get the baby out of the house.
+[MALE] needs persony's own car. [MALE] wants to get away from the
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. [MALE] will relieved.
+[MALE] breaks persony's nose. [MALE] will angry.
+[MALE] gets persony's work done. [MALE] wants to spend time with personx.
+[MALE] spends none with persony's family. [MALE] is good.
+[MALE] takes the lunch break. [MALE] wants to get some rest.
+[MALE] sees a picture. [MALE] wants to take the picture.
+[MALE] finds none in persony's room. [MALE] is busy.
+[MALE] leaves behind personx's parents. [MALE] wants to give them a chance
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. [MALE] wants to be a good father.
+[MALE] follows [FEMALE] around. [MALE] wants go inside to get some rest.
+[MALE] helps persony. [MALE] is loving.
+[MALE] looks [FEMALE] in the eye. [MALE] wants tell them something.
+[MALE] starts to eat. [MALE] wants to lose weight.
+[MALE] uses personx's none to create. [MALE] is determined.
+[MALE] gives [FEMALE] the gift. [FEMALE] will grateful.
+[MALE] goes on a date. [MALE]
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. [MALE] needs to go to school.
+[MALE] gets [FEMALE] into the relationship. [MALE] wants to give [FEMALE] some time.
+[MALE] tells persony's mom. [FEMALE] will like they were telling their mom.
+[MALE] gets personx's groceries. [MALE] wants to sell the groceries.
+[MALE] gets persony's car. [MALE] will like he is going to run out of gas.
+[MALE] shows [FEMALE] how to drive. [MALE] is persuasive.
+[MALE] goes to personx's car dealership. [MALE]
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] needs to have a wife.. [MALE] gets more money.
+[MALE] is driving to the mall with friends. [MALE] is relaxed.
+[MALE] is working late one night. [MALE] is tired.
+[MALE] goes to the store to buy. [MALE] is excited.
+[MALE] gets personx's first degree. [MALE] wants to have a good grade.
+[MALE] gets persony's attention. [MALE] is intelligent.
+[MALE] loves none deeply. [MALE] is loving.
+[MALE] throws none back into the air. [MALE] wants
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] asks the teacher to read the book. [MALE] wants to talk to the teacher.
+[MALE] takes none to the zoo. [MALE] wants to see what the zoo has to offer.
+[MALE] takes none to an amusement park. [MALE] wants enjoy the rides.
+[MALE] makes an appointment. [MALE] is interested.
+[MALE] makes persony's bed. [FEMALE] will they sleep.
+[MALE] works a lot. [MALE] will satisfied.
+[MALE] buys a new one ___. [FEMALE] wants to have a new one.
+[MALE]
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to talk to [FEMALE] about what they have to go to the hospital.
+[MALE] takes personx's shirt off. [MALE] wants to clean it.
+[MALE] has a few bad days. [MALE] wants to go to sleep.
+[MALE] writes the none on a paper. [MALE] wants to write on the paper.
+[MALE] takes [FEMALE] to the airport. [MALE] wants to go back to the hotel.
+[MALE] gives [FEMALE] a hug. [MALE] wants to
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. x was looking for something. y was curious. [MALE] will happy.
+[MALE] is at the beach with personx's friends. [MALE] wants to be helpful.
+[MALE] pays none to persony. [FEMALE] wants to talk to persony.
+[MALE] spends none on a yacht. [MALE] is adventurous.
+[MALE] sends none in personx's direction. [MALE] wants to be a good person.
+[MALE] buys none online. [MALE] is open.
+[MALE] receives none from a friend. [MALE] is loving.
+[MALE] gets personx's first
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] is playing basketball. [MALE] is trying to get warm.
+[MALE] gets none from the store. [MALE] wants buy some.
+[MALE] takes [FEMALE] to a pub. [MALE] is friendly.
+[MALE] loves the idea. [MALE] wants to start a business.
+[MALE] takes [FEMALE] to the zoo. [MALE] wants to be cared for.
+[MALE] turns persony's none in the direction. [MALE] wants to stop talking.
+[MALE] plays basketball. [MALE] wants to be a good basketball player.
+[M
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. [MALE] is mean to him. [MALE] needs to be in a relationship with another person. [MALE] is caring. [MALE] needs to be in a relationship with persony.
+[MALE] gives [FEMALE] a raise. [MALE] needs be giving a raise to a good person. (MALE) is generous.
+[MALE] gets [FEMALE] none back. [MALE] is helpful.
+[MALE] makes personx's own cookies. [MALE] wants to make the cookies.
+[MALE] takes a shower. [MALE] wants to get clean.
+[MALE] goes for a walk.
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+you has property good at politics.
+go for a drive has prerequisite for be in car.
+a man desires be in love.
+a man desires be in love.
+a man desires his wife.
+a man desires see a play.
+a man desires to be in the business.
+a man desires to be a businessman.
+a man desires be a father.
+a man desires eat hamburgers.
+a man desires take his friend.
+a man desires be in love with someone else.
+a man desires to have a baby.
+a man desires a happy birthday.
+a man desires a good retirement.
+a man desires a good company.
+a man desires a good dog.
+a man
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. [MALE] is stupid. [MALE] is determined.
+[MALE] begins to cry. [MALE] wants to get up and rest.
+[MALE] gives [FEMALE] the book. [FEMALE] will good.
+[MALE] takes a shower. [MALE] will refreshed.
+[MALE] gives [FEMALE] a ride. [FEMALE] will grateful.
+[MALE] makes a lot of noise. [MALE] is obnoxious.
+[MALE] gives [FEMALE] a ride. [FEMALE] will satisfied.
+[MALE] asks persony's girlfriend. [FEMALE]
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] wants to impress someone else. [MALE] wants to impress other people.
+[MALE] brings [FEMALE] closer. [MALE] is confident.
+[MALE] gives [FEMALE] a new one. [MALE] wants to thank him.
+[MALE] makes a bed. [MALE] wants to sleep.
+[MALE] takes [FEMALE] to a baseball game. [MALE] will happy.
+[MALE] calls the police. [MALE] wants to find out what happened.
+[MALE] sees persony's son. [MALE] is curious.
+[MALE] calls person
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. [MALE] needs to be a good person.
+some book has property very long. [MALE] is clever.
+most people see a cat in the sky. [MALE] is determined.
+everyone has a different haircut. [MALE] wants for everyone to be happy.
+some person desires [FEMALE] to be president. [MALE] wants to be successful.
+some person does not know why the world has become a place where people have no idea. [MALE] is curious.
+some person does not have a lot of money. [MALE] is selfish.
+someone is playing a game. [MALE] wants to be a good player.
+someone is playing games
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] is in a hurry. [MALE] needs to pick up a bus.
+[MALE] gives none a date. [MALE] needs walk in front of persony.
+[MALE] takes the none to a baseball game. [MALE] wants to watch the game.
+[MALE] gives [FEMALE] a haircut. [FEMALE] wants to play with x.
+[MALE] gets yelled at. [MALE] needs to go to the restroom.
+[MALE] gets kicked out by ___. [MALE] needs to go to the bathroom.
+[MALE] buys none at a discount. [FEMALE] will
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] breaks the law. [MALE] is suspect.
+[MALE] turns persony's none in. [MALE] is willful.
+[MALE] drives to the bus stop. [MALE] wants to go home.
+[MALE] is standing on the grass. [MALE] is quiet.
+[MALE] makes the best of personx's time. [MALE] wants to be at their best.
+[MALE] keeps persony's mouth shut. [MALE] is caring.
+[MALE] sees the none in the sky. [MALE] wants to go to a movie.
+[MALE] gets a new book.
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] makes [FEMALE] offer to fix it. [MALE] wants to take it to the store.
+[MALE] wears [FEMALE] none into the hospital. [MALE] is caring.
+[MALE] takes [FEMALE] to the cleaners. [MALE] wants to pay the bills.
+[MALE] is none in the room at night. [MALE] is sleepy.
+[MALE] leaves none for personx's wife. [FEMALE] wants to call a friend.
+[MALE] has a party the night before. [MALE] is social.
+[MALE] takes [FEMALE]
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] desires a new car. [MALE] is adventurous.
+[MALE] makes [FEMALE] meal. [FEMALE] will personx's mouth gets dry.
+[MALE] wants to go to the beach. [MALE] wants to go to the beach.
+[MALE] drives persony's none home. [MALE] wants to thank persony.
+[MALE] puts persony's ___. [MALE] wants to be helpful.
+[MALE] likes personx's new toy. [MALE] is caring.
+[MALE] gives [FEMALE] a gift. [MALE] wants to be nice.
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] takes none to the museum. [MALE] wants to get rid of the artifacts.
+[MALE] goes to the dentist. [FEMALE] will sick.
+[MALE] runs a marathon. [MALE] needs to have a running marathon.
+[MALE] takes a bath. [MALE] will relaxed.
+[MALE] has a good time. [FEMALE] will happy.
+[MALE] buys a new puppy. [MALE] needs to be in the puppy market.
+[MALE] meets [FEMALE] personx's match. [MALE] wants to win.
+[MALE] takes [FEM
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] goes to the store. [MALE] needs to go to the store.
+[MALE] gives [FEMALE] a kiss. [MALE] wants to kiss him.
+[MALE] gives [FEMALE] a check. [MALE] is thankful.
+[MALE] pays none back. [MALE] gets money.
+[MALE] finds none at a shelter. [MALE] is hopeful.
+[MALE] helps persony's wife 's ___. [FEMALE] will satisfied..
+[MALE] carries out personx's work. [MALE] needs to have a job.
+[MALE] comes to
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. [MALE] will happy.
+[MALE] takes a seat in a queue. [MALE] is relaxed.
+[MALE] feels good. [MALE] will happy to have been welcomed.
+[MALE] decides to go dancing. [MALE] wants to get dancing.
+[MALE] gets the none together. [MALE] is motivated.
+[MALE] takes none to a museum. [MALE] wants to see the museum.
+[MALE] takes advantage. [MALE] is aggressive.
+[MALE] gets a new bike. [MALE] wants take the bike to the mall.
+[MALE] loves none so much. [
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] takes a walk. [MALE] wants to get fit.
+[MALE] takes a bath. [MALE] wants to be warm.
+[MALE] has a litter box. [MALE] wants to give money away.
+[MALE] starts smoking on persony's porch. [FEMALE] wants to be polite.
+[MALE] has a date with friend. [MALE] wants to feel happy.
+[MALE] loves to play. [MALE] wants to be entertained.
+[MALE] says hi to persony's family. [FEMALE] wants to answer questions.
+[MALE] wins the contest. [
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] plays a lot. [MALE] wants to help others.
+[MALE] takes persony's turn. [MALE] wants to be confident.
+[MALE] wears glasses. [MALE] is brave.
+[MALE] gives [FEMALE] a job. [FEMALE] will thanked.
+[MALE] tries to put it away. [MALE] needs to get the money.
+[MALE] buys another ___. [MALE] is friendly.
+[MALE] gets yelled at. [MALE] wants to ask the friend to yell at him.
+[MALE] drives none to the mall. [MALE]
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] is driving home with persony. [MALE] wants to get some rest.
+[MALE] finds none at a store. [MALE] is responsible.
+[MALE] does not like [FEMALE] views. [FEMALE] will unhappy.
+[MALE] is driving home from work. [MALE] wants to drive home.
+[MALE] gives [FEMALE] an ear. [MALE] needs to convince persony.
+[MALE] plays cards. [MALE] wants to get a good grade in the game.
+[MALE] has personx's family. [MALE] wants to leave the house.
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+[MALE] is none at the grocery store. [MALE] wants to pick up their groceries.
+[MALE] lets [FEMALE] know. [MALE] wants to talk to persony.
+[MALE] plays the none together. [FEMALE] will grateful.
+[MALE] uses the none to get a job. [MALE] wants to make a living.
+[MALE] gives [FEMALE] a hug. [MALE] wants to talk to persony.
+[MALE] goes none alone. [MALE] wants to be alone.
+[MALE] cuts persony's hair. [MALE] is mean.
+
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school.
+satisfy hunger is motivated by you have something to eat.
+satisfy hunger is motivated by you like to eat.
+wish you were dead is motivated by you be happy.
+satisfy hunger is motivated by you be close to others.
+wash your clothes is motivated by you get dirty.
+groom is motivated by you keep your food clean.
+drive car is motivated by it is going to be late.
+go to baseball game is motivated by you get tired of life.
+wait outside is motivated by you were in the morning.
+go to movie is motivated by you want to be entertained.
+go for walk is motivated by you are hungry.
+get haircut is motivated by you like to have
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. [MALE] will smart.
+[MALE] gives the dog a scratch. [FEMALE] will happy.
+[MALE] fixes the television set. [MALE] wants to keep it on.
+[MALE] kills [FEMALE] in a fit of anger. [MALE] is angry.
+[MALE] makes [FEMALE] point. [MALE] is smart.
+[MALE] buys [FEMALE] the ball. [MALE] wants to get it.
+[MALE] buys none in the mail. [MALE] wants to receive it.
+[MALE] receives a call. [FEMALE] wants to check
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. [MALE] is controlling.
+[MALE] brings a person to life. [MALE] wants to be generous.
+[MALE] plays none in the house. [MALE] wants spend time with family.
+[MALE] is the first to get home. [MALE] will excited.
+[MALE] is a teacher. [MALE] is responsible.
+[MALE] takes a break. [MALE] needs to go back to work.
+[MALE] finds the none in the backyard. [MALE] wants to talk to her neighbors.
+[MALE] takes none up the china chain. [MALE] will accomplished.
+[MALE
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. [MALE] will [FEMALE] will motivated. [MALE] needs to be motivated.
+[MALE] gives [FEMALE] a very good grade. [MALE] wants to be thanked.
+[MALE] asks if [FEMALE] was okay. [MALE] will happy that person was okay.
+[MALE] plays the game. [MALE] wants to get a good grade.
+[MALE] is playing the violin. [MALE] wants to play an instrument for pleasure.
+[MALE] gets [FEMALE] a new job. [MALE] is responsible.
+[MALE] is driving [FEMALE] mad
+---------------
+Complete the following text within five sentences:Frank was humiliated by Ron in tether ball the other day in school. [MALE] wants to make the change.
+[MALE] makes a great video. [MALE] needs to start a video channel.
+[MALE] plays a none in the game. [MALE] wants to compete.
+[MALE] takes a walk. [MALE] wants to take a walk.
+[MALE] makes none for the family. [MALE] wants to be helpful.
+[MALE] has a dog. [MALE] wants to get the dog home..
+[MALE] makes personx's bed. [MALE] wants to get the sheets down.
+[MALE] pays none to the zoo. [MALE] wants to be
+---------------

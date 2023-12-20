@@ -1,0 +1,236 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:I was playing catch with some friends outside.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:I was playing catch with some friends outside.I wanted to see how the wind was blowing.I was cooking a meal for dinner.I was going to buy something for my family.I wanted to be a good citizen.I was working long hours.I was bored.I was thinking about the future.I was playing games.I was out shopping.I was bored.I was tired.I was scared.I was nervous.I needed to get up.I was sick.I needed to call my doctor.I wanted to get an appointment.I felt like a fool.I wanted to go to the doctor.I was in a bad mood.I was crying.I was bored.I needed to change my clothes.I was proud.I was curious.I was caring
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I got a pen.I tried to tell the truth.I have done everything right.I was working.I was curious.I was thinking.I was in a good mood.I was getting ready for the weather.I was sick.I was sick.I was proud.I was happy.I was tired.I was hungry.I was tired.I was lonely.I was lonely.I was tired.I was determined.I was determined.I was determined.I was determined.I was determined.I was determined.I was determined.I was determined.I was determined.I was determined.I was determined.I was determined.I was determined.I was determined.I was determined.I was determined.I
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] has a crush. [MALE] plays with the girl.
+[MALE] keeps [FEMALE] company. [MALE] is happy.
+[MALE] wants to go skiing. [MALE] wants to relax.
+[MALE] tells [FEMALE] story. [MALE] wants to take notice.
+[MALE] is tired. [MALE] is tired.
+[MALE] is on a trip. [MALE] needs to get to work.
+[MALE] asks [FEMALE] to help. [MALE] wants to be helpful.
+[MALE] goes to a baseball game. [MALE
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I wanted to give my friends something to look at.I was a good person.I am very good.I was in a good mood.I was well received by everyone.I felt good.I got a good look at myself.I was happy.I was in a good mood.I was at my house.I was good.I was excited.I was happy.I was happy.I was good.I was in charge.I was a good person.I was a good person.I was good.I was good.I was good.I was good.I was friendly.I was friendly.I was friendly.I was friendly.I was friendly.I was friendly.I was friendly.I was friendly.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] needs to have a wife. [MALE] needs to be happy.
+[MALE] wants to have a baby. [MALE] is a mother.
+[MALE] walks away from the party. [MALE] will upset.
+[MALE] finds none. [MALE] wants to go home.
+[MALE] meets the none at a bookstore. [MALE] wants to buy something.
+[MALE] has a son. [MALE] wants to be a father.
+[MALE] takes [FEMALE] to a restaurant. [FEMALE] will they are hungry.
+[MALE] is at a bar. [
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] asks the question. [MALE] wants to know what to say.
+[MALE] is a teacher. [MALE] will to help others.
+[MALE] makes a joke. [MALE] needs to know what to say.
+[MALE] raises the curtain. [MALE] needs to sit down.
+[MALE] puts on the hat. [MALE] wants to look good.
+[MALE] gives none to another person. [MALE] wants to get some money.
+[MALE] cooks breakfast. [MALE] is healthy and happy.
+[MALE] is a very good cook. [MALE] is good
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] takes [FEMALE] by the hand. [MALE] wants to continue playing with the other person.
+[MALE] makes a good impression. [MALE] is helpful.
+[MALE] is the best student. [MALE] is intelligent.
+[MALE] gets a new car. [FEMALE] will excited.
+[MALE] writes the perfect book. [MALE] will proud.
+[MALE] looks like a girl. [MALE] wants to be a girl.
+[MALE] provides [FEMALE] with a job. [MALE] needs to be in the job market.
+[MALE] is
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I was looking for something.I got distracted and left.I will make a new friend.I will be able to learn from you.I will be able to answer questions.I will be helpful.I is capable of feel bad.I is capable of be a good leader.I is capable of take care of my family.I is capable of have a good future.I is capable of be a good person.I is capable of be a good friend.I is capable of be sad.I is capable of enjoy their company.I is capable of have fun.I is capable of have fun.I is capable of read books.I is capable of sleep better.I is capable of stay healthy.I is capable of be happy
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] is caring. [MALE] needs to be nice to persony.
+[MALE] takes a picture. [MALE] needs to go and get some more pictures.
+[MALE] follows personx's lead. [MALE] is responsible.
+[MALE] starts the day. [MALE] needs to start the day.
+[MALE] takes [FEMALE] to the airport. [MALE] wants to be safe.
+[MALE] is very excited. [MALE] is sad.
+[MALE] turns persony's friend. [MALE] needs to say hello.
+[MALE] takes a walk. [M
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] sees [FEMALE] heart. [FEMALE] wants to thank the person for their effort.
+[MALE] provides [FEMALE] with information. [MALE] needs to have come up with the information.
+[MALE] takes [FEMALE] to the doctor. [MALE] needs to get better.
+[MALE] makes [FEMALE] laugh. [MALE] will embarrassed.
+[MALE] gives [FEMALE] a ride. [MALE] has good manners.
+[MALE] does [FEMALE] nothing. [MALE] wants to eat dinner.
+[MALE] hears more of
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+you has to be at least twenty-one years old.
+go to the store is a way to escape the boredom of the store.
+the best thing you have is a toothbrush.
+breathe deeply is a good thing.
+have a baby is not required.
+someone is capable of see you.
+you has to be at least six years old.
+you is capable of eat something.
+something is capable of cry.
+you is capable of be late for work.
+you is capable of go to the shop.
+you is capable of have a dog.
+you is capable of be a good actor.
+you is capable of have a baby.
+you is capable of be late for work.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I've had a difficult day.I would like to go to a job interview.I am anxious.I feel uncomfortable.I want to talk to someone.I can't wait to see what they have to say.I have lots of feelings.I feel well.I am proud.I am good.I am smart.I am adventurous.I am caring.I am beautiful.I am caring.I am beautiful.I am loving.I am caring.I am caring.I am caring.I am caring.I am caring.I am caring.I am caring.I am caring.I am caring.I is loving.I am loving.I am loving.I am loving.I is loving.I is loving.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] wants to impress someone else.
+[MALE] is a writer. [MALE] needs to get the book.
+[MALE] is a performer. [MALE] wants to perform.
+[MALE] becomes a schoolteacher. [MALE] wants to teach others.
+[MALE] wishes to be happy. [MALE] will satisfied.
+[MALE] will grateful. [MALE] is grateful.
+[MALE] is not satisfied. [MALE] is disappointed.
+[MALE] is a lawyer. [MALE] gets fired.
+[MALE] is a doctor. [MALE] wants to practice medicine.
+
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I wanted to make a joke.I was getting ready for work.I was tired.I wanted to get some exercise.I was in the gym.I was getting ready for school.I was tired.I was thinking.I was holding a gun.I was sitting for some rest.I looked around.I had a problem.I passed out.I was lost.I didn't need a doctor.I was in need.I loved the world.I was a good student.I wanted to go back home.I was on the road.I loved the weather.I wanted to get some rest.I was tired.I was playing catch with some friends.I was relaxing.I was a good person.I was caring.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] is good enough. [MALE] wants to have a good time.
+[MALE] is getting rid of some garbage. [MALE] is outgoing.
+[MALE] wants to be a good cook. [MALE] needs the food.
+[MALE] finds the person's way home. [MALE] needs to find the person.
+[MALE] is in love. [MALE] needs to find someone to love with.
+[MALE] is playing tennis. [MALE] is confident.
+[MALE] wants to impress. [MALE] wants to impress others.
+[MALE] gives [FEMALE] information. [
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] calls [FEMALE] for help.
+[MALE] is having a good time.
+[MALE] is playing a game.
+[MALE] drives to the mall.
+[MALE] buys [FEMALE] something.
+[MALE] gives [FEMALE] an opportunity.
+[MALE] spends every night.
+[MALE] receives [FEMALE] in every way.
+[MALE] eats at the restaurant.
+[MALE] wants to be a chef.
+[MALE] sees the world.
+[MALE] becomes [FEMALE] close friend.
+[MALE] wants to continue.
+
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] makes [FEMALE] feel better. [FEMALE] will happy with their accomplishment.
+[MALE] tells [FEMALE] what to do. [MALE] needs to know the person.
+[MALE] takes [FEMALE] all. [MALE] is brave.
+[MALE] walks a mile. [MALE] needs to be able to walk a mile.
+[MALE] feels a little better. [MALE] needs to be able to feel better.
+[MALE] plays the violin. [MALE] needs to be able to play the violin.
+[MALE] sends [FEMALE] a letter.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I am playing a game.I was in a bad mood.I is trying to get a job.I feel sad.Is this okay?I have a lot of questions.I might be lonely.I's not a good person.I will go somewhere for a drink.I decide to go home.I will be good.I feel good.I relax.I is happy.I will go home.I will be good.I is loving.I will make my own decisions.I is caring.I is getting ideas.I is trying to be responsible.I wants to be independent.I wants to help others.I is caring.I is doing good.I is having fun.I is happy.I is free.I
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] takes none from [FEMALE] so they can eat it.
+[MALE] decides to move to a new city.
+[MALE] takes a bath.
+[MALE] runs away from [FEMALE] back.
+[MALE] works at a computer.
+[MALE] wants to be a pilot.
+[MALE] looks like a man.
+[MALE] breaks the ice.
+[MALE] spends the day.
+[MALE] goes to work.
+[MALE] wants to make a movie.
+[MALE] is always new.
+[MALE] takes [FEMALE] to the store.
+
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I will be the best.I will have a good time.I will need to know the rules.I will get compliments.I will be a good person.I will feel good about myself.I will be a good person.I will be successful.I will be helpful.I will feel happy.I will be loved.I will be a good person.I will be good.I will be fun.I will be happy.I will be curious.I will use my body.I will be satisfied.I will be patient.I will be helpful.I will get better.I will be beautiful.I will make good decisions.I will need to prepare.I will think.I will wait for the time.I will
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] puts persony's hand in persony's pockets. [MALE] is looking for something to eat.
+[MALE] gets a new bike. [MALE] needs to change his bike.
+[MALE] plays none in the house. [MALE] needs to be in a house.
+[MALE] is playing a fool. [MALE] is angry.
+[MALE] gets personx's hair cut. [MALE] needs to pick up the hair.
+[MALE] is always close to persony. [MALE] wants bring things closer to persony.
+[MALE] is very close to persony. [MALE] wants
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] takes a picture of [FEMALE]
+[MALE] takes a picture of [FEMALE]
+[MALE] gives [FEMALE] a name.
+[MALE] is not satisfied.
+[MALE] takes [FEMALE] to bed.
+[MALE] is not happy.
+[MALE] makes a new friend.
+[MALE] gives [FEMALE] a job.
+[MALE] is talking to [FEMALE] for the first time.
+[MALE] calls [FEMALE] back.
+[MALE] is walking alone.
+[MALE] sees a lot of people.
+
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I'm a thief.I was tired.I get a new job.I use a phone with my phone.I work late.I finish the book.I miss someone.I get home from work.I look for someone.I buy a new wallet.I buy a new shirt.I run errands.I get a job.I am happy.I make friends with my family.I have a baby.I travel.I have fun.I have a baby.I drive home.I look for someone.I work.I am satisfied.I am in charge.I take care of my body.I play soccer.I get a job.I meet other people.I have a good time.I take a shower.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] is engaged. [MALE] is motivated.
+[MALE] loses the ball. [MALE] needs to buy supplies.
+[MALE] makes [FEMALE] a friend. [MALE] wants to give [FEMALE] a gift.
+[MALE] tells [FEMALE] to move. [MALE] wants to be accepted.
+[MALE] willy's none. [MALE] needs to ask a person what they think.
+[MALE] gives [FEMALE] a ride. [MALE] wants to get a ride.
+[MALE] receives [FEMALE] name. [MALE] is
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.I wanted to play more.I loved the music.I was relaxing.I was running errands.I was feeling better.I wanted to save my money.I was happy.I was working.I was making my living.The doctor was there.It is very depressing.I was looking for a job.I was tired.I was tired.I was the only one left.I was tired.I went to check on my friends.I had a problem.I was feeling sad.I was holding my breath.I was upset.I was afraid.I was in need.I was tired.I was excited.I was proud.I was grateful.I was happy.I was happy.I was happy.I was
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+sputnik.org/index.php/topic,2370.0.html#p1698
+I really enjoyed writing.
+mike.m.heil.brianna.com/mike/the_mike_man.html. [FEMALE] is the person who will be the first person to achieve [MALE] goals.
+mike.m.heil.brianna.com/mike/the_mike_man.html. [FEMALE] is a person to tell [MALE] to get a new bike.
+mike.m.heil.brianna.com/mike/the_mike_man.
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.The girl with the yellow hat is a black cat.It fell on the ground.I gave the child a blanket.I was playing with my son.I am the only one who wants to get rid of the person he broke.I am the person who is the best.I am the person who is always with the kids.I am the person who is always with a girl.I am the person who is always with the dog.I am the person who is always with the dog.I am the person who is always with the dog.I am the person who is always in love.I am the person who is always in the life.I am the person who is always in the family.I am the person who is always
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.Suit yourself up well.Play video game.Continue talking.I am not having a great time.I am not losing my job.I am proud.I am good.I want to be famous.I am beautiful.I am clean.I need a job.I need get a job.I will get promoted.I will be good.I will be good.I will feel good.I will be good.I am good.I am good.I will happy.I will sad.I will caring.I value my friends.I will happy.I want to be with my son.I is responsible.I want to be nice to someone.I needs a friend to hang out with me.I want to be nice
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] wants to take a walk with [FEMALE]
+[MALE] calls [FEMALE] back with [FEMALE]
+[MALE] is persistent
+[MALE] is at a restaurant.
+[MALE] is doing a lot.
+[MALE] is in need of a job.
+[MALE] needs to be working with [FEMALE]
+[MALE] is walking.
+[MALE] is happy.
+[MALE] has an appointment for persony's birthday.
+[MALE] gets a loan.
+[MALE] looks good.
+[MALE] is enjoying a good time.
+[MALE
+---------------
+Complete the following text within five sentences:I was playing catch with some friends outside.
+[MALE] has none of the following desires. [MALE] needs to have a good personality.
+[MALE] wants to go to the mall. [MALE] needs to be there for the kids.
+[MALE] plays basketball. [MALE] needs to be able to throw the ball.
+[MALE] stops to rest. [MALE] needs to get up.
+[MALE] gives [FEMALE] a ride. [MALE] needs to be able to go home.
+[MALE] comes to the house. [MALE] is grateful.
+[MALE] follows [FEMALE] to the store. [MALE] needs to
+---------------

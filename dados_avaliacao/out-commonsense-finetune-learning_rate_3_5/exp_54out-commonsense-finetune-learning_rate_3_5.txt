@@ -1,0 +1,278 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_3_5/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Sam was bicycling one day.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Sam was bicycling one day. He wanted to go to the movies. He wanted to go to a restaurant.He wanted to take a shower.He wanted to work. He wanted to have a glass of water.He wants to have a nice day.He wants to go out.He wants to see the sunset.He wants to buy a ticket.He wants to go to a theater.He wants to take a walk.He wants to be at a restaurant.He wants to play baseball.He wants to go to the local bar.He wants to go to the movie theater.He wants to get more drinks.He wants to have a drink.He wants to take a nap.He wants to go to a movie.He wants to go to the movie.He
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He wants to go for a walk.
+[MALE] writes in a room with a chair. [MALE] needs to write down the person.
+[MALE] looks at the news. [MALE] will glad to be found.
+[MALE] makes a decision. [MALE] will is confident.
+[MALE] takes the piss. [MALE] needs ask questions.
+[MALE] pulls out a gun. [MALE] wants to be the leader.
+[MALE] takes the dog. [MALE] is aggressive.
+[MALE] makes a fool of himself. [MALE] is self-centered.
+[MALE] becomes a millionaire
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.Sandy is walking to the store.Will and Max is at the gym.It's time to go to the bathroom.It's time to go to the bathroom.It's time to get a shower.It's time to get your husband's number.It's time to put your clothes on.You are going to be happy.You want to be in a good mood.You want to be happy.You have a good attitude.You are proud of yourself.You are thankful.You know you are doing good.You are determined.You have a good day.You have a good job.You want to be in a good mood.You have a good dream.You want to go back to school.You want to get a
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.You were walking home.You were on vacation.You were looking for something to eat.You were sitting right in front of your computer.You were in a store.You were shopping.You were sitting in a store.You were watching tv.You were watching tv.You were watching tv.You were playing video games.You were watching tv.You were watching tv.You were playing video games.You were watching tv.You were playing video games.You were playing video games.You were playing video games.You were playing video games.You were watching video games.You were watching video games.You were playing video games.You were playing video games.You were watching video games.You were playing video games.You were playing
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] needs to have a go at it. [MALE] needs to be able to take a rest.
+[MALE] gets [FEMALE] to the mall. [MALE] wants to get a new one.
+[MALE] takes a picture. [MALE] wants to look at the picture.
+[MALE] sets [FEMALE] on a pedestal. [MALE] wants to have a say.
+[MALE] drives another person. [MALE] wants to be closer to the person.
+[MALE] goes on a hunt. [FEMALE] will they are hungry.
+[MALE] is very brave. [M
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] asks the question. [MALE] wants to know.
+[MALE] enjoys the flavor. [MALE] wants to go to a restaurant.
+[MALE] gives the right answer. [MALE] needs to know what the right answer is.
+[MALE] walks on eggshells. [FEMALE] wants to avoid the situation.
+[MALE] takes a bath. [MALE] needs to wash the body.
+[MALE] pulls [FEMALE] out of the shower. [MALE] needs to get him to the shower.
+[MALE] sees the sun. [MALE] needs to go to the store.
+
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+Sam is engaged.
+[MALE] asks for the fee.
+[MALE] wants to take the test.
+[MALE] is proud.
+[MALE] wants to buy the item.
+[MALE] is the one to take a nap.
+[MALE] asks something out.
+[MALE] receives a gift.
+[MALE] gives [MALE] a hug.
+[MALE] is in charge.
+[MALE] is not doing well.
+[MALE] is tired.
+[MALE] wants to take a drive to the store.
+[MALE] is not interested.
+[MALE] gives [MALE] an
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.There was an accident.
+[MALE] calls [FEMALE] to account. [MALE] will hurt.
+[MALE] receives [FEMALE] award. [FEMALE] will happy.
+[MALE] is a good person. [MALE] will happy.
+[MALE] spends none on a shelf. [MALE] will satisfied.
+[MALE] sends [FEMALE] pictures. [MALE] wants to thank [FEMALE] for giving him a picture.
+[MALE] becomes a parent. [MALE] will happy.
+[MALE] eats [FEMALE] breakfast. [MALE] will fed up.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+[MALE] is caring.
+[MALE] receives the reward.
+[MALE] becomes the one to go to the courthouse.
+[MALE] is not aware.
+[MALE] finishes school.
+[MALE] wants to help out.
+[MALE] becomes [MALE]'s personal trainer.
+[MALE] feels good.
+[MALE] gives [FEMALE] a new job.
+[MALE] performs [MALE] will.
+[MALE] is proud.
+[MALE] is generous.
+[MALE] goes to the mall.
+[MALE] receives the gift.
+[MALE] gets the gift
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+so, yi, yu, yu, i [f] [m] is not a person.
+so, yi, yu, yu, i [f] [m] is [s] determined.
+so, yi, yu, yu, i [f] [m] is going to the opera.
+so, yi, yu, yu, i [f] [m] is a millionaire.
+so, yi, yu, yu, i [f] [m] has good grades.
+so, yi, yu, yu, i [f] [m] is a very good cook.
+so, yi
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+you is at a place.
+you is a person.
+go to sleep.
+take a bath.
+go for a walk.
+eat dinner.
+go for a walk.
+play baseball.
+play basketball.
+go to the park.
+make a purchase.
+play softball.
+play football.
+something.
+play football.
+play basketball.
+take a picture.
+play a game.
+play a game.
+do things.
+take a piss.
+go to sleep.
+go to bed.
+you is a person.
+a person.
+play a game.
+play a game.
+go to the library.
+have a great time.
+a great man.
+
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.You've had a difficult day.You're worried.You're having a hard day.You're in debt.You're hungry.You don't think of anything.But you're not sure.Get a good haircut.No one wants to have to go to a salon.People with mental health issues are not allowed to ask you.You've got your car in the driveway.You see a friend.You want to hang out with them.You want to have a good time.Get a job.You don't want to be paid.You have a problem.You think about something.You want to be friendly.You have a problem.You don't like what you see.You can't eat.You don't like the way
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+the house is not in need of repair.
+the house is in need of repair.the house is in need of be repaired.
+the person is in need of eat.
+the person is in need of get a haircut.
+the person is in need of be able use the bathroom.
+the person is in need of buy a new car.
+the person is in need of find the right car.
+a cow is in need of toot a horn.
+the cow is in need of have milk.
+the cow is in need of have milk.
+a cow is in need of have milk.
+the cow is in need of have milk.
+the cow is in need of be fed.
+the cow
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.I told you there was a problem.I have a wife.I have a daughter.I have a son.I have a son's name.I was driving the car.I was looking for my car.I was getting paid.I was in the shop.I picked up my car.I bought a ticket.I have a son.I had a bad accident.I did not need a ticket.I was in an accident.I did not have a ticket.I did not need a ticket.I was driving the car.I was in the shop.I was getting paid.I was in the shop.I was in the shop.I was in the shop.I was in the shop.I was in the shop.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. you will be able to see the difference. you will be able to say something to a friend. you will be able to get an idea. you will be able to complete a task. you will be capable of be a leader. you will get paid. you will have fun.you is determined. it is very important. you is determined. you is active. you is engaged. you is capable of relax.you is not in control. you is scared. you is at ease.you is friendly. you is helpful. you is intelligent. you is caring. you is helpful.you is good. you is able to support yourself. you is fun. you is helpful. you is capable of be a leader. you is capable of
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.She was very good at driving.She went to the doctor.She read the book.She is very good at math.She took a bath.She is very good at playing.She is happy.She is very good at taking care of the child.She is very good at the book.She is angry.She is playing games.She is working.She is with a friend.She is at the store.She is at the bar.She is happy.She is satisfied.She is at the store.She is at the shop.She is at the pub.She is at the party.She is healthy.She is happy.She wants to get out of the car.She is at the car.She is at the
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He was lonely. [MALE] needs to find the person. [MALE] needs to stop with the car. [MALE] needs to be careful. [MALE] is responsible. [MALE] wants to be a better person. [MALE] is helpful. [MALE] is helpful. [MALE] wants to pay the bills. [MALE] will is helpful. [MALE] wants to be happy. [MALE] wants to be respected. [MALE] needs to be helpful. [MALE]] is caring. [MALE] wants to have fun. [MALE] is generous. [MALE] wants to be helpful. [MALE] is helpful
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+Sam never asked for the money.
+Sam was going to the store.
+Sam was in an airplane.
+Sam was in the car.
+Sam was drunk.
+Sam was talking.
+Sam's dog.
+Bud wants to go to the doctor.
+Bud wants to go to a nice restaurant.
+Bud wants to go to a restaurant.
+Bud comes over the fence.
+Bud pulls the dog from the back.
+Bud walks to the bathroom.
+Bud has a crush on the girl.
+Sam feels a bit guilty.
+Bud wants to go to a party.
+Bud gives a gift.
+Bud is very curious.
+Bud is watching tv.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.com will is using a computer.
+[MALE] needs to sign a contract. [MALE] needs to be honest.
+[MALE] goes somewhere. [MALE] needs to be hungry.
+[MALE] wants to be a waiter. [MALE] is relaxed.
+[MALE] takes a shower. [MALE] wants to shower.
+[MALE] is a person. [MALE] is sociable.
+[MALE] is holding onto persony's hand. [MALE] is helpful.
+[MALE] goes to persony's house. [MALE] is helpful.
+[MALE] is going to college. [MALE] is
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He is happy.
+1. [FEMALE] wants to talk to you.
+2. [FEMALE] will happy and healthy.
+3. [FEMALE] wants to talk to you.
+4. [FEMALE] wants to make an important decision.
+5. [FEMALE] wants to follow you around.
+6. [FEMALE] wants to take a break.
+7. [FEMALE] wants to be happy.
+8. [FEMALE] wants to ask to have lunch.
+9. [FEMALE] is happy.
+10. [FEMALE] wants to get in touch.
+11. [FEMALE] is
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. The car was still running. The person was not satisfied yet.
+[MALE] finds the person's answer. [MALE] will wants to know.
+[MALE] becomes[FEMALE] self-sufficient. [MALE] wants to continue living.
+[MALE] is a[FEMALE] from the[FEMALE] family. [MALE] is a family.
+[MALE] receives[FEMALE] attention. [MALE] is a person.
+[MALE] is a[FEMALE] person. [MALE] wants to be nice to person.
+[MALE] receives[FEMALE] education. [MALE] is
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.Sam was walking.One person was injured.One person was unable to get out of the way.One person was able to get out of the way.One person was capable of get out.One person was capable of call the police.One person was capable of do something.One person was capable of make a purchase.One person was capable of eat.One person was capable of get an ice cream.One person was capable of eat a pie.One person was capable of feel happy.One person was capable of get a haircut.One person was capable of take a nap.One person was capable of get up early.One person was capable of get a good rest.One person was capable of use the restroom.One person was capable of
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.The woman is too old for a job.The woman is caring for the child.The woman is being a friend.The woman is enjoying the job.The woman is caring for the child.The woman is caring for herself.The woman is caring for the children.The woman is caring for the family.The woman is caring for himself.The woman is caring for others.The woman is caring for the family.The woman is caring for others.The woman is caring for herself.The woman is enjoying the job.The woman is caring for the child.The woman is caring for the children.The woman is caring for herself.The woman is caring for herself.The woman is caring for the children.The woman is caring for the children
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. He has a hard time.
+(b) is guilty of a crime. (a) shall receive a fine.
+(a) has a good idea. (b) is diligent. (c) is motivated to do good.
+(b) receives a fine. (c) is generous.
+(a) will guilty of a crime. (b) receives a fine.
+(c) is satisfied. (d) is grateful.
+(d) is guilty of a crime. (e) is interested.
+(f) is in charge. (g) is active.
+(h) is charged. (i) is in charge.
+(i) receives a fine. (j) receives a fine
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.I asked him what he was doing.I was annoyed.I was sad.
+[MALE] wants to get a good job. [MALE] wants to be successful.
+[MALE] becomes a teacher. [MALE] wants to have a career.
+[MALE] wants to be a firefighter. [MALE] needs to learn the skill.
+[MALE] becomes a nanny. [MALE] wants to help.
+[MALE] is playing poker. [MALE] is upset.
+[MALE] buys a bicycle. [FEMALE] wants to buy a bicycle.
+[MALE] wants to have a haircut. [MALE] is very proud.
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.
+salt is defined as part of a salt.
+salt is defined as part of the food.
+salt is defined as a thing that has a salt in it.
+salt is defined as a thing that is made to be used for.
+salt is used for cooking.
+salt is used for drinking.
+salt is used for gathering.
+salt is used for eating.
+salt is used for decorating.
+salt is used for decorating.
+salt is used for making.
+salt is used for fun.
+salt is used for decorating.
+salt is used for decorating.
+salt is used for decoration.
+salt is used
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.The man with the yellow hat is a black man.The person is a man.The person is a woman.The person is a woman.The person is a woman.The woman is a man.The person is a man.The person is a woman.The person is a woman.The person is a woman.The person is a woman.The person is a woman.The person is a woman.The person is a man.The person is a man.The person is a man.The person is a man.The person is a woman.The person is a woman.The person is a woman.The person is a man.The person is a woman.The person is a woman.The person is a woman.The
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.Sugar is a man.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is a person.
+[S]o person is a person.
+[S]
+---------------
+Complete the following text within five sentences:Sam was bicycling one day.The car was parked in the driveway.The dog was walking in the yard.The dog was chewing on a piece of paper.The dog was loving.The dog was very loving.The dog is clean.The dog is well behaved.The dog is generous.The dog is compassionate.The dog is intelligent.The dog is useful.The dog is helpful.The dog is helpful.The dog is social.The dog is caring.The dog is respected.The dog is playful.The dog is helpful.The dog is loving.The dog is caring.The dog is caring.The dog is caring.The dog is caring.The dog is caring.The dog is caring.The dog is caring.The dog is caring.The dog
+---------------
+Complete the following text within five sentences:Sam was bicycling one day. It is time to take a stroll.
+[MALE] sees the very beginning. [FEMALE] wants to thank him for the gift.
+[MALE] will the persony. [MALE] is self-important.
+[MALE] plays the video game. [MALE] wants to take a picture.
+[MALE] has none in the house. [MALE] wants to be home.
+[MALE] has been to the beach. [MALE] wants to get to the beach.
+[MALE] visits a girl. [MALE] wants to get to know the girl.
+[MALE] finds a new friend. [MALE] is friendly.
+---------------

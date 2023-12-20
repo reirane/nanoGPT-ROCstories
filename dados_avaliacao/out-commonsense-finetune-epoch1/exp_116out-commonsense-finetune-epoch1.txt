@@ -1,0 +1,217 @@
+Overriding: out_dir = out-commonsense-finetune-epoch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Has any action to attend the event.Caleb is a spy.Has any action to return to his home.Has any action to clean house.Has anything to do with his day.Has some help from the police.Has some advice from friends.Has a new home.Has an idea.Has a date.Has the perfect man.Has a new idea.Has a different idea.Has a new idea.Has a new idea.Has the perfect man.Has a new idea.Has an idea.Has a new idea.Has a new idea.Has a new idea.Has a new idea.Has a new idea.Has a new idea.Has a new idea.Has a new idea.Has a new idea.Has a
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.MALE: (sigh) you were a bad idea.MALE: you wanted to kill the hell out of me.MALE: you were a bad guy.MALE: you tried to use the restroom.MALE: you were a bad person's girlfriend.MALE: you ate too much.MALE: you never loved your food.MALE: you were kind.MALE: you were caring.MALE: you loved to go to a party.MALE: you wanted to take a picture with your friends.MALE: you were a proud person.MALE: you were happy.MALE: you walked in the door.MALE: you were a good person.MALE: you were
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Sylvia walks to the subway station.MALE is worried.CALE needs to see a doctor.CALCULATOR is at the grocery store.MALE is happy.CALE is successful.MALE is cautious.MALE is very friendly.MALE is friendly.MALE is nice.MALE is carefree.MALE is responsible.MALE is accomplished.MALE is successful.MALE is competent.MALE is concerned.MALE is determined.MALE is powerful.MALE is determined.MALE is determined.MALE is driven.MALE is determined.MALE is determined.MALE is accomplished.MALE is accomplished.MALE is capable.MALE is motivated.
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.You see, the last thing that you look for in someone else's house is their cat.Now, you have to decide for yourself.I know you and your cat are together.You need to decide for yourself.I know you and your cat are together.You need to decide for yourself.I know you and your cat are together.You need to decide for yourself.I know you and your cat are together.You need to decide for yourself.I know that you are close.You need to be close to the person you're with.I know you and your cat are in love.I know that you are loving.I know that you are helpful.I know that you are generous.I know that you are patient.I
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+[MALE] needs to talk to someone.
+[MALE] takes a shower.
+[MALE] wants to go back to bed.
+[MALE] wants to get a haircut.
+[MALE] wants to impress the girl.
+[MALE] wants to be a star.
+[MALE] wants to be able to go out.
+[MALE] wants to make one thing.
+[MALE] wants to be [FEMALE] in a relationship.
+[MALE] wants to be closer to the person.
+[MALE] is not capable. [MALE] needs to be focused.
+[MALE] is an expert. [MALE]
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Caleb has a dog.Caleb is a comedian.Caleb is a child.Caleb is a poet.Caleb is a doctor.Caleb is a writer.Caleb is a judge.Caleb is a soldier.Caleb is a soldier.Caleb is a teacher.Caleb is a child.Caleb is a teacher.Caleb is a politician.Caleb is a businessman.Caleb is a person.Caleb is a worker.Caleb is a bookseller.Caleb is a farmer.Caleb is a man.Caleb is a lawyer.Caleb is a lawyer.Caleb is a musician.Caleb is a scientist.Caleb is a scientist.Caleb is a woman
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+Caleb picked up the broom.
+Caleb left the house.
+Caleb showed up to court.
+caleb is the person.
+caleb is a lawyer.
+caleb is a witness to the crime.
+caleb is the person.
+caleb is in the courthouse.
+caleb is in the jail.
+caleb is the person.
+caleb is at the courthouse.
+caleb is at the courthouse.
+caleb is at the hotel.
+caleb is the person.
+caleb is at the courthouse.
+caleb is the lawyer.
+caleb is in the hospital.
+caleb is the person.
+caleb is the lawyer.
+caleb is in
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.There was an accident.
+[MALE] calls the police. [FEMALE] is the police officer.
+[MALE] is in love. [FEMALE] wants to have sex.
+[MALE] is doing well. [MALE] is in good health.
+[MALE] finds something. [MALE] needs to get a job.
+[MALE] goes to sleep. [MALE] is tired.
+[MALE] eats a lot. [MALE] wants to get up.
+[MALE] plays hockey. [MALE] is strong.
+[MALE] gets a haircut. [MALE] wants to keep the haircut.
+[M
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+[MALE] is playing basketball.
+[MALE] is good at chess.
+[MALE] gets hurt due to a bad day.
+[MALE] is working at the grocery store.
+[MALE] finishes a project.
+[MALE] gets back to work.
+[MALE] spends the day with persony.
+[MALE] needs to get the money.
+[MALE] is looking for something to eat.
+[MALE] keeps persony's children.
+[MALE] is studying.
+[MALE] gives the persony's money to someone else.
+[MALE] is in the process.
+[MALE] wants to get
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+Caleb is sitting in front of the camera.
+caleb is playing in the pool.
+caleb is wearing a costume.
+caleb is looking at pictures.
+caleb is holding a knife.
+caleb is dressed up.
+a new car is waiting in car.
+a new car is parked in the garage.
+a new car is parked in the garage.
+a new car is parked in a parking lot.
+a new car is parked in a garage.
+a new car is parked in the garage.
+a new car is parked in a garage.
+a new car is parked in a garage.
+a new car is parked in the garage.
+a new car is parked in the garage
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+you do not need to be of the right age to do so.
+you are capable of do something useful.
+you are capable of do something useful.
+you know a better way to speak.
+you know a better way to talk.
+you have a better idea of the subject.
+you are able to appreciate things within a sentence.
+you have a better idea of the subject.
+you are capable of get the ball out of the net.
+you know how to play basketball.
+you have a better idea of the subject.
+you have a better idea of your subject.
+you are capable of go from one place to another.
+you are capable of decide the winner.
+you know the idea of
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. [Perks up the hood of the car.]
+[F4M] takes you to the zoo. [F4M] wants to see how they do. [F4M] will sad. [F4M] wants to help. [F4M] wants to make good impression. [F4M] wants to be remembered. [F4M] wants to feel safe. [F4M] wants to be social. [F4M] wants to be respected. [F4M] is satisfied. [F4M] wants to be loved. [F4M] wants to be loved. [F4M] will proud. [F4M] wants to help persony. [
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.<|endoftext|>One of the biggest surprises of the project was the fact that the team had to take on so many different projects. The team that would take care of them was called "the team" and they were asked to do the things they were asked to.
+There were some very big problems with the project and they ran out of ideas. There was a lot of work to do.
+Unfortunately there was a lot of work to do. The team would be working on a project and the team would get very frustrated with themselves.
+Once they were satisfied the team was satisfied and they were satisfied they had accomplished their goal.
+The team would begin the project using a toolkit.
+The team would come up with a plan.
+The team
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.I told you there was a reason he was an adult.You're not smart.Caleb is a genius.He is a predator.I will send him to the dark side.I will give my money back.Caleb is a great guy.You will miss him for he was a good person.He will be a star.Caleb is a man.He is a fool.I will call him my friend.They are both bad.You will regret it.I will be your friend.I will marry you.I will raise your children.Thank you.I will have fun.I will have fun.I will be fine.'Caleb is an orphan.He loves his family.'B. you will miss him.He
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+caleb has to get a ticket.
+caleb is arrested.
+caleb has to pay the fine.
+caleb is a bad person.
+caleb needs a new backpack.
+caleb needs a haircut.
+caleb wants to help.
+caleb is a family friend.
+caleb has a lot to look forward to.
+caleb is in love.
+caleb is a pet.
+caleb wants to be happy.
+caleb needs to learn how to read.
+caleb is a good person.
+caleb wants to take a bus to work.
+caleb is in love.
+caleb is a good person.
+caleb wants to be a doctor.
+c
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Does anyone really think he might be able to do this.Caleb is at a party.Does anyone really think he is capable of do this.Caleb is at a bar.Does anyone really think he is capable of do this.Caleb is at the mall.Does anyone really think he is capable of do this.Caleb is at the mall.Does anyone really think he is capable of do this.Caleb is at the bar.Does anyone really think he is capable of do this.Caleb is at the bar.Does anyone really think he is capable of do this.Caleb is at the store.Does anyone really think he is capable of do this.Caleb is at the store.Does anyone really think he
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He has a very fast car. He loves to watch the movies. He has a nice home. he is active. He will go out. he is a good person. he is a good friend. he is a good person. he is a friend. he is a good person. he is a good person. he is a good person. he is a good person. he is a good person. he is a good person. he is a good person. he is a good person. he is a good person. he is a good person. he is a good person. he is a good person. he is a good person. he is a good person. he is a good person. he is a good person. he is
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Caleb is a hero.Caleb is a bad guy.Caleb is a good guy.Caleb is a good friend.Caleb is a teacher.Caleb is a hero.Caleb is a hunter.Caleb is a scientist.Caleb is a businessman.Caleb is a cook.Caleb is a citizen.Caleb is a musician.Caleb is a musician.Caleb is a worker.Caleb is a lover.Caleb is a soldier.Caleb is a scientist.Caleb is a pilot.Caleb is a lawyer.Caleb is a engineer.Caleb is a lawyer.Caleb is a fighter.Caleb is a scientist.Caleb is a soldier.Caleb is
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.com.
+[b]MALE SONGS [b]sELF-IMPLIFICATION [b]s] [m]s [s]s [t]he [m]s [s]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s [m]s
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+[FEMALE] will be able to call [FEMALE] out on the phone.
+[FEMALE] is happy for [FEMALE] to give up.
+[FEMALE] is happy for [FEMALE] to be accepted.
+[FEMALE] will be grateful.
+[FEMALE] will be in [FEMALE] car.
+[FEMALE] will wants to stay home and watch tv.
+[FEMALE] is good for [FEMALE] to have fun.
+[FEMALE] needs [FEMALE] to be friendly.
+[FEMALE] needs to become a [FEMALE] candidate.
+
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.<|endoftext|>The first attempt to get a girlfriend, and in the process, we were a bit more than a couple.
+The second attempt to get a girlfriend, and in the process, we were really to have sex.
+The third attempt to get a girlfriend, and in the process, we were really to have sex.
+The fourth attempt to get a girlfriend, and in the process you were to be a good girlfriend.
+The fifth attempt to get a girlfriend, and in the process you were to be a good girlfriend.
+The sixth attempt to get a girlfriend, and in the process you were to give my girlfriend a blow job.
+The seventh attempt to get a girlfriend, and in the process you were to have sex.
+
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+[MALE] takes a walk. [MALE] makes a trip to the mall.
+[MALE] takes a nap. [MALE] will refreshed.
+[MALE] has a bag. [MALE] needs to have a bag.
+[MALE] finds a new job. [MALE] is responsible.
+[MALE] is an adult. [MALE] learns a new skill.
+[MALE] stays quiet. [MALE] wants to listen to the other person.
+[MALE] keeps a watchful eye. [MALE] will relaxed.
+[MALE] gets a new car. [MALE] gets the vehicle.
+[MALE
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.MALE [MALE] is tired.HISTORIC [HISTORIC] is being a total jerk.MALE [MALE] is the best.MALE [MALE] is the best.MALE [MALE] needs to be in a position to do so.MALE [MALE] is the best.MALE [MALE] is the person.MALE [MALE] needs to have a nice day.MALE [MALE] is the person.MALE [MALE] is the person.MALE will is capable of say.MALE [MALE] is capable of yell.MALE [MALE] is the person.MALE [MALE] is
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Jared is a student.Gail is a writer.Maggie is a dancer.Maggie has a person.Amanda has a pet.Maggie is good.Maggie is capable.Amanda is loving.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable.Maggie is capable
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.I have to play the video games.I have to go to the store.I have to buy a new shirt.I have to go to the dance.I have to go to a party.I have to bring my pet dog.I have to go to the park.I have to go to the movies.I have to get my car keys.I have to eat lunch.I have to wash my hands.I have to go to an art gallery.I have to go to a concert.I have to make sure everyone is healthy.I have to make a dress dress.I have to go to the theatre.I have to go to a concert.I have to get a haircut.I have to go to the park.
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+sputnik.org/index.php/topic,2370.0,1719.0 [FEMALE] receives a phone call from Steve. [MALE] wants to find out what phone call is.
+sputnik.org/index.php/topic,2299.0,1595.0 [MALE] wants to bring to the office at the store. [MALE] will is at the office].
+sputnik.org/index.php/topic,1215.0,1512.0 [MALE] wants to go to the baseball game. [MALE] is tired.
+sputnik.org/index.php/topic,1583.
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.The man with the mask wears the mask.The man who is the enemy is defeated.The man with the mask has a new costume.The man with the mask has a new name.The man with the mask is on the run.The man with the mask and the mask's owner is on the run.The man with the mask asks what's going on when he speaks.The man with the mask is ready.The man with the mask has a new costume.The man with the mask is over his head.The man with the mask is looking over his shoulder.The man with the mask is at the hospital.The man with the mask has a new costume.The man with the mask is on the run.The man with the
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Settled down to the ground in the middle of a fire.Makes a note to not spill the beans.In the midst of a firestorm.Takes a shower.Makes the car roll over.Makes everyone feel good.Makes a movie.Makes a movie.Makes a dog.Makes a dog.Makes a pet.Makes a person.Makes a person.Makes a person.Makes a person.Makes a person.Makes a person.Makes a person.Makes a person.Makes a person.Makes a person.Makes a person.Makes a person.Makes a person.Makes a person.Makes a person.
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Caleb goes to the store.Balda is not in the hospital.Balda comes back to the mansion.Caleb gives birth.Caleb is not very good.MALE is depressed.FEMALE is angry.MALE is being punished.MALE is doing bad.MALE has a computer.MALE is sad.FEMALE is caring.MALE is eating.MALE is being watched.MALE is talking to someone.FEMALE is caring.MALE is looking for attention.MALE is looking for a job.MALE is learning.MALE is cooking.MALE is cleaning.MALE is learning.MALE is learning.MALE is caring.MALE is having
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.xlsx
+[18:10]SAY: Isaac Moonshot/Achroknight : it is time.xlsx
+[18:10]EMOTE: *no key*/(monkey (527)) : <b>The monkey (527)</b> waves its tail.
+[18:10]SAY: Isaac Moonshot/Achroknight : it is time.xlsx
+[18:10]SAY: Isaac Moonshot/Achroknight : it is time.xlsx
+[18:10]SAY: Isaac Moonshot/Achroknight : to be honest.xlsx
+[18:11]SAY: Isaac Moonshot/Ach
+---------------

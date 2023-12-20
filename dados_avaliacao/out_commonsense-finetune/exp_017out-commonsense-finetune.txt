@@ -1,0 +1,324 @@
+Overriding: out_dir = out-commonsense-finetune/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Irene is an extreme right winger.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is a friend. [MALE] wants to thank personx.
+[MALE] becomes a chef. [MALE] wants to be good.
+[MALE] gives personx's daughter. [MALE] is caring.
+[MALE] wants to go. [MALE] wants to be a part of it..
+[MALE] leaves a note. [MALE] wants to be fulfilled.
+[MALE] does personx's best. [MALE] wants to be nice.
+[MALE] gives [FEMALE] a rest. [MALE] wants to give [MALE] a rest.
+[MALE] tells [F
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger. She is a great athlete.
+[MALE] comes up to persony's face in panic. [FEMALE] will upset.
+[MALE] is on the web. [MALE] wants to collect information.
+[MALE] calls persony's mom. [MALE] wants to ask [FEMALE] how they are feeling.
+[MALE] is not happy. [MALE] will sad.
+[MALE] is a good person. [MALE] wants to do good.
+[MALE] gives [FEMALE] a ride. [MALE] wants to thank person x.
+[MALE] brings none up to date. [MALE]
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] has a crush. [MALE] wants to have sex.
+[MALE] keeps [FEMALE] company. [MALE] is happy.
+[MALE] wants none to help. [MALE] wants to be helpful.
+[MALE] walks into persony's house. [MALE] wants to take notice.
+[MALE] is tired of doing. [FEMALE] will sad.
+[MALE] gets none together. [MALE] wants to get ready.
+[MALE] gives [FEMALE] a haircut. [FEMALE] will excited.
+[MALE] goes none to the bar. [MALE
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.Irene is a female.Irene is a school teacher.Irene is a soldier.Irene is a girl.Irene is a teacher.Irene is a waitress.Irene is a waitress.Irene is a bookseller.Irene is a dancer.Irene is a musician.Irene is a teacher.Irene is a nurse.Irene is a musician.Irene is a student.Irene is a teacher.Irene is a student.Irene is a doctor.Irene is a doctor.Irene is a doctor.Irene is a bookkeeper.Irene is a shopkeeper.Irene is a musician.Irene is a teacher.Irene is a musician.Irene
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] needs to have a wife. [MALE] needs to be married.
+[MALE] wants to go back to school. [MALE] wants to be able to go back to school.
+[MALE] eats food. [MALE] wants to eat food.
+[MALE] invites persony's friend over. [FEMALE] will [FEMALE] will that person is friendly and friendly.
+[MALE] is about to go out. [MALE] wants to be prepared for the weather.
+[MALE] loves none deeply. [MALE] is loving.
+[MALE] throws none into the ocean. [MALE] is not
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] asks the teacher. [MALE] wants to talk to the teacher.
+[MALE] is a teacher. [MALE] will to help someone.
+[MALE] makes a joke. [MALE] wants to laugh.
+[MALE] is running late. [MALE] is tired.
+[MALE] takes none to the doctor. [MALE] will grateful.
+[MALE] runs away. [MALE] needs to get a ticket.
+[MALE] takes none to the bank. [MALE] is good.
+[MALE] takes the teacher 's advice. [MALE] wants to give back.
+[MALE
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] decides to leave. [MALE] wants to make sure they will get it.
+[MALE] gets personx's hair cut. [MALE] needs to be in the shop.
+[MALE] pulls the none from persony's pocket. [MALE] needs to make a new one.
+[MALE] provides none to personx's children. [MALE] will happy.
+[MALE] sees [FEMALE] in the mirror. [MALE] wants to tell [FEMALE] to stop.
+[MALE] receives the ___. [MALE] is determined.
+[MALE] makes [FEMALE] life. [
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] buys the cat. [MALE] will happy.
+[MALE] tries to find a new way to get. [MALE] wants to find a new way.
+[MALE] pays none to get. [MALE] is informed.
+[MALE] leaves the none alone. [MALE] wants to get a better plan.
+[MALE] uses none to get. [MALE] is responsible.
+[MALE] stays up late. [MALE] needs to be active.
+[MALE] tries to get personx's attention. [MALE] wants to be a better person.
+[MALE] returns the none for persony.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is playing basketball. [MALE] is trying to get a new jersey.
+[MALE] is running around the house. [MALE] is not looking at the house.
+[MALE] takes none to the opera. [MALE] wants to see opera.
+[MALE] spends none in a hospital. [MALE] will happy.
+[MALE] makes [FEMALE] laugh. [MALE] wants to be funny.
+[MALE] is very late. [MALE] is sad.
+[MALE] gets none out of the way. [MALE] is patient.
+[MALE] lays a blanket. [MALE
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] sees [FEMALE] none in [FEMALE] eyes.
+[MALE] eats a hamburger. [MALE] needs to get the hamburger.
+[MALE] wants to come back. [MALE] wants to make a new one.
+[MALE] is coming to persony. [MALE] wants to go to the store.
+[MALE] goes none to find persony. [MALE] wants to get a job.
+[MALE] is coming to personx's mom. [MALE] is caring.
+[MALE] keeps persony's none closely. [MALE] will relaxed.
+[MALE]
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+you is at a place.
+a person receives a reward.
+a person receives a gift.
+a person receives a reward.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person receives a gift.
+a person
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] buys the most expensive item at the store. [MALE] wants to buy the best one.
+[MALE] is alone. [MALE] is alone.
+[MALE] finishes the sentence. [MALE] wants to finish the sentence.
+[MALE] sets the alarm. [MALE] is in the right mood.
+[MALE] is driving a truck. [MALE] needs to have a vehicle.
+[MALE] takes the dog to the vet. [MALE] is caring.
+[MALE] wears none every day. [MALE] needs to put on a pair of shoes..
+[MALE] takes the train to eat
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] wants to help someone else. [MALE] wants to help someone.
+[MALE] is playing video games. [MALE] wants to celebrate.
+[MALE] tells none to go. [MALE] wants to do something.
+[MALE] gets another ___. [MALE] is motivated.
+[MALE] gives [FEMALE] an opportunity. [MALE] needs to get a job.
+[MALE] meets persony's none at home. [MALE] wants to see what they have to say.
+[MALE] gets none together. [FEMALE] will becomes upset.
+[MALE] takes the car.
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] loves to cook. [MALE] is intelligent.
+[MALE] takes none in the field. [MALE] wants to get a better view.
+[MALE] takes [FEMALE] to the bar. [MALE] is helpful.
+[MALE] sits quietly. [MALE] wants to make sure everyone is quiet.
+[MALE] receives an email. [MALE] wants to use the email.
+[MALE] finds none in the trash. [MALE] is kind.
+[MALE] tells [FEMALE] to go home. [MALE] wants to call the local police.
+[MALE] asks [
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is good enough. [MALE] wants to have a good time.
+[MALE] is getting rid of. [MALE] is annoyed.
+[MALE] takes persony's place. [MALE] is brave.
+[MALE] loves it. [MALE] needs to have a new boyfriend.
+[MALE] takes none for the ride. [MALE] wants to get to the finish line.
+[MALE] takes none for a walk. [FEMALE] will wants to make sure they get home safely.
+[MALE] wins the game. [MALE] wants to win the game.
+[MALE] takes none to
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.She is the first person to be diagnosed with a brain tumor.She is the first person to go to a dentist.She is the first to get a haircut.She is the first to be born.She is the first to go to the doctor.She is the first to go in the ocean.She is the first to get a checkup.She is the first to get the dog.She is the first to open the door.She is the first to buy a new pair of shoes.She is the first to get a new haircut.She is the first to get the toothbrush.She is the first to buy a new dress.She is the first to get a new phone.She is the first to meet someone.She
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] makes [FEMALE] offer. [MALE] is interested.
+[MALE] tries to make something of it. [MALE] wants to be in the mood..
+[MALE] tells [FEMALE] not to worry. [FEMALE] will grateful.
+[MALE] gives none a chance. [MALE] will hopeful.
+[MALE] asks personx's mom. [MALE] will happy.
+[MALE] keeps [FEMALE] from getting. [FEMALE] wants to call me.
+[MALE] feels a little better. [MALE] wants go to a great hotel.
+[MALE
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] thinks of the person behind the counter. [MALE] wants to get an answer.
+[MALE] loves the personx's [FEMALE] children. [MALE] is caring.
+[MALE] eats hamburgers. [MALE] is thirsty.
+[MALE] makes [FEMALE] money. [FEMALE] wants to thank personx.
+[MALE] puts personx's ___. [MALE] wants to be thanked.
+[MALE] likes personx's movies. [MALE] is satisfied.
+[MALE] pays [FEMALE] tribute. [MALE] is friendly.
+[MALE
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is in love. [MALE] is loved.
+[MALE] loses the game. [MALE] is humiliated.
+[MALE] gets a ring. [MALE] gets a ring.
+[MALE] gets back to work. [MALE] will happy.
+[MALE] wants to be a model. [MALE] will accomplished.
+[MALE] gets the ball. [MALE] is eager.
+[MALE] is at the beach with personx's family. [MALE] wants to make a movie.
+[MALE] is back with persony. [MALE] is nice.
+[MALE] sees a
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] becomes [FEMALE] [MALE] enemy. [MALE] wants to get away from persony.
+[MALE] sends a message. [MALE] wants to see the reaction.
+[MALE] takes none to the doctor. [MALE] needs a doctor.
+[MALE] is playing games with [FEMALE] personx's family. [MALE] wants to play a game of chess.
+[MALE] gets a good grade. [MALE] is accomplished.
+[MALE] sees none at the grocery store. [FEMALE] will gets paid.
+[MALE] gives [FEMALE] opportunity. [
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is getting ready for a meeting. [MALE] wants to be the person to answer the question.
+[MALE] feels the urge. [MALE] is confident.
+[MALE] gets a new phone. [MALE] wants to put the old phone away.
+[MALE] gets the none together. [MALE] is dominant.
+[MALE] asks [FEMALE] to help. [FEMALE] will gets a new job.
+[MALE] gives [FEMALE] a gift. [FEMALE] wants bring things back to normal.
+[MALE] gets a new car. [MALE] is healthy.
+
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] takes none to the park. [MALE] is very resourceful.
+[MALE] takes none to the hospital. [MALE] wants to get the next one.
+[MALE] is walking persony's dog. [MALE] is happy.
+[MALE] makes [FEMALE] promise. [MALE] needs to have an idea.
+[MALE] takes none to the hospital. [MALE] wants to be in the hospital.
+[MALE] takes none to the park. [MALE] wants to be in park.
+[MALE] gives [FEMALE] a good name. [MALE] is charming.
+
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] wants to go. [MALE] wants to be grateful.
+[MALE] takes persony's turn. [MALE] wants to make sure he is ready.
+[MALE] meets persony's friends. [MALE] wants to be in the party.
+[MALE] is also sick. [MALE] is sick.
+[MALE] has a great time. [FEMALE] wants to see personx's friend.
+[MALE] takes none for an exam. [MALE] is confident.
+[MALE] buys a ticket. [MALE] is happy.
+[MALE] takes [FEMALE] to the doctor
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] is a little scared. [MALE] wants to be angry.
+[MALE] catches the fish. [MALE] is curious.
+[MALE] is the one who died. [MALE] will relieved.
+[MALE] goes to sleep. [MALE] will full of energy.
+[MALE] is in the water. [MALE] needs to get to shore..
+[MALE] comes home. [MALE] to be strong.
+[MALE] is in charge. [MALE] wants to help.
+[MALE] sends none to work. [MALE] wants to earn money.
+[MALE] watches a
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.Irene is a very good athlete.Irene is a great cook.Irene is a teacher.Irene is a good wife.Irene is a good wife.Irene is a good mother.Irene is a good father.Irene is a good mother.Irene is a good mother.Irene is a good woman.Irene is a good friend.Irene is a friend.Irene is a good friend.Irene is a good friend.Irene is a good friend.Irene is a good person.Irene is a good person.Irene is a good person.Irene is a good friend.Irene is a good friend.Irene is a good friend.Irene is a
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+satisfy the desires of a man and woman.
+a machine.
+a person.
+a woman.
+a person.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a machine.
+a
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] calls the cops. [MALE] is prepared.
+[MALE] wants to do a project. [MALE] needs to work on the project.
+[MALE] is on the run. [FEMALE] wants to be tracked down.
+[MALE] asks [FEMALE] to a party. [FEMALE] will excited.
+[MALE] is none at work. [MALE] wants to go home.
+[MALE] gets none back. [MALE] is relieved.
+[MALE] buys none from the grocery store. [MALE] takes a look around.
+[MALE] returns none to persony. [
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] writes [FEMALE] a riddle. [MALE] will fun.
+[MALE] never did. [MALE] wants to keep the story secret.
+[MALE] gets wet. [MALE] is responsible.
+[MALE] takes a shower. [MALE] wants to wash their hands.
+[MALE] gives [FEMALE] a present. [MALE] wants to thank the person.
+[MALE] gives none a rest. [MALE] wants to get some rest.
+[MALE] gives [FEMALE] the answers. [MALE] wants to get answers.
+[MALE] makes [F
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] wants to take a walk. [MALE] is lazy.
+[MALE] is not capable. [MALE] needs has a very good understanding.
+[MALE] buys a new car. [MALE] is responsible.
+[MALE] comes upon someone. [MALE] is sad.
+[MALE] receives none from the church. [MALE] is religious.
+[MALE] meets none with the help. [MALE] wants to learn about the subject.
+[MALE] finds none in the woods. [MALE] is content.
+[MALE] is driving the none to the grocery store. [FEMALE] will disappointed
+---------------
+Complete the following text within five sentences:Irene is an extreme right winger.
+[MALE] has a family. [MALE] wants to have a family.
+[MALE] is married. [MALE] will happy.
+[MALE] is very nice. [MALE] wants to be nice.
+[MALE] puts on personx's show. [FEMALE] will has to be present.
+[MALE] wants to help. [MALE] wants to make a donation.
+[MALE] gives [FEMALE] the benefit of the doubt. [FEMALE] will [FEMALE] has to be in the wrong place to see that.
+[MALE] gives [FEMALE] a reason. [FEM
+---------------

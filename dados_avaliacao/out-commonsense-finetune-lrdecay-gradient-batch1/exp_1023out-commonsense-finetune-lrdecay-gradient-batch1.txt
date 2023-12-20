@@ -1,0 +1,484 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch1/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+have an examination has last subevent of be informed.
+a person does not desire be made to feel bad.
+a person does not desire an accident.
+a person does not desire be considered a thief.
+a person desires good things.
+a person does not desire be seen as a loser.
+a person does not desire be treated as an enemy.
+a person does not desire be a bully.
+a person does not desire be cheated.
+a person does not desire be made to feel guilty.
+a person desires food.
+a person does not desire be a victim.
+a person does not desire be violated.
+a person does not desire be a prisoner.
+a person does not desire be bored.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+theater is at at theatre.
+some people has a a different opinions.
+you has a a friend.
+some people has a a life.
+you is capable of play the game of chess.
+you is capable of play the ring.
+you is capable of take pictures.
+you is capable of sleep.
+you is capable of eat.
+you is capable of drive.
+you is capable of be in charge.
+you is capable of get away.
+you is capable of smell.
+you is capable of sleep.
+you is capable of buy some food.
+you is capable of sleep.
+you is capable of enjoy the day.
+you is capable of smell pleasant.
+you is capable of
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+a person does not desire be in debt.
+a person does not desire be in pain.
+a person does not desire be in pain.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be addicted.
+a person desires be clean.
+a person does not desire be in debt.
+a person desires be in control.
+a person desires a good job.
+a person desires be appreciated.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+a person does not desire be in debt.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+the devil is capable of eat you.
+the devil is capable of have a conversation.
+the devil is capable of listen.
+the devil is capable of take pictures.
+the devil is capable of have a party.
+the devil is capable of watch tv.
+the devil is capable of love..
+the devil is capable of eat food.
+the devil is capable of drive.
+the devil is capable of sleep.
+the devil is capable of leave the room.
+the devil is capable of win the game.
+the devil is capable of go to church.
+the devil is capable of save money.
+the devil is capable of buy the product.
+the devil is capable of take the car.
+the devil
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+a book is defined as a collection of information that is read.
+a person who is not capable of breathe properly is not capable of breathe properly.
+a person is capable of drive a car.
+a person is capable of eat.
+a person is capable of clean.
+a person is capable of eat.
+a book is defined as a collection of information.
+a book is defined as a book of the bible.
+a book is capable of count as a book.
+a book is used for read.
+a book is used for be read.
+a book is used for store.
+a book is used for buy.
+a book is used for keep.
+a book is capable of be read.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] gives the person. [FEMALE] wants to get their money back.
+[MALE] is at the grocery store. [MALE] wants to buy groceries.
+[MALE] takes the dog. [MALE] wants to help the dog.
+[MALE] walks on eggshells. [FEMALE] wants to not be sick.
+[MALE] has a great time. [MALE] will anxious.
+[MALE] buys a new car. [MALE] wants to get a new car.
+[MALE] goes to the store to buy ___. [MALE] wants to find a parking spot.
+[MALE] is
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+a is for the universe.
+a is for the universe.
+the is for the universe.
+a is for the universe.
+a is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is for the universe.
+the is
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+a person does not desire be hit by a car.
+a person desires not be cheated.
+a person does not desire be cheated.
+a person desires a job well done.
+a person desires a good company.
+a person does not desire be cheated.
+a person desires another.
+an object is very large.
+a person does not desire be a victim.
+a person does not desire be cheated.
+a person desires a good career.
+some things has property more expensive than others.
+a person does not desire be lied to.
+a person desires a good job.
+a person does not desire be cheated.
+a person desires a good job.
+a person does not desire be cheated.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] is going on a walk. [MALE] will happy.
+[MALE] gives one. [MALE] is helpful.
+[MALE] gets none from work. [MALE] needs to approach a boss.
+[MALE] gets back to work. [MALE] needs to get there.
+[MALE] feels like a persony. [MALE] wants to be a little persony.
+[MALE] finds a new one. [MALE] wants to have the new one.
+[MALE] goes everywhere. [MALE] goes to a party.
+[MALE] takes none to the emergency room. [MALE] needs
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+have a heart attack. [FEMALE] will [FEMALE] is relieved.
+[MALE] eats at a restaurant. [MALE] needs to go to the restaurant.
+[MALE] takes a few turns. [MALE] wants to make a change..
+[MALE] gives the none to persony's friend. [FEMALE] will glad.
+[MALE] makes [FEMALE] a gift. [MALE] is generous.
+[MALE] is a great cook. [MALE] will satisfied.
+[MALE] uses personx's none to make. [MALE] needs to be in the job.
+[MALE]
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+you has a a friend.
+a person does not desire be in danger.
+a person does not desire be in debt.
+a person does not desire be in debt.
+you is capable of count on it.
+a person does not desire have to get up early.
+someone is capable of put food on the stove.
+someone is capable of read a book.
+a person desires eat something.
+something is at the grocery store.
+a person does not desire be in debt.
+a person desires go to the shop.
+a person does not desire be in debt.
+a person desires a place to live.
+a person does not desire be in debt.
+a person does not desire be in debt
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance. [FEMALE] wants to pay the bill.
+[MALE] takes [FEMALE] to the dentist. [MALE] is caring.
+[MALE] asks a question. [MALE] wants to get answers.
+[MALE] wins the race. [MALE] needs to gain more points.
+[MALE] drives home from work. [MALE] is tired.
+[MALE] takes a vacation. [MALE] wants to spend time in bed..
+[MALE] is done buying food. [MALE] wants to eat.
+[MALE] finds none in the attic. [MALE] wants to find the thing.
+[MALE
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+bust has subevent get a clean bill of health.
+it has property very cold outside.
+lose weight has subevent you feel healthier.
+a person does not desire a broken bone.
+a book is at the kitchen.
+a person does not desire a lost tooth.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a person does not desire a broken leg.
+a book is at the shelf.
+a person desires a broken leg.
+a person desires a broken leg.
+a person does not desire
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] loves personx's mother. [MALE] is caring.
+[MALE] is a none in business. [MALE] wants to do business.
+[MALE] takes [FEMALE] to the bar. [FEMALE] will happy.
+[MALE] gives [FEMALE] the right. [FEMALE] wants to feel accepted.
+[MALE] takes personx's dog to the park. [MALE] wants to get the dog on the park.
+[MALE] wants a new phone. [MALE] wants to be a smart person..
+[MALE] visits persony's grandma. [FEMALE] will
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+a person does not desire be left alone.
+a person desires a wife.
+a person does not desire a spouse.
+a person desires companionship.
+a person desires a fair trial.
+a person does not desire a good friend.
+a person does not desire a good family.
+a person does not desire a bad day.
+a person desires a new shoe.
+a person does not desire a bad day.
+a person does not desire a bad day.
+a person does not desire a bad time.
+a person does not desire a bad night.
+a person does not desire a bad day.
+a person does not desire a bad day.
+a person does not desire a bad day.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+a woman is capable of be a mother.
+a person is capable of drink coffee.
+a person desires be at the zoo.
+a person is capable of pay for a car.
+a person is capable of make a meal.
+a person is capable of play a game.
+a person is capable of call a friend.
+a person is capable of get a new haircut.
+a person is capable of sleep.
+a person is capable of buy a new car.
+a person is capable of make a sandwich.
+a person is capable of feel the breeze.
+a person is capable of say something.
+a person is capable of read a book.
+a person is capable of drink water.
+a person
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+a person does not desire fall across a table.
+a person does not desire be in the wrong place at the wrong time.
+a person does not desire be accused of having a heart attack.
+a person desires take a shower.
+a person does not desire die.
+a person does not desire be lonely.
+a person does not desire be a prisoner.
+a person does not desire be bullied.
+a person does not desire be in charge of a project.
+a person does not desire be an idiot.
+a person does not desire be selfish.
+a person does not desire be a victim.
+a person does not desire be a victim.
+a person does not desire be put in a hospital.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+play lacrosse is motivated by you are good at it.
+jazz is defined as plural of jazz.
+have a heart attack is motivated by your blood pressure is high.
+a person desires play a game.
+tickets is a form for purchasing tickets.
+a person does not desire a break.
+playing the violin is used for gaining skill.
+you is capable of go to the pub.
+a person desires company.
+a person desires to have a good day.
+a person is capable of miss a date.
+a person desires a job.
+a person desires a birthday present.
+a person desires have a good time.
+a person does not desire be ostracized.
+blessings
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] is in good shape. [MALE] wants to get better.
+[MALE] loves the game. [MALE] will happy.
+[MALE] puts one foot in front of the other. [MALE] needs to get something.
+[MALE] shows [FEMALE] how to make. [MALE] is talented.
+[MALE] is a great person. [MALE] is brave.
+[MALE] gives [FEMALE] a start. [FEMALE] will becomes like person x.
+[MALE] sees persony's favorite band. [MALE] is curious.
+[MALE] takes [FEM
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+a person is capable of move a car.
+a person is capable of go to the grocery store.
+a person is capable of sleep.
+an insect is capable of feed on.
+a person is capable of get a cup of coffee.
+someone is at a party.
+a person is capable of write a poem.
+the sky is a beautiful place.
+a person is capable of get a job.
+a person is capable of write a poem.
+a person is capable of read a book.
+a person is capable of sleep.
+a person is capable of get a haircut.
+a person is capable of pick up a phone.
+a person is capable of buy a gift.
+a person is capable
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+person has a many activities to do.
+person has property not well defined.
+person is capable of do some things.
+person has property healthy.
+person has property not well defined.
+person has property good at it.
+person knows how to cook.
+person is capable of work.
+person is capable of drink water.
+person is capable of receive praise.
+person has property good at it.
+person is capable of work.
+person is capable of work.
+person has property good at it.
+person is capable of work.
+person is capable of work.
+person has property cold.
+person is capable of work.
+person is capable of work.
+person is capable of work.
+
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+many people is at the library.
+someone is capable of eat a hamburger.
+a person who rides a bicycle is capable of ride a bicycle.
+a person desires a good night's sleep.
+an art gallery is used for displaying art.
+it is a good day to fall asleep.
+a person does not desire become a victim.
+a person does not desire be bitten by a cat.
+a person does not desire be involved in a crime.
+something is at the bottom of the sea.
+a person does not desire be left behind.
+a person desires feel good about themselves.
+a person does not desire be hurt.
+person is capable of sleep at night.
+a person does not desire feel
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] is a very good basketball player. [MALE] is a skilled basketball player.
+[MALE] takes none to a store. [MALE] wants to get something.
+[MALE] is making breakfast. [MALE] wants to go to the store.
+[MALE] keeps [FEMALE] in check. [MALE] smiles.
+[MALE] wins the race. [MALE] wins the race.
+[MALE] takes a trip. [MALE] is adventurous.
+[MALE] turns the light on. [MALE] wants to see if it works.
+[MALE] takes [FEMALE] to the doctor
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] is shopping at the mall. [MALE] wants to buy something.
+[MALE] puts [FEMALE] in the freezer. [MALE] is demanding.
+[MALE] puts [FEMALE] in the freezer. [MALE] is caring.
+[MALE] thinks would like. [MALE] needs to think of a way to solve problem.
+[MALE] takes none to the bar. [FEMALE] will happy..
+[MALE] brings [FEMALE] to the doctor. [MALE] needs to get personx's attention.
+[MALE] turns persony's none into gold. [MALE]
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+the first time you saw the sun was in the morning.
+the first time you saw the moon was in the evening.
+the first time you saw the sky was in the evening.
+the first time you saw the moon was in the morning.
+the first time you saw the sky was in the morning.
+the first time you saw the sun was in the evening.
+the first time you saw the sky was in the afternoon.
+the first time you saw the sky was in the afternoon.
+the first time you saw the moon was in the evening.
+the first time you saw the sky was in the afternoon.
+the first time you saw the sky was in the evening.
+the first time you saw the
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+satisfy hunger with minimum effort.
+a piece of paper with a letter on it.
+get some money from someone.
+someone is at the street corner.
+a restaurant is where a person gets food.
+seeing a band is used for getting entertained.
+going to a restaurant is used for eating.
+going to a store is used for buying things.
+take a course is motivated by learn something.
+a person desires a good job.
+becoming a police officer is used for getting a job.
+a person who drinks alcohol is capable of have problems.
+going to a sporting event is used for family fun.
+going to a sporting event is used for playing.
+a person who has a bad breath
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+[MALE] goes to a dog show. [MALE] is observant.
+[MALE] tells persony's parents about it. [MALE] wants to offer some information.
+[MALE] knows persony's place. [MALE] needs to talk to persony.
+[MALE] hears none in persony's ears. [MALE] wants to hear the words.
+[MALE] eats vegetables. [MALE] wants to eat a lot of vegetables.
+[MALE] writes personx's paper. [MALE] is productive.
+[MALE] takes a walk. [MALE] wants to relax.
+[MALE] takes a trip
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+a ball is used for holding a ball.
+a person is capable of move a stick.
+attaching a torch to a building receives action used in an automobile accident.
+a person is capable of move a piece of paper.
+a person is capable of write a letter.
+a person is capable of sit.
+a person is capable of look at a wall.
+a person is capable of say hello.
+a person is capable of walk.
+a person is capable of drink water.
+a person is capable of move a piece of wood.
+a person is capable of drive a car.
+a person is capable of drink water.
+a person is capable of walk.
+a person is capable of eat.
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+t-shirts is at the office.
+a person does not desire is not capable of sleep.
+people is capable of stand up.
+a person is not capable of drink alcohol.
+a person is not capable of hear music.
+a person is not capable of walk.
+a person does not desire has a cancer.
+a person is not capable of pay his bills.
+a person is capable of drink alcohol.
+a person is capable of buy something.
+a person is capable of have sex.
+a person is not capable of play sports.
+a person is not capable of stand up.
+a person is capable of get lost.
+a person is capable of get a job.
+a person is capable
+---------------
+Complete the following text within five sentences:Carl wasn't able to pay his health insurance.
+a large portion of the population is not capable of drink.
+an ice cube is at a container.
+eat breakfast has prerequisite for put the breakfast in the freezer.
+a person is capable of eat food.
+a person does not desire to be alone.
+a person is capable of feel pain.
+cooking causes a good meal.
+a person desires a happy ending.
+a person is not capable of cry.
+a person desires be involved in a good fight.
+a person is capable of get a puppy.
+a person is capable of sleep.
+someone is capable of be a child.
+an action to be has property to be done.
+a person is capable of take a hike.
+a person
+---------------

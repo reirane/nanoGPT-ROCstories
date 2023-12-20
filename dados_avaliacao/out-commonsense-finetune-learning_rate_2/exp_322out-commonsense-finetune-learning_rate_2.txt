@@ -1,0 +1,275 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Sandy fell off her bike.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Sandy fell off her bike. She wanted to go to the gym.
+The next day, a new classmate came over. She wanted to celebrate.
+The next day, the teacher spoke to the teacher. He was very knowledgeable.
+The next day, the teacher found out about the plan.
+The next day, they went to the beach.
+The next day, they dropped by the bar..
+The next day, the teacher met the girl. They would talk.
+The next day, the teacher gave the person a book.
+The next day, the teacher saw a movie.
+The next day, the teacher asked the person to wait.
+The next day, the person saw the school bus.
+The next day, the teacher called the police
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She's barely at the halfway point. She needs to get her head in order. She was not trying to hurt herself.Sandy was going to get a ride. She wants to get home. She has a few things to do.Sandy was going to be late. She needs to get to work.She is going to get this over with.She is going to go home. She needs to say hi.Sandy is going to get a job. She's going to work.She is going to take care of her family.She is going to get a job.She is going to be on the cover of the newspaper.She is going to find a job.Sandy is going to get a job.She is going
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy falls from the bus.Sandy wants to go home.Sandy needs someone to go back to school.Sandy is a good student.Sandy is going to college.Sandy wants to go to the grocery store.Sandy wants to buy something.Sandy wants to do his homework.Sandy is happy.Sandy is a good kid.Sandy wants to go to the park.Sandy wants to relax.Sandy wants to go to the gym.Sandy gets scared.Sandy has a girlfriend.Sandy is a good person.Sandy wants to go to the beach.Sandy wants to go to a party.Sandy is a good person.Sandy wants to go to a show
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.You can't go back to school.You can't go to a doctor.You're sick.You can't go to a doctor.You're in pain.You want to go to the doctor.You have a problem with yourself.You really do understand.You have a job.You live on.You have a cat.You go to the bathtub.You look up at the sky.You find a light.You go to the store.You get paid.Your mom has a gift.You have to buy a ticket.You are in love.You need to have a look.You get a job.You have a girlfriend.You just want to get a job.You need to get in shape.You get the mail
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell back to bed.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby.
+Sandy is a baby
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy is in love with a man.
+Sandy is in a hurry.
+Sandy is having dinner.
+Sandy is tired.
+Sandy is in bed.
+Sandy is angry.
+Sandy is a liar.
+Sandy is drunk.
+Sandy is thinking.
+Sandy is unhappy.
+Sandy is on the road.
+Sandy is losing her job.
+Sandy is a bit of an animal.
+Sandy needs to give the truth.
+Sandy is struggling.
+Sandy has a job.
+Sandy is a gentleman.
+Sandy is a good and decent person.
+Sandy is a good person.
+Sandy is a good person.
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy picked up the phone.
+Sandy left the house.
+Sandy will get it.
+Sandy will be gone.<|endoftext|>The world's largest cryptocurrency exchanges will soon have a new board.
+
+The Winklevoss twins, the world's largest bitcoin exchanges, have agreed to create a new cryptocurrency trading platform.
+
+The Winklevoss twins agreed to form the development team at the company, which has just moved into its new home in Tokyo.
+
+"We are going to be the world's largest cryptocurrency exchange. We will be a big part of the ecosystem," said the CEO of the world's largest exchange.<|endoftext|>Welcome to the Pizzeria: The Aesthetica.
+
+The Aest
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy's eyes were wide and blue.Hence, the word 'sandy', which is the name of the product.Sandy is very shy.Sandy can't handle people's smiles.Hence, the word 'sandy'.Sandy is very intelligent.Sandy works very hard.Sandy can't forget.Sandy is very dedicated.Sandy takes care of the family.Hence, the word 'sandy'.Sandy is very good at math.Sandy will do her best.Sandy loves to play soccer.Sandy is very knowledgeable.Sandy is always healthy.Hence, the word 'sandy'.Sandy is very good at reading.Sandy will make new friends.S
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy was very afraid of you.
+Sandy fell off her bike again.
+Sandy was afraid to go to a restaurant.
+Sandy was very tired.
+Sandy went to the hospital.
+Sandy went to the store.
+Sandy went out on a date.
+Sandy was very hungry.
+Sandy was very shy.
+Sandy would like to go out with her boyfriend.
+Sandy is a good student.
+Sandy is a good girl.
+Sandy is very competitive.
+Sandy is a good person.
+Sandy is very smart.
+Sandy goes to a party.
+Sandy is very happy.
+Sandy walks in the dark.
+S
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.She tried to sneak out.She tries to sneak in.She throws up.She is not safe.Sandy's friends take her to the vet.They look shocked.They are not safe.Sandy is too scared.The doctor takes her to the hospital.The doctor takes her to the vet.The doctor takes her to the hospital.The doctor takes the medication.The doctor takes the time.The doctor takes the time.The doctor takes the time.The doctor takes the time.The doctor takes the time.The doctor takes the time.The doctor takes the time.The doctor takes the time.The doctor takes the time.The doctor takes the time.The doctor takes the time.The doctor takes the time.The doctor
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+you do not need to be of the right age to do so.
+you do not need to be of the right age to use a condom.
+you do not need to be of the right age to have sex with someone.
+you do not need to be of the right age to get rid of your cat.
+you do not need to be of the right age to share the floor.
+you do not need to be of the right age to enjoy a new day.
+you do not need to be of the right age to have a beer.
+you do not need to be of the right age to leave the house.
+you do not need to be of the right age to view the sunset.
+you do
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.You've had a difficult day.Forget about your life.You've got a good job.You're good friends.You're good friends.You're good friends.You're good friends.Get a job or get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a job.Get a
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her bike.
+Sandy fell off her
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She was crying and was running.The bike goes over the edge.Sandy is in a coma.Sandy is feeling sick.Sandy is in a hospital.Sandy wants to go to the gym.Sandy is in the hospital.Sandy has a bad day.Sandy is in a hospital.Sandy is very upset.Sandy wants to buy some clothes.The bikes go off.Sandy is in a hospital.Sandy has a bad day.Sandy wants to get some rest.Sandy is on the phone with some friends.Sandy wants to find something to eat.The bike goes off.Sandy is in the hospital.Sandy wants to go to the library.The bike goes over the
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+You have to pay the fee.
+You have to finish the sentence.
+You have to pay the fee.
+You have to take the car.
+You have to walk.
+You have to return to the hotel.
+You have to go to the restaurant.
+You have to go to the store.
+You have to have the book.
+You have to go to the mall.
+You have to go to the store.
+You have to come to the office.
+You have to buy a new car.
+You have to go to the store.
+You have to buy the cup of coffee.
+You have to go to the mall.
+You have to buy a new dress.
+You have to
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.She is very good at driving.Sandy wants to be close to you.She is very good at going to school.Sandy is a good singer.Sandy wants to be in a band.Sandy is a good teacher.Sandy is always full of friends.Sandy is a good husband.Sandy wants to be invited to be with someone.Sandy is a good man.Sandy is a good wife.Sandy is always in high spirits.Sandy wants to move in with someone.Sandy is a good husband.Sandy is always ready to help.Sandy is a good husband.Sandy is a good friend.Sandy is always at home.Sandy wants to be a teacher.S
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Now that you've finished this, you should be able to find a new job.
+There's no reason to make another judgment.
+You have a good time.
+Go to the grocery store.
+Carry a bag of food.
+Mesmerize.
+You should have a drink.
+You have made your first move.
+You have been successful.
+Your new friends is very helpful.
+You have a good job.
+You have a beautiful day.
+You have made a new friend.
+You have a very long day.
+You have a good time.
+You can have a party.
+You feel good.
+Your new friend is a hero.
+You have a good week.
+
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy never gave a second thought.Sandy's father gave her a ticket.Sandy takes an exam.Sandy finds her way home.Sandy's dad asks for help.Sandy finds a job.Sandy finds family.Sandy's mother is upset.Sandy's father goes to the store.Sandy's mom makes a surprise visit.Sandy is a lot more determined.Sandy's dad asks if he can buy a pizza.Sandy is a lot more fun.Sandy is getting ready.Sandy loves her job.Sandy wants to go to the gym.Sandy's mom is upset.Sandy's father is making a new pizza.Sandy is a lot more determined.Sandy
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy is a great liar.Sandy is a good person.Sandy is a good person.Sandy is a good person.Sandy is a good person.Sandy is a good person.Rape.Rape is illegal.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a crime.Rape is a
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.
+Sandy couldn't walk.
+Sandy is in love.
+Sandy is in the wrong neighborhood.
+Sandy is in trouble.
+Sandy's husband is mad.
+Sandy is playing a game.
+Sandy is on the way home.
+Sandy will happy.
+Sandy is going to have a good time.
+Sandy is safe.
+Sandy is the only one.
+Sandy is really mad.
+Sandy is the only person.
+Sandy is important.
+Sandy is in a rut.
+Sandy is really good.
+Sandy is going to be late.
+Sandy is in bed.
+Sandy's husband is mad.
+Sandy
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She gets so sore. You are on your way to the hospital.Sandy puts on a pair of shoes.The next day the doctors arrive.Sandy gets a new bike.She is really sore.The doctors tell you to wait.Sandy runs to the hospital.The doctors put a new bike on the bike.Sandy is in the hospital.Sandy is on the bike.Sandy runs to the doctor.Sandy walks to the doctor.Sandy gets a doctor's appointment.And the doctor takes the bike.Sandy walks to the doctor.Sandy is in the hospital.Sandy is in the hospital.Sandy gets a doctor's opinion.Sandy gets a new bike.Sandy is in the
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She's been riding the bike for 15 minutes.Sandy wants to get out of the way.Sandy rides back to the garage.Sandy needs to get the groceries.Sandy has a new bike.Sandy wants to see her dad.Sandy needs to check on her.Sandy is in danger of getting hurt.Sandy is in shock.Sandy wants to be good at herself.Sandy is willing to help.Sandy is willing to work hard.Sandy is having fun.Sandy is in the market place.Sandy wants to go to work.Sandy needs to take a shower.Sandy is in charge.Sandy is working.Sandy needs to get up.Sandy is in
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.The woman is too tired to wear the clothes.Please give the following text within five sentences:Sandy leaves the house.Sandy is trying to get the money.Please give the following text within five sentences:Sandy is not going to get the money.Please give the following text within five sentences:Sandy is getting a job.Please give the following text within five sentences:Sandy is getting a job.Please give the following text within five sentences:Sandy is getting a job.Please give the following text within five sentences:Sandy is getting a job.Please give the following text within five sentences:Sandy is getting the money.Please give the following text within five sentences:Sandy is getting the business.Please
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Jenny ran to the roof.Ebony fell on her face.Wendy was a good girl.A person has to call them out.Sandy had a crush on the person who gave her a kiss.Meredith had a crush on the person.Alice had a crush on the person who gave her a kiss.John had a crush on the person who gave him a kiss.Beverly had a crush on the person who gave her a kiss.Natalie had a crush on the person who gave her a kiss.Beth had a crush on the person who gave her a kiss.Shane had a crush on the person who gave her a kiss.John was in love with a woman.Lisa had a crush on
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.I have to take the train.Sandy needs to go to the store.I have to buy a new pair.I need to go to the dance.I need to go to a concert.I need to pay my bills.The doctor is here.Sandy needs to go to the doctor.I need to go to the store.I need to buy a new pair.I need to go to the shop.I need to buy a new bike.I need to go to my appointment.I need to go to the doctor.I need to go to the dance.I need to go to the movie.I need to buy a new pair.I need to go to the movie.I need to take a shower.I need
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She was tired.<|endoftext|>A lot of things you would expect to get in a party in a big city is actually not happening. And as a result, you might not want to go.
+
+This article originally appeared on the New York Times Book Review.
+
+The first thing that happens in a good party is that everyone becomes more and more and more excited.
+
+It is absolutely essential that you have a good party.
+
+If you have a great party, you will become a very great party.
+
+However, there is nothing you can do about it.
+
+Your friends will mean your party.
+
+You will feel bad for yourself.
+
+Everything you do will get you attention.
+
+The only thing
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.The girl with the cat had the cat.The cat was dead.The cat was in the water.The cat was safe.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved.The cat was loved
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.Sandy's mom is in the hospital.Sandy's mom is sick.Sandy's mom is happy.Sandy's mom is having a good day.Sandy's mom is very happy.Sandy's mom is doing well.Sandy's mom is getting ready to leave.Sandy's mom is in the hospital.Sandy's mom is getting laid.Sandy's mom is out of town.Sandy's mom is in the hospital.Sandy's mom is fine.Sandy's mom is done.Sandy's mom is getting laid.Sandy's mom is getting wet.Sandy's mom is crying.Sandy's mom is home.Sandy's mom is doing well.Sandy's mom
+---------------
+Complete the following text within five sentences:Sandy fell off her bike.The doorbell rang. [She calls the police].She got off the phone.She's driving.She's being harassed. [She wants to call the police. She needs to be in the car.]My car is broken.
+
+[The police arrive] [They call the cops]
+
+[The police arrive] [They call the cops]
+
+[The police arrive] [They call the cops]
+
+[The police arrive] [They call the cops]
+
+[The police arrive] [They call the cops]
+
+[The police arrive] [They call the cops]
+
+[The police arrive] [They call the cops]
+
+[The police arrive] [They call the cops
+---------------
+Complete the following text within five sentences:Sandy fell off her bike. She said he pushed her back. She said he told her she need to get a job right. He got the job. She said he saw the dog. She said he was pretty. He was very nice.
+Sandy and Harry arrive at their apartment. They saw someone. They looked at each other. They ran to the bedroom. They took out their phones and started texting. They had to go to the bathroom.
+Sandy walks to the bathroom. She has been to bathroom. She tells the guy she wants to change. He wants to talk to her. They went to the bathroom. They took the towel off and went to the bathroom.
+Sandy is cleaning the room. She wants to clean up. He tells her
+---------------

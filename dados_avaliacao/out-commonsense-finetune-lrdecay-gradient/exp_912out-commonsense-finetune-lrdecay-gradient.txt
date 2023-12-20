@@ -1,0 +1,112 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Ken has worked at Taco bell for many years.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has an excellent job. He has a great passion for his craft. He is a wonderful father. You will never regret your decision to hire him! If you are a good father, you will be happy. If you are a bad father, then you will be sad. If you have a good job, you will be a man. If you have a bad job, then you will be a woman. What kind of father is this? They are good men. What kind of man is this? They are good men. What kind of man is this? They are good men. What kind of man is this? They are good men. What kind of man is this? They are good men. What kind of man is this?
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He's a good man and a good person. But he doesn't know who he is anymore. He's a bad man. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad person. He's a bad
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He's a good friend who has been in and out of the restaurant for the past five years and he was so grateful for everything. But now he is looking for work.A few weeks ago, he was in the restroom. The guy in the corner asked if he could take a picture with him. Ken was able to take a picture. So when he was told to take a picture, he took it.So he went to the bathroom and took a picture. The guy in the corner asked if he could take a picture in front of him. He took a picture.Then he went back to the restaurant and took a picture.Then the guy in the corner asked if he could take a picture in front of him. He took a picture
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years.You have no idea what kind of person he is. He has a lot of respect for the city, but he doesn't want to get behind the wheel of his car. He says he loves all the city, but he doesn't want to ride in his car. He wants to get the job done. He leaves the city and gets back to work.He has a great life. He loves the city, but he doesn't want to go back to work. He wants to get the job done.He has a great job. He wants to get the job done.He has a great job. He wants to get the job done.He has a great start. He wants to get the job done.He has a great start.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is a great fit for a fast food restaurant. He will be your ideal fit for the restaurant. You will thank him. He has a great sense of humor and is a great listener. He will appreciate you for helping him. He has a great sense of humor and is a great listener. You will thank him. He has a great sense of humor and is a great listener. You will thank him. He has a great sense of humor and is a great listener. You will thank him. He has a great sense of humor and is a great listener. You will thank him. He has a great sense of humor and is a great listener. You will thank him. He has a great sense of humor and is a great listener.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is not angry with you guys. What is wrong with you guys is not your fault. Don't you need to understand the way we live. If you are a bad guy, you need to tell us what you mean. If you are a good guy, you need to tell us what your word is. If you are an asshole, you need to tell us what your word is. If you are a racist, you need to tell us what your word is. If you are a sexist, you need to tell us what your word is. If you are a man, you need to tell us what your word is. If you are a woman, you need to tell us what your word is. If you are a man who is
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has never had to work. He has never really cared about his food. He has only cared about his own comfort. He has never really cared about his own health. He has never really cared for his own well-being.He has never really cared for his own well-being. He has never really cared for his own well-being. He has never really cared for his own well-being.He has never really, truly, cared for his own well-being.He has never really, truly, cared for his own well-being.He has never really, truly, cared for his own well-being.He has never, truly, cared for his own well-being.He has never, truly, cared for
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He was once a great person and he is very, very proud of what he has done. But let's look at what he has done.Let me say this. He has worked at Taco bell a lot. He has worked at Taco bell for many years. So look at the numbers and you will see that he has very, very much done a lot.Now, what do you do? You hire a new employee. You get a new job. You hire a new employee. You get a new job. So you get a new job. Well, you go to a new place. So you go to a new restaurant. So you go to a new place. So you go to a new place. So you go to a new
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He's a huge fan, so he invited me to a party. I had to ask him what he thought about the party. He told me the parties were great and that I could enjoy it. He said it sounded like a great idea, but he was too busy.I asked him what he thought about the party. He told me the party would be great. He said he liked the idea of having a party, but it was too busy.I asked what he thought about the party. He told me the party would be great. He said he liked the idea of having a party, but it was too busy.I asked what he thought about the party. He told me the party would be great. He said he enjoyed the idea
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is not only the best person for the job but also the best bartender. He is the type of person who will be your best friend. You will be able to go to a bar and have a great time. You will be able to be able to talk to the person at the bar and have a good time.You will be able to work and attend the dinner party. You will be able to get a hang out and have a laugh. You will be able to get some fun in the evening.You will be able to visit the computer. You will be able to go to the computer and have a great time. You will be able to make yourself feel loved. You will be able to be happy. You will be able to
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. When he isn't working, he's writing a book. However, when Ken is writing a book, he is drawing a picture with a pen. At first, he doesn't like the picture. But he comes to the conclusion that Ken is using the pen to draw a picture. He wants to make a new picture. Ken is a professional. He doesn't feel like he has to write a new book. He wants to make a new comic book. And he is drawing new comics.Ken is also a good reader. He is familiar with the information he is about to read. And he is used to it. He is a good reader. He is able to read the information very well. When he is looking at the picture, he
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has a wonderful family of friends who work at Taco Bell and I enjoy spending time with them. I try to spend a couple days with them every other week.I work out at Taco Bell every other week. It is difficult to do. I have lunch every day. I ask them to take me to a great place and then they will. I go to the restaurant once in a while. I have a great time. I work at Taco Bell every other week. It is difficult to do.I have lunch every day. I ask them to take me to a great place and then they will.
+
+Anonymous 07/27/17 (Thu) 23:48:41 No.97324 >>97324
+
+You
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He and his wife have grown up with the family tradition of serving tacos in their homes. In their spare time, he has set up a restaurant for the family, and they eat the tacos in their kitchen. The family then spends five days at the restaurant where they eat the tacos. They then spend the next four days at the restaurant. After five days, they return to the restaurant. They eat the tacos and wait for the next day to finish. And to make a long story short, he finds the taco with the ingredients. The next day, the family's friends and coworkers say goodbye to the taco and go back to their home. The next day, they return home. They leave the restaurant and continue to eat the tacos.Ken takes
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He told his mom that if he could be an astronaut now, he would be able to get a job. Then he told his parents that they would send him for the first time. Then he told his parents that they would be able to take him to the moon. Then he told his parents that he would take a ride on the moon. Then he told his parents that he would find someplace where his mom would come find him. Then he told his parents that he will be able to get a job. Then he told his parents that he will go to the movies. Then he told his parents that he will be able to take a selfie. Then he told his parents that he will be able to go to the movies. Then he told
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. And you have all the right things to do when you are really hungry.Let's get on with the food. You've spent your days eating. And you don't have much time left to do anything else. Just eat. And you don't have to worry about anything else.You can just go to your local Taco Bell and pick up a pizza. And you will be fine. And you will be the best. But you will still have to wait around for the next meal.The reason why you are not always happy is because you are not hungry. The reason is because you are not interested in what you are not eating. And you will not be happy about that. You will just be sad. And you will not be happy about
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is very good at it. He has never paid for a car. He has never paid a tip. He has never paid for a gift. He has never paid for a book. He has never paid for a ride around town. He has never paid for food. He has never paid for a picture. He has never paid for a magazine. He has never paid for a travel book. He has never paid for a trip to the beach. He has never paid for a party. He has never paid for a dinner. He has never paid for a holiday. He has never paid for a party. He has never paid for vacations. He has never paid for a vacation. He has never paid for a car. He has never paid
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has never paid a cent. He has a bank account, but he has a checking account. He has had a bad day. He has a great time. He has a great job. He has a great house. He has a great company. He has a great boss. He has a great personality. He has a great feeling. He has a good way of thinking. He has a great life. He has a great family. He has a great way of thinking. He has a good job. He has a good wife. He has a good family. He has a good job. He has a good friend. He has a good coworker. He has a good friend. He has a great friend. He has a great
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is never seen or heard from again. He has a house full of friends, a dog. He is only in his early thirties. He wants to marry a girl. He has been married to a woman for almost a year. He has a job. He has a wife, but he is a man. He is a man and he wants to be like him. He is a man and he wants to be a man. He is a man and he wants to be a man. He is a man and he wants to be a man. He is a man and he wants to be a man. He is a man and he wants to be a man. He is a man and he wants to be a man. He
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is a local celebrity with a good sense and a good work ethic. He knows how to teach people how to do business. He is a proud father and a proud American. He is a successful businessman. He is a successful businessman. In his past he has been a successful businessman, but he has been a successful businessman for many years. He is a successful businessman for many years. He has worked in the restaurant industry for a long time. He is a successful businessman. He is a successful businessman for many years. He has been a successful businessman for many years. He has been a successful businessman for many years. He has been a successful businessman for many years. He has been a successful businessman for many years.He has been a successful
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He is a great cook and a great father.However, his mind is not in the way he should be. No one is a better father than Ken. There's no need to be. He has been playing a game for a long time. He knows the rules. He knows he will be happy, but he doesn't need to. He's a good father.Now, Ken has a little trouble. He wants to fix the situation. He wants to go back to work. He wants to find a job. He wants to be a good father to his children.But, his mind doesn't know that he's going to need to go back to work. So he sets in motion what he's going to do. He comes to
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has recently started to get tired of the job. He is not sure what to do. He is looking for a new way to go about his life. So he begins to ask questions. He finds a place to stay and he finds a way to get to work. So he is happy and fulfilled. He is always looking for the best. He finds that he is a good person. He has to go to the store. He has to go through the process. He wants to be happy. So he starts to ask questions. He sees a great person. He wants to be happy. So he starts to go out with the family. He wants to be happy. So he goes to go to the store and finds a great place.
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. Yes, he's the person who's been working in the Taco Bell, but he's also the person who's just gotten a new job. Yes, he's the person who's just got a new job, but he's also the person who's just got a new job.
+
+Anonymous 05/13/15 (Mon) 10:24:34 ID: e9bccb (25) No.23955 >>23957
+
+>she's probably the person who's been working in the Taco Bell for many years. Yes, she's the person who's been working in the Taco Bell, but she's also the person who's just got a new job.
+
+Anonymous 05/13/15 (Mon)
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. You say hello and a few days later, you get a call from the grocery store. You say hello and a while later, you get a call from the store. Then you say hello and a while later, you get a call from the grocery store. You go to the store and grab a burger. You are a little surprised, but you come back and return with a burger. You ask the man next to you if he likes it. He says no. You ask where you are going. He says in the suburbs. You ask for an address. He says in the neighborhood. You say goodbye. He says goodbye. You ask for the keys. He says in the city. You say goodbye. You say goodbye. You say goodbye
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has never lost one. He has made over a hundred good tacos. He is a very good person and has never lost a single one of these. He has a great time. He has a great life. He has a great job. He has a great family. He has a great friend. He has a great family. He has a great place. He has a great home. He has a great family. He has a great gift. He has a great gift. He has a great gift. He has a great gift. He has a great gift. He has a great gift. He has a great gift.He has a great gift. He has a great gift. He has a great gift. He has a great gift
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. But now he's got to have a new job. He can't get out of the office until he's dressed. But if he's not in the office by 5 p.m., he works at the store. You can't get out of the office at midnight. But if you go to the store at the same time, you get a ticket, and you get to work. If you go to the store at 8 p.m., you get a ticket, and you get to work. If you go to the store at 1 p.m., you get a ticket, and you get to work.You get to work at 8 p.m. and you get to work at 7 p.m. and you get to work
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has a very clear sense of what's important to him and what's not. He has been home for more than five years. He is a young man, a man of dreams. He wants his wife, his daughter, his son, and his friend. He wants to be in the right place at the right time.He wants to be on time.He wants to be with his family.He wants to spend time with his friends. He wants to be with his family.He wants to be with his wife.He wants to be with his son.He wants to be with his daughter.He wants to be with his family.He wants to be with his friend.He wants to be with his family.He wants to be
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. You all know the fact that the Taco Bell in San Antonio is the largest restaurant in the country. But you know that Taco Bell is also one of the world's biggest businesses. So do you trust Ken to keep the word of your boss in check?<|endoftext|>JANUARY 13, 2014
+
+In his first public comments since the death of his wife, former President Bill Clinton has asked the Senate to hold a vote on the Trans-Pacific Partnership (TPP), a trade agreement that he says is the "biggest environmental deal in the history of mankind."
+
+And in his campaign speech he has yet to announce what he would do about TPP.
+
+"I will be giving a speech before the Senate, in anticipation of a vote
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He has a good job, and he is having a great time. He is having a great time. He has a good job, and he is having a great time. He has a good job, and he is having a great time. He has a good job, and he is having a great time. He has a good job, and he is having a great time. He has a good job, and he is having a great time. He has a good job, and he is having a great time. He has a good job, and he is having a great time. He has a good job, and he is having a great time. He has a good job, and he is having a great time. He has a
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He's always been good at the job. But now that he's a waiter, he's losing time to make food for his family. He's tired of waiting. So he takes the time to make a meal for his family.
+
+An employee asks for a tip in the restaurant.
+
+The employee gives the employee a tip that is not a tip, but a tip for the restaurant.
+
+A member of the public asks a member of the public for an item that is not a tip.
+
+A member of the public asks for a person on the other side of the street for help.
+
+A member of the public asks for help in the store.
+
+A member of the public asks for help in the
+---------------
+Complete the following text within five sentences:Ken has worked at Taco bell for many years. He said he loves the company and the people he works with. He has also been working at the restaurant since early in their career.
+
+Please sign this petition to raise money to support Ken's family.
+
+Ken is a regular at the Taco Bell restaurant. He is a regular on their menu. He is a regular on their menu.
+
+Please sign this petition to raise money to support Ken's family.
+
+Please sign this petition to raise money to support Ken's family.
+
+Please sign this petition to raise money to support Ken's family.
+
+Please sign this petition to raise money to support Ken's family.
+
+Please sign this petition to raise money to support Ken's family.
+
+Please sign this
+---------------

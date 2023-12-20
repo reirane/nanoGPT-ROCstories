@@ -1,0 +1,206 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_2/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:My best friend had an alcohol problem.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:My best friend had an alcohol problem. He wanted to go to a club. He didn't know his way around it.I asked my friend to come over and see me. He took an oath to do so. He has a long hair.I told my friend to visit the doctor. he did.i will pray for the boy.i will be ready to go.i will be a part of the family.my mom is sick.i will want to go to a doctor.i will visit a friend.i will be happy.i will call my mom.i will be happy.i will always be in my pocket.my husband has a job.i will like him.i needs to change their clothes.i will get a new one.i needs to wear
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. She got very sick. I tried to tell her how to fix it.
+[2] [2010] G.
+[3] [2014] K.
+[4] [2012] S.
+[5] [2013] S.
+[6] [2014] K.
+[7] [2014] S.
+[8] [2013] K.
+[9] [2014] M.
+[10] [2014] S.
+[11] [2015] S.
+[12] [2015] K.
+[13] [2016] S.
+[14] [2015] G.
+[15] [2016] S.
+[16] [2017] S.
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I would like to see your best friend.My best friend has an alcoholic drink.I would like to use the bathroom.I would like to go to work.I would like to be in a good mood.My best friend has an issue with their family member.I would like to go to a doctor.I would like to have a good time.My best friend has an issue with their family member.I would like to have a good time.My best friend has an issue with their friends.I would like to stay home for a while.I would like to take a trip.I would like to buy something.I would like to put in a few hours.I would like to meet someone else.I would like to go
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I hope you enjoyed it.I am afraid it will be hard to find new friends.I am your best friend.I will ask you to stay in touch.I will go on a date.I will have a good time.I will like you better.I will ask for your name.I will get you something to eat.I will take your seat.I will get you something to eat.I will take you to the park.I will buy a car.I will take you to the doctor.I will run a errand.I will give you a ride.I will keep you company.I will make you stay up late.I will start your day.I will have dinner.I will be able to go to
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+[MALE] needs to talk to someone who is good at math.
+[MALE] will lose weight.
+[MALE] must travel the world.
+[MALE] will lose weight.
+[MALE] will have a job.
+[MALE] needs to be a member.
+[MALE] needs to be able to go out.
+[MALE] wants to know more about the world.
+[MALE] will have good grades.
+[MALE] wants to go to a movie.
+[MALE] needs to take a shower.
+[MALE] needs to buy a new car.
+[MALE] will be an expert.
+[MALE
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.When my friend tried to help the person, they gave him a glass.I get a call from the police.They ask the person to come to the hospital.The person goes to the hospital.My friend tried to hurt my friend.My friend starts to cry.My friend goes to the hospital.My friend goes to the doctor.My friend decides to turn on the tv.My friend goes to the store.My friend is in his car.My friend is in his car.My friend is in the parking lot.My friend is in the car.My friend is in the grocery store.My friend is in the restaurant.My friend is in the mall.My friend is in the restaurant.My friend is in the parking lot.
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+
+My friend's best friend had an alcoholic problem.
+
+My friend's best friend had an alcohol problem.
+
+My friend's best friend had an alcohol problem.
+
+My friend's best friend had an alcohol problem.
+
+My friend's best friend had an alcohol problem.
+
+My friend's best friend had an alcohol problem.
+
+My friend's best friend had an alcohol problem.
+
+My friend's best friend had an alcohol problem.
+
+My friend's best friend had an alcohol problem.
+
+My friend's best friend had an alcoholic problem.
+
+My friend's best friend had an alcoholic problem.
+
+My friend's best friend had an alcoholic problem.
+
+My friend's best
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I was looking for a person who was not drunk, but was too drunk.My best friend fell over.I took my son to the hospital.My best friend was in a coma.I was a nervous wreck.My best friend took my son to the hospital.My best friend was sleeping in the car.My best friend was on a date with a friend.My best friend was in a hospital.My best friend was in a coma.My best friend took my son to the hospital.My best friend was in a coma.My best friend was in a hospital.My best friend was in a coma.My best friend was in a hospital.My best friend was in a hospital.My best friend was in a hospital.My best
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. He tried to take a coffee break.The best friend had a car. He was dating a woman.The best friend had a dog. He had an accident.He wants to find the car.The best friend had a dog. He wants to go to the vet.The best friend had a dog. He is a good dog.He wants to get a job.The best friend had a job.he said he wants to go home.The best friend went home to get a haircut.The best friend has a dog. He would be in love with the dog.The best friend has an idea.the best friend has a friend.the best friend had a girlfriend.the best friend was attractive.he wants to know more about the
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.But, he was sick.He wanted to go to the theater.He wants to go to work.But, he is sick.I would like to be able to go home.I would like to have a plan.I would like to be able to go home.My best friend would not be able to be there.I would like to work.I would like to be able to go home.My best friend would not be able to be there.I would like to go back to my room.I would like to go to bed.I would like to go home.I would like to go home.I would like to think.I would like to know everything.I would like to know my daughter.I would like to
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+you do not need to be obese to buy a drink.
+you do not need to be skinny.
+you do not need to be fat.
+you do not need to be overweight.
+you do not need to be fat.
+you do not need to be overweight.
+you do not need to be fat.
+you do not need to be overweight.
+you do not need to be obese.
+you do not need to be overweight.
+you do not need to be overweight.
+you do not need to be overweight.
+you do not need to be overweight.
+you do not need to be overweight.
+you do not need to be overweight.
+you do not need to be overweight.
+you
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I've had an alcohol problem.Forget about your parents.I've had an alcohol problem.I'm getting a divorce.I've had an alcohol problem.I'm getting an abortion.I want to play soccer.I've had an alcohol problem.I'm going to the doctor.I've had a great day.I'm going to the store.I've had an alcohol problem.I'm going to the doctor.I want to meet someone.I've had an alcohol problem.I'm going to the hospital.I've had an alcohol problem.I'm going to the doctor.I want to pay more money.I've had an alcohol problem.I'm going to the store.I've had an alcohol problem.I
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+My best friend had an alcohol problem. Be more generous.
+Use the following list to search for more information.
+Check that the text includes all the information in that list.
+Seal the letter with water.
+Use the following list to search for a letter.
+Let the weather be good.
+Let the weather be good. Be more thoughtful.
+Stop making mistakes.
+Stop making mistakes. Be more helpful.
+Use the following to find a job.
+Get the job done.
+Get the job done. Be more creative.
+Give your child a good birthday.
+Give your child a good birthday. Make the money.
+Get the money. Make the money.
+Make the money. Make the money
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I told my mom about it.I told my mom about my best friend.
+
+[MALE] is angry.somewhere else I would like to get a divorce.I would like my good friend to have a second opinion.
+
+[MALE] is hungry.somewhere else I would like to have a hamburger.I would like to get a hamburger.
+
+[MALE] is strong.somewhere else I would like to feel better.I would like to be stronger.
+
+[MALE] is very kind.somewhere else I would like to feel more appreciated.I would like to feel more loved.
+
+[MALE] is very good.somewhere
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.
+You have to use the following text within five sentences:My best friend's mother has a cancer.
+You have to use the following text within five sentences:My best friend has a heart attack.
+You have to use the following text within five sentences:My best friend has a heart attack.
+You have to use the following text within five sentences:My best friend has a heart attack.
+You have to use the following text within five sentences:My best friend has a heart attack.
+You have to use the following text within five sentences:My best friend has a heart attack.
+You have to use the following text within five sentences:My best friend has a heart attack.
+You have to use the following text within
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.She was really good at it.My best friend was really horny.My best friend was really drunk.My best friend was very horny.My friend is going to the gym.My friend is going to the store.My friend is going to the movie.My friend is going to the party.My friend is going to the party.My friend is going to the party.My friend is going to the movie.My friend is going to the party.My friend is going to the movie.My friend is going to the movie.My friend is going to the party.My friend is going to the dance.My friend is going to the dance.My friend is going to the dance.My friend is going to the dance.My friend
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. He was very active in school. He loves to watch the soccer match. But he is too tired to go to the bathroom. He will not go to bed. He will need to get up in the morning. You will be fine.Your best friend will be in school. He will be fine. Your best friend will be in your own house. He will be fine. Your best friend will be in your own place. He will be fine. Your best friend will be in your own garden. He will be fine.Your best friend will be in your own house. He will be fine. Your best friend will have a party. He will feel good. He will be happy. You will be fine.You will be fine.Your
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. I asked him if he had a drink. He said he did. The next day, he got an appointment. I asked if he was okay. He said he was. The next day, I got a call from my boss. I told my boss about the appointment. He said he did. I told my boss that he could do something to help. The next day, I was driving home from work. I asked my wife if she liked the trip. She said yes. I sat back down and told my wife. She asked me to listen to what she said. I did. I walked home. I got home and found my wife. She asked if she was going to come to the show. I told her they were going.
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. I will give you a ticket. I need to read the book. My friend wants to do something about it.
+
+Mental Health
+
+I need to decide if it was safe. If it was not, I will not be able to take necessary steps. I will not have a problem with people.
+
+Mental health
+
+I have to be able to eat. I will not be hungry.
+
+Mental health
+
+I will look for a doctor. I will be in a good mood.
+
+Mental health
+
+I will go to the clinic. I will get my blood pressure checked.
+
+Mental health
+
+I will get the job. I will be able to work.
+
+
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. He needs to get a medical exam. I will call my mom.You need to stop eating. I will be on my way. Your friend will love your work. It is good to be in a club.Your friend is a soldier. I will be in charge. My mom will get down with her husband. They will need to go to the mall. They will be safe.I will be in charge of the office.Your friend will love your work. It is fun. I will be at the office. You will love what you do. You will care. Someone will want to go home.I will leave you to your own devices. The computer is getting hard. You will become a person.I will be so sad.
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. She gets so mad. You are my best friend.
+You are my best friend.Mate a cat.you will be jealous.
+Mate a cat.you will be jealous.Mate a cat.you will be sick.
+Mate a dog.you will have a horrible time.
+Mate a cat.you will have a terrible time.
+Mate a dog.you will have a horrible time.
+Mate a cat.you will have a horrible time.
+Mate a cat.you will have a horrible time.
+Mate a dog.you will be sad.
+Mate a cat.you will be sad.Mate a cat
+eat a meal.you will get very hungry
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. She was sober. She said it was normal. I was unable to help her. When you were sober, stop talking to me. I was too tired to go to bed. When you were drunk, stop trying to hurt me. I was too close to you. When you were drunk, you should go to bed. I was too close to you. When you were drunk, you would like to go to the park. You would like to be alone. I was too close to you. When you were drunk, you were too drunk. I was too close to you. When you were drunk, you would like to get the flu. I was too close to you. When you were drunk, you would like to go to a party
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I'm sorry.I will fix the problem.Please accept the following text within five sentences:I will make you drink.it is important.Thank you.I will buy you something.it is important.Do you have any questions about making a donation?I will ask you.I will give you money.it is important.I will be there for you.Thank you.I will ask you again.I will be there for you.I will make you happy.I will help you.I will help you.I will help you.I will help you.I will help you.I will make you happy.I will make you feel really good.I will make you feel good about yourself.I will make you feel happy
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. My best friend is on a drug trip. I am still confused. I need to take a break from my job.My most recent call has left a message. My phone is ringing.I need to call my doctor. My doctor has a appointment.My best friend is in hospital.I am going to the local mall.I need to pick my bag.My best friend is in the hospital.I am going to a movie.My best friend is in the hospital.I is going to the movie theater.My best friend is in the hospital.I need to fill out the form.My phone is ringing.My phone is out of service.My best friend is in the hospital.I need a ride home.My best friend is
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.I have to take him to the doctor.I told my mom that he would need to get a blood test.My best friend was born with a heart attack.He has to get a prescription.I told my mom that it would take five months.I have to get a hospital bed.I asked my friends to come over.I asked my mom to call my dad..I asked my friend to tell me what he had done.I told my mom that I would always be in my bedroom.I asked my friend to go to the doctor.I told my friend that they would not regret my decision.I told my mom that I was prepared.I told my friend that he was a successful businessman.I told my friend that he would
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. She should have known about it. I will not let you go get that. I will not let you drink alcohol.I will not let you go get the best food in town. I will not let you go to the library. I will not buy anything. I will not go to the restaurant.I will not buy anything for dinner. I will not go to the movie theater.I will not go to a store.I will not go to the bathroom.I will not go to a restaurant.I will not go to the store.I'm not in the mood.I will not get a ticket.I will not get your phone number.I will not go to the store.I will not buy anything.I will not get
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.The girl with the yellow shirt is a drug addict.The person is a man.I gave the child a blanket.I gave the child a candy bar.I gave the child a movie ticket.The person is a woman.I gave the person a car seat.I gave the person a dog.I gave the person a glass of water.I gave the person a phone.I gave the person a haircut.The person is a woman.I gave the person a car seat.I gave the person a check.The person is a man.I gave the person a toy.The person is a man.I gave the person a pillow.The person is a woman.I gave the person a movie ticket.The person is a man
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.Sugar is good for you...but not for everyone.I don't like my mom's bad hair.I like my mom's good hair.Love is an art.We want to be the best.We spend time together.I don't want to miss a ride.I want to become a musician.I want to die...I want to be happy.I want to be in a relationship.I want to be healthy...I want to be a good person.I want to be the center of attention.I want to be the leader.I want to be the person to tell the truth.I want to be happy.I want to be happy.I want to be the best.I want to be fun.I want
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem. That's not fun. [Closing the door]Can you talk to me?"She's a little drunk.I will protect you. [Exams]I'm very good. [Closing the door]You mean you didn't think it over?Are you mad at me? [Exams]You're very well.That's not fun. [Closing the door]Can you talk to me? [Exams]Can I talk to you? [Closing the door]You are my best friend. [Closing the door]You're on the verge of crying. [Exams]I am falling asleep. [Exams]Don't you dare kiss me. [Closing the door]I'm sorry.
+---------------
+Complete the following text within five sentences:My best friend had an alcohol problem.My best friend has a high IQ.My best friend has a good job.My best friend has a nice house.My best friend has a big dog.My best friend has a great job.My best friend has a great home.My best friend has a good job.My best friend has a good job.Your best friend has a beautiful house.Your best friend has a big dog.Your best friend has a great job.Your best friend has a good job.My best friend has a good job.My best friend has a good job.My best friend has a great place.My best friend has a nice house.my best friend has a good job.My best friend has a bad job.My best friend has a bad
+---------------

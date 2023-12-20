@@ -1,0 +1,309 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate_6/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Tim was sick for school picture day.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] gives [FEMALE] a gift card. [MALE] will happy.
+[MALE] takes none to the store. [MALE] needs to go to the store.
+[MALE] gives [FEMALE] a big hug. [FEMALE] will hugs person x.
+[MALE] finds a new job. [MALE] will hopeful.
+[MALE] pulls none away. [MALE] needs to get out of the house.
+[MALE] takes [FEMALE] estimate. [FEMALE] wants to thank person x.
+[MALE] helps persony's team win. [FEMALE] will gains
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] takes persony's hands in personx's. [FEMALE] wants to show affection.
+[MALE] is playing in personx's sandbox. [MALE] wants to play with the sandbox.
+[MALE] spends none with persony's family. [MALE] is good.
+[MALE] takes the none to the beach. [MALE] wants to be friendly.
+[MALE] gets a new one. [MALE] is hopeful.
+[MALE] sends none to schools. [MALE] wants to have a good time.
+[MALE] meets none at the airport. [MALE] is friendly.
+[MALE
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] has to go to the vet. [MALE] needs get some supplies.
+[MALE] gets a new puppy. [MALE] is happy.
+[MALE] wants to go to the store. [MALE] wants to buy a new one.
+[MALE] is a student at school. [MALE] wants to learn something.
+[MALE] takes none to the vet. [MALE] will scared.
+[MALE] plays none in the process. [MALE] wants to take a break.
+[MALE] is in a bad mood. [MALE] will annoyed.
+[MALE] knows [FEMALE] well
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] will good for it. [FEMALE] will happy.
+[MALE] breaks the bank. [MALE] [MALE] is lucky.
+[MALE] puts none on the table. [MALE] is determined.
+[MALE] gives none to personx's father. [MALE] will satisfied.
+[MALE] gives [FEMALE] a gift. [FEMALE] wants to give it back.
+[MALE] keeps [FEMALE] away. [FEMALE] wants to stop playing with personx.
+[MALE] looks around the house. [MALE] is curious.
+[MALE] makes
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] needs a new job. [MALE] wants to buy a car.
+[MALE] goes to the aquarium with persony's dad. [MALE] needs to have a new aquarium.
+[MALE] eats at the restaurant. [MALE] wants to eat dinner.
+[MALE] gets personx's things together. [MALE] wants to be an expert.
+[MALE] wants to have a party. [MALE] needs to have gone out.
+[MALE] calls none to complain. [MALE] will like they can talk to [FEMALE]..
+[MALE] tells none what happened. [MALE] is calm
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] gives none a letter. [MALE] wants to get their letter address.
+[MALE] never gave [FEMALE] a chance. [MALE] gets a new job.
+[MALE] starts persony's lunch. [MALE] is friendly.
+[MALE] gives [FEMALE] the money. [MALE] is needy.
+[MALE] takes none for christmas. [MALE] is good.
+[MALE] changes personx's position. [MALE] is new.
+[MALE] goes none with persony's mom. [FEMALE] wants to visit person x.
+[MALE] is
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] takes [FEMALE] to the hospital. [MALE] wants to recover from the pain.
+[MALE] is playing a game of chess. [MALE] is skilled.
+[MALE] gets a new puppy. [MALE] needs to have the puppy.
+[MALE] spends the night. [MALE] wants to sleep at night.
+[MALE] puts none in the fridge. [MALE] is careful.
+[MALE] spends none with friends. [MALE] is loving.
+[MALE] takes none to the movie. [MALE] wants to eat popcorn.
+[MALE] gives [FEMALE]
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. x is tired.
+[MALE] gives [FEMALE] a gift. [MALE] is caring.
+[MALE] gets none yesterday. [MALE] wants to go home.
+[MALE] takes none to the vet. [MALE] is determined.
+[MALE] gives [FEMALE] a gift. [MALE] is generous.
+[MALE] sends none to personx's father. [MALE] wants to thank them.
+[MALE] puts none on the table. [MALE] is responsible.
+[MALE] plays a none in the development. [MALE] wants to make sure they do the right thing.
+[
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] is playing basketball. [MALE] is athletic.
+[MALE] gets none back. [MALE] needs to find it somewhere.
+[MALE] uses none at work. [MALE] wants to make new shoes.
+[MALE] finds a book. [MALE] wants to read it.
+[MALE] holds the none together. [MALE] wants to be a good person.
+[MALE] gets some money. [MALE] gets a refund.
+[MALE] takes none to the store. [MALE] will excited to get home..
+[MALE] is in the car with my mom. [MALE] needs
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] puts none in the trash. [MALE] wants to clean the house.
+[MALE] looks around the room. [MALE] is curious.
+[MALE] gets [FEMALE] a gift. [MALE] needs to get a gift card.
+[MALE] leaves the none at home. [MALE] needs to go to the house.
+[MALE] drives [FEMALE] crazy. [MALE] will like they are loved.
+[MALE] gives none a gift. [MALE] is enthusiastic.
+[MALE] takes the none out. [MALE] wants to get the job done.
+[MALE
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+you is capable of buy a house for a living
+you is capable of leave your car's engine on the street
+you is capable of carry groceries on the street
+you is capable of eat pizza at a restaurant
+you is capable of make a basket of soup for dinner
+you is capable of buy a shirt
+you is capable of take a shower
+you is capable of keep a toothbrush
+you is capable of run a marathon
+this is a toy
+you is capable of keep a dog at home
+you is capable of get some money from the bank
+you is capable of see a movie
+you is capable of go to sleep
+you is capable of have a conversation with someone
+you is capable of play the drums of
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day. [MALE] is observant.
+[MALE] is on a camping trip. [MALE] will relaxed.
+[MALE] gives [FEMALE] a blow. [MALE] wants to make money.
+[MALE] never paid. [MALE] needs to go to work.
+[MALE] gets in persony's head. [MALE] is curious.
+[MALE] makes none for dinner. [MALE] wants to have a feast for dinner.
+[MALE] is a huge success. [MALE] will successful.
+[MALE] finds none to watch. [MALE] will bored.
+[MALE] loves the song
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] changes persony's attitude. [MALE] wants to show kindness.
+[MALE] gives [FEMALE] a clue. [MALE] is helpful.
+[MALE] gives [FEMALE] the benefit of the doubt. [FEMALE] will good to know [MALE] correctly.
+[MALE] gives none a shot. [MALE] wants to get some money to pay a favor.
+[MALE] meets persony's demands. [MALE] is caring.
+[MALE] is a big success. [MALE] needs to earn extra money.
+[MALE] tries and get the ball. [MALE]
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] loves personx's mother. [MALE] is caring.
+[MALE] is feeling sick. [MALE] will tired.
+[MALE] sees my friend. [MALE] is happy.
+[MALE] sees none on the stage. [MALE] needs to see the stage.
+[MALE] goes home. [MALE] feels tired.
+[MALE] is walking to school. [MALE] wants to go home.
+[MALE] takes none to the vet. [MALE] wants to see if the pet is okay.
+[MALE] has a good laugh. [MALE] will proud.
+[MALE
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] is a virgin. [MALE] wants to have a party.
+[MALE] is a lot of work. [MALE] is lazy.
+[MALE] takes none to the zoo. [MALE] will happy.
+[MALE] loves to dance. [MALE] wants to be entertained.
+[MALE] is still alive. [MALE] needs to put on some new clothes.
+[MALE] leaves [FEMALE] a message. [FEMALE] will wants to make a better choice.
+[MALE] hears a knock at the door. [MALE] is scared.
+[MALE] knows personx's none
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] calls none to discuss. [MALE] wants to make phone call.
+[MALE] gets a puppy. [MALE] wants to keep a pet with them.
+[MALE] leaves [FEMALE] feeling. [MALE] is hardworking.
+[MALE] gets none at the grocery store. [MALE] is helpful..
+[MALE] gives [FEMALE] detention. [MALE] wants to move on to the next step..
+[MALE] puts [FEMALE] in my car. [MALE] wants to drive to the car.
+[MALE] has a great time. [MALE] is content.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] makes [FEMALE] offer. [MALE] is generous.
+[MALE] tries to make persony's home. [MALE] needs to get into the house.
+[MALE] takes [FEMALE] into the world. [MALE] is hopeful.
+[MALE] takes none to the store. [MALE] is adventurous.
+[MALE] makes [FEMALE] a point. [FEMALE] wants to learn.
+[MALE] gives [FEMALE] some tips. [MALE] wants to be more informed.
+[MALE] is the first time. [MALE] will proud of his accomplishment
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] keeps up the good work. [MALE] is successful.
+[MALE] puts none to work. [MALE] needs to do something.
+[MALE] puts [FEMALE] in the position. [MALE] wants to keep the position.
+[MALE] puts none on the ground. [MALE] will exhausted.
+[MALE] drives to the park. [MALE] is responsible.
+[MALE] goes back to the room. [MALE] will relieved.
+[MALE] gets none on the test. [MALE] wants to have a good grade.
+[MALE] gives [FEMALE] a ride
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] takes none of persony's money. [MALE] will happy.
+[MALE] tells [FEMALE] to leave. [MALE] wants to be a good friend.
+[MALE] starts personx's none back. [MALE] needs to get out the car.
+[MALE] pays none of personx's bills. [MALE] wants to get back to work.
+[MALE] is at a party. [MALE] wants to go out.
+[MALE] gives [FEMALE] a ring. [MALE] is nice.
+[MALE] gives the persony's none a big hug. [MALE
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] becomes a millionaire. [MALE] is lucky.
+[MALE] spends time with persony. [MALE] is social.
+[MALE] finds a new job. [MALE] wants to make money.
+[MALE] takes [FEMALE] to the hospital. [MALE] is caring.
+[MALE] takes none to a veterinarian. [MALE] wants to give a prescription.
+[MALE] pulls [FEMALE] aside. [MALE] wants to go to the other side.
+[MALE] takes [FEMALE] to the airport. [MALE] will happy.
+[MALE] comes to
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] puts persony's hands in persony's pockets. [MALE] is daring.
+[MALE] takes none of the ingredients. [MALE] will happy to have some items.
+[MALE] knows the none well. [MALE] wants to get the answers.
+[MALE] gives none to personx's family. [MALE] wants to have a good time.
+[MALE] buys a new tv. [MALE] is excited.
+[MALE] sends none to schools. [MALE] needs to be a teacher.
+[MALE] keeps the none in order. [FEMALE] wants to do them a favor.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] takes none to the park. [MALE] is careful.
+[MALE] takes none on a date. [MALE] needs to schedule a date.
+[MALE] gives [FEMALE] a hug. [MALE] is nurturing.
+[MALE] meets none at the door. [MALE] wants to get in the car.
+[MALE] makes a good impression. [MALE] wants to show off.
+[MALE] takes the money. [MALE] wants to go to work.
+[MALE] takes notes. [MALE] will able to do something.
+[MALE] works so hard. [MALE
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] plays a none in the life. [MALE] is a person with a life.
+[MALE] makes it home safely. [MALE] wants to wake up.
+[MALE] is making a lot of money. [MALE] is rich.
+[MALE] asks [FEMALE] to return. [FEMALE] will is given a free hand.
+[MALE] gives [FEMALE] a copy. [MALE] wants to read the book.
+[MALE] takes none to the vet. [MALE] is curious.
+[MALE] goes to the store with persony's friends. [MALE] is happy
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] is driving home from work one afternoon. [MALE] is tired.
+[MALE] invites [FEMALE] to dinner. [MALE] wants to see what is going on.
+[MALE] works for a year. [MALE] is tired.
+[MALE] moves to a new house. [MALE] wants to move in.
+[MALE] gives [FEMALE] a hand. [MALE] needs to look at persony.
+[MALE] holds persony's none in place. [MALE] needs to get personx's hands.
+[MALE] plays the drums. [MALE] wants to play.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] is a professional golfer. [MALE] will proud of themselves.
+[MALE] gets none from personx's mom. [MALE] wants to tell their mom about it.
+[MALE] loses persony's money. [MALE] wants to get their money back.
+[MALE] gets a new apartment. [MALE] will happy.
+[MALE] gives [FEMALE] a piece of my mind. [MALE] needs to listen to personx.
+[MALE] takes none to the store. [MALE] will happy.
+[MALE] finds a lost item. [MALE] is curious.
+[M
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+satisfy appetites with minimum effort and effort. [MALE] wants to get the food.
+satisfy appetites with minimum effort and effort. [MALE] wants to be generous.
+go to the store to buy some food. [MALE] will happy.
+satisfy appetites with minimum effort and effort. [MALE] is efficient.
+get a divorce is motivated by break up. [MALE] wants to look better.
+get a grip. [MALE] is dominant.
+go to the store with persony's friends. [MALE] wants to get something for dinner.
+go to the mall with personx's friends. [MALE] will happy.
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] goes to a party with personx's friends. [MALE] is social.
+[MALE] puts in a bid. [MALE] wants to offer some favors.
+[MALE] knows persony's place. [MALE] needs to talk to persony.
+[MALE] loves none a lot. [MALE] wants to make it happen.
+[MALE] gets a new apartment. [MALE] is friendly.
+[MALE] gets none back. [MALE] is relieved.
+[MALE] buys another ___. [MALE] needs to go to a store.
+[MALE] goes to the store with personx's
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] writes persony's letter. [MALE] wants to send out a message.
+[MALE] never worked. [MALE] wants to get a job.
+[MALE] buys a new dog. [MALE] wants to watch the dog become a companion.
+[MALE] takes none out of the oven. [MALE] is dedicated.
+[MALE] buys a new shirt. [MALE] needs to go to the store.
+[MALE] goes to the store to change clothes. [MALE] gets tired.
+[MALE] never looked. [MALE] wants to see the results.
+[MALE] gives [FEM
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] wants to take a walk. [MALE] is lazy.
+[MALE] goes none with persony's mom. [MALE] needs to talk to their mom.
+[MALE] is really good. [MALE] is talented.
+[MALE] gives [FEMALE] a huge hug. [MALE] wants to be embraced.
+[MALE] gets a speeding ticket. [MALE] wants to get paid.
+[MALE] is playing basketball with persony's friends. [MALE] needs to be in a game.
+[MALE] gives [FEMALE] a report. [FEMALE] will learns something.
+
+---------------
+Complete the following text within five sentences:Tim was sick for school picture day.
+[MALE] opens the door. [MALE] wants go outside.
+[MALE] gives personx's money. [MALE] wants to thank personx.
+[MALE] keeps [FEMALE] in check. [FEMALE] wants to take [MALE] to the hospital.
+[MALE] gets a new haircut. [MALE] is talented.
+[MALE] eats my heart out. [MALE] wants to be in shape.
+[MALE] puts none in the fridge. [MALE] will happy.
+[MALE] makes an entrance into the room. [MALE] wants to be in the room.
+[MALE
+---------------

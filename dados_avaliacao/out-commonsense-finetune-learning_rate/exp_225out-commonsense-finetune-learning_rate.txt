@@ -1,0 +1,302 @@
+Overriding: out_dir = out-commonsense-finetune-learning_rate/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She wanted to be a nurse. [MALE] needs to talk to someone.
+[MALE] finds a new job. [MALE] wants to get a job.
+[MALE] gives [FEMALE] the chance. [FEMALE] wants to have a good experience.
+[MALE] makes friends. [FEMALE] will happy.
+[MALE] takes a break. [MALE] is tired.
+[MALE] gets rid of the none. [MALE] wants to go to the zoo.
+[MALE] receives none in the mail. [MALE] wants to throw away the letter.
+[MALE] finds the ingredients. [M
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She wants to be a nurse. [MALE] comes up with a plan. [MALE] wants to continue working. [MALE] needs to get a job. ;}
+[MALE] wants to make a point. [MALE] wants to be content. [MALE] willful. [MALE] wants to try something new. ]
+[MALE] is not satisfied. [MALE] willful. [MALE] wants to work harder. ]
+[MALE] wants to be an actor. [MALE] is talented. [MALE] is self-conscious. ]
+[MALE] wants to marry. [MALE] is a good guy. ;}
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. [MALE] wants to be a good father.
+[MALE] follows someone else's lead. [MALE] is a good leader.
+[MALE] is very smart. [MALE] wants to help persony.
+[MALE] is the first person. [MALE] becomes a famous person.
+[MALE] pays their bills. [MALE] wants to have extra money to pay.
+[MALE] is good at chess. [MALE] wants to study chess.
+[MALE] sees a television show. [MALE] is entertained.
+[MALE] takes a break. [MALE] needs to get out of bed.
+[MALE
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.You are a pretty girl.You must look good.You need to be fit.You need to be able to move in.You want to celebrate.You are the queen of the world.You need to have good luck.The price is high.You need buy more food.There is a money at the door.You will be rewarded.You are a great person.you make your friends.you find good women.you get to know them.you get paid.you don't have to be famous.you are a great person.you get paid.you lose money.you look good.you get rewarded.you lose money.you need to buy the ticket.you are good.you get in the car.you get a
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+[MALE] needs to have a wife.
+[MALE] is capable of hear personx's voice.
+[MALE] puts two [FEMALE] together.
+[MALE] is a nal.
+[MALE] buys a new car.
+[MALE] wants to get a job.
+[MALE] plays baseball.
+[MALE] wants to make one.
+[MALE] is talking to [FEMALE] personx.
+[MALE] buys a new car.
+[MALE] takes [FEMALE] to a restaurant.
+[MALE] gets [FEMALE] to stop.
+[MALE] is not
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+[MALE] asks the teacher. [MALE] wants to know what to say.
+[MALE] is a teacher. [MALE] wants to help someone.
+[MALE] turns the knob. [MALE] needs to turn the knob.
+[MALE] goes to the store. [MALE] needs to get the groceries.
+[MALE] buys a new car. [MALE] wants to go to the store.
+[MALE] is a human. [MALE] is a good person.
+[MALE] cooks food. [MALE] needs to prepare the food.
+[MALE] gives [FEMALE] directions. [MALE
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+use the web with the internet.
+go to a party.
+the sun is shining.
+a good job.
+get a job.
+a good person.
+the internet.
+the internet.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a good start.
+a
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+[MALE] desires to be kind and caring.
+[MALE] gets help.
+[MALE] gets a new cat.
+[MALE] gets none for free.
+[MALE] takes their dog.
+[MALE] feels good.
+[MALE] helps persony.
+[MALE] gets personx's name.
+[MALE] gets none for christmas.
+[MALE] is a good person.
+[MALE] is good at their job.
+[MALE] gives [FEMALE] answer.
+[MALE] receives none for [FEMALE] better.
+[MALE] eats none properly.
+[MALE
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+rebecca loves to play computer games.
+rebecca gets married.
+rebecca sends a letter to her boyfriend.
+rebecca goes for a walk.
+rebecca is not happy.
+rebecca is a girl.
+rebecca is a boy.
+rebecca is a good person.
+rebecca's mom is happy.
+rebecca receives a divorce.
+rebecca's favorite movie.
+rebecca's boyfriend is very good.
+rebecca wants to marry.
+rebecca keeps a diary.
+rebecca is proud.
+rebecca is in love.
+rebecca is taking a break.
+rebecca understands.
+rebecca is a parent.
+rebecca's son is at school.
+
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+[MALE] sees [FEMALE] heart. [MALE] is caring.
+[MALE] eats a hamburger. [MALE] needs to go to the fast food restaurant.
+[MALE] becomes [FEMALE] 's father. [MALE] needs be healthy.
+[MALE] hits [FEMALE] head. [MALE] will happy.
+[MALE] is a doctor. [MALE] is competent.
+[MALE] meets none for lunch. [MALE] has good manners.
+[MALE] receives [FEMALE] letter. [MALE] wants to write a letter to his god.
+[MALE
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+you has to be at least twenty-one years old.
+go to the store is not for a man.
+a person is capable of go to the doctor.
+a person is capable of do anything on the internet.
+you is capable of buy something.
+something is related to something.
+one goes to the store.
+someone is capable of buy something.
+someone is capable of eat something.
+something is at the grocery store.
+do things is capable of be fun.
+you has to wash your hands.
+you is capable of wear a dress.
+you is capable of remember something.
+you is capable of be productive.
+a person is at a party.
+a person is used to be
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. [MALE] needs to learn more about the person.
+[MALE] needs to take a picture with persony. [MALE] wants to look good on the picture.
+[MALE] plays the card. [MALE] wants to get good grades on the card.
+[MALE] keeps the dog. [MALE] is active caring.
+[MALE] takes [FEMALE] to the hospital. [MALE] is capable.
+[MALE] takes a bath. [FEMALE] wants to enjoy the bath.
+[MALE] goes with personx.'s. [MALE] is friendly.
+[MALE] takes persony's shirt off.
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+[MALE] wants to impress someone else.
+[MALE] is a writer.
+[MALE] is a writer.
+[MALE] gets a new car.
+[MALE] wants to go shopping.
+[MALE] gets a new job.
+[MALE] is good.
+[MALE] is not important.
+[MALE] is at a party.
+[MALE] wants to pay a bill.
+[MALE] meets with [FEMALE] in persony's office.
+[MALE] is a guest.
+[MALE] looks around.
+[MALE] is a performer.
+[MALE] is watching.
+
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She moved to the city. [MALE] wants to explore her surroundings.
+[MALE] takes [FEMALE] to the grave. [MALE] wants to stop the person.
+[MALE] runs away from a [FEMALE] for some reason. [FEMALE] will upset.
+[MALE] takes a drug test. [MALE] will satisfied.
+[MALE] gives [FEMALE] a good name. [MALE] wants to get the person's name.
+[MALE] opens [FEMALE] drawer. [MALE] wants to open the drawer.
+[MALE] teaches [FEMALE] to read. [M
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+[MALE] is good enough. [MALE] wants to have a good time.
+[MALE] is getting rid of some garbage. [MALE] is outgoing.
+[MALE] wants to go to an art gallery. [MALE] is curious.
+[MALE] finds the person's way home. [MALE] wants to find them.
+[MALE] gets the person's way home. [MALE] gets attention.
+[MALE] needs a new car. [MALE] needs to get a new car.
+[MALE] eats for a time. [MALE] is refreshed.
+[MALE] wants to go to the park. [
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.She is very good at math.Read the following text within three hours:Rebecca Lynn is a very good mom.She is very good at math.Read the following text within a week:Rebecca Lynn is a good friend.She is very good at math.Read the following text within a year:Rebecca is responsible for her family.She is caring.Read the following text within a year:Rebecca is responsible for her husband.She is caring.Read the following text within a year:Rebecca will good.She is good at math.Read the following text within a year:Rebecca will good.She is good at math.Read the following text within a year:Rebecca will good.She is good at math
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+[MALE] asks [FEMALE] for a dog. [MALE] will loves dog.
+[MALE] finishes a project. [MALE] wants to be productive.
+[MALE] is tired. [MALE] is tired.
+[MALE] makes a new friend. [MALE] wants to talk to persony.
+[MALE] takes persony's shirt off. [MALE] is open and happy.
+[MALE] gives [FEMALE] a book. [FEMALE] wants to write something.
+[MALE] gets the girl. [MALE] is a mother.
+[MALE] takes [FEMALE]
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+[MALE] desires to be a professional baseball player.
+[MALE] needs to go to the store.
+[MALE] is in a hurry.
+[MALE] wants to play baseball.
+[MALE] takes a shower.
+[MALE] is on a vacation.
+[MALE] makes a video.
+[MALE] is having fun.
+[MALE] has a tough time.
+[MALE] walks to the mall.
+[MALE] is a good person.
+[MALE] is a teacher.
+[MALE] eats a hamburger.
+[MALE] is able to walk.
+[MALE] is still a teenager
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.com. [FEMALE] asks [FEMALE] if they can get together.
+[MALE] decides to move to Los Angeles. [MALE] wants to see how they do.
+[MALE] spends [FEMALE] day. [MALE] is relaxed.
+[MALE] takes none to the hospital. [MALE] is happy.
+[MALE] leaves a note. [MALE] wants to be able to return it.
+[MALE] reads persony's books. [MALE] is creative.
+[MALE] has a crush on persony. [MALE] wants to be intimate.
+[MALE] eats persony's favorite
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+[MALE] becomes the best of friends. [MALE] wants to be a better person.
+[MALE] is happy. [MALE] will happy.
+[MALE] sees a movie. [MALE] wants to see it.
+[MALE] makes [FEMALE] wish. [MALE] is gracious.
+[MALE] wants to get a job. [MALE] wants to work hard.
+[MALE] takes [FEMALE] to the doctors. [MALE] will happy.
+[MALE] needs to buy a new sweater. [MALE] wants to buy a sweater.
+[MALE] sees the future. [M
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She gets a job. You are capable of build a house. [MALE] wants to help.
+[MALE] takes none to the bathroom. [MALE] will happy.
+[MALE] makes [FEMALE] personx's dog. [MALE] wants to get the dog.
+[MALE] hears none from the street. [MALE] wants to go to the store.
+[MALE] wants to be a chef. [MALE] needs to make a good living.
+[MALE] gets none from a cab driver. [MALE] wants bring the cab to the cab driver's destination.
+[MALE] receives none from a teacher. [MALE
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is a parent to the child. You see the importance of taking care of your child.She wants to be a role model.You say you like the way the person wears his shirt. He is a good boy. You love the person he is. He is a good person.You don't need to know what to say.He is a good person. He is happy.You say you will be getting advice from him.he is a good boy.you will feel happy.you wants to be entertained.you wants to get a drink.you is good.you is free.you wants to be in a relationship.you wants to get married.you wants to get a divorce.you wants to have a baby.you wants
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She wants to be a good mother.you is not capable of do that.you is not with personx.you is not capable of do it.you is capable of be a mom.you wants to be good and happy.you is capable of look at the news.you is capable of cry.you is capable of feel happy.you is capable of be social.you is capable of be intelligent.you is capable of be funny.you is capable of sleep with others.you is capable of look for someone else.you is capable of have fun.he is capable of cry.you is capable of think.you is capable of be a really mean person.you is capable of think about something.you is capable of be happy
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. Rebecca has a boyfriend.
+[MALE] wants to become a doctor. [MALE] wants to be a doctor. [MALE] needs to get a doctorate.
+[MALE] is a good person. [MALE] wants to give good information.
+[MALE] wins the lottery. [MALE] needs to earn money.
+[MALE] wants to be a composer. [MALE] will fun.
+[MALE] wants to open a restaurant. [MALE] need to get into the kitchen.
+[MALE] wants to go to the zoo. [MALE] wants to be in awe.
+[MALE] is a good person. [MALE
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.
+[MALE] is a professional golfer.
+[MALE] receives a telephone call.
+[MALE] gives [FEMALE] a ring.
+[MALE] wants to go to the movies.
+[MALE] plays the violin.
+[MALE] wants to know a thing.
+[MALE] gets a new computer.
+[MALE] is capable.
+[MALE] runs the errand.
+[MALE] is good.
+[MALE] is healthy.
+[MALE] is in need.
+[MALE] is excited.
+[MALE] gives [FEMALE] a chance.
+[MALE] provides [F
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is a very good person. [Text] will [Rebecca] will happy. [Text] is helpful. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable. [Text] is capable.
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. You're really the only one in a relationship. You have a lot of fun. You spend time with your friends. You get attention. You enjoy a movie. You make friends. You have a good time. You're social. You have fun. You eat and relax. You feel better. You get better. You get better at your job. You feel happier. You have a good time. You like it. You get better. You become healthier. You meet new people. You become better. You enjoy life. You have a good time. You do good. You feel good. You can't live without money. You have a good time. You get better. You have a good time. You get better. You become happier
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.Settled down with her husband.Sewing a lot of oil.Sewing a hair.Sewing a little oil on your hair.Trying to buy some food.Sewing a lot of oil.Sewing your hair.Sewing your hair.Sewing a lot of oil.Sewing a lot of oil.Sewing your hair.Sewing your hair.Sewing your hair.Sewing the oil on your hair.Sewing your hair.Sewing the oil.Sewing the oil on your hair.Sewing your hair.Sewing the oil.Sewing the oil on your hair.Sewing your hair.
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina.She is not allowed to visit the hospital.Her mother is afraid of her husband.She needs to gather the money. [MALE] wants to help. [MALE] needs to buy the ticket. [MALE] is social. [MALE] is helpful. [MALE] wants to help persony. [MALE] needs to be on the phone. [MALE] wants to meet persony. [MALE] is friendly. [MALE] is caring. [MALE] needs to be with persony. [FEMALE] wants to have a good time. [MALE] needs to get a good look at the other person. [MALE] wants to do something. [M
+---------------
+Complete the following text within five sentences:Rebecca Lynn grew up in Carolina. She is a nurse. [MALE] wants to be good. [MALE] wants to be nice. [MALE] needs to be in control. [MALE] is caring. [MALE] needs to be calm. [MALE] wants to be caring. [MALE] will satisfied. [MALE] will helpful. [MALE] ] [MALE] needs to get to the right place. [MALE] needs to get a ticket. [MALE] needs to get the ticket. [MALE] wants to move to another place. [MALE] wants to be grateful. [MALE] wants to be proud. [MALE] needs to be helpful. [MALE
+---------------

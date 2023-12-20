@@ -1,0 +1,131 @@
+Overriding: out_dir = out-commonsense-finetune-lrdecay-gradient-batch16/
+Overriding: num_samples = 30
+Overriding: max_new_tokens = 150
+Overriding: top_k = 60
+Overriding: temperature = 0.7
+Overriding: start = Complete the following text within five sentences:Caleb dressed as Batman for halloween.
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He wore an orange suit. He was wearing his uniform so his pants were in a different shape than his hoodie. He was wearing his Batman costume to go to the park. He wore sunglasses to help him. He wore his Batman costume to go to the office. He wore his Batman costume to go to the beach. He wore his Batman costume to go to the beach. He wore his Batman costume to go to the hospital. He wore his Batman costume to go to the hospital. He wore his Batman costume to go to the hospital. He wore his Batman costume to go to the hospital.He wore his Batman costume to go to the hospital. He wore his Batman costume to go to the hospital. He wore his Batman costume to go to
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He spent the night with Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the same as Batman. He's the
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. In the time after, all the children wore costumes. It was like the rest of the world just wore their costume. Caleb watched in shock at the sight of Batman. He had not believed in the possibility of Batman. He felt that he was watching with a lot of awe. Caleb had never gotten to see Batman but finally realized what Batman really wanted. He was going to be a hero. Caleb took his costume and went to the cafeteria. He was wearing a costume that was different than the one he had seen in the library. Caleb said that he didn't really understand why Batman made Batman. He was an idiot. He didn't understand the difference between a policeman and a scientist. He would go back to the library and find the police.
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. The next day, he found that Batman wasn't in Gotham. He went to the Bataclan, where the masked man was waiting. Batman was in Gotham, the Bataclan had been robbed. He decided to go and see if Batman could find the Bataclan. He found the Bataclan, but he had to use the Batmobile. He found the Batmobile, but it was stolen from him. He went to the Bataclan, where the masked man was waiting. Batman was in Gotham, the Bataclan had been robbed. He decided to go and see if Batman could find the Bataclan. He found the Bataclan, but he had to use the Batmobile. He found the Batmobile,
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. The city had been spared the onslaught of Batman's army and the destruction of the world. And the city was back to its old ways. It was time for the rest of Gotham to reclaim their city and take back their home. And one final way.This is the final chapter of the New 52 version of The Dark Knight Returns, a chapter that will go down in history as the most successful Dark Knight story ever written.Written by Brian Michael Bendis and Chris Terrio, this story is written by Brian Michael Bendis and Chris Terrio, and is a reimagining of the classic Batman story. Batman returns, and will have to find some way to get back at the man he used to be. (Bendis and Terrio
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.When you're done with this, you can read the following text within five sentences:Caleb dressed as Batman for dinner.When you're done with this, you can read the following text within five sentences:Caleb dressed as Batman for the club.When you're done with this, you can read the following text within five sentences:Caleb dressed as Batman for the shop.When you're done with this, you can read the following text within five sentences:Caleb dressed as Batman for the yard.When you're done with this, you can read the following text within five sentences:Caleb dressed as Batman for the house.When you're done with this, you can read the following text within five sentences:Caleb dressed as
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He got his new suit, but it's still really bad. He's not gonna go back to it.If you go back to the end of the story, then all of this is over. The end is written. We're not done yet. We've got to get the show back on the air. We've got to get a new show back on the air. We've got to get a new show back on the air. This is the story.And in the end, we got it. If it were up to me. I could just pretend. I'll just pretend to be a good person. I'll just pretend to be a good person. I'm the only person with the same name.I'm the only person
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.After talking to the Joker, he says, "So, you're in the game?" The Joker says, "No. That's right, I really don't have a story." He's not a Batman. He's not a Man of Steel. He's not a Superman. He's not a Batman. He's very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He then used his powers to defeat the evil wizard and make the New Batman. (Note: I didn't include the word "Batman" in the text.) The New Batman has a slight mustache. This is the version that is named after an actor with the same name. This is the version that is named after a character's mother or father.This is the version that is named after a person's favorite movie character. This is the version that is named after an artist or musician. This is the version that is named after a person's favorite band.This is the version that is named after an actor who plays the part of a friend. This is the version that is named after an actor who plays the part of a friend.This is
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He is, of course, Batman. You will see that he has to train in the basics before you can be a superhero. And he has to be confident enough to go through the trials of the world. Can you believe it? The man just went through the trials of his world? Well, you won't be able to tell the difference, but you will be able to tell the difference between the man and the man who is determined to make it. The man makes the best of a difficult situation and gets the best of his situation. He's determined to make success and success is a gift. And if you can make this man a hero, you will be able to make a lot of money.There are many ways that the man can
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. When the Joker is alive, he wears the cape. The Joker has his suit, but he's not wearing the cape. If the Joker is alive, he wears the cape.<|endoftext|>A study published in the journal Molecular Psychiatry has revealed that the brain is wired differently to navigate to the right side of the brain.
+
+These findings are the result of a research project led by Dr. Jonathan H. D. Young, a professor at the University of St. Andrews in Scotland, on how the brain is wired to navigate in a safe, functional way.
+
+"The brains of brains is different from the brain of animals," Young said. "So what we've found is that the brain is wired differently to the brain of the animal.
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He was a brave kid to be Batman.
+
+Caleb was on the prowl for Batman. He has a long way to go.
+
+You can use the "crafter" function provided by the "C" in the column to determine the number of papers for the week.
+
+Caleb is a detective.
+
+If you need to provide a unique identifier for a document whose name is "Caleb", you can use the "C" in the column.
+
+If you need to provide a unique identifier for a document whose name is "Caleb", you can use the "C" in the column. If you don't need to provide a unique identifier, you can use the "C" in the
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.<|endoftext|>One of the biggest changes to the way the NBA's new rules will affect players is that it will apply to teams that are not the most competitive in the league.
+
+The first rule changes are coming Jan. 1, which will mean the league will require teams to play in the top 10 of the National Basketball Association (NBA) for the first time in 30 years.
+
+"We're excited to see where the new rule is going," said NBA commissioner Adam Silver, who took over the league after the team's last-place finish in the 2010-11 season. "I think the team has a pretty good chance of being in the top 10 in both the conference and the postseason. We're excited to get to that.
+
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He told his mom and dad how he was going to get his dream job.
+
+"Let's get the last two hours of my life together."
+
+"Let's do this."
+
+"Put on your cape."
+
+"Put on your baton."
+
+"Put on your mask."
+
+"Put on your cape."
+
+"Let's find your father's house."
+
+"Let's get to the city together."
+
+"Let's get to the hospital together."
+
+"Let's get in the car together."
+
+"Let's get to the big game together."
+
+"Let's get to the movie together."
+
+"Let's get to the party together."
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. And the Joker. And the Joker and the Joker. And the Joker, and the Joker and the Joker. And the Joker, and the Joker, and the Joker, and the Batman. And the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker, and the Joker,
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. We have the good news. We have the bad news. We have the answer. It's a real deal. The bad news is it's a real deal. For the record, we don't have a real deal. But we have a deal. We have a deal. And we are paying a $10,000,000 bill to get the story told.So with that, we're back at the stage where it's time for us to get back on the road. So let's move on to the next thing.We have the bad news. We have the bad news. We have the answer. It's a real deal. The bad news is it's a real deal. For the record, we don't have a real
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He then walked into the museum.There was a huge fire, the ceiling of the building was covered with black flames. He walked onto the ground, looked down at the floor. The fire destroyed the entire building.Caleb looked over at the man in the suit and he looked at the museum, then at the man in the suit, then at the man in the suit, then at the man in the suit, then at the man in the suit, then at the man in the suit, first he looked at the man in the suit.Then he looked at the man in the suit, followed by the man in the suit and the man in the suit.Then he looked at the man in the suit, followed by the man in the
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.com.au. The following text is also available in the Google Play store:<|endoftext|>A new study has found that the state's largest city, San Francisco, has the highest rate of crime in the nation.
+
+The study, published in the journal Criminology, found that the city has the third-highest homicide rate in the nation and has the highest number of violent crimes.
+
+The study found that the violent crime rate in the city is second only to Kansas City, Missouri, which has the second-highest homicide rate. The city's fifth-highest crime rate is in New York City.
+
+In San Francisco, the rate is 22.9 percent, compared with 17.3 percent in Kansas City, Missouri, and
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.com. A letter to the editor of the Daily Dot. The following text is already part of the story.All you need to do is click "read more" and click "read more. A lot more.I have found it impossible to find the word "Dude" in the Google search results, but you can find it by typing:Dude is a slang term for a person who is in the middle of a fight. It has been coined by the fictional character of the character in the movie. A person who is in the middle of a fight is usually a bully or bully-like person. Sometimes, it is the person's turn to be the person who loses, the person who is injured, or the person who is upset
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He also has the ability to do a certain amount of magic. This ability, coupled with the fact that he has a great amount of experience and experience points, can be used to make him a very powerful wizard. In fact, it is the main reason for the fact that Caleb is a very powerful wizard, and he is one of the other most powerful wizards in the world.The Wizarding Wizard class takes the following class features. Hit Points Hit Dice: 1d10 per Wizard level
+
+1d10 per Wizard level Hit Points at 1st Level: 10 + your Constitution modifier
+
+10 + your Constitution modifier Hit Points at Higher Levels: 1d6 (or 5) + your Constitution modifier per Wizard level after 1st Profic
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He gets the keys to the Arkham Asylum, and puts them on his car. He finds the Joker and the Joker Industries, but the Joker doesn't want his wife and their child to be released from prison. When Batman and Robin stop by to pick up the keys, he gives them to the Joker. They also get the keys to the Gotham City Justice League, but they are robbed by the Joker. Batman and Robin check their phone and look for a way to track down the Joker. They find that the Joker is on the phone with the two of them. Batman tells them to get the keys back immediately. Batman throws them into the fire, but they take the keys back with them. Batman tells them to turn them back on. They turn
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. Yes, it's the perfect costume. This is the best costume you've ever seen. (She's wearing a hat, too.) Is it too much to ask that someone wears a costume for their halloween? No, it's not. It's just a way to make it so you can make it on your own. And remember, it's a costume, you're just going to have to wear it. But, you won't be asked to do so. You'll just be asked to be your own costume. You can take it. (She's wearing a hat, too.) What do you mean you're going to wear it on your own? No, it's not. It's just a way to make it so
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. The audience is invited to watch a live, animated version of Batman's appearance. In a way, it's a gift, as it's the only way to give back to the audience. Caleb's character is a man and a person. They are friends, they are family. He is a hero, they are a hero. He is the only person that can help Caleb realize his dream. He is the only person that has the courage to face the end of his life. The film is about a man and a woman. They work for each other. They have their own stories that they want to tell. Their stories are told in the same way that they tell each other in the film. They are an inseparable thing. They are in
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. Then take the following one-line text:Batman, you still look very alive. You'd be hard pressed to find a more interesting story in the world of Batman. If you wanted to be a hero, you'd have to be Batman. I never imagined that you'd have to be Batman.Batman is the only way to be Batman. After a long time in the world of Batman, you will find that you are made up, Batman is your own leader. After Batman comes to town, he will show to you what you will need to get him to your place."Caleb, this is your final meal. I will tell you a secret about you. If you did not find the secret, you will be at a loss for words
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. But it's the one Batman doesn't have: his own cape.<|endoftext|>If you're a fan of the DC Comics universe, you're probably familiar with the character of Mister Miracle. He was the creator of the Fantastic Four, the first to use the powers of the Multiverse to defeat all the villains. As the MCU's greatest super hero, the Hulk has the ability to change the course of time and space.
+
+So that's an interesting and interesting question from the folks at The Wire.
+
+Well, I'm going to answer it for you guys.
+
+This article is about Mister Miracle. You may be looking for Mister Miracle.
+
+This is a guest post from the creator of "The Wire" and "
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He was wearing a mask that looked like Batman and he wore the cape with Batman's hair down. "I was Batman."Caleb watched the Batman get to the scene. "I saw you get away. Now, I'm Batman and I'm going to be your father. I'm going to be your father and I'm going to be your father's dad. What's the big deal?"Caleb looked at the Batman. "You really did go through with it. You've got to go through with it. I told you, you're coming. You're coming. Now, what's the big deal?"The Batman looked at Caleb. "You did go through with it."Caleb looked at the Batman. "You did go
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.The team arrives the next morning to find a dark side of the city of Gotham, with a few small pockets of drug dealers and criminals. They find a new superhero, Batman, who wants to help change things, but he won't be able to do it alone. They go to the Gotham police precinct and find the police in the basement of a building, with the crime rate on the rise. They go back to the police station, where they find Batman is injured. He is seen having a conversation with his cousin, who is in the hospital, and he tells them he will be in a better place at night. As the team arrives the area is filled with a large amount of people, who are terrified of the dark side of crime.
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween.Settled down in the rain in the backyard.Settled down in the rain in the backyard.Settled down in the rain in the backyard.Settled down in the rain in the backyard.Settled down in the rain in the backyard.Settled down in the rain in the backyard.Settled down in the rain in the backyard.Settled down in the rain in the backyard.Settled down in the rain in the backyard.Settled down in the rain in the backyard.Settled down in the rain in the backyard.Settled down in the rain in the backyard.Settled down in the rain in the backyard.Settled down in the rain
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. That's not fun. [00:38:20]SAY: Brother Amos/Xanatos : No. [00:39:35]SAY: Medibot/ : Radar, put a mask on! [00:39:45]SAY: Medibot/ : Radar, put a mask on! [00:39:53]SAY: Brother Amos/Xanatos : But it's just me. [00:40:24]SAY: Brother Amos/Xanatos : It's your mother. [00:40:48]SAY: Brother Amos/Xanatos : I am my mother. [00:40:56]SAY: Brother Amos/Xanatos : I am mine. [
+---------------
+Complete the following text within five sentences:Caleb dressed as Batman for halloween. He said he was a Batman who wanted to fight. This is the first time he'll say something like it. You can't say a lot. And I don't mean to be mean here. I wasn't going anywhere. I was just in that city. And that's what I was going to do. And it would be a great honor for me to be in that city. But I'm not going anywhere. This is the first time I'll be in here. But you can't. I'm going to get the job done.So you're going to get the job done. In fact, you're going to get the job done. But you're going to get the job done. But you're not going to get to
+---------------
